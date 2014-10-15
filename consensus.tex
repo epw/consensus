@@ -1,0 +1,93 @@
+\documentclass[10pt,landscape]{article}
+
+\usepackage{xltxtra}
+\usepackage{color}
+\usepackage{fontspec}
+\usepackage[compact]{titlesec}
+\usepackage{pdflscape}
+\usepackage{multicol}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{textpos}
+
+\setlength{\topmargin}{-.75in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{-0.25in}
+\setlength{\textwidth}{6.75in}
+
+\setlength{\columnseprule}{0.4pt}
+
+\titlespacing{\section}{0pt}{*0}{*0}
+\titlespacing{\subsection}{0pt}{*0}{*0}
+
+\setcounter{secnumdepth}{-1}
+
+\parindent 0pt
+\parskip 1em
+
+\newcommand{\SECTION}[1]{{\large{\bf #1}}}
+\newcommand{\STATBOX}{\tikz{\path[draw=black] (0,0) rectangle(1cm,1cm);}}
+\newcommand{\STAT}[1]{\STATBOX \hspace{1ex} #1}
+
+\begin{document}
+\begin{landscape}
+\begin{multicols}{3}
+
+\SECTION{Name:} Markus, Zakiel, Kassandra, The Hooded One, Crystal, Zuri,
+Malaki, Jeyde, Andrzej, Kolden, Sheth
+
+\SECTION{Looks:}
+\begin{itemize}
+\setlength\itemsep{0em}
+\item burning eyes, dead eyes, piercing eyes, hungry eyes, hopeful
+  eyes, white eyes
+\item scarred face, drawn face, sallow face, eager face, tired face,
+  weathered face
+\item imposing body, sinewy body, impish body, emaciated body,
+  thickset body
+\item concealing clothes, goth clothes, simple clothes, worn clothes,
+  grubby clothes
+\item firey aura, dark aura, shifting aura, grey aura, brilliant aura,
+  mossy aura
+\end{itemize}
+
+\SECTION{Moves:}
+
+The Primordial gets the {\bf Strong Avatar} and {\bf What Doesn't Kill
+  You} moves, and 1 other move of your choice.
+
+\SECTION{Stats:}
+
+Will +1, Wits +0, Charm +0, Grace +1, Body +1
+\medskip
+Will +2, Wits +1, Charm +0, Grace +0, Body +0
+\smallskip
+Will +2, Wits +1, Charm -1, Grace +1, Body +0
+\smallskip
+Will +1, Wits +2, Charm +0, Grace +1, Body -1
+
+\SECTION{Anchors:}
+
+\SECTION{Paradigms: (Choose 1)}
+
+\STAT{Will}
+
+\STAT{Wits}
+
+\STAT{Charm}
+
+\STAT{Grace}
+
+\STAT{Body}
+
+\begin{picture}(50,50)
+\put(200,0)
+{\hbox{
+\includegraphics[width=1in]{body-outline.png}
+}}
+\end{picture}
+
+\end{multicols}
+\end{landscape}
+\end{document}
