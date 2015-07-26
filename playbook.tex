@@ -11,20 +11,22 @@
 \usepackage{textpos}
 \usepackage{lipsum}
 
-%\setlength{\topmargin}{-.75in}
-%\setlength{\textheight}{10in}
-%\setlength{\oddsidemargin}{-0.25in}
-%\setlength{\textwidth}{6.75in}
-
-%\setlength{\columnseprule}{0.4pt}
+\setmainfont [Path = fonts/,
+  UprightFont = Aller_Rg.ttf,
+  BoldFont = Aller_Bd.ttf,
+  ItalicFont = Aller_It.ttf
+  ]{Aller}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+  ]{Kingthings}
 
 \titlespacing{\section}{0pt}{*0}{*0}
 \titlespacing{\subsection}{0pt}{*0}{*0}
 
 \setcounter{secnumdepth}{-1}
 
-\newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\Huge\textbf{#1}}\end{center}}
-\newcommand{\SECTION}[1]{\vspace{.5em}{\large\textbf{#1}}}
+\newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\titlefont\large\textbf{#1}}}
 \newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
 \newcommand{\FILLED}[1]{\tikz{\path[fill=black] (0,0) rectangle(#1cm,#1cm);}}
 \newcommand{\STAT}[1]{\BOX{1} \hspace{1ex} #1}
