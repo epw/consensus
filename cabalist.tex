@@ -1,0 +1,181 @@
+\input{playbook.tex}
+
+\renewcommand{\Name}{Cabalist}
+\renewcommand{\Picture}{cabalist-color.jpg}
+\renewcommand{\Description}{In a world where mages are solitary
+  islands of power, shaping reality in lonliness, you have a group of
+  people who understand you.}
+\renewcommand{\Names}{Lou, Mr. Norrell, Agatha, Lady Corrington, Phan,
+  Lisa, Gordon, Alice, Joan, Rainbow, Norrie, Ms. Siltane}
+\renewcommand{\Eyes}{bright eyes, shifty eyes, blue eyes, wary eyes,
+  knowing eyes, quick eyes}
+\renewcommand{\Faces}{blustery face, youthful face, calm face, hidden
+  face, mysterious face}
+\renewcommand{\Bodies}{rigid body, slight body, tattooed body, plain
+  body, angled body, musty body}
+\renewcommand{\Clothes}{formal clothes, billowy clothes,
+  modest clothes, roomy clothes}
+\renewcommand{\Auras}{self-important aura, tight aura, foggy aura,
+  woven aura, silver aura, austere aura}
+\renewcommand{\Stats}{
+Will +2, Wits +0, Charm +1, Grace +0, Body +0
+
+Will +0, Wits +1, Charm +0, Grace +0, Body +2
+
+Will +0, Wits +2, Charm +0, Grace +1, Body +0
+
+Will +1, Wits +0, Charm +2, Grace -1, Body +1}
+\renewcommand{\AnchorNumber}{3}
+\renewcommand{\Anchors}{
+\item My estranged brother’s dream journal
+\item My black cat, Shadow
+\item My father’s service pistol
+\item My painted family portrait
+\item Eilian, my eldest stepchild
+\item My little brother’s baby blanket}
+\renewcommand{\Secrets}{
+\item \BLANK's paradigm doesn't work well with mine (Tell them -2)
+\item \BLANK is my primary contact outside the cabal (Tell them +2)
+\item \BLANK is quiet. I don't trust the quiet ones (Tell them -1)}
+\renewcommand{\BasicAdvancements}{
+\item Get +1 Charm (Max Charm +3)
+\item Get +1 Grace (Max Grace +2)
+\item Get +1 Wits (Max Wits +3)
+\item Get +1 Will (Max Will +3)
+\item Pick a new option for your Place of Power}
+\renewcommand{\SpecialAdvancements}{
+\item Pick a new option for your Place of Power
+\item Get a new Cabalist Move 
+\item Get a new Cabalist Move 
+\item Get a playbook move from another book 
+\item Get an Advanced Cabalist Move 
+\item Remove a weakness from your Place of Power}
+\renewcommand{\MoveExplanation}{The Cabalist gets
+  the {\bf Gossamer Threads} move, and 2 other moves of your choice.}
+\renewcommand{\Moves}{
+\DEFAULTMOVE{Gossamer Threads}{When you try to {\bf Sway the Cabal} to
+  your chosen course of action, rol +Charm. On a 10+, all 3, on a 7-9
+  choose 1.
+  \begin{itemize}
+  \item They do what you want
+  \item The don't fight back over it
+  \item You don't have to give something they want
+  \end{itemize}
+}
+
+\MOVE{Sanctum}{Your Cabal has a Place of Power at which they meet and
+  which they are charged with protecting.}
+
+\MOVE{Research}{When you spend time researching a piece of the world,
+  roll +Wits. On a 10+ you may tell the GM something you learned, and
+  how it might be immediately useful. On a 7-9, the GM will tell you
+  something you learned, it's up to you to make it useful.}
+
+\MOVE{Speak Beyond the Veil}{When you attempt to contact the spirit of
+  one who has passed on, roll +Will. On a 10+ choose 2, on a 7-9
+  choose 1:
+  \begin{itemize}
+  \item The spirit is the one you meant to contact
+  \item The spirit can stay for longer than a single utterance or
+    action
+  \item The spirit is of the disposition you expect
+  \end{itemize}
+}
+
+\MOVE{We're Not So Different}{When you explain your paradigm to
+  another mage in order to {\bf Aid} them in doing magic that is
+  opposed to their paradigm, you both mark experience.}
+
+\MOVE{Brute Force and Ignorance}{When you Impose your Will on someone,
+  you may roll Body instead of Will.}
+}
+\renewcommand{\Paradigms}{
+  \PARADIGM{True Names Give Command}{Command, Bindings, Summonings}\
+           {Choose one: Inanimate mundane objects, Creation, Silent
+             Magic}\
+           {
+
+             Choose this one: Target whose names you do not know}
+
+           \PARADIGM{Ancient Languages Hold Secret Power}\
+                    {Choose one: Reactive Magic, Emotional
+                      Manipulation}\
+                    {Choose this one: Magic without words}}
+
+\renewcommand{\MoveSpacing}{1em}
+
+\renewcommand{\PaneFive}{\SECTION{Your Cabal:}
+
+  By default there are about 5 in the Cabal, you don't control them
+  and they don't control you. You're pretty close in your outlooks on
+  the world, but not everything lines up completely. This is a small
+  cabal, with weak magic.
+
+  Pick up to two of these:
+  \begin{itemize}
+  \item You actually are in charge, or at least you founded it. Add
+    the tag +loyal
+  \item There's more than just a couple of you, maybe 10 or
+    more. Medium cabal.
+  \item You're part of a larger system, you're just one node in the
+    leylines. Add the tag +support
+  \item Your cabal is strong of will. Drop weak magic
+  \item Your cabal is very close. Add the tag +family 
+  \end{itemize}
+
+  And pick one of these:
+  \begin{itemize}
+  \item Your cabal doesn't keep a super low profile. Vulnerable:
+    Target
+  \item Your cabal owes something to someone, money, allegiance, an
+    artifact, or the like. Vulnerable: Obligation
+  \item Your cabal is anonymous and guarded about their
+    identities. Vulnerable: Infiltration
+  \end{itemize}
+}
+
+\renewcommand{\PaneSix}{\Description
+
+  \SECTION{Place of Power}
+  
+  First, pick a facade:
+
+  \begin{itemize}
+    \setlength\itemsep{-.5em}
+  \item Library
+  \item Fraternity/Sorority House
+  \item Shop Basement
+  \item Old Manor House
+  \item Civic Building
+  \end{itemize}
+
+  Then pick up to 1 Strength:
+  \smallskip
+  +respected, +private, +large, +guarded.
+
+  Pick at least 1 Weakness:
+  \smallskip
+  +inaccessible, +obvious, +public, +tainted, +exposed, +business
+  hours, +cramped.
+
+  A Ritual performed here will never (choose 1):
+  \begin{itemize}
+    \setlength\itemsep{-.5em}
+  \item Need more information
+  \item Draw unwanted attention
+  \item Take longer than expected
+  \end{itemize}
+
+  \SECTION{Paradigm List:}
+
+  \Paradigms
+}
+
+\begin{document}
+
+\PLAYBOOK
+
+\end{document}
+
+\PLAYBOOK
+    

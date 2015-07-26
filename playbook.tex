@@ -1,0 +1,243 @@
+\documentclass[letterpaper,10pt,notumble]{leaflet}
+
+\usepackage{xltxtra}
+\usepackage{color}
+\usepackage{fontspec}
+\usepackage[compact]{titlesec}
+\usepackage{pdflscape}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{textpos}
+\usepackage{lipsum}
+
+%\setlength{\topmargin}{-.75in}
+%\setlength{\textheight}{10in}
+%\setlength{\oddsidemargin}{-0.25in}
+%\setlength{\textwidth}{6.75in}
+
+%\setlength{\columnseprule}{0.4pt}
+
+\titlespacing{\section}{0pt}{*0}{*0}
+\titlespacing{\subsection}{0pt}{*0}{*0}
+
+\setcounter{secnumdepth}{-1}
+
+\newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\large\textbf{#1}}}
+\newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
+\newcommand{\FILLED}[1]{\tikz{\path[fill=black] (0,0) rectangle(#1cm,#1cm);}}
+\newcommand{\STAT}[1]{\BOX{1} \hspace{1ex} #1}
+\newcommand{\BLANK}{\underline{\hspace{3cm}}}
+\newcommand{\MOVE}[2]{\item[\BOX{.25}] \textbf{#1:} #2}
+\newcommand{\DEFAULTMOVE}[2]{\item[\FILLED{.25}] \textbf{#1:} \textit{(You
+    have this move by default)} #2}
+
+\newcommand{\PARADIGM}[4]{\bigskip{\large\textbf{Paradigm:} #1}
+
+    \textbf{Aligned(choose one):} #2
+
+    \textbf{Opposed:}
+    #3
+
+    #4}
+
+\newcommand{\Name}{(\textbackslash Name) PLAYBOOK}
+\newcommand{\Picture}{primordial.png}
+\newcommand{\Description}{(\textbackslash Description) DEFAULT TEXT IS
+  IN ALL-CAPS AND INCLUDES VARIABLE NAME TO BE EASY TO IDENTIFY AND
+  REPLACE}
+\newcommand{\Names}{(\textbackslash Names) FOO, BAR, BANG, BAZ}
+\newcommand{\Eyes}{(\textbackslash Eyes) HUMAN EYES, CAT EYES, FISH
+  EYES, DEEPDREAM EYES}
+\newcommand{\Faces}{(\textbackslash Faces) HUMAN FACE, CAT FACE, FISH
+  FACE, DEEPDREAM FACE}
+\newcommand{\Bodies}{(\textbackslash Bodies) HUMAN BODY, CAT BODY,
+  FISH BODY, DEEPDREAM BODY}
+\newcommand{\Clothes}{(\textbackslash Clothes) HUMAN CLOTHES, CAT
+  CLOTHES, FISH CLOTHES, DEEPDREAM CLOTHES}
+\newcommand{\Auras}{(\textbackslash Auras) IRRITATING AURA, POISON
+  AURA, AURA OF .HACK}
+\newcommand{\Stats}{(\textbackslash Stats)
+
+  WILL -1, WITS -1, CHARM -1, GRACE -1, BODY -1
+
+  WILL +0, WITS +0, CHARM +0, GRACE +0, BODY +0
+
+  WILL +1, WITS +1, CHARM +1, GRACE +1, BODY +1
+
+  WILL +2, WITS +2, CHARM +2, GRACE +2, BODY +2
+}
+\newcommand{\AnchorNumber}{(\textbackslash AnchorNumber)}
+\newcommand{\Anchors}{
+\item (\textbackslash Anchors)
+\item DANFORTH
+\item PLOW
+\item GRAPNEL
+\item MUSHROOM
+\item BULWAGGA
+}
+\newcommand{\Secrets}{
+\item (\textbackslash Secrets)
+\item THERE ARE 2 SECRETS TO FOLLOW IF YOU WANT TO LIVE A SUCCESSFUL
+  LIFE. SECRET 1 IS DON'T TELL ALL YOUR SECRETS
+\item I TALK TO MYSELF WITH A BRITISH ACCENT
+\item ERNEST HEMMINGWAY HAD 56 CATS
+}
+\newcommand{\BasicAdvancements}{
+\item (\textbackslash BasicAdvancements)
+\item GET +1 STAT
+\item GET +1 ANOTHER STAT
+\item GET +1 A THIRD STAT
+\item GET +1 A FOURTH STAT
+\item GET CRUISE CONTROL FOR COOL
+}
+\newcommand{\SpecialAdvancements}{
+\item (\textbackslash SpecialAdvancements)
+\item WRITE AN RPG
+\item PLAYER AWAKENS
+\item BECOME GM
+}
+\newcommand{\MoveExplanation}{(\textbackslash MoveExplanation) LET'S
+  GET DOWN TO BUSINESS TO DEFEAT THE HUNS}
+\newcommand{\Moves}{
+  \DEFAULTMOVE{(\textbackslash Moves)}{BE A MAGE}
+
+  \MOVE{BE SWIFT AS}{A COURSING RIVER}
+
+  \MOVE{FORCE OF}{A GREAT TYCOON}
+
+  \MOVE{STRENGTH OF}{A RAGING FIRE}
+}
+\newcommand{\Paradigms}{(\textbackslash Paradigms)
+
+  \PARADIGM{JEDI CODE}{LIVING FORCE, UNIFYING FORCE}{CHOOSE ONE: USING
+    THE FORCE IN EMOTION, USING THE FORCE TO HEAL}{CHOOSE ONE: GIVING
+    A STRAIGHT ANSWER, WISDOM}
+
+  \PARADIGM{THE ONE POWER}{AIR, EARTH, FIRE, WATER, SPIRIT}{CHOOSE
+    ONE: SAIDIN, SAIDAR}{CHOOSE ONE: POWER WITH EMOTION, POWER WITHOUT
+    EMOTION}
+}
+
+\newcommand{\PaneFive}{\SECTION{Paradigm List:}
+
+  \Paradigms
+}
+\newcommand{\PaneSix}{\Description}
+
+\newcommand{\PictureSpace}{\vspace{22em}}
+\newcommand{\MoveSpacing}{3em}
+\newcommand{\MovesSpace}{\vspace{33em}}
+\newcommand{\PaneFiveSpace}{\vspace{30em}}
+
+
+\newcommand{\PLAYBOOK}{
+  \raggedright
+
+  \begin{picture}(0, 290){
+      \hbox{
+        \includegraphics[width=3in]{\Picture}
+    }}
+  \end{picture}
+
+  \PictureSpace
+
+ \PLAYBOOKNAME{The \Name}
+
+ \SECTION{Name:} \Names
+
+  \SECTION{Looks:}
+  \begin{itemize}
+    \setlength\itemsep{0em}
+  \item \Eyes
+  \item \Faces
+  \item \Bodies
+  \item \Clothes
+  \item \Auras
+  \end{itemize}
+
+ \SECTION{Stats:}
+
+ {\small
+
+   \Stats
+ }
+
+  \SECTION{Anchors:} (Choose \AnchorNumber)
+  \begin{itemize}
+    \setlength\itemsep{-.5em}
+    \Anchors
+  \end{itemize}
+
+  \SECTION{Secrets: (Choose at least 1)}
+  \begin{itemize}
+    \setlength\itemsep{-.5em}
+    \Secrets
+  \end{itemize}
+
+  \begin{minipage}[t]{0.4\textwidth}
+    \STAT{Will}
+
+    \STAT{Wits}
+
+    \STAT{Charm}
+
+    \STAT{Grace}
+
+    \STAT{Body}
+
+  \end{minipage}
+  \begin{minipage}[t]{0.4\textwidth}
+    \begin{center}
+      \SECTION{Health}
+    \end{center}
+    \begin{itemize}
+    \item[] CODE 50
+    \item[] CODE 40
+    \item[] CODE 30
+    \item[] CODE 20
+    \item[] CODE 10
+    \item[] CODE N
+    \end{itemize}
+  \end{minipage}
+
+  \vspace{14em}
+
+  \SECTION{Advancement:}
+  \begin{center}O O O O O
+  \end{center}
+
+  \begin{itemize}
+    \setlength\itemsep{-.25em}
+    \BasicAdvancements
+    \rule{3cm}{.1pt}
+  \item Retire to safety
+  \item Switch playbooks
+  \item Start a second character
+
+    \rule{3cm}{.1pt}
+    \SpecialAdvancements
+  \end{itemize}
+
+  \SECTION{The \Name's Moves}
+
+  \MoveExplanation
+
+  \begin{itemize}
+    \setlength\itemsep{\MoveSpacing}
+
+    \Moves
+
+  \end{itemize}
+
+  \MovesSpace
+
+  \PaneFive
+
+  \PaneFiveSpace
+  
+  \PLAYBOOKNAME{The \Name}
+
+  \PaneSix
+}
