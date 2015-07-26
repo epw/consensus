@@ -1,0 +1,171 @@
+\input{playbook.tex}
+
+\renewcommand{\Name}{Guru}
+\renewcommand{\Picture}{primordial.png}
+\renewcommand{\Description}{The secrets of the Universe are yours, but
+  you don't guard them jealously. You share the wisdom with the
+  precious few who will listen, taking on pupils who will one day
+  surpass you.}
+\renewcommand{\Names}{Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri,
+  Madame Leena, Marshki, Sifu, Luce, Goswami, Senshu, Sena}
+
+\renewcommand{\Eyes}{shining eyes, sunken eyes, alert eyes, glowing
+  eyes}
+\renewcommand{\Faces}{weathered face, gaunt face, wrinkled face,
+  caring face, creased face}
+\renewcommand{\Bodies}{wiry body, ripped body, lanky body}
+\renewcommand{\Clothes}{street clothes, flowing clothes, concealing
+  clothes}
+\renewcommand{\Auras}{menacing aura, peaceful aura, green aura, golden
+  aura, fading aura, grounded aura, rippling aura}
+\renewcommand{\Stats}{
+Will +0, Wits +1, Charm +0, Grace +0, Body +2 
+
+Will -1, Wits -1, Charm +0, Grace +2, Body +2 
+
+Will +1, Wits +0, Charm -1, Grace +1, Body +2 
+
+Will +0, Wits -1, Charm +1, Grace +1, Body +2
+}
+\renewcommand{\AnchorNumber}{4}
+\renewcommand{\Anchors}{
+\item A portrait of my long-dead mentor
+\item My best friend Ayah
+\item The gold necklace given to me by \BLANK
+\item The People in My Community
+\item Devon, my oldest rival
+\item Zorrah, my forbidden love
+\item A coal to remind me of \BLANK
+}
+\renewcommand{\Secrets}{
+\item \BLANK was once a student of mine. (Tell them +1)
+\item I trust \BLANK with my life, but not with my students. (Tell
+  them -1)
+\item \BLANK knew my master better than I did. (Tell them +2)
+}
+\renewcommand{\StatsSpace}{10em}
+\renewcommand{\BasicAdvancements}{
+\item Gain +1 Body (Maximum Body +3) 
+\item Gain +1 Grace (Maximum Grace +3) 
+\item Gain +1 Will (Maximum Will +2) 
+\item Gain +1 Wits (Maximum Wits +2) 
+\item Get a new Guru move 
+
+}
+\renewcommand{\SpecialAdvancements}{
+\item Get a new Guru move 
+\item Choose a new option for your Students 
+\item Choose a new option for your Students 
+\item Choose a new option for your Place of Power 
+\item Get a playbook move from another book 
+\item Get a playbook move from another book 
+\item Get an Advanced Guru Move 
+}
+\renewcommand{\MoveExplanation}{The Guru gets the \textbf{Pupils}
+  move, and 2 other moves of your choice.}
+\renewcommand{\Moves}{
+  \DEFAULTMOVE{Pupils}{You have a number of students who follow your
+    mystical and magical teachings. At the beginning of the session,
+    roll +learning to determine how their studies are progressing. On
+    a 10+ they have a surplus. On a 7-9, both a surplus and a want. On
+    a 6-, they will do everything in their power to satisfy all their
+    wants.}
+  \MOVE{Meditation}{When you meditate on the best course of action for
+    at least an hour, roll +Wits. On a 10+ hold 3, on a 7-9 hold
+    1. You may spend this hold 1-for-1 to ask the GM a question from
+    this list, the GM will answer truthfully. You take +1 forward when
+    acting on this information.
+    \begin{itemize}
+    \item What's my escape route? 
+    \item How dangerous is this plan? 
+    \item What here is most useful to me? 
+    \item What here is the most dangerous?
+    \end{itemize}
+  }
+  \MOVE{Dojo}{You have a Place of Power where you train your
+    students. While you are within your Place of Power, take +1
+    forward to any Grace or Body rolls you make.}
+  \MOVE{My Body is a Weapon}{No matter what the circumstances, even if
+    magic is hard or nigh-impossible, or you are disarmed, you may
+    always attempt to Exert Yourself on the world.}
+  \MOVE{Matter over Mind}{You may roll +Body instead of +Charm when
+    Demonstrating Magical Superiority}
+}
+\renewcommand{\Paradigms}{
+\PARADIGM{My Qi Flows Like Water}{Superhuman strength, Projecting
+  Power, Perfect Positioning}\
+         {Choose one: Elemental magic, External effects}\
+         {Choose one: Technomagic, Breaking cycles}
+
+\PARADIGM{All Can Be Known Through \textit{Mushin}}\
+         {Serendipitous Movements, Reflexive Magic, Martial Magic}\
+         {Choose one: Mind without Body, Body without Mind}\
+         {Choose this one: Magic while emotional}
+}
+
+\renewcommand{\PaneFive}{\SECTION{Your Students:}
+  By default you have about 10 students, they are moderately studious
+  sleepers and they respect you, though they're not fully loyal. They
+  have their own lives apart from you, family and friends in the
+  area. (learning +1. surplus: time. want: departure.)
+
+  Pick up to two of these:
+  \begin{itemize}
+  \item Your students are competitive (replace want: departure with
+    want: competition)
+  \item Your students are dedicated (replace surplus: time with
+    surplus: advanced students)
+  \item Your students are driven (replace surplus: time with surplus:
+    dedication)
+  \item Your students are lazy (replace want: departure with want:
+  sloth)
+  \end{itemize}
+
+  And one of these:
+  \begin{itemize}
+  \item Your school is famous (add surplus: growth and want: infamy)
+  \item Your school is large (default students 20)
+  \item Your students are quick learners (+1 learning)
+  \item You have a protage.
+  \item Your most advanced student is Awakened 
+  \item Your students are rowdy (add want: violence and surplus:
+    intimidation)
+  \end{itemize}
+}
+
+\renewcommand{\PaneSix}{\Description
+
+  \SECTION{Place of Power:}
+
+  First, pick a facade: 	
+  \begin{itemize}
+  \item Dojo
+  \item Dance Studio
+  \item Abandoned warehouse
+  \item Stunt filming location
+  \item Remote mountain temple 
+  \end{itemize}
+  
+  Then pick up to 1 Strength: +hidden, +famous, +easily defended,
+  +inconspicuous, +free
+
+  Pick at least 1 Weakness:  +cramped, +dangerous, +temporary,
+  +infamous, +weak
+
+  A Ritual performed here will never (choose 1):
+  \begin{itemize}
+  \item Need help from an outside source 
+  \item Take longer than expected 
+  \item Have greater than intended effects
+  \end{itemize}
+
+  \SECTION{Paradigm List:}
+
+  \Paradigms
+}
+
+\begin{document}
+
+\PLAYBOOK
+
+\end{document}
