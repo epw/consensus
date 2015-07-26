@@ -1,38 +1,58 @@
-\documentclass[10pt,landscape]{article}
+\documentclass[letterpaper,10pt,notumble]{leaflet}
 
 \usepackage{xltxtra}
 \usepackage{color}
 \usepackage{fontspec}
 \usepackage[compact]{titlesec}
 \usepackage{pdflscape}
-\usepackage{multicol}
 \usepackage{setspace}
 \usepackage{tikz}
 \usepackage{graphicx}
 \usepackage{textpos}
+\usepackage{lipsum}
 
-\setlength{\topmargin}{-.75in}
-\setlength{\textheight}{10in}
-\setlength{\oddsidemargin}{-0.25in}
-\setlength{\textwidth}{6.75in}
+%\setlength{\topmargin}{-.75in}
+%\setlength{\textheight}{10in}
+%\setlength{\oddsidemargin}{-0.25in}
+%\setlength{\textwidth}{6.75in}
 
-\setlength{\columnseprule}{0.4pt}
+%\setlength{\columnseprule}{0.4pt}
 
 \titlespacing{\section}{0pt}{*0}{*0}
 \titlespacing{\subsection}{0pt}{*0}{*0}
 
 \setcounter{secnumdepth}{-1}
 
-\parindent 0pt
-\parskip 1em
+\newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\Huge{\bf #1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\large{\bf #1}}}
+\newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
+\newcommand{\FILLED}[1]{\tikz{\path[fill=black] (0,0) rectangle(#1cm,#1cm);}}
+\newcommand{\STAT}[1]{\BOX{1} \hspace{1ex} #1}
+\newcommand{\BLANK}{\underline{\hspace{3cm}}}
+\newcommand{\MOVE}[2]{\item[\BOX{.25}] {\bf #1:} #2}
+\newcommand{\DEFAULTMOVE}[2]{\item[\FILLED{.25}] {\bf #1:} #2}
+\newcommand{\PARADIGM}[3]{\bigskip{{\large \bf Paradigm:} #1}
 
-\newcommand{\SECTION}[1]{{\large{\bf #1}}}
-\newcommand{\STATBOX}{\tikz{\path[draw=black] (0,0) rectangle(1cm,1cm);}}
-\newcommand{\STAT}[1]{\STATBOX \hspace{1ex} #1}
+  {\bf Aligned(choose one):} #2
+
+  {\bf Opposed:}
+
+  #3}
 
 \begin{document}
-\begin{landscape}
-\begin{multicols}{3}
+
+\raggedright
+
+\begin{picture}(0, 290)\
+%\put(0, -100)
+{\hbox{
+\includegraphics[width=3in]{primordial.png}
+}}
+\end{picture}
+
+\vspace{22em}
+
+\PLAYBOOKNAME{The Primordial}
 
 \SECTION{Name:} Markus, Zakiel, Kassandra, The Hooded One, Crystal, Zuri,
 Malaki, Jeyde, Andrzej, Kolden, Sheth
@@ -52,25 +72,39 @@ Malaki, Jeyde, Andrzej, Kolden, Sheth
   mossy aura
 \end{itemize}
 
-\SECTION{Moves:}
-
-The Primordial gets the {\bf Strong Avatar} and {\bf What Doesn't Kill
-  You} moves, and 1 other move of your choice.
-
 \SECTION{Stats:}
 
+{\small
+
 Will +1, Wits +0, Charm +0, Grace +1, Body +1
-\medskip
+
 Will +2, Wits +1, Charm +0, Grace +0, Body +0
-\smallskip
+
 Will +2, Wits +1, Charm -1, Grace +1, Body +0
-\smallskip
+
 Will +1, Wits +2, Charm +0, Grace +1, Body -1
+}
 
-\SECTION{Anchors:}
+\SECTION{Anchors: (Choose 2)}
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item \BLANK, the last give from my first love
+\item The engraved knife I found in \BLANK
+\item Anges, my faltering grandmother
+\item \BLANK, from my childhood home
+\item The yellowed love letters my parents exchanged
+\end{itemize}
 
-\SECTION{Paradigms: (Choose 1)}
+\SECTION{Secrets: (Choose at least 1)}
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item \BLANK owes me a life. (Tell them +1)
+\item I once betrayed \BLANK, for good reason. (Tell them +2)
+\item \BLANK has seen me at my worst, but never at my best. (Tell them
+  -1)
+\end{itemize}
 
+\begin{minipage}[t]{0.4\textwidth}
 \STAT{Will}
 
 \STAT{Wits}
@@ -81,13 +115,106 @@ Will +1, Wits +2, Charm +0, Grace +1, Body -1
 
 \STAT{Body}
 
-\begin{picture}(50,50)
-\put(200,0)
-{\hbox{
-\includegraphics[width=1in]{body-outline.png}
-}}
-\end{picture}
+\end{minipage}
+\begin{minipage}[t]{0.4\textwidth}
+  \begin{center}
+    \SECTION{Health}
+  \end{center}
+  \begin{itemize}
+  \item[] CODE 50
+  \item[] CODE 40
+  \item[] CODE 30
+  \item[] CODE 20
+  \item[] CODE 10
+  \item[] CODE N
+  \end{itemize}
+\end{minipage}
 
-\end{multicols}
-\end{landscape}
+\vspace{14em}
+
+\SECTION{Advancement:}
+\begin{center}O O O O O\end{center}
+
+\begin{itemize}
+\setlength\itemsep{-.25em}
+\item Gain +1 Charm (Maximum Charm +1)
+\item Gain +1 Grace (Maximum Grace +2)
+\item Gain +1 Will (Maxiumum Will +3)
+\item Gain +1 Wits (Maximum Wits +2)
+\item Get a new Primordial move
+
+\rule{3cm}{.1pt}
+\item Retire to safety
+\item Switch playbooks
+\item Start a second character
+
+\rule{3cm}{.1pt}
+\item Get a new Primordial move
+\item Get a second use of Serendipity
+\item Get a playbook move from another book
+\item Get a playbook move from another book
+\item Get an Advanced Primordial move
+\end{itemize}
+
+\SECTION{The Primordial's Moves}
+
+The Primordial gets the {\bf Strong Avatar} and {\bf What Doesn't Kill
+  You} moves, and 1 other move of your choice.
+
+\begin{itemize}
+\setlength\itemsep{3em}
+
+\DEFAULTMOVE{Strong Avatar}{You may roll +Will instead of +Body when
+  you {\bf Exert Yourself} on the world in a magical manner.}
+\DEFAULTMOVE{What Doesn't Kill You}{When your wounds advance from
+  pushing yourself too hard, mark experience.}
+\MOVE{Harvest}{When you {\bf Rip the Power from a Being} roll
+  +Will. On a 10+ choose 3, on a 7-9 choose 1.
+\begin{itemize}
+\item It dies then and there.
+\item You are empowered, take +1 ongoing until you fail a roll.
+\item The power is not tainted.
+\item You don't draw excessive attention.
+\end{itemize}}
+\MOVE{Hunter}{When you {\bf Track your Prey's Magical Trail} roll
+  +Wits. On a 10+ you find them, and they're close. On a 7-9, choose
+  1:
+\begin{itemize}
+\item You're in for a trek, but at least the trail is strong.
+\item They're close by, but the trail went cold.
+\end{itemize}}
+\MOVE{Serendipity}{Once per session, when you roll to {\bf use magic
+    to fix it}, you may instead choose none of the options.}
+\end{itemize}
+
+\vspace{10em}
+
+\SECTION{Paradigm List:}
+
+\PARADIGM{Blood is the Strongest Sympathy}{Healing, Curses, Sympathy}{
+  Choose one: Restoration, Mind-affecting magic
+
+  Choose this one: Magic that doesn't require sacrifice}
+
+\PARADIGM{Crude Matter Wraps the World's Energy}{Transformations and
+  Transmutations, Energy Manipulation}{
+  Choose one: Destruction, Creation
+
+  Choose one: Subtle magic, Finesse magic}
+
+\PARADIGM{I See, Hear, and Command the Spirits}{Elemental Magic,
+  Summoning}{
+  Choose one: Man-made things, Transmutation
+
+  Choose one: Magic that disrespects the spirit world, Magic without
+  spirits}
+
+\vspace{30em}
+
+\PLAYBOOKNAME{The Primordial}
+
+You don't need fancy rituals, long drawn-out methods, or anything like
+that when you're working with the raw forces that shaped the
+Universe. That's what magic is really about.
+
 \end{document}
