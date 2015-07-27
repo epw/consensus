@@ -14,10 +14,10 @@
   UprightFont = Aller_Rg.ttf,
   BoldFont = Aller_Bd.ttf,
   ItalicFont = Aller_It.ttf
-  ]{Aller}
+]{Aller}
 \newfontfamily\titlefont [Path = fonts/,
   UprightFont = Kingthings_Printingkit.ttf,
-  ]{Kingthings}
+]{Kingthings}
 
 \titlespacing{\section}{0pt}{*0}{*0}
 \titlespacing{\subsection}{0pt}{*0}{*0}
@@ -36,12 +36,12 @@
 
 \newcommand{\PARADIGM}[4]{\bigskip{\large\textbf{Paradigm:} #1}
 
-    \textbf{Aligned(choose one):} #2
+  \textbf{Aligned(choose one):} #2
 
-    \textbf{Opposed:}
-    #3
+  \textbf{Opposed:}
+  #3
 
-    #4}
+  #4}
 
 \newcommand{\Name}{(\textbackslash Name) PLAYBOOK}
 \newcommand{\Picture}{primordial.png}
@@ -139,15 +139,15 @@
 
   \begin{picture}(0, 290){
       \hbox{
-        \includegraphics[width=3in]{\Picture}
+        \includegraphics[width=3in]{images/\Picture}
     }}
   \end{picture}
 
   \vspace{\PictureSpace}
 
- \PLAYBOOKNAME{The \Name}
+  \PLAYBOOKNAME{The \Name}
 
- \SECTION{Name:} \Names
+  \SECTION{Name:} \Names
 
   \SECTION{Looks:}
   \begin{itemize}
@@ -159,13 +159,17 @@
   \item \Auras
   \end{itemize}
 
- \SECTION{Stats:}
+  \SECTION{Stats:}
 
- {\small
+  {\small
 
-   \Stats
- }
+    \Stats
+  }
 
+  \SECTION{Moves:}
+  \MoveExplanation
+
+  
   \SECTION{Anchors:} (Choose \AnchorNumber)
   \begin{itemize}
     \setlength\itemsep{-.5em}
@@ -223,8 +227,6 @@
   \end{itemize}
 
   \SECTION{The \Name's Moves}
-
-  \MoveExplanation
 
   \begin{itemize}
     \setlength\itemsep{\MoveSpacing}
