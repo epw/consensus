@@ -1,0 +1,127 @@
+% -*- Mode: latex -*-
+\input{playbook.tex}
+
+\renewcommand{\Name}{Wayfarer}
+%\renewcommand{\Picture}{}
+\renewcommand{\Description}{There are many who travel the world in
+  this day and age, and many fewer who travel where you do. The
+  journey of a thousand miles begins with you.}
+\renewcommand{\Names}{Roland, Isobel, Amelia, Karma, Daniel, Celina,
+  Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina}
+
+\renewcommand{\Eyes}{spirited eyes, tender eyes, distant eyes, daring
+  eyes, wandering eyes, secretive eyes}
+\renewcommand{\Faces}{stolid face, eager face, weathered face, angular
+  face, weary face, covered face}
+\renewcommand{\Bodies}{vibrant body, waifish body, hardened body,
+  fluid body, mousy body, weird body}
+\renewcommand{\Clothes}{tattered clothes, soiled clothes, crisp
+  clothes, foreign clothes, comfortable clothes, tough clothes}
+\renewcommand{\Auras}{tireless aura, vital aura, capricious aura,
+  eccentric aura, boisterous aura, nondescript aura}
+
+\renewcommand{\Stats}{
+Will +0, Wits -1, Charm +1, Grace +2, Body +1
+
+Will -1, Wits +0, Charm +2, Grace +2, Body -1
+
+Will +0, Wits +1, Charm +1, Grace +2, Body -1
+
+Will +0, Wits +0, Charm +2, Grace +1, Body +0
+}
+\renewcommand{\AnchorNumber}{3}
+\renewcommand{\Anchors}{
+\item Iris, who will be my legacy
+\item My tattered, empty diary
+\item My collection of smoothed stones
+\item My well-polished Harley
+\item My childhood chapel
+\item My family
+}
+\renewcommand{\Secrets}{
+\item I once shared a whirlwind adventure with \BLANK.
+\item \BLANK served as my guide through a lonely place.
+\item \BLANK is lost, and I’m going to show them the way out.
+}
+\renewcommand{\BasicAdvancements}{
+\item Pick a new Wayfarer Move
+\item Gain +1 Will (Max Will +1)
+\item Gain +1 Charm (max Charm +3)
+\item Gain +1 Grace (max Grace +3)
+\item Gain +1 Body (max Body +2)
+}
+\renewcommand{\SpecialAdvancements}{
+\item Pick a new Wayfarer move
+\item When using Step Sideways, always choose +1 option, even on a
+  miss
+\item Pick a playbook move from another playbook
+\item Pick a playbook move from another playbook
+\item Gain +1 Wits (max Wits +3)
+\item Get an Advanced Wayfarer Move
+}
+\renewcommand{\MoveExplanation}{The Wayfarer gets the \textbf{Step
+    Sideways} move, and 2 other moves of your choice.}
+\renewcommand{\MoveSpacing}{0em}
+\renewcommand{\Moves}{
+  \DEFAULTMOVE{Step Sideways}{When you Step Sideways to a place you've
+    never been before, roll +Grace. On a 10+ choose 4, on a 7-9 choose
+    2.
+    \vspace{-.5em}
+    \begin{itemize}
+      \setlength\itemsep{-.5em}
+    \item You get where you meant to go, no funny business. 
+    \item You arrive promptly. 
+    \item You arrive unharmed. 
+    \item You remember the path, so you can travel it again. 
+    \item You can safely and easily return.
+    \end{itemize}
+  }
+
+  \MOVE{Chance Meetings}{When you Meet an Important Stranger (your
+    choice) in your travels, roll +Charm. On a 10+ choose one, on a
+    7-9 the GM will choose one.
+    \vspace{-.5em}
+    \begin{itemize}
+      \setlength\itemsep{-.5em}
+    \item They tell you something useful and true.
+    \item They give you something that is potentially useful.
+    \item They have something of great value to you.
+    \item You have something of great value to them, and you know it.
+    \end{itemize}
+  }
+
+  \MOVE{Vision Quest}{When you Seek out a Vision of the possible
+    futures, roll +Grace. On a 10+, tell the GM what you see, they may
+    add to it. On a 7-9, the GM will tell you what you see, and two
+    possible interpretations.}
+
+  \MOVE{Parkour: When you \textbf{Outwit, Outpace or Outfox} in an
+    urban jungle, and you roll a 7-9, you choose one option instead of
+    two.}
+
+  \MOVE{Any Port in a Storm}{ When you find yourself in a hostile or
+    unwelcoming situation, roll +Charm. On a 10+, tell the GM what is
+    secretly safe here. On a 7-9, the GM will tell you.}
+
+  \MOVE{The Soul of a Warrior}{When you \textbf{meet a stronger
+      opponent in battle}, roll +Body. On a hit, you learn something,
+    mark experience. On a 10+, they are not quite as powerful as you
+    thought, and the GM will tell you how. On a 7-9, you’re getting
+    exactly what you would expect.}
+}
+\renewcommand{\Paradigms}{
+\PARADIGM{All people are connected, all people affect one
+  another.}{Sympathy magic, Travel magic}{Choose one: Creation,
+  permanent effects}{Choose one: Binding magic, magic that prevents
+  movement}
+
+\PARADIGM{I have one foot in the spirit world}{Travel between worlds,
+  Opening things, Spirit Magic}{Choose one: Static magic, Abstract
+  magic}{Magic that uses physical objects, Stationary magic}
+}
+
+\begin{document}
+
+\PLAYBOOK
+
+\end{document}
