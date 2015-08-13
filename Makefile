@@ -4,3 +4,6 @@ all: cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf 
 
 %.pdf: %.tex
 	$(LATEX) $<
+
+clean:
+	rm *.pdf *.aux *.log
