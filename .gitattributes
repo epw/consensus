@@ -1,1 +1,2 @@
-*.pdf binary
+*.pdf binary merge=theirs
+
