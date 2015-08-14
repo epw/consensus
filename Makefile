@@ -5,5 +5,11 @@ all: basicmoves.pdf extendedmoves.pdf cabalist.pdf guru.pdf hedge_mage.pdf inspi
 %.pdf: %.tex playbook.tex
 	$(LATEX) $<
 
+basicmoves.pdf: basicmoves.tex moves.tex
+	$(LATEX) basicmoves.tex
+
+extendedmoves.pdf: extendedmoves.tex moves.tex
+	$(LATEX) extendedmoves.tex
+
 clean:
 	rm *.pdf *.aux *.log
