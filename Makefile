@@ -1,6 +1,6 @@
 LATEX = xelatex
 
-all: cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
+all: basicmoves.pdf extendedmoves.pdf cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
 %.pdf: %.tex
 	$(LATEX) $<
