@@ -63,14 +63,15 @@ Will +1, Wits +1, Charm +2, Grace +0, Body -1
 and 2 other moves of your choice.}
 \renewcommand{\Moves}{
   \setlength\itemsep{-.25em}
-  \DEFAULTMOVE{Vows}{When you \textbf{Eschew Mortal Comfort to Further
-    your Goal}, roll +Charm. On a 10+ hold 3, on a 7-9 hold 1. Spend
-  your hold 1-for-1 to declare someone involved in a situation owes
-  you a small favor for past help.}
-\MOVE{Listen to the Celestial Chorus}{When you tune in to the voices
-  of the universe, sometimes they will have something helpful to
-  say. Roll +Charm. On a hit you may ask questions from the below
-  list, the GM will answer truthfully. On a 10+ ask 3, on a 7-9 ask 1.
+  \DEFAULTMOVE{Vows}{When you \TRIGGER{Eschew Mortal Comfort to
+      Further your Goal}, roll +Charm. On a 10+ hold 3, on a 7-9 hold
+    1. Spend your hold 1-for-1 to declare someone involved in a
+    situation owes you a small favor for past help.}
+\MOVE{Listen to the Celestial Chorus}{When you \TRIGGER{tune in to the
+    voices of the universe}, sometimes they will have something
+  helpful to say. Roll +Charm. On a hit you may ask questions from the
+  below list, the GM will answer truthfully. On a 10+ ask 3, on a 7-9
+  ask 1.
   \begin{itemize}
     \setlength\itemsep{-.5em}
     \item Who here has the most potential? 
@@ -84,7 +85,7 @@ and 2 other moves of your choice.}
 \MOVE{Last Rites}{You may always Assist someone on their death move,
   take +1 forward when doing so, and if you are successful, you both
   gain +1 secrets with each other.}
-\MOVE{Exorcism}{When you attempt to \textbf{Banish a Controlling
+\MOVE{Exorcism}{When you attempt to \TRIGGER{Banish a Controlling
     Spirit} roll +Body. On a 10+ choose 1, on a 7-9 choose 2:
   \begin{itemize}
     \setlength\itemsep{-.5em}
@@ -94,7 +95,7 @@ and 2 other moves of your choice.}
   \end{itemize}
 }
 \MOVE{Holy Avenger}{You have a weapon, enchanted and attuned to your
-  beliefs. When you \textbf{exert yourself physically} through it,
+  beliefs. When you \TRIGGER{exert yourself physically} through it,
   roll +Body. On a hit, you may incapacitate or kill any one opponent
   on the battlefield. On a 7-9, they have a chance to react first, but
   can’t stop you. On a 6-, they were prepared. Sucks to be you.

@@ -55,7 +55,7 @@ Will +1, Wits +0, Charm +2, Grace -1, Body +1}
   the {\bf Gossamer Threads} move, and 2 other moves of your choice.}
 \renewcommand{\MovesSpace}{10em}
 \renewcommand{\Moves}{
-\DEFAULTMOVE{Gossamer Threads}{When you try to {\bf Sway the Cabal} to
+\DEFAULTMOVE{Gossamer Threads}{When you try to \TRIGGER{Sway the Cabal} to
   your chosen course of action, rol +Charm. On a 10+, all 3, on a 7-9
   choose 1.
   \begin{itemize}
@@ -68,14 +68,15 @@ Will +1, Wits +0, Charm +2, Grace -1, Body +1}
 \MOVE{Sanctum}{Your Cabal has a Place of Power at which they meet and
   which they are charged with protecting.}
 
-\MOVE{Research}{When you spend time researching a piece of the world,
-  roll +Wits. On a 10+ you may tell the GM something you learned, and
-  how it might be immediately useful. On a 7-9, the GM will tell you
-  something you learned, it's up to you to make it useful.}
+\MOVE{Research}{When you \TRIGGER{spend time researching a piece of
+    the world}, roll +Wits. On a 10+ you may tell the GM something you
+  learned, and how it might be immediately useful. On a 7-9, the GM
+  will tell you something you learned, it's up to you to make it
+  useful.}
 
-\MOVE{Speak Beyond the Veil}{When you attempt to contact the spirit of
-  one who has passed on, roll +Will. On a 10+ choose 2, on a 7-9
-  choose 1:
+\MOVE{Speak Beyond the Veil}{When you attempt to \TRIGGER{contact the
+    spirit of one who has passed on}, roll +Will. On a 10+ choose 2,
+  on a 7-9 choose 1:
   \begin{itemize}
   \item The spirit is the one you meant to contact
   \item The spirit can stay for longer than a single utterance or
@@ -85,11 +86,11 @@ Will +1, Wits +0, Charm +2, Grace -1, Body +1}
 }
 
 \MOVE{We're Not So Different}{When you explain your paradigm to
-  another mage in order to {\bf Aid} them in doing magic that is
+  another mage in order to \TRIGGER{aid} them in doing magic that is
   opposed to their paradigm, you both mark experience.}
 
-\MOVE{Brute Force and Ignorance}{When you Impose your Will on someone,
-  you may roll Body instead of Will.}
+\MOVE{Brute Force and Ignorance}{When you \TRIGGER{impose your will}
+  on someone, you may roll Body instead of Will.}
 }
 \renewcommand{\Paradigms}{
   \PARADIGM{True Names Give Command}{Command, Bindings, Summonings}\

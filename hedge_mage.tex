@@ -62,16 +62,17 @@ Will +0, Wits +2, Charm +1, Grace +0, Body +0
   choice.}
 \renewcommand{\MoveSpacing}{-.25em}
 \renewcommand{\Moves}{
-  \DEFAULTMOVE{Exactly When I Mean To}{At the \textbf{beginning of the
-      session}, roll+Grace. On a 10+, hold 2. On a 7–9, hold 1. At any
-    time, either you or the GM can spend your hold to have you arrive
-    in a scene, with the proper tools and knowledge, with or without
-    any clear explanation why. Take +1 forward when you do so. On a
-    miss, the GM holds 1, and can spend it to have you arrive, but
-    somehow pinned, caught or trapped}
-  \MOVE{Call Through Shadow}{When you call a mundane or common object
-    to yourself, roll +Will. On a hit, you have successfully summoned
-    it to you. On a 10+ you're in the clear. On a 7-9 choose 1:
+  \DEFAULTMOVE{Exactly When I Mean To}{At the \TRIGGER{beginning of
+      the session}, roll+Grace. On a 10+, hold 2. On a 7–9, hold 1. At
+    any time, either you or the GM can spend your hold to have you
+    arrive in a scene, with the proper tools and knowledge, with or
+    without any clear explanation why. Take +1 forward when you do
+    so. On a miss, the GM holds 1, and can spend it to have you
+    arrive, but somehow pinned, caught or trapped}
+  \MOVE{Call Through Shadow}{When you \TRIGGER{call a mundane or
+      common object to yourself}, roll +Will. On a hit, you have
+    successfully summoned it to you. On a 10+ you're in the clear. On
+    a 7-9 choose 1:
     \vspace{-.5em}
     \begin{itemize}
       \setlength\itemsep{-.5em}
@@ -81,8 +82,8 @@ Will +0, Wits +2, Charm +1, Grace +0, Body +0
     \end{itemize}
   }
   \MOVE{Scrying Bowl}{When you have an object related to a person and
-    use it to gaze upon their current situation, roll +Wits. On a 10+
-    all 3, on a 7-9 choose 1:
+    use it to \TRIGGER{gaze upon their current situation}, roll
+    +Wits. On a 10+ all 3, on a 7-9 choose 1:
     \vspace{-.5em}
     \begin{itemize}
       \setlength\itemsep{-.5em}
@@ -92,12 +93,12 @@ Will +0, Wits +2, Charm +1, Grace +0, Body +0
     \end{itemize}
   }
   \MOVE{If You Ask Me}{When another character comes to you for advice
-    and you \textbf{tell them honestly what you think the best course of
-    action is}, they take +1 ongoing while following your advice, and
-    you mark experience.}
-  \MOVE{Magical Experimentation}{ When you attempt to push your magic
-    past its current boundaries in a controlled setting, roll
-    +Body. On a 10+ all 3, on a 7-9 choose 1:
+    and you \TRIGGER{tell them honestly what you think the best course
+      of action is}, they take +1 ongoing while following your advice,
+    and you mark experience.}
+  \MOVE{Magical Experimentation}{ When you attempt to \TRIGGER{push
+      your magic past its current boundaries} in a controlled setting,
+    roll +Body. On a 10+ all 3, on a 7-9 choose 1:
     \begin{itemize}
       \setlength\itemsep{-.5em}
     \item It works pretty much as intended
@@ -105,7 +106,7 @@ Will +0, Wits +2, Charm +1, Grace +0, Body +0
     \item It was controlled enough that you can repeat it
     \end{itemize}
   }
-  \MOVE{This One Is Mine}{When you \textbf{engage another magical
+  \MOVE{This One Is Mine}{When you \TRIGGER{engage another magical
       being in a duel}, so long as your companions don’t interfere,
     others will give you enough space to finish it, come what may.}
 }

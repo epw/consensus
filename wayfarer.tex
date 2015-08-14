@@ -63,9 +63,9 @@ Will +0, Wits +0, Charm +2, Grace +1, Body +0
     Sideways} move, and 2 other moves of your choice.}
 \renewcommand{\MoveSpacing}{0em}
 \renewcommand{\Moves}{
-  \DEFAULTMOVE{Step Sideways}{When you Step Sideways to a place you've
-    never been before, roll +Grace. On a 10+ choose 4, on a 7-9 choose
-    2.
+  \DEFAULTMOVE{Step Sideways}{When you \TRIGGER{step sideways to a
+      place you've never been before}, roll +Grace. On a 10+ choose 4,
+    on a 7-9 choose 2.
     \vspace{-.5em}
     \begin{itemize}
       \setlength\itemsep{-.5em}
@@ -77,9 +77,9 @@ Will +0, Wits +0, Charm +2, Grace +1, Body +0
     \end{itemize}
   }
 
-  \MOVE{Chance Meetings}{When you Meet an Important Stranger (your
-    choice) in your travels, roll +Charm. On a 10+ choose one, on a
-    7-9 the GM will choose one.
+  \MOVE{Chance Meetings}{When you \TRIGGER{meet an important stranger}
+    (your choice) in your travels, roll +Charm. On a 10+ choose one,
+    on a 7-9 the GM will choose one.
     \vspace{-.5em}
     \begin{itemize}
       \setlength\itemsep{-.5em}
@@ -90,20 +90,21 @@ Will +0, Wits +0, Charm +2, Grace +1, Body +0
     \end{itemize}
   }
 
-  \MOVE{Vision Quest}{When you Seek out a Vision of the possible
-    futures, roll +Grace. On a 10+, tell the GM what you see, they may
-    add to it. On a 7-9, the GM will tell you what you see, and two
-    possible interpretations.}
+  \MOVE{Vision Quest}{When you \TRIGGER{seek out a vision of possible
+      futures}, roll +Grace. On a 10+, tell the GM what you see, they
+    may add to it. On a 7-9, the GM will tell you what you see, and
+    two possible interpretations.}
 
-  \MOVE{Parkour: When you \textbf{Outwit, Outpace or Outfox} in an
+  \MOVE{Parkour: When you \TRIGGER{Outwit, Outpace or Outfox} in an
     urban jungle, and you roll a 7-9, you choose one option instead of
     two.}
 
-  \MOVE{Any Port in a Storm}{ When you find yourself in a hostile or
-    unwelcoming situation, roll +Charm. On a 10+, tell the GM what is
-    secretly safe here. On a 7-9, the GM will tell you.}
+  \MOVE{Any Port in a Storm}{ When you \TRIGGER{find yourself in a
+      hostile or unwelcoming situation}, roll +Charm. On a 10+, tell
+    the GM what is secretly safe here. On a 7-9, the GM will tell
+    you.}
 
-  \MOVE{The Soul of a Warrior}{When you \textbf{meet a stronger
+  \MOVE{The Soul of a Warrior}{When you \TRIGGER{meet a stronger
       opponent in battle}, roll +Body. On a hit, you learn something,
     mark experience. On a 10+, they are not quite as powerful as you
     thought, and the GM will tell you how. On a 7-9, you’re getting
