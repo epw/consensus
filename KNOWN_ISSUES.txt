@@ -1,0 +1,7 @@
+The biggest problem is that we would like to replace Secrets and
+Highlighting. Secrets are a somewhat clunky system, though they have
+provided good character backstory connections, and Highlighting isn't
+terribly interesting or thematic as a way to gain XP (and also, PCs
+have been gaining XP surprisingly quickly if they try).
+
+Aligned/unaligned magic doesn't seem great.
