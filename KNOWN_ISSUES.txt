@@ -5,3 +5,6 @@ terribly interesting or thematic as a way to gain XP (and also, PCs
 have been gaining XP surprisingly quickly if they try).
 
 Aligned/unaligned magic doesn't seem great.
+
+It is seeming like we need some kind of simple "money/other nonmagical
+resources" abstraction.
