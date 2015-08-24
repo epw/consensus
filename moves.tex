@@ -12,6 +12,7 @@
 \usepackage{textpos}
 \usepackage{lipsum}
 \usepackage{fancyhdr}
+\usepackage{comment}
 
 \geometry{letterpaper, landscape}
 
@@ -32,6 +33,7 @@
 \setcounter{secnumdepth}{-1}
 
 \newenvironment{move}{}{}
+\excludecomment{movedetail}
 \newcommand{\TRIGGER}[1]{\textbf{#1}}
 \newcommand{\SEPARATOR}{\vspace{-1em}\begin{center}\noindent\rule{6cm}{2pt}\end{center}}
 
