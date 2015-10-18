@@ -1,7 +1,7 @@
 LATEX = xelatex
 PDFJOIN = pdfjoin
 
-all: commonmoves.pdf cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf glossary.pdf
+all: commonmoves.pdf cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf glossary.pdf gmsheet.pdf
 
 %.pdf: %.tex playbook.tex
 	$(LATEX) $<
