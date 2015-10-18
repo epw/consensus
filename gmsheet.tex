@@ -1,6 +1,6 @@
 \documentclass[letterpaper,10pt]{article}
 \setlength{\topmargin}{-1in}
-\setlength{\textheight}{9.25in}
+\setlength{\textheight}{9.5in}
 \setlength{\oddsidemargin}{.125in}
 \setlength{\textwidth}{6in}
 
@@ -9,6 +9,8 @@
 \usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage{enumitem}
+
+\pagenumbering{gobble}
 
 \setmainfont [Path = fonts/,
   UprightFont = Aller_Rg.ttf,
@@ -20,7 +22,7 @@
 ]{Kingthings}
 
 \newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
-\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\large\textbf{#1}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
 
 }
 
@@ -32,24 +34,23 @@
 \TITLE{The GM}
 
 \SECTION{Agenda}
-\vspace{-1.5em}
+\begin{center}
 \textbf{
- \begin{itemize}
-  \item Make the players' characters' lives full of challenges,
-    obstacles, and some opportunity
-  \item Play to find out what happens
-  \item Ask what it means to be human
-  \item Make the Consensus real
-  \end{itemize}
+Make the players' characters' lives full of challenges, obstacles, and
+some opportunity \textbullet
+Play to find out what happens \textbullet
+Ask what it means to be human \textbullet
+Make the Consensus real \textbullet
 }
+\end{center}
 
 \SECTION{Always Say}
-\begin{itemize}
-\item What the principles demand.
-\item What the rules demand
-\item What your prep demands
-\item What honesty demands
-\end{itemize}
+\begin{center}
+What the principles demand \textbullet
+What the rules demand \textbullet
+What your prep demands \textbullet
+What honesty demands \textbullet
+\end{center}
 
 \SECTION{The Principles}
 \begin{itemize}
