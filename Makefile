@@ -1,7 +1,9 @@
 LATEX = xelatex
 PDFJOIN = pdfjoin
 
-all: commonmoves.pdf cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf glossary.pdf gmsheet.pdf
+ALL_PLAYBOOKS = cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
+
+all: commonmoves.pdf $(ALL_PLAYBOOKS) glossary.pdf gmsheet.pdf all_playbooks.pdf
 
 %.pdf: %.tex playbook.tex
 	$(LATEX) $<
@@ -14,8 +16,6 @@ extendedmoves.pdf: extendedmoves.tex moves.tex
 
 commonmoves.pdf: basicmoves.pdf extendedmoves.pdf
 	$(PDFJOIN) basicmoves.pdf extendedmoves.pdf --outfile commonmoves.pdf
-
-ALL_PLAYBOOKS = cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
 all_playbooks.pdf: $(ALL_PLAYBOOKS)
 	$(PDFJOIN) $(ALL_PLAYBOOKS) --outfile all_playbooks.pdf
