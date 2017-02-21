@@ -68,8 +68,8 @@ Will +1, Wits +2, Charm +0, Grace +1, Body -1
 \renewcommand{\Moves}{
   \DEFAULTMOVE{Strong Avatar}{You may roll +Will instead of +Body when
     you {\bf Exert Yourself} on the world in a magical manner.}
-  \DEFAULTMOVE{What Doesn't Kill You}{When your wounds advance from
-    pushing yourself too hard, mark experience.}
+  \DEFAULTMOVE{What Doesn't Kill You}{The first time during a session
+    your Health hits Code 30, mark experience.}
   \MOVE{Harvest}{When you \TRIGGER{Rip the Power from a Being} roll
     +Will. On a 10+ choose 3, on a 7-9 choose 1.
     \begin{itemize}
@@ -88,6 +88,10 @@ Will +1, Wits +2, Charm +0, Grace +1, Body -1
   \MOVE{Serendipity}{Once per session, when you \TRIGGER{Use Magic to
       Fix it}, you may choose none of the options.}
 }
+\renewcommand{\SpecialMoveSpacing}{5em}
+\renewcommand{\SpecialMove}{you each hold 1. You can each spend that
+  hold at any time to help or hinder each other, no matter the
+  barriers or distance between you.}
 \renewcommand{\Paradigms}{
   \PARADIGM{Blood is the Strongest Sympathy}{Healing, Curses,
     Sympathy}{Choose one: Restoration, Mind-affecting magic}\

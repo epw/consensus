@@ -112,6 +112,8 @@
 
   \MOVE{STRENGTH OF}{A RAGING FIRE}
 }
+\newcommand{\SpecialMoveSpacing}{1em}
+\newcommand{\SpecialMove}{PUT ON YOUR ROBE AND WIZARD HAT}
 \newcommand{\Paradigms}{(\textbackslash Paradigms)
 
   \PARADIGM{JEDI CODE}{LIVING FORCE, UNIFYING FORCE}{CHOOSE ONE: USING
@@ -133,7 +135,7 @@
 \newcommand{\StatsSpace}{1em}
 \newcommand{\StatsSpaceAdjust}{0em}
 \newcommand{\MoveSpacing}{1em}
-\newcommand{\MovesSpace}{33em}
+\newcommand{\MovesSpace}{0em}
 \newcommand{\PaneFiveSpace}{50em}
 
 
@@ -255,6 +257,13 @@
     \setlength\itemsep{\MoveSpacing}
 
     \Moves
+
+    \vspace{\SpecialMoveSpacing}
+
+    \rule{9cm}{.1pt}
+
+    \item[\FILLED{.25}] When you and another character \TRIGGER{exchange
+    a moment of humanity}, \SpecialMove
 
   \end{itemize}
 
