@@ -1,10 +1,14 @@
-The biggest problem is that we would like to replace Secrets and
-Highlighting. Secrets are a somewhat clunky system, though they have
-provided good character backstory connections, and Highlighting isn't
-terribly interesting or thematic as a way to gain XP (and also, PCs
-have been gaining XP surprisingly quickly if they try).
+#The biggest problem is that we would like to replace Secrets and
+#Highlighting. Secrets are a somewhat clunky system, though they have
+#provided good character backstory connections, and Highlighting isn't
+#terribly interesting or thematic as a way to gain XP (and also, PCs
+#have been gaining XP surprisingly quickly if they try).
+This has been fixed by changing Secrets to Anchors, and changing Highlighting to Flags
 
-Aligned/unaligned magic doesn't seem great.
 
-It is seeming like we need some kind of simple "money/other nonmagical
-resources" abstraction.
+#Aligned/unaligned magic doesn't seem great.
+This was fixed by adding a bonus to Aligned, rather than a detriment to unaligned
+
+#It is seeming like we need some kind of simple "money/other nonmagical
+#resources" abstraction.
+Introduced Savings
