@@ -83,12 +83,20 @@
 \item MUSHROOM
 \item BULWAGGA
 }
+\newcommand{\GearDirection}{See ``Starting Gear'' section on reverse side.}
 \newcommand{\Gear}{
 \item (\textbackslash Gear)
 \item A SMALL LOAN OF 1 MILLION SAVINGS
 \item A SET OF POLITICAL CAMPAIGN BUTTONS
 \item 56 CATS
 \item FIFTY WHEELS OF CHEESE
+}
+\newcommand{\GearSection}{
+  \SECTION{Starting Gear:}
+  \begin{itemize}
+    \setlength\itemsep{-.5em}
+    \Gear
+  \end{itemize}
 }
 \newcommand{\BasicAdvancements}{
 \item (\textbackslash BasicAdvancements)
@@ -186,11 +194,7 @@
     \Anchors
   \end{itemize}
 
-  \SECTION{Starting Gear:}
-  \begin{itemize}
-    \setlength\itemsep{-.5em}
-    \Gear
-  \end{itemize}
+  \SECTION{Starting Gear:} \GearDirection
 
   \begin{minipage}[t]{0.4\textwidth}
     \STAT{Will}
