@@ -43,6 +43,7 @@ Will +0, Wits -1, Charm +1, Grace +1, Body +2
 \item No major possessions to speak of, but 3 Savings tucked away for a rainy day.
 \end{itemize}
 }
+\renewcommand{\MaxAdvancementAnchors}{3}
 \renewcommand{\BasicAdvancements}{
 \item Gain +1 Body (Maximum Body +3)
 \item Gain +1 Grace (Maximum Grace +3)
@@ -70,25 +71,26 @@ Will +0, Wits -1, Charm +1, Grace +1, Body +2
       surplus and a want. On a 6-, they will do everything in their
       power to satisfy all their wants.}
   \MOVE{Meditation}{When you \TRIGGER{meditate on the best course of
-      action} for at least an hour, roll +Wits. On a 10+ hold 3, on a
-    7-9 hold 1. You may spend this hold 1-for-1 to ask the GM a
-    question from this list, the GM will answer truthfully. You take
-    +1 forward when acting on this information.
+      action} for considerable time, roll +Wits. On a 10+ hold 3, on a
+    7-9 hold 1. You may spend this hold 1-for-1 at any time to ask the
+    GM a question from this list, the GM will answer truthfully. You
+    take +1 forward when acting on this information.
     \begin{itemize}
     \item What's my escape route? 
-    \item How dangerous is this plan? 
-    \item What here is most useful to me? 
-    \item What here is the most dangerous?
+    \item What are the unknowable risks?
+    \item Where can the Consensus be bent in my favor?
+    \item Who is favorable towards my plan?
     \end{itemize}
   }
   \MOVE{Dojo}{You have a Place of Power where you train your
     students. While you are within your Place of Power, take +1
     forward to any Grace or Body rolls you make.}
-  \MOVE{My Body is a Weapon}{No matter what the circumstances, even if
-    magic is hard or nigh-impossible, or you are disarmed, you may
-    always attempt to Exert Yourself on the world.}
   \MOVE{Matter over Mind}{You may roll +Body instead of +Charm when
     Demonstrating Magical Superiority}
+  \MOVE{What you Need, not what you Want}{When another character comes
+    to you for advice and you \TRIGGER{tell them honestly what you
+      think the best course of action is}, they take +1 ongoing while
+    following your advice, and you mark experience.}
 }
 \renewcommand{\SpecialMoveSpacing}{10em}
 \renewcommand{\SpecialMove}{they may immediately gain an Anchor (They
@@ -116,10 +118,10 @@ Will +0, Wits -1, Charm +1, Grace +1, Body +2
   \begin{itemize}
   \item Your students are competitive (replace want: departure with
     want: competition)
-  \item Your students are dedicated (replace surplus: time with
-    surplus: advanced students)
   \item Your students are driven (replace surplus: time with surplus:
     dedication)
+  \item Your students are enthusiastic (replace surplus: time with
+    surplus: energy)
   \item Your students are lazy (replace want: departure with want:
   sloth)
   \end{itemize}
@@ -129,8 +131,7 @@ Will +0, Wits -1, Charm +1, Grace +1, Body +2
   \item Your school is famous (add surplus: growth and want: infamy)
   \item Your school is large (default students 20)
   \item Your students are quick learners (+1 learning)
-  \item You have a protege.
-  \item Your most advanced student is Awakened 
+  \item You have a protege; your most advanced student is Awakened
   \item Your students are rowdy (add want: violence and surplus:
     intimidation)
   \end{itemize}

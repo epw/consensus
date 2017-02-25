@@ -60,13 +60,8 @@ Will +1, Wits +0, Charm +2, Grace -1, Body +1}
 \renewcommand{\MovesSpace}{10em}
 \renewcommand{\Moves}{
 \DEFAULTMOVE{Gossamer Threads}{When you try to \TRIGGER{Sway the Cabal} to
-  your chosen course of action, roll +Charm. On a 10+, all 3, on a 7-9
-  choose 1.
-  \begin{itemize}
-  \item They do what you want
-  \item The don't fight back over it
-  \item You don't have to give something they want
-  \end{itemize}
+  your chosen course of action, roll +Charm. On a 10+, they do what
+  you want, on a 7-9, you have to give them something they want.
 }
 
 \MOVE{Sanctum}{Your Cabal has a Place of Power at which they meet and
@@ -91,10 +86,11 @@ Will +1, Wits +0, Charm +2, Grace -1, Body +1}
 
 \MOVE{We're Not So Different}{When you explain your paradigm to
   another mage in order to \TRIGGER{aid} them in doing magic that is
-  opposed to their paradigm, you both mark experience.}
+  opposed to their paradigm, roll +Wits. On a hit, the magic is not
+  opposed, this time. On a 10+, you both mark experience.}
 
-\MOVE{Brute Force and Ignorance}{When you \TRIGGER{impose your will}
-  on someone, you may roll Body instead of Will.}
+%\MOVE{Brute Force and Ignorance}{When you \TRIGGER{impose your will}
+%  on someone, you may roll Body instead of Will.}
 }
 \renewcommand{\SpecialMoveSpacing}{2em}
 \renewcommand{\SpecialMove}{roll +Grace. On a 10+ you may each
