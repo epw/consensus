@@ -1,4 +1,6 @@
 \documentclass[legalpaper,10pt,notumble]{leaflet}
+\setlength{\topmargin}{-0.75in}
+\setlength{\textheight}{8in}
 
 \usepackage{xltxtra}
 \usepackage{color}
@@ -146,8 +148,8 @@
 }
 \newcommand{\PaneSix}{\Description}
 
-\newcommand{\PictureSpace}{12em}
-\newcommand{\StatsSpace}{1em}
+\newcommand{\PictureSpace}{15em}
+\newcommand{\StatsSpace}{4em}
 \newcommand{\StatsSpaceAdjust}{0em}
 \newcommand{\MoveSpacing}{1em}
 \newcommand{\MovesSpace}{0em}
@@ -187,16 +189,17 @@
   \item \Auras
   \end{itemize}
 
+  \SECTION{Paradigm:} Choose a Paradigm from the reverse side
+  
+  \SECTION{Moves:}
+  \MoveExplanation
+
   \SECTION{Stats:}
 
   {\footnotesize
 
     \Stats
   }
-
-  \SECTION{Moves:}
-  \MoveExplanation
-
   
   \SECTION{Anchors:} (Choose \AnchorNumber)
   \begin{itemize}
@@ -207,6 +210,8 @@
 
   \SECTION{Starting Gear:} \GearDirection
 
+  \filbreak
+  
   \begin{minipage}[t]{0.4\textwidth}
     \STAT{Will}
 
