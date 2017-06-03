@@ -1,0 +1,119 @@
+\documentclass[letterpaper,10pt]{article}
+\setlength{\topmargin}{-1in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{-.25in}
+\setlength{\textwidth}{7in}
+\setlength{\parindent}{0pt}
+
+\setcounter{secnumdepth}{-1}
+
+\usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{pgfpages}
+\usepackage{tikz}
+
+\pgfpagesuselayout{4 on 1}[letterpaper, border shrink=5mm]
+%\pgfpageslogicalpageoptions{1}{border code=\pgfusepath{stroke}}
+%\pgfpageslogicalpageoptions{2}{border code=\pgfusepath{stroke}}
+%\pgfpageslogicalpageoptions{3}{border code=\pgfusepath{stroke}}
+%\pgfpageslogicalpageoptions{4}{border code=\pgfusepath{stroke}}
+
+\pagenumbering{gobble}
+
+\setmainfont [Path = fonts/,
+  UprightFont = Aller_Rg.ttf,
+  BoldFont = Aller_Bd.ttf,
+  ItalicFont = Aller_It.ttf
+]{Aller}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+]{Kingthings}
+
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
+  
+}
+\newcommand{\TEXTBULLET}{\textbullet\hspace{.5ex}}
+
+\newcommand{\LABELEDBLANK}[2]{\raisebox{-\baselineskip}{\shortstack[l]{\underline{\hspace{#2}}\\#1}}}
+\newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
+
+\setlist[itemize]{topsep=0pt}
+\setlist[itemize]{itemsep=0pt}
+
+\newlength{\paradigmlines}
+\setlength{\paradigmlines}{0.2\textwidth}
+
+\newcommand{\PAGE}{\begin{flushright}
+  \BOX{0.5} \hspace{1ex} Attention
+\end{flushright}
+
+\bigskip
+
+\LABELEDBLANK{Name}{0.3\textwidth}
+\hspace{0.05\textwidth}
+\LABELEDBLANK{Playbook}{0.3\textwidth}
+\hspace{0.05\textwidth}
+\LABELEDBLANK{Player}{0.3\textwidth}
+
+\bigskip
+
+Why was your humanity trivialized?
+
+\bigskip
+
+Why is your humanity still in question?
+
+\bigskip
+
+Why are you hunted?
+
+\bigskip
+
+\bigskip
+
+\LABELEDBLANK{Paradigm}{0.5\textwidth}
+\hspace{0.05\textwidth}
+\LABELEDBLANK{Aligned}{\paradigmlines}
+\hspace{0.05\textwidth}
+\LABELEDBLANK{Opposed}{\paradigmlines}
+
+\bigskip
+
+\bigskip
+
+\LABELEDBLANK{Aura}{0.2\textwidth}
+\hspace{0.6\textwidth}
+\LABELEDBLANK{Opposed}{\paradigmlines}
+
+\SECTION{Anchors and Stressors:}
+
+\vspace{15em}
+
+\SECTION{Moves:}
+
+\bigskip
+
+\SECTION{Notes:}
+
+}
+
+\begin{document}
+
+\PAGE
+
+\newpage
+
+\PAGE
+
+\newpage
+
+\PAGE
+
+\newpage
+
+\PAGE
+
+\end{document}
