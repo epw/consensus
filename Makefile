@@ -3,7 +3,7 @@ PDFJOIN = pdfjoin
 
 ALL_PLAYBOOKS = cabalist.pdf guru.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
-all: commonmoves.pdf $(ALL_PLAYBOOKS) glossary.pdf mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf
+all: commonmoves.pdf $(ALL_PLAYBOOKS) glossary.pdf mcsheet.pdf pcsummaries.pdf stressors.pdf living.pdf all_playbooks.pdf
 
 %.pdf: %.tex playbook.tex
 	$(LATEX) $<
