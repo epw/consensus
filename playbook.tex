@@ -27,8 +27,8 @@
 
 \setcounter{secnumdepth}{-1}
 
-\newenvironment{runlist}
- {\par\renewcommand\item{\unskip\ifvmode\else, \fi}}
+\newenvironment{runlist}[1][,]
+ {\par\renewcommand\item{\unskip\ifvmode\else#1 \fi}}
  {\par}
  
 \newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
