@@ -26,6 +26,10 @@
 
 \setcounter{secnumdepth}{-1}
 
+\newenvironment{runlist}
+ {\par\renewcommand\item{\unskip\ifvmode\else, \fi}}
+ {\par}
+ 
 \newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
 \newcommand{\SECTION}[1]{\vspace{.25em}{\titlefont\large\textbf{#1}}}
 \newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
@@ -69,16 +73,8 @@
   CLOTHES, FISH CLOTHES, DEEPDREAM CLOTHES}
 \newcommand{\Auras}{(\textbackslash Auras) IRRITATING AURA, POISON
   AURA, AURA OF .HACK}
-\newcommand{\Stats}{(\textbackslash Stats)
-
-  WILL -1, WITS -1, CHARM -1, GRACE -1, BODY -1
-
-  WILL +0, WITS +0, CHARM +0, GRACE +0, BODY +0
-
-  WILL +1, WITS +1, CHARM +1, GRACE +1, BODY +1
-
-  WILL +2, WITS +2, CHARM +2, GRACE +2, BODY +2
-}
+\newcommand{\Stats}{Arrange +2, +1, +0, +0, -1}
+\newcommand{\NewStats}{Arrange +2, +1, +0, +0, -1}
 \newcommand{\AnchorNumber}{(\textbackslash AnchorNumber)}
 \newcommand{\Anchors}{
 \item (\textbackslash Anchors)
@@ -87,6 +83,42 @@
 \item GRAPNEL
 \item MUSHROOM
 \item BULWAGGA
+}
+\newcommand{\AnchorTrack}{50 40 / 30 20 10 N}
+\newcommand{\HomeAnchorItems}{
+\item \textbackslash HomeAnchorItems
+\item HOME IS WHERE THE HEART IS
+\item SO YOUR REAL HOME'S IN YOUR CHEST
+}
+\newcommand{\ConnectionAnchorItems}{
+\item \textbackslash ConnectionAnchorItems
+\item JUST YOUR ORDINARY DEMI-GUY
+\item FORD PREFECT, WAITER AND ASPIRING ACTOR
+}
+\newcommand{\MemoryAnchorItems}{
+\item \textbackslash MemoryAnchorItems
+\item A VISION SOFTLY CREEPING
+\item A HOLIDAY HOLE
+}
+\newcommand{\AnchorLayout}[1]{
+  \begin{runlist}
+%    \setlength\itemsep{-.5em}
+%    \renewcommand{\labelitemi}{$\circ$}
+    #1
+  \end{runlist}
+  \AnchorTrack \hspace{1ex} Stressor: \BLANK
+}
+\newcommand{\HomeAnchor}{Humans need shelter, a place to live, and a
+  home to come back to. My Home Anchor is: (pick one)
+  \AnchorLayout{\HomeAnchorItems}
+}
+\newcommand{\ConnectionAnchor}{Humans need connection, people they care
+  about, or that care about them. My Connection Anchor is: (pick one)
+  \AnchorLayout{\ConnectionAnchorItems}
+}
+\newcommand{\MemoryAnchor}{Humans need memories, ties to the past and
+  dreams of the future. My Memories Anchor is: (pick one)
+  \AnchorLayout{\MemoryAnchorItems}
 }
 \newcommand{\GearDirection}{See ``Starting Gear'' section on reverse side.}
 \newcommand{\Gear}{
@@ -181,35 +213,35 @@
   \SECTION{Why are you hunted?} \Hunted
   
   \SECTION{Looks:}
-  \begin{itemize}
-    \setlength\itemsep{-.5em}
-  \item \Presentation
-  \item \Eyes
-  \item \Faces
-  \item \Bodies
-  \item \Clothes
-  \item \Auras
-  \end{itemize}
-
+  {\footnotesize
+    \begin{itemize}
+      \setlength\itemsep{-.5em}
+    \item \Presentation
+    \item \Eyes
+    \item \Faces
+    \item \Bodies
+    \item \Clothes
+    \item \Auras
+    \end{itemize}
+  }
+  
   \SECTION{Paradigm:} Choose a Paradigm from the reverse side
   
   \SECTION{Moves:}
   \MoveExplanation
 
-  \SECTION{Stats:}
-
-  {\footnotesize
-
-    \Stats
-  }
+  \SECTION{Stats:} \NewStats
   
-  \SECTION{Anchors:} (Choose \AnchorNumber) \hfill \SECTION{Stressors}
-  \begin{itemize}
-    \setlength\itemsep{-.5em}
-    \renewcommand{\labelitemi}{$\circ$}
-    \Anchors
-  \end{itemize}
+  \SECTION{Anchors:}
+          {\footnotesize
+            
+            \HomeAnchor
 
+            \ConnectionAnchor
+
+            \MemoryAnchor
+          }
+  
   \SECTION{Starting Gear:} \GearDirection
 
   \filbreak
