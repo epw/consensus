@@ -1,3 +1,4 @@
+\input{common.tex}
 \documentclass[legalpaper,10pt,notumble]{leaflet}
 \setlength{\topmargin}{-0.75in}
 \setlength{\textheight}{8in}
@@ -35,7 +36,6 @@
 \newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
 \newcommand{\FILLED}[1]{\tikz{\path[fill=black] (0,0) rectangle(#1cm,#1cm);}}
 \newcommand{\STAT}[1]{\BOX{1} \hspace{1ex} #1}
-\newcommand{\BLANK}{\underline{\hspace{3cm}}}
 \newcommand{\BLANKSIZED}[1]{\underline{\hspace{#1}}}
 \newcommand{\MOVE}[2]{\item[\BOX{.25}] \textbf{#1:} #2}
 \newcommand{\DEFAULTMOVE}[2]{\item[\FILLED{.25}] \textbf{#1:} \textit{(You
