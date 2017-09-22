@@ -10,6 +10,9 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{multicol}
+\usepackage{textpos}
+\usepackage{rotating}
+\usepackage[usenames, dvipsnames]{color}
 
 \pagenumbering{gobble}
 
@@ -79,6 +82,12 @@ What honesty demands
 
 \begin{multicols}{2}
 \SECTION{Your Moves}
+\begin{textblock}{1}(-.5,1)
+\begin{sideways}
+\color{Gray}
+{\large Harder $\rightarrow$}
+\end{sideways}
+\end{textblock}
 \begin{itemize}
 \item Make them Backlash
 \item Deal damage
@@ -110,6 +119,12 @@ What honesty demands
 \item Tell them the possible consequences and ask
 \item After every move: ``what do you do?''
 \end{itemize}
+\begin{textblock}{1}(0,-2)
+\begin{sideways}
+\color{Gray}
+{\large $\leftarrow$ Softer}
+\end{sideways}
+\end{textblock}
 \columnbreak
 
 \SECTION{Scene-Framing Techniques}
