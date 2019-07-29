@@ -101,6 +101,8 @@ Maybe you’ve felt like you realized something about the world, and you’ve be
 
 # The Characters
 
+{{StartCabalist}}
+
 ## The Cabalist
 
 In a world where mages are solitary islands of power, shaping reality in loneliness, you have a group of people who understand you.
@@ -113,15 +115,12 @@ In a world where mages are solitary islands of power, shaping reality in lonelin
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - bright eyes, shifty eyes, blue eyes, wary eyes, knowing eyes, quick eyes
 - blustery face, youthful face, calm face, hidden face, mysterious face
 - rigid body, slight body, tattooed body, plain body, angled body, musty body
 - formal clothes, billowy clothes, modest clothes, roomy clothes
-- self-important aura, tight aura, foggy aura, woven aura, silver aura, austere
-aura
+- self-important aura, tight aura, foggy aura, woven aura, silver aura, austere aura
 
 ### Paradigms
 
@@ -244,6 +243,7 @@ A Ritual performed here will never (choose 1):
 - Get an Advanced Cabalist Move
 - Remove a weakness from your Place of Power
 
+{{EndCabalist}}
 
 ## The Mentor
 
@@ -1195,7 +1195,6 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Pick a playbook move from another playbook
 - Gain +1 Wits (max Wits +3)
 - Get an Advanced Wayfarer Move
-
 
 \newpage
 
@@ -2196,7 +2195,7 @@ Force Status Tracks can also be reset, if they are given a major setback. This m
 
 ## Consensus Shift
 
-With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the Advanced Moves section of the Improvement chapter (see page XX), and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
+With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the {{linkAdvanced Moves}} section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
 
 \newpage
 
@@ -2731,6 +2730,8 @@ A character becomes Untethered when they have more Inspirations than they do Anc
 #### (Special) Remove a Restriction from your Paradigm
 
 This is the same advancement as the one-time advancement from Tier 1, but as it is notated with an asterisk, can be taken any number of times while Untethered.
+
+{{anchorAdvanced Moves}}
 
 ### Advanced Moves
 
