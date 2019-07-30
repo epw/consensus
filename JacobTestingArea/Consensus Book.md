@@ -628,7 +628,7 @@ You know the true meaning of sacrifice. It isn't something dramatic or grandiose
 **Name:** Joan, Ether, Miranda, Brother Wilhelm, Francis, Emira, Marja, Ingrid, Bernard, Rishi, Sister Eliza
 
 **Why was your humanity trivialized?** Because of my beliefs, because of my family ties, because I couldn't keep up  
-**Why is your humanity still in question?** Because I keep screwing up, beccause I can't keep my mouth shut, because of my anger  
+**Why is your humanity still in question?** Because I keep screwing up, because I can't keep my mouth shut, because of my anger  
 **Why are you hunted?** Because I break the Rules, for my beliefs, for the Truth
 
 **Looks:**
@@ -645,7 +645,7 @@ presentation, transgressing presentation
 ### Paradigms
 
 #### All is One and the One is All
-**Aligned:** (choose one) Pattern magic, cooperative magic  
+**Aligned:** (choose one) Pattern magic, cooperative magic , creation 
 **Opposed:** (choose one) Selfish magic, magic that divides  
 (choose one) Magic without Faith, magic that doesn't involve people
 
@@ -698,8 +698,8 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 - 1 Savings
 - Choose a way of strengthening bonds: An altar, complete with spiritual accoutrements; A branch from the Oath Tree; A table at the best restaurant in this half of the city; A hand-woven prayer mat.
-- Choose a ritual supply that you have a small stock of: Holy Water; Incense from a far-away place; Rare herbs; Preserved animal bones; Graveyard dirt; Specially prepared ink and paper
-- Choose a creature comfort: A hotel of the month club membership; A bottle of 18 year Macallan; A luxurious bathrobe and slippers; A set of high-end noise-cancelling headphone
+- Choose a ritual supply that you have a small stock of: Holy Water; Incense from a far-away place; Rare herbs; Preserved animal bones; Graveyard dirt; Specially prepared ink and paper.
+- Choose a creature comfort: A hotel of the month club membership; A bottle of 18 year Macallan; A luxurious bathrobe and slippers; A set of high-end noise-cancelling headphones.
 
 ### Place of Power
 

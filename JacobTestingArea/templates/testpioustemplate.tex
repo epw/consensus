@@ -6,7 +6,8 @@
 \renewcommand{\Description}{\VAR{description}}
 \renewcommand{\Names}{\VAR{names}}
 \renewcommand{\Trivialized}{\VAR{question1} \BLANK}
-\renewcommand{\Hunted}{\VAR{question2} \BLANK}
+\renewcommand{\Questioned}{\VAR{question2} \BLANK}
+\renewcommand{\Hunted}{\VAR{question3} \BLANK}
 
 \renewcommand{\Eyes}{\VAR{eyes}}
 \renewcommand{\Faces}{\VAR{faces}}
@@ -70,7 +71,7 @@
 \item \VAR{item}
 
 \BLOCK{- endfor -}
-
+\end{itemize}
 \BLOCK{- endif -}}
 
 \BLOCK{ endfor -}}
@@ -81,8 +82,11 @@
 \renewcommand{\Paradigms}{
 \BLOCK{ for paradigm in paradigms }
   \PARADIGM{\VAR{paradigm['name']}}{\VAR{paradigm['aligned']}}\
+  
            {\VAR{paradigm['opp1']}}\
+		   
            {\VAR{paradigm['opp2']}}
+		   
 \BLOCK{ endfor }
 }
 

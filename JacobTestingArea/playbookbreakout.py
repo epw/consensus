@@ -114,7 +114,7 @@ def playbookdata(name):
 	playbook = playbooktext[0][3:][:-1]
 	playbooks[playbook] = Playbook()
 	p = playbooks[playbook]
-	p.name = playbook
+	p.name = playbook[4:]
 	p.description = playbookdescription
 	
 	for line in playbooktext:
@@ -122,11 +122,11 @@ def playbookdata(name):
 		if line.startswith('**Name:**'):
 			p.names = line[:-1]
 		if line.startswith('**Why was your humanity trivialized?**'):
-			p.question1 = line[:-1]
+			p.question1 = line[39:-1]
 		if line.startswith('**Why is your humanity still in question?**'):
-			p.question2 = line[:-1]
+			p.question2 = line[44:-1]
 		if line.startswith('**Why are you hunted?**'):
-			p.question3 = line[:-1]
+			p.question3 = line[24:-1]
 		if line.startswith('**Looks:**'):
 			in_looks = True
 		if line.startswith('### '):
@@ -188,7 +188,7 @@ def playbookdata(name):
 			p.add_paradigm()
 			p.paradigms[num_of_paradigms]['name'] = line[5:-1]
 		elif line.startswith('**Aligned'):
-			p.paradigms[num_of_paradigms]['aligned'] = line[13:-1]
+			p.paradigms[num_of_paradigms]['aligned'] = line[26:-1]
 		elif line.startswith('**Opposed'):
 			p.paradigms[num_of_paradigms]['opp1'] = line[13:-1]
 		elif not line == '\n':
@@ -286,7 +286,7 @@ def playbookdata(name):
 	in_advanced = False
 	advanced = []
 	for line in advancements[2:]:
-		if line.startswith('- (*)'):
+		if line.startswith('- Remove a Restriction from your Paradigm'):
 			in_basic = False
 		if in_basic:
 			p.advancements['basic'].append(line[2:][:-1])
@@ -329,9 +329,9 @@ def playbookdata(name):
 			if line.startswith('-'):
 				p.place_of_power['First, pick a facade:'].append(line[2:][:-1])
 		if line.startswith('Then pick up to 1 Strength'):
-			p.place_of_power['Then pick up to 1 Strength:'] = (line.split('+')[1:])[:-1]
+			p.place_of_power['Then pick up to 1 Strength:'] = (line.split('+')[1:])
 		if line.startswith('Pick at least 1 Weakness:'):
-			p.place_of_power['Pick at least 1 Weakness:'] = (line.split('+')[1:])[:-1]
+			p.place_of_power['Pick at least 1 Weakness:'] = (line.split('+')[1:])
 		if line.startswith('A Ritual performed here will never (choose 1):'):
 			in_rit = True
 		if in_rit:

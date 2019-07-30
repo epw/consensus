@@ -1,12 +1,13 @@
 % -*- Mode: latex -*-
 \input{playbook.tex}
 
-\renewcommand{\Name}{The Pious}
+\renewcommand{\Name}{Pious}
 \renewcommand{\Picture}{Pious-new.jpg}
 \renewcommand{\Description}{You know the true meaning of sacrifice. It isn't something dramatic or grandiose, sometimes it just means going without sleep so you can stake out the fields that cows keep disappearing from. There's Something larger than just you, and choosing that over your own needs, that's sacrifice.}
 \renewcommand{\Names}{Joan, Ether, Miranda, Brother Wilhelm, Francis, Emira, Marja, Ingrid, Bernard, Rishi, Sister Eliza}
-\renewcommand{\Trivialized}{**Why was your humanity trivialized?** Because of my beliefs, because of my family ties, because I couldn't keep up   \BLANK}
-\renewcommand{\Hunted}{**Why is your humanity still in question?** Because I keep screwing up, beccause I can't keep my mouth shut, because of my anger   \BLANK}
+\renewcommand{\Trivialized}{Because of my beliefs, because of my family ties, because I couldn't keep up   \BLANK}
+\renewcommand{\Questioned}{Because I keep screwing up, because I can't keep my mouth shut, because of my anger   \BLANK}
+\renewcommand{\Hunted}{Because I break the Rules, for my beliefs, for the Truth \BLANK}
 
 \renewcommand{\Eyes}{caring eyes, quiet eyes, intense eyes, small eyes, inspired eyes, hard eyes}
 \renewcommand{\Faces}{youthful face, lined face, sharp face, round face, marred face, open face}
@@ -32,9 +33,9 @@
 
 \item Choose a way of strengthening bonds: An altar, complete with spiritual accoutrements; A branch from the Oath Tree; A table at the best restaurant in this half of the city; A hand-woven prayer mat.
 
-\item Choose a ritual supply that you have a small stock of: Holy Water; Incense from a far-away place; Rare herbs; Preserved animal bones; Graveyard dirt; Specially prepared ink and paper
+\item Choose a ritual supply that you have a small stock of: Holy Water; Incense from a far-away place; Rare herbs; Preserved animal bones; Graveyard dirt; Specially prepared ink and paper.
 
-\item Choose a creature comfort: A hotel of the month club membership; A bottle of 18 year Macallan; A luxurious bathrobe and slippers; A set of high-end noise-cancelling headphone
+\item Choose a creature comfort: A hotel of the month club membership; A bottle of 18 year Macallan; A luxurious bathrobe and slippers; A set of high-end noise-cancelling headphones.
 
 }
 \renewcommand{\StatsSpaceAdjust}{0em}
@@ -44,7 +45,6 @@
 \item Gain +1 Will (Maximum Will +2)
 \item Gain +1 Wits (Maximum Wits +2)
 \item Get a new Pious move
-\item Remove a Restriction from your Paradigm
 }
 \renewcommand{\SpecialAdvancements}{
 \item Get a new Pious move
@@ -68,7 +68,7 @@
 \item Who here has the most potential?
 \item Who can I trust?
 \item What am I not seeing?
-\item Who is telling the truth?}
+\item Who is telling the truth?\end{itemize}}
 
 \MOVE{Sanctuary}{You have access to a Place of Power, a safe haven against things that would harm servants of your Path.\TRIGGER{}}
 
@@ -79,7 +79,7 @@
 \setlength\itemsep{-.5em}
 \item You expose yourself to possession
 \item The spirit is ill-disposed towards you
-\item The inhabited subject is harmed.}
+\item The inhabited subject is harmed.\end{itemize}}
 
 \MOVE{Holy Avenger}{You have a weapon, enchanted and attuned to your beliefs. When you \TRIGGER{use it to bring death}, justify why this is necessary, and roll +Entropic. On a hit, you may incapacitate or kill any one opponent on the battlefield. On a 7-9, they have a chance to react first, but can't stop you. On a 6-, they were prepared. Sucks to be you.}
 
@@ -89,12 +89,18 @@
 \renewcommand{\SpecialMove}{roll +nothing. On a 10+, either you or they lose one Discord, their choice. On a 7-9, they choose whether to transfer one Discord from you to them or from them to you.}
 
 \renewcommand{\Paradigms}{
-  \PARADIGM{All is One and the One is All}{(choose one) Pattern magic, cooperative magic  }\
+  \PARADIGM{All is One and the One is All}{Pattern magic, cooperative magic , creation }\
+  
            {(choose one) Selfish magic, magic that divides  }\
+		   
            {(choose one) Magic without Faith, magic that doesn't involve people}
-  \PARADIGM{I am the New Prophet}{(choose one) Visions of the Future, Forging a Destiny  }\
+		   
+  \PARADIGM{I am the New Prophet}{Visions of the Future, Forging a Destiny  }\
+  
            {(choose one) Things at rest, Abjuration  }\
+		   
            {(choose one) Changing the Future you Know, Hiding the Truth}
+		   
 }
 
 \renewcommand{\PaneSix}{\Description
@@ -118,6 +124,8 @@
 +famous, 
 +private, 
 +unique, 
++awakened spirit
+
 
   Pick at least 1 Weakness: 
 +inaccessible, 
@@ -126,6 +134,8 @@
 +tainted 
 +exposed, 
 +business hours, 
++cramped
+
 
   A Ritual performed here will never (choose 1):
   \begin{itemize}
