@@ -110,7 +110,7 @@ def playbookdata(name):
 			break
 			
 	playbooktext = playbookstext[startnum:endnum]
-	playbookdescription = playbooktext[2]
+	playbookdescription = playbooktext[2][:-1]
 	playbook = playbooktext[0][3:][:-1]
 	playbooks[playbook] = Playbook()
 	p = playbooks[playbook]
@@ -120,13 +120,13 @@ def playbookdata(name):
 	for line in playbooktext:
 		z+=1
 		if line.startswith('**Name:**'):
-			p.names = line
+			p.names = line[:-1]
 		if line.startswith('**Why was your humanity trivialized?**'):
-			p.question1 = line
+			p.question1 = line[:-1]
 		if line.startswith('**Why is your humanity still in question?**'):
-			p.question2 = line
+			p.question2 = line[:-1]
 		if line.startswith('**Why are you hunted?**'):
-			p.question3 = line
+			p.question3 = line[:-1]
 		if line.startswith('**Looks:**'):
 			in_looks = True
 		if line.startswith('### '):
@@ -169,17 +169,17 @@ def playbookdata(name):
 		
 	for line in looks:
 		if 'presentation' in line:
-			p.presentation = line[2:]
+			p.presentation = line[2:-1]
 		if 'eyes' in line:
-			p.eyes = line[2:]
+			p.eyes = line[2:-1]
 		if 'face' in line:
-			p.faces = line[2:]
+			p.faces = line[2:-1]
 		if 'body' in line:
-			p.bodies = line[2:]
+			p.bodies = line[2:-1]
 		if 'clothes' in line:
-			p.clothes = line[2:]
+			p.clothes = line[2:-1]
 		if 'aura' in line:
-			p.auras = line[2:]
+			p.auras = line[2:-1]
 			
 	num_of_paradigms = -1	
 	for line in paradigm[1:]:
