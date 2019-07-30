@@ -284,7 +284,6 @@ The Mentor gets the **Pupils** move, and 2 other moves of your choice.
 
 **Meditation:** When you meditate on the best course of action for considerable time, roll +Dynamic. On a 10+ hold 3, on a 7-9 hold 1. You may spend this hold 1-for-1 at any time to ask the MC a question from this list, the MC will answer truthfully.  
 You take +1 forward when acting on this information.
-
 - What's my escape route?
 - What are the unknowable risks?
 - Where can the Consensus be bent in my favor?
@@ -427,13 +426,11 @@ The Hedge Mage gets the **Exactly When I Mean To** move, and 2 other moves of yo
 **Exactly When I Mean To:** (You have this move by default) At the **beginning of the session**, roll +Entropic. On a 10+, hold 2. On a 7–9, hold 1. At any time, either you or the MC can spend your hold to have you arrive in a scene, with the proper tools and knowledge, with or without any clear explanation why. Take +1 forward when you do so. On a miss, the MC holds 1, and can spend it to have you arrive, but somehow pinned, caught or trapped.
 
 **Call Through Shadow:** When you **call a mundane or common object to yourself**, roll +Dynamic. On a hit, you have successfully summoned it to you. On a 10+ you're in the clear. On a 7-9 choose 1:
-
 - It comes out of an intense nearby situation
 - It comes with strings attached
 - It can be traced back to you.
 
 **Scrying Bowl:** When you have an object related to a person and use it to **gaze upon their current situation**, roll +Without. On a 10+ all 3, on a 7-9 choose 1:
-
 - They don't know they're being watched
 - You can identify where they are
 - You can discern what they are doing.
@@ -441,7 +438,6 @@ The Hedge Mage gets the **Exactly When I Mean To** move, and 2 other moves of yo
 **If You Ask Me:** When you **offer an alternative perspective on someone's Paradigm**, roll +Without. On a hit, they gain experience. On a 10+, give them a new Aligned related to what you told them until the end of session.
 
 **Magical Experimentation:** When you collaborate with other Mages to **push your magic past its current boundaries** in a controlled setting, roll +Dynamic. On a 10+ all 3, on a 7-9 choose 1:
-
 - It works pretty much as intended
 - It doesn't cause a scene, draw extra attention, or harm you
 - It was controlled enough that you can repeat it.
@@ -547,12 +543,10 @@ Whether it is present in a scene or not, your Source always counts as an active 
 **Just When I Think You're Gone:** When you **pass up an opportunity to interact with your Source**, or remove it from a scene, roll +Within. On a hit, hold 1. On a 10+ you may spend your hold 1-for-1 to have your source appear in the scene with no explanation needed. On a 7-9 you may spend your hold for the same, but your Source is threatened, captured, or in peril.
 
 **Open Their Mind:** When you **introduce an individual to your Source to open their mind**, roll +Entropic. On a 10+, they are not a Lookout the next time they would be for your magic. On a 7-9, they are drawn to your Source (if a PC, they mark experience next time they interact with your Source). On a 6-, in addition to whatever else the MC says, choose one:
-
 - They find they have a strong aversion to your Source
 - They wish to take your Source away from you.
 
 **Opiate for the Masses:** When you **bring your Source to a mob**, roll +Without. On a 10+, hold 3. On a 7-9, hold 1. Spend your hold 1-for-1 to:
-
 - Discover a truth that they know
 - Obtain something of value or use
 - Get them to believe a truth
@@ -751,7 +745,7 @@ A Ritual performed here will never (choose 1):
 (Choose only after 5 from the first section and if not Tethered)
 
 - (*) Remove a Restriction from your Paradigm
-Get a new Pious move
+- Get a new Pious move
 - Get a new Pious move
 - Choose a new option for your Place of Power
 - Choose a new option for your Place of Power
@@ -806,14 +800,12 @@ The Primordial gets the **Strong Avatar** and **What Doesn't Kill You** moves, a
 **What Doesn't Kill You:** (You have this move by default) The first time during a session your Health hits Code 30, mark experience.
 
 **Harvest:** When you **Rip the Power from a Being**, describe what power and roll +Entropic. On a 10+ choose 3, on a 7-9 choose 1.
-
 - It dies then and there.
 - You are empowered, take +1 ongoing until you fail a roll.
 - The power is not tainted.
 - You don't draw excessive attention.
 
 **Hunter:** When you **track your Prey's magical trail** roll +Without. On a 10+ you find them, and they're close. On a 7-9, choose 1:
-
 - You're in for a trek, but at least the trail is strong
 - They're close by, but the trail went cold
 
@@ -909,7 +901,6 @@ aura
 The Tech Adept gets the **Universal Programmer** move, and 2 other moves of your choice.
 
 **Universal Programmer:** (You have this move by default) When you **make a new piece of equipment**, roll +Dynamic. On a hit you make it. On a 10+, it works and keeps working. On a 7-9, it will only last for the scene. In either case, choose a quirk:
-
 - The device works much more slowly than expected
 - The device requires more of a resource than expected
 - The device has a side effect when used
@@ -919,7 +910,6 @@ The Tech Adept gets the **Universal Programmer** move, and 2 other moves of your
 **Ghost in the Machine:** When you **enter the Virtual World physically**, you may bring other willing Mages along, and exit at any terminal you can find.
 
 **Things Speak:** When you examine an interesting technological or magical object, roll +Without. On a 10+, you may ask up to 3 of the following questions, on a 7-9, ask 1.
-
 - What strong emotions have been most recently associated with this?
 - What’s wrong with this, and how might I fix it?
 - How frequently has this been handled?
@@ -1116,7 +1106,6 @@ presentation, transgressing presentation
 The Wayfarer gets the **Step Sideways** move, and 2 other moves of your choice.
 
 **Step Sideways:** (You have this move by default) When you **seek a path to step sideways and travel to someplace new**, roll +Entropic. On a 10+ choose 4, on a 7-9 choose 2.
-
 - You get where you meant to go, no funny business.
 - You arrive promptly.
 - You arrive unharmed.
@@ -1124,7 +1113,6 @@ The Wayfarer gets the **Step Sideways** move, and 2 other moves of your choice.
 - You can safely and easily return.
 
 **Chance Meetings:** When you **meet an important stranger** (your choice) in your travels, roll +Dynamic. On a 10+ choose one, on a 7-9 the MC will choose one.
-
 - They tell you something useful and true.
 - They give you something that is potentially useful.
 - They have something of great value to you.
@@ -1134,7 +1122,6 @@ it.
 **Sixth Sense:** When you **travel along a path before it happens**, roll +Within, and see a vision of possible futures. On a 10+, tell the MC what you sense, they may add to it. On a 7-9, the MC will tell you what you sense, and two possible interpretations.
 
 **Parkour:** When you **Outfox in an urban jungle**, on a 12+ you additionally hold 3. You can spend your hold one for one to:
-
 - Take +1 forward on an additional Outfox roll
 - Take +1 forward to keeping your head down
 - Treat your skills as something a sleeper wants for Use a Sleeper

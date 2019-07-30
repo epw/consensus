@@ -12,11 +12,10 @@ latex_jinja_env = jinja2.Environment(
 	line_statement_prefix = '%%',
 	line_comment_prefix = '%#',
 	trim_blocks = True,
+	lstrip_blocks = True,
 	autoescape = False,
 	loader = jinja2.FileSystemLoader(os.path.abspath('templates'))
 )
-
-
 
 playbooks = {}
 def get_data():
@@ -67,7 +66,7 @@ class Playbook:
 	def add_paradigm(self):
 		self.paradigms.append({'name':'','aligned':'', 'opp1':'', 'opp2':''})
 	def add_move(self):
-		self.moves.append({'name':'', 'trigger':'', 'movestring':'', 'isdefault':False})
+		self.moves.append({'name':'','before':'', 'trigger':'', 'after':'', 'movestring':'', 'isdefault':False})
 
 def playbookdata(name):
 	n=0
@@ -174,64 +173,101 @@ def playbookdata(name):
 		if 'eyes' in line:
 			p.eyes = line[2:]
 		if 'face' in line:
-			p.face = line[2:]
+			p.faces = line[2:]
 		if 'body' in line:
-			p.body = line[2:]
+			p.bodies = line[2:]
 		if 'clothes' in line:
 			p.clothes = line[2:]
 		if 'aura' in line:
-			p.aura = line[2:]
+			p.auras = line[2:]
 			
 	num_of_paradigms = -1	
 	for line in paradigm[1:]:
 		if line.startswith('####'):
 			num_of_paradigms += 1
 			p.add_paradigm()
-			p.paradigms[num_of_paradigms]['name'] = line[3:]
+			p.paradigms[num_of_paradigms]['name'] = line[5:-1]
 		elif line.startswith('**Aligned'):
-			p.paradigms[num_of_paradigms]['aligned'] = line[13:]
+			p.paradigms[num_of_paradigms]['aligned'] = line[13:-1]
 		elif line.startswith('**Opposed'):
-			p.paradigms[num_of_paradigms]['opp1'] = line[13:]
+			p.paradigms[num_of_paradigms]['opp1'] = line[13:-1]
 		elif not line == '\n':
-			p.paradigms[num_of_paradigms]['opp2'] = line
-			
+			p.paradigms[num_of_paradigms]['opp2'] = line[:-1]		
 	in_move = False
+	in_move_list = False
 	moveslist = []
 	move_number = -1
+	move_list_number = 0
 	for line in moves:
 		if line.startswith('**'):
 			move_number += 1
-			moveslist.append('')
+			moveslist.append([])
 			in_move = True
+
 		if line == '\n':
 			in_move = False
-		if in_move == True:
-			moveslist[move_number] = moveslist[move_number] + line
+		
+		if line.startswith('- '):
+			in_move = True
+
+		if in_move:
+			moveslist[move_number].append(line)
+
+				
 		if line.startswith('When you and another character **exchange a moment of humanity**'):
-			p.specialmove = line[66:]
-	
+			p.specialmove = line[66:-1]
+
 	num_of_moves = -1
 	for move in moveslist:
 		num_of_moves += 1
 		p.add_move()
-		movedict = p.moves[num_of_moves]
-		movedict['name'] = move.split(':**')[0] + ':**'
-		list = move.split('**')
-		if len(list) > 3:
-			before = list[2]
-			after = list[4]
-			trigger = '**'+list[3]+'**'
-			movedict['trigger'] = trigger
-			movedict['movestring'] = before+trigger+after
+		if len(move) == 1:
+			movedict = p.moves[num_of_moves]
+			movedict['name'] = move[0].split(':**')[0][2:]
+			list = move[0].split('**')
+			if len(list) > 3:
+				movedict['before'] = list[2]
+				movedict['after'] = list[4][:-1]
+				trigger =list[3]
+				movedict['trigger'] = trigger
+			else:
+				movedict['trigger'] = ''
+				movedict['movestring'] = list[2][:-1]
+			
+			if list[2].startswith(' (You have this move by default)'):
+				movedict['isdefault'] = True
+				movedict['movestring'] = movedict['movestring'][33:]
+				movedict['before'] = movedict['before'][33:]
+			else:
+				movedict['isdefault'] = False
+				movedict['movestring'] = movedict['movestring'][1:]
+				movedict['before'] = movedict['before'][1:]
 		else:
-			movedict['trigger'] = ''
-			movedict['movestring'] = list[2]
-		
-		if list[2].startswith(' (You have this move by default)'):
-			movedict['isdefault'] = True
-			movedict['movestring'] = movedict['movestring'][33:]
-		else:
-			movedict['isdefault'] = False
+			movedict = p.moves[num_of_moves]
+			movedict['name'] = move[0].split(':**')[0][2:]
+			movedict['list'] = move[1:]
+			x=0
+			for item in movedict['list']:
+				movedict['list'][x] = item[2:-1] 
+				x+=1
+			list = move[0].split('**')
+			if len(list) > 3:
+				movedict['before'] = list[2]
+				movedict['after'] = list[4][:-1]
+				trigger =list[3]
+				movedict['trigger'] = trigger
+			else:
+				movedict['trigger'] = ''
+				movedict['movestring'] = list[2][:-1]
+			
+			if list[2].startswith(' (You have this move by default)'):
+				movedict['isdefault'] = True
+				movedict['movestring'] = movedict['movestring'][33:]
+				movedict['before'] = movedict['before'][33:]
+			else:
+				movedict['isdefault'] = False
+				movedict['movestring'] = movedict['movestring'][1:]
+				movedict['before'] = movedict['before'][1:]
 	
 	for line in anchors:
 		if 'My **Shelter Anchor** is:' in line:
@@ -281,7 +317,7 @@ def playbookdata(name):
 	in_fac = False
 	in_rit = False
 	p.place_of_power['First, pick a facade:'] = []
-	p.place_of_power['Then pick up to 1 Strength'] = []
+	p.place_of_power['Then pick up to 1 Strength:'] = []
 	p.place_of_power['Pick at least 1 Weakness:'] = []
 	p.place_of_power['A Ritual performed here will never (choose 1):'] = []
 	for line in pop:
@@ -293,15 +329,15 @@ def playbookdata(name):
 			if line.startswith('-'):
 				p.place_of_power['First, pick a facade:'].append(line[2:][:-1])
 		if line.startswith('Then pick up to 1 Strength'):
-			p.place_of_power['Then pick up to 1 Strength'].append((line.split('+')[1:])[:-1])
+			p.place_of_power['Then pick up to 1 Strength:'] = (line.split('+')[1:])[:-1]
 		if line.startswith('Pick at least 1 Weakness:'):
-			p.place_of_power['Pick at least 1 Weakness:'].append((line.split('+')[1:])[:-1])
+			p.place_of_power['Pick at least 1 Weakness:'] = (line.split('+')[1:])[:-1]
 		if line.startswith('A Ritual performed here will never (choose 1):'):
 			in_rit = True
 		if in_rit:
 			if line.startswith('-'):
 				p.place_of_power['A Ritual performed here will never (choose 1):'].append(line[2:][:-1])
-				
+
 	other_number = -1
 	blocklist = []
 	in_block = False
@@ -318,13 +354,18 @@ def playbookdata(name):
 			blocklist[other_number] = blocklist[other_number] + line
 	p.special['blocks'] = blocklist		
 		
-
 		
 if __name__ == "__main__":
 	get_data()
 	playbookdata(['The Pious', 'The Primordial'])
 	template = latex_jinja_env.get_template('testpioustemplate.tex')
 	playbook = playbooks['The Pious']
+	defaultmove = []
+	othermoves = []
+	for move in playbook.moves:
+		if move['isdefault']: 
+			defaultmove.append(move)
+		else:
+			othermoves.append(move)
 	with io.open('The_Pious_Test.tex', 'w+', encoding='utf-8') as f:
-		f.write(template.render(name = playbook.name, description= playbook.description))
-	
+		f.write(template.render(name = playbook.name, description= playbook.description, names = playbook.names[10:], question1 = playbook.question1, question2 = playbook.question2, question3 = playbook.question3, eyes = playbook.eyes, faces = playbook.faces, clothes = playbook.clothes, presentation = playbook.presentation, bodies = playbook.bodies, auras = playbook.auras, homeanchors = playbook.anchors['home'], connectionanchors = playbook.anchors['connection'], memoryanchors = playbook.anchors['memories'], gear = playbook.gear, basicadvancements = playbook.advancements['basic'], specialadvancements = playbook.advancements['special'],	defaultmove = defaultmove, othermoves = othermoves, specialmove = playbook.specialmove, paradigms = playbook.paradigms, special = playbook.special, place_of_power = playbook.place_of_power))	
