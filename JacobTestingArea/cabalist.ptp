@@ -1,0 +1,9 @@
+# PCTeX Project File, Version 1.1
+	name: cabalist
+	texformat: latex
+	typesetmode: PDF
+	spellwordlist: american
+cabalist.tex
+	wndpos: 1 -1 -1 -1 -1 0 0 1408 632
+	zorder: 0
+	edit: 0
