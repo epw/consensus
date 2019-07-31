@@ -1,0 +1,153 @@
+% -*- Mode: latex -*-
+\input{playbook.tex}
+
+\renewcommand{\Name}{\VAR{name}}
+\renewcommand{\Picture}{Cabalist-new.jpg}
+\renewcommand{\Description}{\VAR{description}}
+\renewcommand{\Names}{\VAR{names}}
+\renewcommand{\Trivialized}{\VAR{question1} \BLANK}
+\renewcommand{\Questioned}{\VAR{question2} \BLANK}
+\renewcommand{\Hunted}{\VAR{question3} \BLANK}
+
+\renewcommand{\Eyes}{\VAR{eyes}}
+\renewcommand{\Faces}{\VAR{faces}}
+\renewcommand{\Bodies}{\VAR{bodies} \BLANK}
+\renewcommand{\Clothes}{\VAR{clothes}}
+\renewcommand{\Auras}{\VAR{auras}}
+
+\renewcommand{\HomeAnchorItems}{
+\BLOCK{ for item in homeanchors }
+\item \VAR{item}
+\BLOCK{ endfor }
+}
+\renewcommand{\ConnectionAnchorItems}{
+\BLOCK{ for item in connectionanchors }
+\item \VAR{item}
+\BLOCK{ endfor }
+}
+\renewcommand{\MemoryAnchorItems}{
+\BLOCK{ for item in memoryanchors }
+\item \VAR{item}
+\BLOCK{ endfor }
+}
+\renewcommand{\Gear}{
+\BLOCK{ for item in gear }
+\item \VAR{item}
+\BLOCK{ endfor }
+}
+\renewcommand{\StatsSpaceAdjust}{0em}
+\renewcommand{\BasicAdvancements}{
+\BLOCK{ for item in basicadvancements }
+\item \VAR{item}
+\BLOCK{ endfor }
+}
+\renewcommand{\SpecialAdvancements}{
+\BLOCK{ for item in specialadvancements }
+\item \VAR{item}
+\BLOCK{ endfor }
+}
+
+\renewcommand{\MoveExplanation}{The Cabalist gets the \textbf{ 
+\BLOCK{- for item in defaultmove -}
+\VAR{item['name']}
+\BLOCK{- endfor }} move, and 2 other moves of your choice.}
+
+\renewcommand{\Moves}{
+\BLOCK{ for move in defaultmove }
+  \DEFAULTMOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}}
+\BLOCK{ endfor }
+
+\BLOCK{ for move in othermoves }
+\MOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}
+
+\BLOCK{- if move['list'] is defined }
+
+\begin{itemize}
+
+
+\BLOCK{- for item in move['list'] }
+
+\item \VAR{item}
+
+\BLOCK{- endfor -}
+\end{itemize}
+\BLOCK{- endif -}}
+
+\BLOCK{ endfor -}}
+
+}
+\renewcommand{\SpecialMoveSpacing}{10em}
+\renewcommand{\SpecialMove}{\VAR{specialmove}}
+\renewcommand{\MovesSpace}{1em}
+
+\renewcommand{\Paradigms}{
+\BLOCK{ for paradigm in paradigms }
+  \PARADIGM{\VAR{paradigm['name']}}{\VAR{paradigm['aligned']}}\
+  
+           {\VAR{paradigm['opp1']}}\
+		   
+           {\VAR{paradigm['opp2']}}
+		   
+\BLOCK{ endfor }
+}
+\renewcommand{\PaneFive}{\SECTION{\VAR{special['name']}}
+
+\VAR{special['blocks'][1]}
+
+\VAR{special['blocks'][2]}
+  \begin{itemize}
+  \item \VAR{special['blocks'][3]}
+  \item \VAR{special['blocks'][4]}
+  \item \VAR{special['blocks'][5]}
+  \item \VAR{special['blocks'][6]}
+  \item \VAR{special['blocks'][7]}
+  \end{itemize}
+
+\VAR{special['blocks'][8]}
+  \begin{itemize}
+  \item \VAR{special['blocks'][9]}
+  \item \VAR{special['blocks'][10]}
+  \item \VAR{special['blocks'][11]}
+  \end{itemize}
+  
+\GearSection
+}
+\renewcommand{\PaneSix}{\Description
+
+  \SECTION{Place of Power:}
+  
+  First, pick a facade:	
+  \begin{itemize}
+  \BLOCK{ for item in place_of_power['First, pick a facade:'] }
+  \item \VAR{item}
+  \BLOCK{ endfor }
+  \end{itemize}
+    
+  Then pick up to 1 Strength: 
+\BLOCK{ for item in place_of_power['Then pick up to 1 Strength:'] }
++\VAR{item}
+\BLOCK{ endfor }
+
+  Pick at least 1 Weakness: 
+\BLOCK{ for item in place_of_power['Pick at least 1 Weakness:'] }
++\VAR{item}
+\BLOCK{ endfor }
+
+  A Ritual performed here will never (choose 1):
+  \begin{itemize}
+\BLOCK{ for item in place_of_power['A Ritual performed here will never (choose 1):'] }
+  \item \VAR{item}
+\BLOCK{ endfor }
+  \end{itemize}
+
+  \SECTION{Paradigm List:}
+
+  \Paradigms
+}
+\renewcommand{\Pullback}{\vspace{-1em}}
+
+\begin{document}
+
+\PLAYBOOK
+
+\end{document}

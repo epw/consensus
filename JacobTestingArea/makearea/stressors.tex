@@ -1,0 +1,129 @@
+\documentclass[letterpaper,10pt]{article}
+\setlength{\topmargin}{-1in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{-.25in}
+\setlength{\textwidth}{7in}
+
+\setcounter{secnumdepth}{-1}
+
+\usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\pagenumbering{gobble}
+
+\setmainfont [Path = fonts/,
+  UprightFont = Aller_Rg.ttf,
+  BoldFont = Aller_Bd.ttf,
+  ItalicFont = Aller_It.ttf
+]{Aller}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+]{Kingthings}
+
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
+
+}
+\newcommand{\STRESSOR}[3]{\SECTION{#1}
+  \textit{(Examples: #2)}
+
+  \begin{itemize}
+    #3
+  \end{itemize}
+  \filbreak
+}
+
+\setlist[itemize]{topsep=0pt}
+\setlist[itemize]{itemsep=0pt}
+
+\begin{document}
+
+\TITLE{Stressors}
+
+\begin{multicols}{2}
+
+  \STRESSOR{Control}{Technocracy, Church, Tradition, Vampires}{
+  \item Seize something dear to them
+  \item Blackmail them
+  \item Introduce a new enemy agent
+  \item Spring an elaborate trap
+  \item Manipulate an Ally
+  \item Demonstrate Power
+  \item Appear More Reasonable
+  \item Lookout for (even) non-Rending magic
+  \item Enforce Dominant Paradigm
+  }
+
+  \STRESSOR{Fear}{Maurauders, Hunters}{
+  \item Show and Ally to be Untrustworthy
+  \item Reveal a new enemy cell or sect
+  \item Track down a Mark
+  \item Resist Magical Effects
+  \item Torture Someone
+  \item Uncover and Exploit a Weakness
+  \item Avoid Consequences
+  }
+
+  \STRESSOR{Guilt}{Cult that sacrifices one child a month to protect
+    the town, Spirit Court}{
+  \item Deprive them of Resources
+  \item Cover Up an Atrocity
+  \item Take Advantage of a Weak Link
+  \item Press an Advantage
+  \item Cause Collateral Damage
+  }
+
+  \STRESSOR{Anger}{Nephandi, Wyrm-worshipping werewolves}{
+  \item Destroy something irreplacable
+  \item Provoke an Overreaction
+  \item Damage Infrastructure
+  \item Drain Energy
+  \item Lash out Chaotically
+  \item Enact a Cold-Blooded Plan
+  }
+
+  \STRESSOR{Distrust}{Nephandi, body-stealing invasion}{
+  \item Manipulate Public Opinion
+  \item Hide in Plain Sight
+  \item Circulate False Information
+  \item Turn Friend on Friend
+  \item Flaunt their Secure Positioning
+  \item Introduce Self-Doubt
+  }
+
+  \STRESSOR{Extremism}{Church, Occupy movement, Avatars}{
+  \item Convert an Ally
+  \item Emotional barriers
+  \item Respond Disproportionally
+  }
+
+  \STRESSOR{Isolation}{Rogue AI, Spirit Court, Avatars}{
+  \item Rationalize Evil for the Greater Good
+  \item Miscalculate Emotional Response
+  \item Be Unshakable in their Convictions? \textit{(Maybe put in
+    Extremism?)}
+  \item Brainwash Agents
+  \item Break a supply line
+  \item Cause a boundary to be crossed
+  }
+
+  \STRESSOR{Envy}{The Winter Court, Cult, Magic Thieves}{
+  \item Enchant Someone
+  \item Conceal Weakness
+  \item Simulate Expertise
+  \item Use Their Tricks Against Them
+  \item Bring Them to Your Level
+  \item Sabotage Their Strengths
+  }
+
+  \STRESSOR{Obsession}{Gods}{
+  \item Seduce someone
+  \item Stalk
+  \item Lock something or someone away
+  }
+
+\end{multicols}
+
+\end{document}

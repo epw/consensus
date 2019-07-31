@@ -1,0 +1,134 @@
+\documentclass[letterpaper,10pt]{article}
+\setlength{\topmargin}{-1in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{-.25in}
+\setlength{\textwidth}{7in}
+
+\setcounter{secnumdepth}{-1}
+
+\usepackage{multicol}
+\usepackage{fontspec}
+\usepackage[compact]{titlesec}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{comment}
+
+\pagenumbering{gobble}
+
+\setmainfont [Path = fonts/,
+  UprightFont = Aller_Rg.ttf,
+  BoldFont = Aller_Bd.ttf,
+  ItalicFont = Aller_It.ttf
+]{Aller}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+]{Kingthings}
+
+\setlength\parindent{0pt}
+
+\newenvironment{move}{}{}
+\excludecomment{movedetail}
+\newcommand{\TRIGGER}[1]{\textbf{#1}}
+\newcommand{\SEPARATOR}{\vspace{-1em}\begin{center}\noindent\rule{6cm}{2pt}\end{center}}
+
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
+
+}
+
+\begin{document}
+
+\TITLE{Lifestyle Moves and Savings}
+
+\begin{multicols}{2}
+
+\begin{move}
+  If you are \TRIGGER{living below your means}, the first time during
+  a session you spend some time at home, take 1 Harm (ignoring
+  Preparations), gain +1 Savings, and roll +Body. On a 10+, nothing
+  else happens. On a 7-9, choose one. On a 6-, choose two plus
+  whatever the MC says.
+  \begin{itemize}
+  \item Something goes wrong with your home and it won't provide
+    shelter until fixed
+  \item You attract unwanted attention
+  \item You irrevocably lose a valuable possession
+  \item Unsavoury types and bad conditions get to you. Take 1
+    additional Harm, also ignoring Preparations.
+  \end{itemize}
+\end{move}
+
+\bigskip
+
+\begin{move}
+  If you are \TRIGGER{living within your means}, the first time during
+  a session you spend some time at home, roll +Wits. On a 10+, all
+  3. On a 7-9, choose 2. On a 6-, choose 1, and the MC makes a move.
+  \begin{itemize}
+  \item Your home isn't being actively targeted at the moment
+  \item Your home is serene and restful, recover 1 Harm
+  \item Nothing important has gone ``strangely missing'' in the last
+    little while
+  \end{itemize}
+\end{move}
+
+\bigskip
+
+\begin{move}
+  If you are \TRIGGER{living above your means}, the first time during
+  a session you spend some time at home, roll +Charm, and pay 1
+  Savings. On a 10+ both, on a 7-9 choose 1. On a 6-, pay an extra 1
+  Savings and the MC makes a move
+  \begin{itemize}
+    \item Your money/lifestyle counts as something a Sleeper wants
+      when Using a Sleeper
+    \item Your home is secure and doesn't require extra attention from
+      you to remain that way
+  \end{itemize}
+\end{move}
+
+\vspace{30em}
+
+\filbreak
+
+When you buy something, it's generally of a quality appropriate for a
+person of your means.
+
+\SECTION{Sample prices, in Savings:}
+
+\bigskip
+
+1 - A nice meal for two. A suit. A thoughtful gift. An interstate
+train ticket. A good psychic reading.
+
+\medskip
+
+2 - An ostentatious meal for two. A domestic plane ticket. A
+handgun. A computer. A night's stay at a hotel. A rare book. Walk-in
+medical treatment.
+
+\medskip
+
+3 - A short hospital stay. A college course. A short vacation. A
+custom-crafted sword, made by a skilled Craftsperson.
+
+\medskip
+
+4 - A car, a motorcycle, a boat.
+
+\medskip
+
+\SECTION{Other Savings Rules}
+
+\medskip
+
+If at any point you are told you must pay a Savings and you cannot,
+the MC makes a hard move.
+
+\medskip
+
+Once an in-game month, pay 1 Savings, or you are unable to meet your
+expenses (and the MC makes a hard move).
+
+\end{multicols}
+\end{document}

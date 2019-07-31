@@ -19,7 +19,7 @@ latex_jinja_env = jinja2.Environment(
 
 playbooks = {}
 def get_data():
-	with open ('Consensus Book.md') as f:
+	with io.open ('Consensus Book.md', encoding='utf-8') as f:
 		l=0
 		workingdoc = []
 		global playbookstext
@@ -31,7 +31,7 @@ def get_data():
 				startnum = l-1
 			if line.startswith('# The Moves'):
 				end = workingdoc[l-1]
-				endnum = l-1
+				endnum = l
 				break
 
 
@@ -100,15 +100,18 @@ def playbookdata(name):
 			return False
 		else:
 			return True
-		
 	for line in playbookstext:
 		n+=1
+		
 		if line.startswith('## ' + name[0]):
 			startnum = n-1
 		if line.startswith('## ' + name[1]):
 			endnum = n-1
 			break
-			
+		if line.startswith('# The Moves'):
+			endnum = n-1
+			break
+		
 	playbooktext = playbookstext[startnum:endnum]
 	playbookdescription = playbooktext[2][:-1]
 	playbook = playbooktext[0][3:][:-1]
@@ -341,6 +344,7 @@ def playbookdata(name):
 	other_number = -1
 	blocklist = []
 	in_block = False
+	in_list = False	
 	for line in other:
 		if line.startswith('### '):
 			p.special['name'] = line[4:][:-1] + ":"
@@ -350,22 +354,31 @@ def playbookdata(name):
 			in_block = True
 		if line == '\n':
 			in_block = False
+
+			
 		if in_block:
 			blocklist[other_number] = blocklist[other_number] + line
-	p.special['blocks'] = blocklist		
+	
+
 		
+	p.special['blocks'] = blocklist		
 		
 if __name__ == "__main__":
 	get_data()
-	playbookdata(['The Pious', 'The Primordial'])
-	template = latex_jinja_env.get_template('testpioustemplate.tex')
-	playbook = playbooks['The Pious']
-	defaultmove = []
-	othermoves = []
-	for move in playbook.moves:
-		if move['isdefault']: 
-			defaultmove.append(move)
-		else:
-			othermoves.append(move)
-	with io.open('The_Pious_Test.tex', 'w+', encoding='utf-8') as f:
-		f.write(template.render(name = playbook.name, description= playbook.description, names = playbook.names[10:], question1 = playbook.question1, question2 = playbook.question2, question3 = playbook.question3, eyes = playbook.eyes, faces = playbook.faces, clothes = playbook.clothes, presentation = playbook.presentation, bodies = playbook.bodies, auras = playbook.auras, homeanchors = playbook.anchors['home'], connectionanchors = playbook.anchors['connection'], memoryanchors = playbook.anchors['memories'], gear = playbook.gear, basicadvancements = playbook.advancements['basic'], specialadvancements = playbook.advancements['special'],	defaultmove = defaultmove, othermoves = othermoves, specialmove = playbook.specialmove, paradigms = playbook.paradigms, special = playbook.special, place_of_power = playbook.place_of_power))	
+	playbooknames = ['The Cabalist', 'The Mentor', 'The Hedge Mage', 'The Inspired', 'The Pious', 'The Primordial', 'The Tech Adept', 'The Voiced', 'The Wayfarer', '___']
+	iterations = 0
+	for i in range(len(playbooknames)-1):
+	
+		playbookdata([playbooknames[i], playbooknames[i+1]])
+		template = latex_jinja_env.get_template(playbooknames[i] + '-template.tex')
+		playbook = playbooks[playbooknames[i]]
+		defaultmove = []
+		othermoves = []
+		for move in playbook.moves:
+			if move['isdefault']: 
+				defaultmove.append(move)
+			else:
+				othermoves.append(move)
+		output = template.render(name = playbook.name, description= playbook.description, names = playbook.names[10:], question1 = playbook.question1, question2 = playbook.question2, question3 = playbook.question3, eyes = playbook.eyes, faces = playbook.faces, clothes = playbook.clothes, presentation = playbook.presentation, bodies = playbook.bodies, auras = playbook.auras, homeanchors = playbook.anchors['home'], connectionanchors = playbook.anchors['connection'], memoryanchors = playbook.anchors['memories'], gear = playbook.gear, basicadvancements = playbook.advancements['basic'], specialadvancements = playbook.advancements['special'],	defaultmove = defaultmove, othermoves = othermoves, specialmove = playbook.specialmove, paradigms = playbook.paradigms, special = playbook.special, place_of_power = playbook.place_of_power)
+		with io.open(playbooknames[i][4:].lower() + '.tex', 'w+', encoding='utf-8') as f:
+			f.write(output)	

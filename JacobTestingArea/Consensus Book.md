@@ -144,11 +144,10 @@ The Cabalist gets the Gossamer Threads move, and 2 other moves of your choice.
 
 **Speak Beyond the Veil:** When you attempt to **contact the spirit of one who has passed on**, roll +Entropic. On a 10+ choose 2, on a 7-9 choose 1:
 - The spirit is the one you meant to contact
-- The spirit can stay for longer than a single utterance or
-action
+- The spirit can stay for longer than a single utterance or action
 - The spirit is of the disposition you expect
 
-**We're Not So Different:** When you **explain your paradigm to another mage** in order to aid them in doing magic that is Opposed to their paradigm, roll +Within. On a hit, the magic is not Opposed, this time. On a 10+, you both mark experie
+**We're Not So Different:** When you **explain your paradigm to another mage** in order to aid them in doing magic that is Opposed to their paradigm, roll +Within. On a hit, the magic is not Opposed, this time. On a 10+, you both mark experience
 
 You also have this move:
 
