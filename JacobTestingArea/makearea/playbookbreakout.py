@@ -18,6 +18,7 @@ latex_jinja_env = jinja2.Environment(
 )
 
 playbooks = {}
+
 def get_data():
 	with io.open ('Consensus Book.md', encoding='utf-8') as f:
 		l=0
@@ -273,6 +274,8 @@ def playbookdata(name):
 				movedict['before'] = movedict['before'][1:]
 	
 	for line in anchors:
+		if '_______' in line:
+			line = line.replace('_______', '\BLANK')
 		if 'My **Shelter Anchor** is:' in line:
 			p.anchors['home'] = line[103:][:-1].split(';')
 		if 'My **Connection Anchor** is:' in line:
@@ -370,6 +373,7 @@ if __name__ == "__main__":
 	for i in range(len(playbooknames)-1):
 	
 		playbookdata([playbooknames[i], playbooknames[i+1]])
+
 		template = latex_jinja_env.get_template(playbooknames[i] + '-template.tex')
 		playbook = playbooks[playbooknames[i]]
 		defaultmove = []

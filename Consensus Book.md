@@ -313,7 +313,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) My best friend Ayah; Devon, my oldest rival; Zorrah, my forbidden love
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) A portrait of my own long-dead mentor; The gold necklace given to me by _______; A coal to remind me of ______
+Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) A portrait of my own long-dead mentor; The gold necklace given to me by _______; A coal to remind me of _______
 
 ### Starting Gear
 
@@ -465,7 +465,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Lazarus, the man I saved from drowning; My well-meaning mother; Chance, my favorite nibbling
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My grandfather's old chipped pipe; My compass that doesn't point north; A leaf from the forests I knew from ______
+Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My grandfather's old chipped pipe; My compass that doesn't point north; A leaf from the forests I knew from _______
 
 ### Starting Gear
 
@@ -577,9 +577,9 @@ Arrange +2, +1, +0, +0, -1
 
 Humans need shelter, a place to live, and a home to come back to. My **Shelter Anchor** is: (pick one) 617 Arbor St. Rear; The couches and guest rooms of my friends (I always pay, in cash or chores); The ”Beach House” that I live in, even in the off season
 
-Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Neon and Crystal, some kids I hang out with on the weekend; Leslie, who cares about me but just doesn't understand; ______, my greatest confidante
+Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Neon and Crystal, some kids I hang out with on the weekend; Leslie, who cares about me but just doesn't understand; _______, my greatest confidante
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My last gift from ______ before they left; The diamond necklace from ______; The well-worn T-shirt I always sleep in
+Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My last gift from _______ before they left; The diamond necklace from _______; The well-worn T-shirt I always sleep in
 
 ### Starting Gear
 
@@ -946,7 +946,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) My only uncle, Avi; Zeke, from my virtual community
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) The tree-house I built with ______; My frist hand-held console; My mint copy of ______; My High School Diploma, which I almost had to forge
+Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) The tree-house I built with _______; My frist hand-held console; My mint copy of _______; My High School Diploma, which I almost had to forge
 
 ### Starting Gear
 
