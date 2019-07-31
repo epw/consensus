@@ -2,7 +2,7 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Mentor}
-\renewcommand{\Picture}{Pious-new.jpg}
+\renewcommand{\Picture}{guru}
 \renewcommand{\Description}{The secrets of the Universe are yours, but you don't guard them jealously. You share the wisdom with the precious few who will listen, taking on pupils who will one day surpass you.}
 \renewcommand{\Names}{Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Senshu, Sena}
 \renewcommand{\Trivialized}{Because I was poor, because \BLANK}
@@ -51,16 +51,15 @@
 \item Get a playbook move from another book
 \item Get an Advanced Mentor Move
 }
+\renewcommand{\MoveExplanation}{The Mentor gets the \textbf{Pupils} move, and 2 other moves of your choice.}
 
-\renewcommand{\MoveExplanation}{The Pious gets the \textbf{Pupils} move, and 2 other moves of your choice.}
 \renewcommand{\Moves}{
-  \setlength\itemsep{-.25em}
   \DEFAULTMOVE{Pupils}{You have a number of students who follow your paradgimatic teachings. At the beginning of the session, roll +learning to determine how their studies are progressing. On a 10+ they have a surplus. On a 7-9, both a surplus and a want. On a 6-, they will do everything in their power to satisfy all their wants.\TRIGGER{}}
 
+  
 
 \MOVE{Meditation}{When you meditate on the best course of action for considerable time, roll +Dynamic. On a 10+ hold 3, on a 7-9 hold 1. You may spend this hold 1-for-1 at any time to ask the MC a question from this list, the MC will answer truthfully.  \TRIGGER{}
 \begin{itemize}
-\setlength\itemsep{-.5em}
 \item u take +1 forward when acting on this information.
 \item What's my escape route?
 \item What are the unknowable risks?
@@ -91,6 +90,39 @@
 		   
            {(choose one) Cynical magic, magic without my whole self}
 		   
+}
+
+\renewcommand{\PaneFive}{\SECTION{Your Students:}
+By default you have about 10 students, they are moderately studious sleepers and they respect you, though they're not fully loyal. They have their own lives apart from you, family and friends in the area. (learning +1. surplus: time. want:
+
+
+departure.)
+
+  \begin{itemize}
+  \item Pick up to two of these:
+
+  \item - Your students are competitive (replace want: departure with want: competition)
+
+  \item - Your students are driven (replace surplus: time with surplus: dedication)
+
+  \item - Your students are enthusiastic (replace surplus: time with surplus: energy)
+
+  \end{itemize}
+
+- Your students are lazy (replace want: departure with want: sloth)
+
+  \begin{itemize}
+  \item And one of these:
+
+  \item - Your school is famous (add surplus: growth and want: infamy)
+
+  \item - Your school is large (default students 20)
+
+  \item - Your students are quick learners (+1 learning)
+
+  \item - You have a protege; your most advanced student is Awakened
+
+  \end{itemize}
 }
 
 \renewcommand{\PaneSix}{\Description
@@ -125,7 +157,9 @@
   \item Have greater than intended effec
   \end{itemize}
 
-  \GearSection
+  \SECTION{Paradigm List:}
+
+  \Paradigms
 }
 
 \begin{document}
