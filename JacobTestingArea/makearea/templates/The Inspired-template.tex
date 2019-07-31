@@ -69,6 +69,7 @@
 \BLOCK{ endfor }
 }
 }
+
 \BLOCK{ for move in othermoves }
 {\small
 \MOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}
@@ -84,9 +85,11 @@
 
 \BLOCK{- endfor -}
 \end{itemize}
-\BLOCK{- endif -}}
+\BLOCK{- endif -}
+}}
 
-\BLOCK{ endfor -}}}
+\BLOCK{ endfor -}
+}
 
 
 \renewcommand{\SpecialMoveSpacing}{-1em}
