@@ -383,6 +383,8 @@ if __name__ == "__main__":
 				defaultmove.append(move)
 			else:
 				othermoves.append(move)
+		filename = playbooknames[i][4:].replace(' ', '_')
+		filename = filename.lower()
 		output = template.render(name = playbook.name, description= playbook.description, names = playbook.names[10:], question1 = playbook.question1, question2 = playbook.question2, question3 = playbook.question3, eyes = playbook.eyes, faces = playbook.faces, clothes = playbook.clothes, presentation = playbook.presentation, bodies = playbook.bodies, auras = playbook.auras, homeanchors = playbook.anchors['home'], connectionanchors = playbook.anchors['connection'], memoryanchors = playbook.anchors['memories'], gear = playbook.gear, basicadvancements = playbook.advancements['basic'], specialadvancements = playbook.advancements['special'],	defaultmove = defaultmove, othermoves = othermoves, specialmove = playbook.specialmove, paradigms = playbook.paradigms, special = playbook.special, place_of_power = playbook.place_of_power)
-		with io.open(playbooknames[i][4:].lower() + '.tex', 'w+', encoding='utf-8') as f:
+		with io.open(filename + '.tex', 'w+', encoding='utf-8') as f:
 			f.write(output)	
