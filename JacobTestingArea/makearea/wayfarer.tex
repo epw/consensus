@@ -2,10 +2,10 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Wayfarer}
-\renewcommand{\Picture}{Pious-new.jpg}
+\renewcommand{\Picture}{Wayfarer-new}
 \renewcommand{\Description}{There are many who travel the world in this day and age, and many fewer who travel where you do. The journey of a thousand miles begins with you.
 }
-\renewcommand{\Names}{}
+\renewcommand{\Names}{Roland, Isobel, Amelia, Karma, Daniel, Celina, Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina, Corwin}
 \renewcommand{\Trivialized}{Because I couldn't keep up, because of my attitude, because the world isn't accessible \BLANK}
 \renewcommand{\Questioned}{Because I don't care, because people started noticing me, Because I see things as they really are   \BLANK}
 \renewcommand{\Hunted}{Because I run, because I break the Rules, for what I know \BLANK}
@@ -57,12 +57,31 @@
 \item Gain +1 Wits (max Wits +3)
 \item Get an Advanced Wayfarer Move
 }
-
-\renewcommand{\MoveExplanation}{The Pious gets the \textbf{Step Sideways} move, and 2 other moves of your choice.}
+\renewcommand{\MoveExplanation}{The Wayfarer gets the \textbf{Step Sideways} move, and 2 other moves of your choice.}
+\renewcommand{\MoveSpacing}{0em}
 \renewcommand{\Moves}{
-  \setlength\itemsep{-.25em}
-  \DEFAULTMOVE{Step Sideways}{When you \TRIGGER{seek a path to step sideways and travel to someplace new}, roll +Entropic. On a 10+ choose 4, on a 7-9 choose 2.}
+  \DEFAULTMOVE{Step Sideways}{When you \TRIGGER{seek a path to step sideways and travel to someplace new}, roll +Entropic. On a 10+ choose 4, on a 7-9 choose 2.  \vspace{-.5em}
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item You get where you meant to go, no funny business.
+\item You arrive promptly.
+\item You arrive unharmed.
+\item You remember the path, so you can travel it again.
+\item You can safely and easily return.\end{itemize}}
 
+
+  \MOVE{Chance Meetings}{When you \TRIGGER{meet an important stranger}
+    (your choice) in your travels, roll +Dynamic. On a 10+ choose one,
+    on a 7-9 the MC will choose one.
+    \vspace{-.5em}
+    \begin{itemize}
+      \setlength\itemsep{-.5em}
+    \item They tell you something useful and true.
+    \item They give you something that is potentially useful.
+    \item They have something of great value to you.
+    \item You have something of great value to them, and you know it.
+    \end{itemize}
+  }
 
 \MOVE{Chance Meetings}{When you \TRIGGER{meet an important stranger} (your choice) in your travels, roll +Dynamic. On a 10+ choose one, on a 7-9 the MC will choose one.
 \begin{itemize}
@@ -88,10 +107,9 @@
 
 }
 
-\renewcommand{\SpecialMoveSpacing}{10em}
-\renewcommand{\SpecialMove}{roll +Within. On a 10+, once, you can step sideways to this person as if they were a place you’ve never been before. On a 7-9, you see each other in a new light, you each pick one from the Chance Meetings list for the other. On a 6-, take -1 ongoing until you prove they haven't chained you down or anything.}
 
-\renewcommand{\Paradigms}{
+
+\renewcommand{\SpecialMoveSpacing}{0em}
   \PARADIGM{All people are connected, all people affect one another}{Symparthy magic, travel magic  }\
   
            {(choose one) Creation, permanent effects  }\
@@ -104,25 +122,10 @@
 		   
            {(choose one) Magic that uses physical objects, stationary magic}
 		   
-}
 
 \renewcommand{\PaneSix}{\Description
 
-  \SECTION{Place of Power:}
-  
-  First, pick a facade:	
-  \begin{itemize}
-  \end{itemize}
-    
-  Then pick up to 1 Strength: 
-
-  Pick at least 1 Weakness: 
-
-  A Ritual performed here will never (choose 1):
-  \begin{itemize}
-  \end{itemize}
-
-  \GearSection
+\GearSection
 }
 
 \begin{document}

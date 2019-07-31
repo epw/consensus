@@ -1086,7 +1086,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 There are many who travel the world in this day and age, and many fewer who travel where you do. The journey of a thousand miles begins with you.
 
-**Name:**
+**Name:** Roland, Isobel, Amelia, Karma, Daniel, Celina, Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina, Corwin
 
 **Why was your humanity trivialized?** Because I couldn't keep up, because of my attitude, because the world isn't accessible
 **Why is your humanity still in question?** Because I don't care, because people started noticing me, Because I see things as they really are  
