@@ -120,6 +120,8 @@ def playbookdata(name):
 	p = playbooks[playbook]
 	p.name = playbook[4:]
 	p.description = playbookdescription
+	if '_' in p.description:
+		p.description = p.description.replace('_', '')
 	
 	for line in playbooktext:
 		z+=1

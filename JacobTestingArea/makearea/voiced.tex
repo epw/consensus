@@ -2,8 +2,8 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Voiced}
-\renewcommand{\Picture}{Pious-new.jpg}
-\renewcommand{\Description}{_I am the voice of the past that will always be_  }
+\renewcommand{\Picture}{Voiced-new}
+\renewcommand{\Description}{{\itshape I am the voice of the past that will always be  }}
 \renewcommand{\Names}{Arin, Malak, Liron, Shir, Piper, Lark, Jaron, Calliope, Diona,}
 \renewcommand{\Trivialized}{Because I spoke differently, because they thought I was broken, because of my looks   \BLANK}
 \renewcommand{\Questioned}{Because I don't want to fit in, because I can't stay still, because of my friends \BLANK}
@@ -56,7 +56,9 @@
 \item Get an Advanced Voiced move
 }
 
-\renewcommand{\MoveExplanation}{The Pious gets the \textbf{Charming Voice} move, and 2 other moves of your choice.}
+\renewcommand{\StatsSpaceAdjust}{3em}
+\renewcommand{\MoveExplanation}{Voiced gets the \textbf{Charming Voice} move, and 2 other moves of your choice.}
+
 \renewcommand{\Moves}{
   \setlength\itemsep{-.25em}
   \DEFAULTMOVE{Charming Voice}{When you *Sell a Lie* using your voice to do so, you may roll +Without instead of +Dynamic\TRIGGER{}}
@@ -71,8 +73,7 @@
 \MOVE{The Voice of Experience}{When you \TRIGGER{have been here before}, give advice on a course of action and roll +Dynamic, -1 if Tethered. On a 7-9, take +1 forward when following the plan. On a 10+, additionally everyone who follows the plan marks experience.}
 
 }
-
-\renewcommand{\SpecialMoveSpacing}{10em}
+\renewcommand{\SpecialMoveSpacing}{15em}
 \renewcommand{\SpecialMove}{you may tell them a secret about yourself. If you do, they will respond with a secret about themselves.}
 
 \renewcommand{\Paradigms}{
@@ -95,24 +96,9 @@
            {(choose one) Soundless magic, emotionless magic}
 		   
 }
-
 \renewcommand{\PaneSix}{\Description
 
-  \SECTION{Place of Power:}
-  
-  First, pick a facade:	
-  \begin{itemize}
-  \end{itemize}
-    
-  Then pick up to 1 Strength: 
-
-  Pick at least 1 Weakness: 
-
-  A Ritual performed here will never (choose 1):
-  \begin{itemize}
-  \end{itemize}
-
-  \GearSection
+\GearSection
 }
 
 \begin{document}
