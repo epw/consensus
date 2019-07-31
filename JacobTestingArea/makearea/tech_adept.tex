@@ -2,7 +2,7 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Tech Adept}
-\renewcommand{\Picture}{Pious-new.jpg}
+\renewcommand{\Picture}{Tech-Adept-new}
 \renewcommand{\Description}{Most people think magic and tech are incompatible, but you know better. You prefer to think of them as peanut butter and chocolate. And you're the sweet sweet mix.}
 \renewcommand{\Names}{Jeremy, Kix, Sonya, B3ll, Doran, Starter, TK, Foto, Liza, The Law, Dodge, Ophelia, Tarvek, Fr0st, Amanda}
 \renewcommand{\Trivialized}{Because of my obsession, because of my transgressions, because I was uneducated   \BLANK}
@@ -53,12 +53,15 @@
 \item Get an Advanced Tech-Adept Move
 \item Get an Advanced Tech-Adept Move
 }
-
-\renewcommand{\MoveExplanation}{The Pious gets the \textbf{Universal Programmer} move, and 2 other moves of your choice.}
+\renewcommand{\MoveExplanation}{The Tech Adept gets the \textbf{Universal Programmer} move, and 2 other moves of your choice.}
+\renewcommand{\MoveSpacing}{-.25em}
 \renewcommand{\Moves}{
-  \setlength\itemsep{-.25em}
-  \DEFAULTMOVE{Universal Programmer}{When you \TRIGGER{make a new piece of equipment}, roll +Dynamic. On a hit you make it. On a 10+, it works and keeps working. On a 7-9, it will only last for the scene. In either case, choose a quirk:}
-
+  \DEFAULTMOVE{Universal Programmer}{When you \TRIGGER{make a new piece of equipment}, roll +Dynamic. On a hit you make it. On a 10+, it works and keeps working. On a 7-9, it will only last for the scene. In either case, choose a quirk:
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item The device works much more slowly than expected
+\item The device requires more of a resource than expected
+\item The device has a side effect when used\end{itemize}}
 
 \MOVE{Read the Web of Fate}{When you \TRIGGER{enter the virtual world to Read the Web of Fate}, roll +Without. On a hit, you can determine the degrees of separation between two objects or people. On a 10+, you can also get a general idea of the path between them.}
 
@@ -77,8 +80,7 @@
 \MOVE{Percussive Maintenance}{When you \TRIGGER{impose your will on a machine}, roll +Entropic. It works better. On a 10+, tell the MC how. On a 7-9, the MC will tell you how. On a 6-, the MC will tell you how, and why this is terrible for you.}
 
 }
-
-\renewcommand{\SpecialMoveSpacing}{10em}
+\renewcommand{\SpecialMoveSpacing}{9em}
 \renewcommand{\SpecialMove}{they speak to you as if they were an interesting technological or magical object (whether or not you have the move). Treat it as rolling a 10+ and ask up to 3 questions from the list. If you ask more than 1 question, you speak back to them in the same way, and they may ask up to 3 questions of the same list.}
 
 \renewcommand{\Paradigms}{
@@ -96,24 +98,11 @@
 		   
 }
 
+\renewcommand{\PaneFiveSpace}{50em}
+
 \renewcommand{\PaneSix}{\Description
 
-  \SECTION{Place of Power:}
-  
-  First, pick a facade:	
-  \begin{itemize}
-  \end{itemize}
-    
-  Then pick up to 1 Strength: 
-
-  Pick at least 1 Weakness: 
-
-  A Ritual performed here will never (choose 1):
-  \begin{itemize}
-  \end{itemize}
-
-  \GearSection
-}
+\GearSection}
 
 \begin{document}
 
