@@ -191,6 +191,9 @@ def playbookdata(name):
 			num_of_paradigms += 1
 			p.add_paradigm()
 			p.paradigms[num_of_paradigms]['name'] = line[5:-1]
+			if '_' in p.paradigms[num_of_paradigms]['name']:
+				linelist = p.paradigms[num_of_paradigms]['name'].split('_')
+				p.paradigms[num_of_paradigms]['name'] = linelist[0] + '\\textit{' + linelist[1] + '}' + linelist[2]
 		elif line.startswith('**Aligned'):
 			p.paradigms[num_of_paradigms]['aligned'] = line[26:-1]
 		elif line.startswith('**Opposed'):
