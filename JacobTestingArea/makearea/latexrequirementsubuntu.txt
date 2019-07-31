@@ -1,0 +1,8 @@
+ubuntu 18.04 latex packages needed:
+
+make
+texlive
+texlive-latex-extra
+texlive-xetex
+texlive-extra-utils
+git

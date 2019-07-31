@@ -1,6 +1,8 @@
 Edit text in "Consensus Book.md"
 Use Markdown styling
 
+if you need to insert a "blank" in a playbook anchor, use 6 underscores
+
 for page break, type \pagebreak on its own line, with one blank line above and one below
 for new page, type \newpage on its own line, with one blank line above and one below
 
