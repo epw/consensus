@@ -2,7 +2,7 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{\VAR{name}}
-\renewcommand{\Picture}{Pious-new.jpg}
+\renewcommand{\Picture}{Primordial-new}
 \renewcommand{\Description}{\VAR{description}}
 \renewcommand{\Names}{\VAR{names}}
 \renewcommand{\Trivialized}{\VAR{question1} \BLANK}
@@ -46,17 +46,19 @@
 \item \VAR{item}
 \BLOCK{ endfor }
 }
-
-\renewcommand{\MoveExplanation}{The Pious gets the \textbf{
+\renewcommand{\StatsSpaceAdjust}{3em}
+\renewcommand{\MoveExplanation}{The Primordial gets 
 \BLOCK{- for item in defaultmove -}
-\VAR{item['name']}
-\BLOCK{- endfor }} move, and 2 other moves of your choice.}
+the \textbf{
+\VAR{item['name']}}
+move, 
+\BLOCK{ endfor }
+and 1 other move of your choice.}
+\renewcommand{\MoveSpacing}{2em}
 \renewcommand{\Moves}{
-  \setlength\itemsep{-.25em}
 \BLOCK{ for move in defaultmove }
   \DEFAULTMOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}}
 \BLOCK{ endfor }
-
 
 \BLOCK{ for move in othermoves }
 \MOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}
@@ -76,6 +78,7 @@
 
 \BLOCK{ endfor -}}
 
+
 \renewcommand{\SpecialMoveSpacing}{10em}
 \renewcommand{\SpecialMove}{\VAR{specialmove}}
 
@@ -89,38 +92,10 @@
 		   
 \BLOCK{ endfor }
 }
-
 \renewcommand{\PaneSix}{\Description
 
-  \SECTION{Place of Power:}
-  
-  First, pick a facade:	
-  \begin{itemize}
-  \BLOCK{ for item in place_of_power['First, pick a facade:'] }
-  \item \VAR{item}
-  \BLOCK{ endfor }
-  \end{itemize}
-    
-  Then pick up to 1 Strength: 
-\BLOCK{ for item in place_of_power['Then pick up to 1 Strength:'] }
-+\VAR{item}
-\BLOCK{ endfor }
-
-  Pick at least 1 Weakness: 
-\BLOCK{ for item in place_of_power['Pick at least 1 Weakness:'] }
-+\VAR{item}
-\BLOCK{ endfor }
-
-  A Ritual performed here will never (choose 1):
-  \begin{itemize}
-\BLOCK{ for item in place_of_power['A Ritual performed here will never (choose 1):'] }
-  \item \VAR{item}
-\BLOCK{ endfor }
-  \end{itemize}
-
-  \GearSection
+\GearSection
 }
-
 \begin{document}
 
 \PLAYBOOK
