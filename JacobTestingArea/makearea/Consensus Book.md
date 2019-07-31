@@ -1024,7 +1024,7 @@ Zamira, Kousan, Prudence, Orpheus, Sophie
 
 The Voiced gets the **Charming Voice** move, and 2 other moves of your choice.
 
-**Charming Voice:** (You have this move by default) When you *Sell a Lie* using your voice to do so, you may roll +Without instead of +Dynamic
+**Charming Voice:** (You have this move by default) When you **Sell a Lie** using your voice to do so, you may roll +Without instead of +Dynamic
 
 **Voice in the Wind:** When you **speak across boundaries** that would otherwise make communication impossible, you are heard.
 

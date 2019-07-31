@@ -79,6 +79,7 @@ def playbookdata(name):
 	in_paradigms = False
 	in_moves = False
 	in_anchors = False
+	in_description = False
 	gear = []
 	looks = []
 	paradigm = []
@@ -106,6 +107,7 @@ def playbookdata(name):
 		
 		if line.startswith('## ' + name[0]):
 			startnum = n-1
+			in_description = True
 		if line.startswith('## ' + name[1]):
 			endnum = n-1
 			break
@@ -114,19 +116,29 @@ def playbookdata(name):
 			break
 		
 	playbooktext = playbookstext[startnum:endnum]
-	playbookdescription = playbooktext[2][:-1]
+	playbookdescription = ''
 	playbook = playbooktext[0][3:][:-1]
 	playbooks[playbook] = Playbook()
 	p = playbooks[playbook]
 	p.name = playbook[4:]
-	p.description = playbookdescription
+	
 	if '_' in p.description:
 		p.description = p.description.replace('_', '')
 	
 	for line in playbooktext:
 		z+=1
+		if line.startswith('## ' + name[0]):
+			in_description = True
 		if line.startswith('**Name:**'):
+			in_description = False
 			p.names = line[:-1]
+		if in_description:
+			if not line.startswith('## ' + name[0]):
+				if not line == '\n':              
+					playbookdescription = playbookdescription + line
+					p.description = playbookdescription
+					if '_' in p.description:
+						p.description = p.description.replace('_', '')
 		if line.startswith('**Why was your humanity trivialized?**'):
 			p.question1 = line[39:-1]
 		if line.startswith('**Why is your humanity still in question?**'):
