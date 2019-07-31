@@ -274,7 +274,7 @@ def playbookdata(name):
 				movedict['before'] = movedict['before'][1:]
 	
 	for line in anchors:
-		if '_______' in line:
+		if '______' in line:
 			line = line.replace('______', '\BLANK')
 		if 'My **Shelter Anchor** is:' in line:
 			p.anchors['home'] = line[103:][:-1].split(';')
