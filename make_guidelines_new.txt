@@ -1,0 +1,6 @@
+pandoc "Consensus Book.md" -f markdown -t pdf -s -o "Consensus.pdf" --luafilter "./pagebreak.lua" --luafilter "./pageref.lua"
+
+run playbookbreakout.py
+
+make all
+

@@ -2,7 +2,7 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{\VAR{name}}
-\renewcommand{\Picture}{Cabalist-New}
+\renewcommand{\Picture}{Pious-new.jpg}
 \renewcommand{\Description}{\VAR{description}}
 \renewcommand{\Names}{\VAR{names}}
 \renewcommand{\Trivialized}{\VAR{question1} \BLANK}
@@ -47,15 +47,16 @@
 \BLOCK{ endfor }
 }
 
-\renewcommand{\MoveExplanation}{The Cabalist gets the \textbf{ 
+\renewcommand{\MoveExplanation}{The Pious gets the \textbf{
 \BLOCK{- for item in defaultmove -}
 \VAR{item['name']}
 \BLOCK{- endfor }} move, and 2 other moves of your choice.}
-
 \renewcommand{\Moves}{
+  \setlength\itemsep{-.25em}
 \BLOCK{ for move in defaultmove }
   \DEFAULTMOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}}
 \BLOCK{ endfor }
+
 
 \BLOCK{ for move in othermoves }
 \MOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}
@@ -63,7 +64,7 @@
 \BLOCK{- if move['list'] is defined }
 
 \begin{itemize}
-
+\setlength\itemsep{-.5em}
 
 \BLOCK{- for item in move['list'] }
 
@@ -75,10 +76,8 @@
 
 \BLOCK{ endfor -}}
 
-}
 \renewcommand{\SpecialMoveSpacing}{10em}
 \renewcommand{\SpecialMove}{\VAR{specialmove}}
-\renewcommand{\MovesSpace}{1em}
 
 \renewcommand{\Paradigms}{
 \BLOCK{ for paradigm in paradigms }
@@ -90,28 +89,7 @@
 		   
 \BLOCK{ endfor }
 }
-\renewcommand{\PaneFive}{\SECTION{\VAR{special['name']}}
 
-\VAR{special['blocks'][1]}
-
-\VAR{special['blocks'][2]}
-  \begin{itemize}
-  \item \VAR{special['blocks'][3]}
-  \item \VAR{special['blocks'][4]}
-  \item \VAR{special['blocks'][5]}
-  \item \VAR{special['blocks'][6]}
-  \item \VAR{special['blocks'][7]}
-  \end{itemize}
-
-\VAR{special['blocks'][8]}
-  \begin{itemize}
-  \item \VAR{special['blocks'][9]}
-  \item \VAR{special['blocks'][10]}
-  \item \VAR{special['blocks'][11]}
-  \end{itemize}
-  
-\GearSection
-}
 \renewcommand{\PaneSix}{\Description
 
   \SECTION{Place of Power:}
@@ -140,11 +118,8 @@
 \BLOCK{ endfor }
   \end{itemize}
 
-  \SECTION{Paradigm List:}
-
-  \Paradigms
+  \GearSection
 }
-\renewcommand{\Pullback}{\vspace{-1em}}
 
 \begin{document}
 
