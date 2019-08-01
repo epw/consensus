@@ -6,15 +6,14 @@
 \begin{document}
 \begin{multicols}{3}
   \begin{move}
-    When you fail a roll on a magical action and decide to \TRIGGER{put willpower behind changing it}, the MC may ask you some questions. Answer them honestly. Re-roll the roll with +1 and choose 2:
-
+    \VAR{willpower['before']}\TRIGGER{\VAR{willpower['trigger']}}\VAR{willpower['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item Sever your connection to an Anchor
-    \item Take -1 ongoing until you actually fail a magical roll
-    \item You Backlash.
+	  \BLOCK{ for item in willpower['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
-
+\VAR{willpower['afterlist']}
   \end{move}
 
   \SEPARATOR
@@ -142,12 +141,14 @@
   
 
   \begin{move}
-    When your \TRIGGER{Harm reaches Code N}, roll +Within. On a 10+ you stabilize, and will need medical care, but you should live. On a 7-9, some serious magic is going to be needed to help you survive, plus the medical care. On a 6-, you’re about to bite the dust. Make peace with your Paradigm. If you have two or less Anchors, you have the option of removing an Anchor in order to stabilize. Describe how you spiritually cut yourself off from the Anchor, infusing yourself with magic in order to heal, but taking a huge step away from reality in doing so.
-
+    \VAR{coden['before']}\TRIGGER{\VAR{coden['trigger']}}\VAR{coden['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
+	  \BLOCK{ for item in coden['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
-
+\VAR{coden['afterlist']}
   \end{move}
 
 
