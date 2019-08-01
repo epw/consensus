@@ -19,122 +19,79 @@
   \SEPARATOR
   
   \begin{move}
-    When you fail a roll with no magical influence, and decide to
-    \TRIGGER{use magic to fix it}, treat the result plus your stat as a
-    7, and choose 2:
+    \VAR{fix['before']}\TRIGGER{\VAR{fix['trigger']}}\VAR{fix['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item Take 2 harm, or 2 Discord
-    \item The magic is Rending
-    \item Lose a Playbook move until the end of session
+	  \BLOCK{ for item in fix['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
+\VAR{fix['afterlist']}
   \end{move}
 
   \SEPARATOR
 
   \begin{move}
-    When you \TRIGGER{suffer harm} (even 0 harm), roll just +Harm
-    suffered. On a 10+, the MC can choose 1:
+    \VAR{sufferharm['before']}\TRIGGER{\VAR{sufferharm['trigger']}}\VAR{sufferharm['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item You're out of action: unconscious, trapped, incoherent, or
-      panicked.
-    \item Take the full Harm of the attack, before it was reduced by
-      preparations. If you already took the full Harm of the attack, take
-      +1 Harm.
-    \item You are shaken. Take -1 ongoing until you can spend time
-      connecting with an Anchor.
+	  \BLOCK{ for item in sufferharm['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
-    On a 7-9, the MC can choose 1:
-    \begin{itemize}
-      \setlength\itemsep{0em}
-    \item You lose your footing
-    \item You lose your grip on whatever you're holding
-    \item You let something or someone you're attending to fall into
-      danger, or drop the ball on an obligation (especially important
-      if it affects an Anchor)
-    \item You are delayed, to deal with the effects of your injury
-    \item Something you weren't prepared for happens
-    \end{itemize}
-    On a 6-, you take the Harm, but things don't get worse.
+\VAR{sufferharm['afterlist']}
   \end{move}
 
   \columnbreak
   
   \begin{move}
-    When you have some time and relative safety and you \TRIGGER{plan
-      a ritual} of magical power, describe the effect you are trying
-    for. The MC may say more information or clariy is needed before
-    the plan can be finalized. Once those needs are met, the MC will
-    say which of these are needed to perform the ritual (it may be
-    more than one):
+    \VAR{plan['before']}\TRIGGER{\VAR{plan['trigger']}}\VAR{plan['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item Extra time
-    \item A certain object
-    \item Help from an outside source
+	  \BLOCK{ for item in plan['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
-    Then, write down the plan and hold 1.
+\VAR{plan['afterlist']}
   \end{move}
 
   \SEPARATOR
 
   \begin{move}
-    When you have time, relatively safety, a place of power, and
-    enough Mages, and you \TRIGGER{begin a ritual}, have each Mage
-    involved describe how they will contribute to the ritual within
-    their Paradigm. if you spend a hold from Plan a Ritual, tell the
-    MC the effect that will occur on a success, otherwise, the MC
-    decides based on each Mage's contributions. Take into
-    consideration each participant's Opposed, and the probability of
-    Rending magic. Then, roll +Within. On a 10+, the ritual works as
-    expected. On a 7-9 the MC will choose at least one.
+    \VAR{begin['before']}\TRIGGER{\VAR{begin['trigger']}}\VAR{begin['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item The ritual takes longer than expected
-    \item You draw unwanted attention
-    \item The ritual causes Discord
-    \item Everyone involved Backlashes
-    \item The ritual has greater than intended effects
+	  \BLOCK{ for item in begin['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
+\VAR{begin['afterlist']}
   \end{move}
 
   \SEPARATOR
 
   \begin{move}
-    When you \TRIGGER{lose an Anchor}, roll +Anchors left. On a 10+,
-    it may take some time, but you'll get through this. On a 7-9,
-    choose 1:
+    \VAR{anchor['before']}\TRIGGER{\VAR{anchor['trigger']}}\VAR{anchor['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item Another Anchor gets put in danger
-    \item You do something you will regret. The MC tells you
-      what. \textit{Note: This means it does \textbf{not} cause
-        another Anchor to get put in danger}
-      \item You Backlash
+	  \BLOCK{ for item in anchor['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
-    On a miss: Lose another Anchor. The MC will tell you which one and
-    how.
+\VAR{anchor['afterlist']}
   \end{move}
 
   \columnbreak
 
   \begin{move}
-    At the \TRIGGER{end of session}: note any effects that lasted
-    ``until end of session,'' but should continue into the next. Then,
-    ask yourselves these questions as a group. For every one you
-    answer ``yes'' to, everyone marks experience.
+    \VAR{eos['before']}\TRIGGER{\VAR{eos['trigger']}}\VAR{eos['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item Did you show the lengths you were willing to go to in order
-      to protect an Anchor?
-    \item Did you uncover a secret?
-    \item Did you learn something that puts your paradigms in
-      perspective, or caused you to question them?
-    \item Did you expose the depths of your humanity, to yourself or
-      to someone else?
-    \item Did you witness loss, selfishness, or pain born of magic?
+	  \BLOCK{ for item in eos['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
+\VAR{eos['afterlist']}
   \end{move}
 
   \SEPARATOR
@@ -142,30 +99,19 @@
 
   \begin{move}
     \VAR{coden['before']}\TRIGGER{\VAR{coden['trigger']}}\VAR{coden['after']}
-    \begin{itemize}
-      \setlength\itemsep{0em}
-	  \BLOCK{ for item in coden['list'] }
-    \item \VAR{item}
-	\BLOCK{ endfor }
-    \end{itemize}
-\VAR{coden['afterlist']}
   \end{move}
 
 
   \SEPARATOR
 
   \begin{move}
-    When \TRIGGER{one of your Anchors is put in danger}, mark
-    experience and either go and handle it, or lose them as an
-    Anchor.
+    \VAR{danger['before']}\TRIGGER{\VAR{danger['trigger']}}\VAR{danger['after']}
   \end{move}
 
   \SEPARATOR
 
   \begin{move}
-    When you \TRIGGER{describe a magical effect within your Paradigm
-      but beyond your normal abilities}, the MC may tell you a
-    resource you could consume to achieve the effect.
+    \VAR{quint['before']}\TRIGGER{\VAR{quint['trigger']}}\VAR{quint['after']}
   \end{move}
 
 \end{multicols}
