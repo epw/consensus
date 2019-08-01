@@ -494,7 +494,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 (Choose only after 5 from the first section and if not Tethered)
 
 - (*) Remove a Restriction from your Paradigm
-Pick a new Hedge Mage move
+- Pick a new Hedge Mage move
 - Pick a new Hedge Mage move
 - Pick a playbook move from another playbook
 - Pick a playbook move from another playbook
