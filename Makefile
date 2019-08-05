@@ -16,11 +16,11 @@ consensus.pdf: consensus.md
 consensus.html: consensus.md
 	$(PANDOC) "consensus.md" -f markdown -t html -s -o "consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
 
-%.pdf: %.tex playbook.tex consensus.md
+%.pdf: %.tex playbook.tex consensus.md templates/%-template.tex
 	python playbookbreakout.py $<
 	$(LATEX) $<
 
-basicmoves.pdf: basicmoves.tex moves.tex consensus.md
+basicmoves.pdf: basicmoves.tex moves.tex consensus.md templates/basicmoves-template.tex
 	python movesbreakout.py basic
 	$(LATEX) basicmoves.tex
 
