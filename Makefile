@@ -6,16 +6,16 @@ ALL_PLAYBOOKS = cabalist.pdf mentor.pdf hedge_mage.pdf inspired.pdf pious.pdf pr
 
 all: python commonmoves.pdf $(ALL_PLAYBOOKS) glossary.pdf mcsheet.pdf pcsummaries.pdf stressors.pdf living.pdf all_playbooks.pdf consensus.pdf consensus.html
 
-python:
+python: consensus.md
 	python playbookbreakout.py
 	python movesbreakout.py
-consensus.pdf:
-	$(PANDOC) "Consensus Book.md" -f markdown -t latex -s -o "Consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
+consensus.pdf: consensus.md
+	$(PANDOC) "consensus.md" -f markdown -t latex -s -o "Consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
 
-consensus.html:
-	$(PANDOC) "Consensus Book.md" -f markdown -t html -s -o "Consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
+consensus.html: consensus.md
+	$(PANDOC) "consensus.md" -f markdown -t html -s -o "Consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
 
-%.pdf: %.tex playbook.tex
+%.pdf: %.tex playbook.tex consensus.md
 	$(LATEX) $<
 
 basicmoves.pdf: basicmoves.tex moves.tex

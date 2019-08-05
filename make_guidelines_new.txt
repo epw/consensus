@@ -1,5 +1,5 @@
-pandoc "Consensus Book.md" -f markdown -t latex -s -o "Consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
-pandoc "Consensus Book.md" -f markdown -t html -s -o "Consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
+pandoc "consensus.md" -f markdown -t latex -s -o "Consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
+pandoc "consensus.md" -f markdown -t html -s -o "Consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
 
 python playbookbreakout.py
 python movesbreakout.py
