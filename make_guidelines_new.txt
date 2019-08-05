@@ -1,8 +1,8 @@
 pandoc "Consensus Book.md" -f markdown -t latex -s -o "Consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
 pandoc "Consensus Book.md" -f markdown -t html -s -o "Consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
 
-run playbookbreakout.py
-run movesbreakout.py
+python playbookbreakout.py
+python movesbreakout.py
 
 make all
 

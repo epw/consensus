@@ -238,7 +238,9 @@ A Ritual performed here will never (choose 1):
 - Get a new Cabalist Move
 - Get a playbook move from another book
 - Get an Advanced Cabalist Move
-- Remove a weakness from your Place of Power\newpage
+- Remove a weakness from your Place of Power
+
+\newpage
 
 ## The Mentor
 
@@ -380,7 +382,9 @@ A Ritual performed here will never (choose 1):
 - Choose a new option for your Place of Power
 - Get a playbook move from another book
 - Get a playbook move from another book
-- Get an Advanced Mentor Move\newpage
+- Get an Advanced Mentor Move
+
+\newpage
 
 ## The Hedge Mage
 
@@ -488,7 +492,9 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Pick a playbook move from another playbook
 - Pick a playbook move from another playbook
 - Gain +1 Wits (max Wits +3)
-- Get an Advanced Hedge Mage Move\newpage
+- Get an Advanced Hedge Mage Move
+
+\newpage
 
 ## The Inspired
 
@@ -614,7 +620,9 @@ And choose two of these:
 - Pick a playbook move from another playbook
 - Gain +1 Charm (max Charm +3)
 - Gain +1 Grace (max Grace +3)
-- Get an Advanced Inspired Move\newpage
+- Get an Advanced Inspired Move
+
+\newpage
 
 ## The Pious
 
@@ -744,7 +752,9 @@ Get a new Pious move
 - Choose a new option for your Place of Power
 - Get a playbook move from another book
 - Get a playbook move from another book
-- Get an Advanced Pious Move\newpage
+- Get an Advanced Pious Move
+
+\newpage
 
 ## The Primordial
 
@@ -852,7 +862,9 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Get a second use of Serendipity
 - Get a playbook move from another book
 - Get a playbook move from another book
-- Get an Advanced Primordial move\newpage
+- Get an Advanced Primordial move
+
+\newpage
 
 ## The Tech Adept
 
@@ -955,7 +967,9 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Gain a new Tech-Adept move
 - Pick a playbook move from another playbook
 - Get an Advanced Tech-Adept Move
-- Get an Advanced Tech-Adept Move\newpage
+- Get an Advanced Tech-Adept Move
+
+\newpage
 
 ## The Voiced
 
@@ -1057,7 +1071,9 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Get +1 Will (Max Will +3)
 - Get a new Voiced move
 - Get a move from another playbook
-- Get an Advanced Voiced move\newpage
+- Get an Advanced Voiced move
+
+\newpage
 
 ## The Wayfarer
 
@@ -1588,19 +1604,25 @@ Many moves have clear ways they can go wrong. Attacks misfire, plans play into a
 
 Use this when you want to throw the Mages’ control of a situation into question. This can be like Raise the Stakes, but encompasses things that are more out of left field as well. Changing the "battlefield" (even if it’s actually just a parlour filled with relatives) can mean new Forces arrive, an environmental effect, or revealing a dramatic complication.
 
-*"So you Step Sideways, planning to phase out and phase back in, but while you’re on the Other Side you see this vast space with creepy floating creatures, and they’re fighting to get in. It looks like this battle is taking place on more planes than you knew."“Everyone’s fighting, you feel like you have a good handle on things - and then the ghost pirate ship appears, with Gordon dangling in a cage off the bow. They’re rowdy and their cannons are armed.”*
+*"So you Step Sideways, planning to phase out and phase back in, but while you’re on the Other Side you see this vast space with creepy floating creatures, and they’re fighting to get in. It looks like this battle is taking place on more planes than you knew."
+
+“Everyone’s fighting, you feel like you have a good handle on things - and then the ghost pirate ship appears, with Gordon dangling in a cage off the bow. They’re rowdy and their cannons are armed.”*
 
 **Take away things they expect to have**
 
 Most of the time, you can assume the Mages have what they need for what they want to do. A cell phone, a bottle of water, batteries. This extends to more rare items, once a Mage has acquired it and makes a point of keeping it around. When you use this move, suddenly all those assumptions go out the window. It can be direct and in the moment, like having a business card snatched away, or it could be retrospective and only now realized, like a wand not being where it was last put down.
 
-*"So you shoot the harpoon gun, but you aren’t braced and the gun flies out of your hands, backwards! Your target falls, but another guy sees that you’re unarmed and jumps at you."“Something has gone mysteriously missing? How about the gas for your boat. Not that you’d notice right away, of course.”*
+*"So you shoot the harpoon gun, but you aren’t braced and the gun flies out of your hands, backwards! Your target falls, but another guy sees that you’re unarmed and jumps at you."
+
+“Something has gone mysteriously missing? How about the gas for your boat. Not that you’d notice right away, of course.”*
 
 **Imprison Someone**
 
 Mages’ lives involve the fundamental freedom to do what they believe, and so imprisonment is a particularly stark action. It doesn’t have to be to a Mage in particular, but if it involves anyone they care about, it can dramatically shape their reactions. In a world full of police, gangsters, manipulative relatives, and magical binding circles, "imprisonment" can take many forms.
 
-*"As you look around the ballroom, you notice what are clearly ensorcelled humans serving drinks, and wait, that’s the man you saved from drowning! As dead-eyed as the rest of them."“Allison opens the door to get into the taxi, and the driver looks you in the eye, and as you recognize him, says ‘My Lady sends her regards,’ and drives off before you can react”*
+*"As you look around the ballroom, you notice what are clearly ensorcelled humans serving drinks, and wait, that’s the man you saved from drowning! As dead-eyed as the rest of them."
+
+“Allison opens the door to get into the taxi, and the driver looks you in the eye, and as you recognize him, says ‘My Lady sends her regards,’ and drives off before you can react”*
 
 **Adjust a Status Track**
 
@@ -1608,7 +1630,9 @@ Sometimes a mage’s actions (or inactions) should have a clear and obvious impa
 
 *"As you finish your impassioned speech and look out over the crowd, you realize it’s falling flat; they aren’t buying it. And then they start jeering, and you see your credibility slipping away. Set your Consensus Shift status track back to 40."*
 
-*"It’s been a busy time for you all, hasn’t it? Police called because of the fraternity twice, position as a social hub has been falling because the coolest kids are going everywhere but to you for their parties, and now that Piper’s staying there things are getting tense. You get a letter from the administration, the fraternity is officially on probation."* While you mark off another code on the Home Front Status Track.*“Sure, your magic centers around the Breath of Life. As you speak soothing words, he breathes easier. Lazarus, heal 1 Harm.”*
+*"It’s been a busy time for you all, hasn’t it? Police called because of the fraternity twice, position as a social hub has been falling because the coolest kids are going everywhere but to you for their parties, and now that Piper’s staying there things are getting tense. You get a letter from the administration, the fraternity is officially on probation."* While you mark off another code on the Home Front Status Track.
+
+*“Sure, your magic centers around the Breath of Life. As you speak soothing words, he breathes easier. Lazarus, heal 1 Harm.”*
 
 **Add a Restriction to a Mage’s Paradigm**
 
@@ -1616,7 +1640,9 @@ A mage’s paradigm is inherent and intuitive, and sometimes it might take some 
 
 *"So his fist is coming for your head, and as your self-protective instincts take over, you try to yank at his life-thread to throw him off balance. But you can’t get a grip on it, and he keeps coming. It occurs to you as your head rings from the impact that there never has been room in your paradigm for selfish acts. Add a restriction to your paradigm: self-defense is considered selfish."*
 
-*"So you reach out for ghosts under the sea - and get nothing at all. Maybe this is why ghost pirates always have a ship. Add this restriction: The Sea’s Vastness Outdoes Mortal Magic."“You try to speak across boundaries to him, but it’s like his mind is a mirrored sphere. You can’t reach him, and add the restriction, ‘The close-minded hears only themselves.’”*
+*"So you reach out for ghosts under the sea - and get nothing at all. Maybe this is why ghost pirates always have a ship. Add this restriction: The Sea’s Vastness Outdoes Mortal Magic."
+
+“You try to speak across boundaries to him, but it’s like his mind is a mirrored sphere. You can’t reach him, and add the restriction, ‘The close-minded hears only themselves.’”*
 
 **Assign Discord**
 
@@ -1624,7 +1650,9 @@ Discord is what happens when reality bends around a Mage like a spring. It hasn�
 
 *"You’re used to having that little harmonious spell that keeps your garden pest-free going, but just as Jack, your new neighbor, comes over, and their eyes glance over the perfectly-formed leaves, you feel a sudden lurch. Take 1 Discord. ‘I’m looking forwards ***_so_*** much to getting to know you,’ says Jack, eyes gleaming unpleasantly. What do you do?"*
 
-*"You’re not working at all within the local expectations. Your camera flashlight can work to illuminate Glamour, but take 2 Discord."“The ritual is being resisted by something with a deep hold over this place. You all take 1 Discord, and at this rate it’s going to get worse.”*
+*"You’re not working at all within the local expectations. Your camera flashlight can work to illuminate Glamour, but take 2 Discord."
+
+“The ritual is being resisted by something with a deep hold over this place. You all take 1 Discord, and at this rate it’s going to get worse.”*
 
 **Deal Damage**
 
@@ -1632,7 +1660,9 @@ The life of a mage is dangerous, and danger often involves pain. When they fall,
 
 *"Even as you tug haphazardly at the tangle of wires, you realize the moment when ‘down to the wire’ becomes ‘too late,’ and you aren’t going to defuse the bomb in time. You scramble backwards as it ticks down to zero, and are thrown back with the force of the explosion. Take four harm."*
 
-*"So there’s this big boom from out on the water, and huge droplets spill down on you - and hand-sized swordfish. One gets you right in the shoulder. Take 2 Harm."“It’s trident against trident, and you stab him good, but he got you, too, with a glancing blow. 1 Harm.”*
+*"So there’s this big boom from out on the water, and huge droplets spill down on you - and hand-sized swordfish. One gets you right in the shoulder. Take 2 Harm."
+
+“It’s trident against trident, and you stab him good, but he got you, too, with a glancing blow. 1 Harm.”*
 
 **Make them Backlash**
 
@@ -1824,9 +1854,15 @@ Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to giv
 
 ## Before the First Session
 
-Make sure you have all the materials needed for play. A printout of each of the playbooks, a few copies of the basic moves sheet, an MC sheet, a copy of the Forces sheet, as well as the Internal Forces and Consensus Forces sheet. Read through the playbooks and basic moves if you haven’t already, they form the core of the game. You’ll also need a couple of dice. The ones with six sides and pips. Or numbers if you prefer. Read through this whole book. You don’t have to memorize it, but at least skim the parts about the different character playbooks, and read the rest with as much attention as you can spare. You’ll want to familiarize yourself with the process of creating Forces, but do not begin to create them. Not even one.You can also start to come up with some ideas for fantastic imagery to use, settings, themes, descriptions and the like, but don’t commit yourself to any plot, storyline, or even make any characters before the game. You’ll see why as you start to play, this is a collaborative effort, and the game is so much more fun when you can take those ideas and run with them.
+Make sure you have all the materials needed for play. A printout of each of the playbooks, a few copies of the basic moves sheet, an MC sheet, a copy of the Forces sheet, as well as the Internal Forces and Consensus Forces sheet. Read through the playbooks and basic moves if you haven’t already, they form the core of the game. You’ll also need a couple of dice. The ones with six sides and pips. Or numbers if you prefer. 
 
-## Character Creation{{anchorSafety Rules}}
+Read through this whole book. You don’t have to memorize it, but at least skim the parts about the different character playbooks, and read the rest with as much attention as you can spare. You’ll want to familiarize yourself with the process of creating Forces, but do not begin to create them. Not even one.
+
+You can also start to come up with some ideas for fantastic imagery to use, settings, themes, descriptions and the like, but don’t commit yourself to any plot, storyline, or even make any characters before the game. You’ll see why as you start to play, this is a collaborative effort, and the game is so much more fun when you can take those ideas and run with them.
+
+## Character Creation
+
+{{anchorSafety Rules}}
 
 ### Initial Expectations and Safety Rules
 
@@ -1970,7 +2006,9 @@ When the players go around introducing their characters, make a note of any answ
 
 ### Framing a Scene
 
-During the first session, your method of choosing scenes is a bit more structured and formulaic than it will be in future sessions. First, choose one of the 3 questions that you’re going to explore. These often make the most sense if they go in order, so any scenes about the first question before scenes about the second and so on, but that isn’t always the case. Next, pick any number of Mages who have answers to that question that could synergize. Put them into a situation that starts to explore their answers, and then start asking leading questions to probe deeper and deeper into their answers. Find out who trivialized their humanity, or how it lead them to a fundamentally different paradigm about the world, or what they most fear about being hunted. Find out anything you can while playing out the scene, and help the characters establish their ties and connections to each other while doing it. Also look for places where characters that are connected to one Mage might also be connected to another, and how both Mages might want different and competing things from that non-player character.If you’ve chosen the first question, it’s likely you’ll want to frame it as a flashback. Feel free to describe special effects and camera shots, fog clouding people’s memories and cheesy flashback chimes. Frame a scene that explores the characters’ humanity being trivialized.
+During the first session, your method of choosing scenes is a bit more structured and formulaic than it will be in future sessions. First, choose one of the 3 questions that you’re going to explore. These often make the most sense if they go in order, so any scenes about the first question before scenes about the second and so on, but that isn’t always the case. Next, pick any number of Mages who have answers to that question that could synergize. Put them into a situation that starts to explore their answers, and then start asking leading questions to probe deeper and deeper into their answers. Find out who trivialized their humanity, or how it lead them to a fundamentally different paradigm about the world, or what they most fear about being hunted. Find out anything you can while playing out the scene, and help the characters establish their ties and connections to each other while doing it. Also look for places where characters that are connected to one Mage might also be connected to another, and how both Mages might want different and competing things from that non-player character.
+
+If you’ve chosen the first question, it’s likely you’ll want to frame it as a flashback. Feel free to describe special effects and camera shots, fog clouding people’s memories and cheesy flashback chimes. Frame a scene that explores the characters’ humanity being trivialized.
 
 If you’ve chosen the second question, you will likely want to frame it in the recent past or in the present. Again, make good use of visual storytelling tropes like camera angles to establish the scene or tone. Frame a scene that questions the characters’ humanity, from an external source or even an internal one.
 
@@ -2050,7 +2088,10 @@ Frame scenes so that everyone knows where they are starting and can use that as 
 
 When framing a scene, define what is needed to get started; think about time, place, and who is around. Let other details be filled in naturally. Keep an eye on when the scene has fulfilled its purpose, so it doesn’t begin to drag on. When the major tension of a scene has resolved, whether that tension was there at the outset or arose within the scene, wrap it up and move on to the next one. Stories often leave you on a cliffhanger, and it can be fun to do that here. Sometimes the end of the scene is left up to the audience to fill in with their imagination, they know the outcome, but what exactly transpired doesn't need to happen "on screen". Followups can either be briefly mentioned, or made into new scenes of their own.
 
-\newpage{{anchorStatus Tracks chapter}}
+\newpage
+
+
+{{anchorStatus Tracks chapter}}
 
 # Status Tracks
 
@@ -2172,8 +2213,10 @@ Force Status Tracks can also be reset, if they are given a major setback. This m
 
 With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the {{linkAdvanced Moves}} section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
 
-\newpage
-{{anchorMagic Chapter}} 
+\newpage
+
+{{anchorMagic Chapter}} 
+
 # Magic
 
 What is magic you may be asking? Or "Where the heck is all the magic, I thought that’s what this game was supposed to be about!" Well look no further.
@@ -2236,7 +2279,9 @@ In cases where the MC isn’t sure what move is triggered by a mage attempting t
 
 Let’s look at some examples of moves, and how they can be both mundane and magical.
 
-Tobias is cornered, and really needs a distraction to get out of there. Because they work with electricity as a major part of their magic, their eye catches on a telephone pole and a transformer right nearby. Tobias’ player tells the MC that Tobias is going to redirect the flow of power briefly to overload the transformer and cause a very distracting pyrotechnic display. The MC responds that this seems like the very definition of enacting a sudden or unexpected change on the physical world. Tobias’ player agrees, and so rolls the move.Dove, on the other hand, is also cornered, but doesn’t want to use magic to get out of the situation, because they’ve been too recently reminded by the Consensus that magic doesn’t fix everything. So Dove’s player describes Dove throwing a rock at a dilapidated wall nearby, to bring it down on their pursuers and distract them long enough for Dove to get away. This is also enacting sudden (violent) and unexpected change on the world, even though there was no magic involved.
+Tobias is cornered, and really needs a distraction to get out of there. Because they work with electricity as a major part of their magic, their eye catches on a telephone pole and a transformer right nearby. Tobias’ player tells the MC that Tobias is going to redirect the flow of power briefly to overload the transformer and cause a very distracting pyrotechnic display. The MC responds that this seems like the very definition of enacting a sudden or unexpected change on the physical world. Tobias’ player agrees, and so rolls the move.
+
+Dove, on the other hand, is also cornered, but doesn’t want to use magic to get out of the situation, because they’ve been too recently reminded by the Consensus that magic doesn’t fix everything. So Dove’s player describes Dove throwing a rock at a dilapidated wall nearby, to bring it down on their pursuers and distract them long enough for Dove to get away. This is also enacting sudden (violent) and unexpected change on the world, even though there was no magic involved.
 
 ## Harmonious Magic
 
@@ -2252,7 +2297,10 @@ Sometimes you can tear holes in reality and get away with it because no one is a
 
 ## Discord
 
-Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.{{anchorBacklash chapter}}
+Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.
+
+
+{{anchorBacklash chapter}}
 
 ## Backlash
 
@@ -2312,7 +2360,10 @@ Some playbooks have access to a place of power through optional moves. Other pla
 
 Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama.
 
-\newpage{{anchorAnchors and Inspirations chapter}}
+\newpage
+
+
+{{anchorAnchors and Inspirations chapter}}
 
 # Anchors and Inspirations
 
@@ -2466,9 +2517,13 @@ Certain moves care if your character is tethered, or how many Anchors or Inspira
 
 ### Losing a Character
 
-If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
+If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. 
 
-\newpage{{anchorGear and Accoutrements chapter}}
+When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
+
+\newpage
+
+{{anchorGear and Accoutrements chapter}}
 
 # Gear and Accoutrements
 
