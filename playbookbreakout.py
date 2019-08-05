@@ -20,7 +20,7 @@ latex_jinja_env = jinja2.Environment(
 playbooks = {}
 
 def get_data():
-	with io.open ('Consensus Book.md', encoding='utf-8') as f:
+	with io.open ('consensus.md', encoding='utf-8') as f:
 		l=0
 		workingdoc = []
 		global playbookstext
