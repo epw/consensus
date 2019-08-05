@@ -2,7 +2,7 @@ LATEX = xelatex
 PDFJOIN = pdfjoin
 PANDOC = pandoc
 
-ALL_PLAYBOOKS = cabalist.pdf mentor.pdf hedge_mage.pdf inspired.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
+ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
 all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf consensus.pdf consensus.html
 
