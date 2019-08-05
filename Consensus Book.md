@@ -2173,7 +2173,7 @@ Force Status Tracks can also be reset, if they are given a major setback. This m
 With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the {{linkAdvanced Moves}} section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
 
 \newpage
-{{anchorMagic Chapter}}
+{{anchorMagic Chapter}} 
 # Magic
 
 What is magic you may be asking? Or "Where the heck is all the magic, I thought that’s what this game was supposed to be about!" Well look no further.

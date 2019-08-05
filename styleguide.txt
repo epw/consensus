@@ -7,4 +7,4 @@ for page break, type \pagebreak on its own line, with one blank line above and o
 for new page, type \newpage on its own line, with one blank line above and one below
 
 for links, type {{linkThe Text You Want to Link}}, this will link in html, and append (page xx) in pdf
-for anchors, type {{anchorThe Same Text From Your Link}}, on its own line, with one blank line above and one below, this will be invisible in both views
+for anchors, type {{anchorThe Same Text From Your Link}}, on its own line, followed by a space, with one blank line above and one below, this will be invisible in both views

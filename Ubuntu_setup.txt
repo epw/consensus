@@ -6,4 +6,4 @@ texlive-latex-extra
 texlive-xetex
 texlive-extra-utils
 git
-pandoc
+pandoc 2.7.3 (from https://github.com/jgm/pandoc/releases/latest)
