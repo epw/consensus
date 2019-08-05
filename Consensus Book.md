@@ -1249,7 +1249,7 @@ On a 7-9, choose 2:
 - The Consensus manifests a being, an Enforcer of its will, to hunt you down, attack you, or otherwise warn you to change your behavior 
 On a miss, you shake it off with minimal lasting effects.
 
->This move is complex, it carries a lot of weight, and it can heavily shape the experience of play at your table. See the Backlash section of the [Magic chapter](#Magicchapter) for details about what this means.
+>This move is complex, it carries a lot of weight, and it can heavily shape the experience of play at your table. See the {{linkBacklash section}} of the Magic Chapter for details about what this means.
 
 ## The Advanced Moves
 
@@ -2252,7 +2252,7 @@ Sometimes you can tear holes in reality and get away with it because no one is a
 
 ## Discord
 
-Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.
+Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.{{anchorBacklash chapter}}
 
 ## Backlash
 

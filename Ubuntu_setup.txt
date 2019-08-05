@@ -1,4 +1,4 @@
-ubuntu 18.04 latex packages needed:
+ubuntu 18.04 packages needed:
 
 make
 texlive
@@ -6,3 +6,4 @@ texlive-latex-extra
 texlive-xetex
 texlive-extra-utils
 git
+pandoc
