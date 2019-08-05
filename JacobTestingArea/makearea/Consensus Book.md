@@ -1131,8 +1131,7 @@ The Wayfarer gets the **Step Sideways** move, and 2 other moves of your choice.
 - They tell you something useful and true.
 - They give you something that is potentially useful.
 - They have something of great value to you.
-- You have something of great value to them, and you know
-it.
+- You have something of great value to them, and you know it.
 
 **Sixth Sense:** When you **travel along a path before it happens**, roll +Within, and see a vision of possible futures. On a 10+, tell the MC what you sense, they may add to it. On a 7-9, the MC will tell you what you sense, and two possible interpretations.
 
