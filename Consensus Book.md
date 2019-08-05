@@ -61,14 +61,14 @@ Mages in Consensus are people who have a deep belief about how the world works a
 
 A Mage’s particular beliefs are summed up in their Paradigm. This describes what it is they believe that is different enough from the usual world that when acted on, the Mage produces magic. It suggests what they are generally capable of, what they are particularly good at, and what they think is impossible, whether for just themselves or for anybody. Understanding the depths of their own Paradigm is an important part of the journey for any Mage, and understanding the Paradigms of other Mages around them is key to successfully working together (as well as to not have a disastrous clash of worldviews).
 
-See the [Magic chapter](MagicChapter) for more on Paradigms.
+See the {{linkMagic Chapter}} for more on Paradigms.
 
 
 ### Hardship Breeds Revelation
 
 Beliefs can be made stronger by being challenged, just like people. Very few people who lead an easy, charmed, unchallenged life develop the beliefs that are strong enough to transform them into a Mage. But, once they do Awaken, coming to understand their abilities, their story is just getting started. Difficulties remain, whether things they couldn’t shake from their past or new problems brought on by magic. The life of a Mage is never an easy one.
 
-To get at this, Playbooks ask three questions: Why was your humanity trivialized, why is your humanity still in question, and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. [The Safety Rules in the First Session](SafetyRules) chapter can help make sure no-one crosses a boundary they don’t want to.
+To get at this, Playbooks ask three questions: Why was your humanity trivialized, why is your humanity still in question, and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. The {{linkSafety Rules}} in the First Session chapter can help make sure no-one crosses a boundary they don’t want to.
 
 
 ### Anchors and Inspirations
@@ -77,18 +77,18 @@ Mages, just like anyone, are tied to people and things around them. Some of the 
 
 Inspirations are the people, and occasionally magical beings, who further enlighten a Mage and help them see what might be possible. They act as counterbalances to the restraint from Anchors. An Inspiration doesn’t tend to actively inspire for long, but they are easy to reconnect with, which can be very rewarding.
 
-See the Anchors and Inspirations chapter for more.
+See the {{linkAnchors and Inspirations chapter}} for more.
 
 
 ## Gear and Accoutrements
 
-A Mage is hopefully capable enough when armed only with their mind, but often will have a variety of supplements to draw on. They tend to have a few pieces of noteworthy gear that usually travels with them. In addition, they may have access to a special magical place, or a band of other Mages to work with, or a group of students who seek to learn their wisdom. For more on these things, see the Gear and Accoutrements chapter.
+A Mage is hopefully capable enough when armed only with their mind, but often will have a variety of supplements to draw on. They tend to have a few pieces of noteworthy gear that usually travels with them. In addition, they may have access to a special magical place, or a band of other Mages to work with, or a group of students who seek to learn their wisdom. For more on these things, see the {{linkGear and Accoutrements chapter}}.
 
 ## Status Tracks
 
 Consensus measures progress over time for a number of elements of the game, from health to a sinister plot. This is usually done with a Status Track, which is based on the Code system used in medical transport. Status Tracks start with no Codes marked off, then have Code 50 marked off, Code 40, and so on, down to Code 10 and then Code N, the “newsworthy event.” What this means will depend on what the Status Track is tied to, but Code N is always irrevocable, representing a fundamental change. When a Status Track’s Code 30 is marked off, it starts to “slip”, advancing towards Code N much more quickly. Problems that aren’t addressed early on can become much more difficult to head off.
 
-For more on Status Tracks, see the Status Tracks chapter.
+For more on Status Tracks, see the {{linkStatus Tracks chapter}}.
 
 
 ## Why to Play
@@ -100,8 +100,6 @@ Maybe you’ve felt like you realized something about the world, and you’ve be
 \newpage
 
 # The Characters
-
-{{StartCabalist}}
 
 ## The Cabalist
 
@@ -146,8 +144,7 @@ The Cabalist gets the Gossamer Threads move, and 2 other moves of your choice.
 
 **Speak Beyond the Veil:** When you attempt to **contact the spirit of one who has passed on**, roll +Entropic. On a 10+ choose 2, on a 7-9 choose 1:
 - The spirit is the one you meant to contact
-- The spirit can stay for longer than a single utterance or
-action
+- The spirit can stay for longer than a single utterance or action
 - The spirit is of the disposition you expect
 
 **We're Not So Different:** When you **explain your paradigm to another mage** in order to aid them in doing magic that is Opposed to their paradigm, roll +Within. On a hit, the magic is not Opposed, this time. On a 10+, you both mark experie
@@ -241,15 +238,13 @@ A Ritual performed here will never (choose 1):
 - Get a new Cabalist Move
 - Get a playbook move from another book
 - Get an Advanced Cabalist Move
-- Remove a weakness from your Place of Power
-
-{{EndCabalist}}
+- Remove a weakness from your Place of Power\newpage
 
 ## The Mentor
 
 The secrets of the Universe are yours, but you don't guard them jealously. You share the wisdom with the precious few who will listen, taking on pupils who will one day surpass you.
 
-**Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Senshu, Sena
+**Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Sena
 
 **Why was your humanity trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
 **Why is your humanity still in question?** Because I see things as they really are, because I make my own path, because people started noticing me  
@@ -257,9 +252,7 @@ The secrets of the Universe are yours, but you don't guard them jealously. You s
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - shining eyes, sunken eyes, alert eyes, glowing eyes
 - weathered face, gaunt face, wrinkled face, caring face, creased face
 - wiry body, ripped body, lanky body
@@ -387,7 +380,7 @@ A Ritual performed here will never (choose 1):
 - Choose a new option for your Place of Power
 - Get a playbook move from another book
 - Get a playbook move from another book
-- Get an Advanced Mentor Move
+- Get an Advanced Mentor Move\newpage
 
 ## The Hedge Mage
 
@@ -401,9 +394,7 @@ A Ritual performed here will never (choose 1):
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - distracted eyes, glittering eyes, faraway eyes, inscrutable eyes, determined eyes
 - wizened face, deadpan face, vivacious face, brisk face, chipper face, sharp face
 - spindly body, angular body, aggressive body, thickset body, dexterous body
@@ -497,7 +488,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Pick a playbook move from another playbook
 - Pick a playbook move from another playbook
 - Gain +1 Wits (max Wits +3)
-- Get an Advanced Hedge Mage Move
+- Get an Advanced Hedge Mage Move\newpage
 
 ## The Inspired
 
@@ -511,15 +502,12 @@ Many people wonder where inspiration comes from. That question is boring to you,
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - Burning eyes, dull eyes, hungry eyes, bloodshot eyes
 - Slack face, haggard face, shining face, stubborn face, yearning face
 - Wiry body, full body, misshapen body
-- Flowing clothes, fancy clothes, rags, hip clothes, active clothes,
-- Expansive aura, sucking aura, insinuating aura, kaleidoscope aura, tantalizing
-aura,
+- Flowing clothes, fancy clothes, rags, hip clothes, active clothes
+- Expansive aura, sucking aura, insinuating aura, kaleidoscope aura, tantalizing aura
 
 ### Paradigms
 
@@ -541,8 +529,7 @@ The Inspired gets the **Source** move, and 2 other moves of your choice.
 
 - Draw attention to your Source
 - Give someone (including yourself) +1 to a roll they just made if it would change the result, describing how your Source helps them do it
-- Bring your positive tag into play, narrating what it means for the
-moment
+- Bring your positive tag into play, narrating what it means for the moment
 
 Whether it is present in a scene or not, your Source always counts as an active Inspiration for you.
 
@@ -627,7 +614,7 @@ And choose two of these:
 - Pick a playbook move from another playbook
 - Gain +1 Charm (max Charm +3)
 - Gain +1 Grace (max Grace +3)
-- Get an Advanced Inspired Move
+- Get an Advanced Inspired Move\newpage
 
 ## The Pious
 
@@ -641,9 +628,7 @@ You know the true meaning of sacrifice. It isn't something dramatic or grandiose
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - caring eyes, quiet eyes, intense eyes, small eyes, inspired eyes, hard eyes
 - youthful face, lined face, sharp face, round face, marred face, open face
 - hard body, sallow body, frail body, large body
@@ -759,7 +744,7 @@ Get a new Pious move
 - Choose a new option for your Place of Power
 - Get a playbook move from another book
 - Get a playbook move from another book
-- Get an Advanced Pious Move
+- Get an Advanced Pious Move\newpage
 
 ## The Primordial
 
@@ -773,9 +758,7 @@ You don't need fancy rituals, long drawn-out methods, or anything like that when
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - burning eyes, dead eyes, piercing eyes, hungry eyes, hopeful eyes, white eyes
 - scarred face, drawn face, sallow face, eager face, tired face, weathered face
 - imposing body, sinewy body, impish body, emaciated body, thickset body
@@ -869,11 +852,11 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Get a second use of Serendipity
 - Get a playbook move from another book
 - Get a playbook move from another book
-- Get an Advanced Primordial move
+- Get an Advanced Primordial move\newpage
 
 ## The Tech Adept
 
-Most people think magic and tech are incompatible, but you know better. You prefer to think of them as peanut butter and chocolate. And you're the sweet sweet mix.
+Most people think magic and technology are incompatible, but you know better. You prefer to think of them as peanut butter and chocolate. And you're the sweet sweet mix.
 
 **Name:** Jeremy, Kix, Sonya, B3ll, Doran, Starter, TK, Foto, Liza, The Law, Dodge, Ophelia, Tarvek, Fr0st, Amanda
 
@@ -883,16 +866,12 @@ Most people think magic and tech are incompatible, but you know better. You pref
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - cocky eyes, darting eyes, vacant eyes, lively eyes, emotionless eyes
 - driven face, stony face, fervent face, steady face, broad face, impassive face
 - jumpy body, gangling body, striking body, burly body, awkward body
-- tailored clothes, lusterless clothes, futuristic clothes, dingy clothes,
-protective clothes
-- kinetic aura, obscure aura, crackling aura, luminous aura, twisting aura, drab
-aura
+- tailored clothes, lusterless clothes, futuristic clothes, dingy clothes, protective clothes
+- kinetic aura, obscure aura, crackling aura, luminous aura, twisting aura, drab aura
 
 ### Paradigms
 
@@ -976,7 +955,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Gain a new Tech-Adept move
 - Pick a playbook move from another playbook
 - Get an Advanced Tech-Adept Move
-- Get an Advanced Tech-Adept Move
+- Get an Advanced Tech-Adept Move\newpage
 
 ## The Voiced
 
@@ -1045,7 +1024,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) ______ who is always there for me; Allison, who taught me how to live; ______, who finishes my duets
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) The long-dead bouquet of flowers I was given for ______; The headphones that ______ got for me; The my mother brought back from a business trip.
+Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) The long-dead bouquet of flowers I was given for ______; The headphones that ______ got for me; The ______ my mother brought back from a business trip.
 
 ### Starting Gear
 
@@ -1078,7 +1057,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Get +1 Will (Max Will +3)
 - Get a new Voiced move
 - Get a move from another playbook
-- Get an Advanced Voiced move
+- Get an Advanced Voiced move\newpage
 
 ## The Wayfarer
 
@@ -1092,9 +1071,7 @@ There are many who travel the world in this day and age, and many fewer who trav
 
 **Looks:**
 
-- (choose at least one) ambiguous presentation, androgynous presentation,
-butch presentation, concealed presentation, femme presentation, fluid
-presentation, transgressing presentation
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - spirited eyes, tender eyes, distant eyes, daring eyes, wandering eyes, secretive eyes
 - stolid face, eager face, weathered face, angular face, weary face, covered face
 - vibrant body, waifish body, hardened body, fluid body, mousy body, weird body
@@ -1849,7 +1826,7 @@ Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to giv
 
 Make sure you have all the materials needed for play. A printout of each of the playbooks, a few copies of the basic moves sheet, an MC sheet, a copy of the Forces sheet, as well as the Internal Forces and Consensus Forces sheet. Read through the playbooks and basic moves if you haven’t already, they form the core of the game. You’ll also need a couple of dice. The ones with six sides and pips. Or numbers if you prefer. Read through this whole book. You don’t have to memorize it, but at least skim the parts about the different character playbooks, and read the rest with as much attention as you can spare. You’ll want to familiarize yourself with the process of creating Forces, but do not begin to create them. Not even one.You can also start to come up with some ideas for fantastic imagery to use, settings, themes, descriptions and the like, but don’t commit yourself to any plot, storyline, or even make any characters before the game. You’ll see why as you start to play, this is a collaborative effort, and the game is so much more fun when you can take those ideas and run with them.
 
-## Character Creation
+## Character Creation{{anchorSafety Rules}}
 
 ### Initial Expectations and Safety Rules
 
@@ -2073,7 +2050,7 @@ Frame scenes so that everyone knows where they are starting and can use that as 
 
 When framing a scene, define what is needed to get started; think about time, place, and who is around. Let other details be filled in naturally. Keep an eye on when the scene has fulfilled its purpose, so it doesn’t begin to drag on. When the major tension of a scene has resolved, whether that tension was there at the outset or arose within the scene, wrap it up and move on to the next one. Stories often leave you on a cliffhanger, and it can be fun to do that here. Sometimes the end of the scene is left up to the audience to fill in with their imagination, they know the outcome, but what exactly transpired doesn't need to happen "on screen". Followups can either be briefly mentioned, or made into new scenes of their own.
 
-\newpage
+\newpage{{anchorStatus Tracks chapter}}
 
 # Status Tracks
 
@@ -2195,8 +2172,8 @@ Force Status Tracks can also be reset, if they are given a major setback. This m
 
 With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the {{linkAdvanced Moves}} section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
 
-\newpage
-
+\newpage
+{{anchorMagic Chapter}}
 # Magic
 
 What is magic you may be asking? Or "Where the heck is all the magic, I thought that’s what this game was supposed to be about!" Well look no further.
@@ -2335,7 +2312,7 @@ Some playbooks have access to a place of power through optional moves. Other pla
 
 Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama.
 
-\newpage
+\newpage{{anchorAnchors and Inspirations chapter}}
 
 # Anchors and Inspirations
 
@@ -2491,7 +2468,7 @@ Certain moves care if your character is tethered, or how many Anchors or Inspira
 
 If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
 
-\newpage
+\newpage{{anchorGear and Accoutrements chapter}}
 
 # Gear and Accoutrements
 
