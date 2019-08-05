@@ -251,8 +251,7 @@ The secrets of the Universe are yours, but you don't guard them jealously. You s
 
 **Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Senshu, Sena
 
-**Why was your humanity trivialized?** Because I was poor, because
-I was neurodivergent, because of my transgressions  
+**Why was your humanity trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
 **Why is your humanity still in question?** Because I see things as they really are, because I make my own path, because people started noticing me  
 **Why are you hunted?** Because I'm famous, for my forbidden knowledge, so my students are not
 

@@ -140,11 +140,11 @@ def playbookdata(name):
 					if '_' in p.description:
 						p.description = p.description.replace('_', '')
 		if line.startswith('**Why was your humanity trivialized?**'):
-			p.question1 = line[39:-1]
+			p.question1 = line[39:].strip(' \n')
 		if line.startswith('**Why is your humanity still in question?**'):
-			p.question2 = line[44:-1]
+			p.question2 = line[44:].strip(' \n')
 		if line.startswith('**Why are you hunted?**'):
-			p.question3 = line[24:-1]
+			p.question3 = line[24:].strip(' \n')
 		if line.startswith('**Looks:**'):
 			in_looks = True
 		if line.startswith('### '):
