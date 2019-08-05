@@ -69,20 +69,6 @@
 \BLOCK{ endfor }
 }
 
-
-  \MOVE{Chance Meetings}{When you \TRIGGER{meet an important stranger}
-    (your choice) in your travels, roll +Dynamic. On a 10+ choose one,
-    on a 7-9 the MC will choose one.
-    \vspace{-.5em}
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item They tell you something useful and true.
-    \item They give you something that is potentially useful.
-    \item They have something of great value to you.
-    \item You have something of great value to them, and you know it.
-    \end{itemize}
-  }
-
 \BLOCK{ for move in othermoves }
 \MOVE{\VAR{move['name']}}{\VAR{move['movestring']}\VAR{move['before']}\TRIGGER{\VAR{move['trigger']}}\VAR{move['after']}
 
