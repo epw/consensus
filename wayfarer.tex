@@ -2,72 +2,46 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Wayfarer}
-\renewcommand{\Picture}{Wayfarer-new.jpg}
-\renewcommand{\Description}{There are many who travel the world in
-  this day and age, and many fewer who travel where you do. The
-  journey of a thousand miles begins with you.}
-\renewcommand{\Names}{Roland, Isobel, Amelia, Karma, Daniel, Celina,
-  Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina,
-  Corwin}
-
-\renewcommand{\Trivialized}{Because I couldn't keep up, because of my
-  attitude, (because of my disability), \BLANK}
-\renewcommand{\Hunted}{Because I run, because I break the Rules, for
-  what I know, \BLANK}
-
-\renewcommand{\Eyes}{spirited eyes, tender eyes, distant eyes, daring
-  eyes, wandering eyes, secretive eyes}
-\renewcommand{\Faces}{stolid face, eager face, weathered face, angular
-  face, weary face, covered face}
-\renewcommand{\Bodies}{vibrant body, waifish body, hardened body,
-  fluid body, mousy body, weird body}
-\renewcommand{\Clothes}{tattered clothes, soiled clothes, crisp
-  clothes, foreign clothes, comfortable clothes, tough clothes}
-\renewcommand{\Auras}{tireless aura, vital aura, capricious aura,
-  eccentric aura, boisterous aura, nondescript aura}
-
-\renewcommand{\Stats}{
-Will +0, Wits -1, Charm +1, Grace +2, Body +1
-
-Will -1, Wits +0, Charm +2, Grace +2, Body -1
-
-Will +0, Wits +1, Charm +1, Grace +2, Body -1
-
-Will +0, Wits +0, Charm +2, Grace +1, Body +0
+\renewcommand{\Picture}{Wayfarer-new}
+\renewcommand{\Description}{There are many who travel the world in this day and age, and many fewer who travel where you do. The journey of a thousand miles begins with you.
 }
-\renewcommand{\AnchorNumber}{3}
-\renewcommand{\Anchors}{
-\item Iris, who will be my legacy
-\item My tattered, empty diary
-\item My collection of smoothed stones
-\item My well-polished Harley
-\item My childhood chapel
-\item My family
-}
+\renewcommand{\Names}{Roland, Isobel, Amelia, Karma, Daniel, Celina, Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina, Corwin}
+\renewcommand{\Trivialized}{{\small Because I couldn't keep up, because of my attitude, because the world isn't accessible, \BLANK}}
+\renewcommand{\Questioned}{{\small Because I don't care, because people started noticing me, Because I see things as they really are, \BLANK}}
+\renewcommand{\Hunted}{{\small Because I run, because I break the Rules, for what I know, \BLANK}}
+
+\renewcommand{\Eyes}{spirited eyes, tender eyes, distant eyes, daring eyes, wandering eyes, secretive eyes}
+\renewcommand{\Faces}{stolid face, eager face, weathered face, angular face, weary face, covered face}
+\renewcommand{\Bodies}{vibrant body, waifish body, hardened body, fluid body, mousy body, weird body \BLANK}
+\renewcommand{\Clothes}{tattered clothes, soiled clothes, crisp clothes, foreign clothes, comfortable clothes, tough clothes}
+\renewcommand{\Auras}{tireless aura, vital aura, capricious aura, eccentric aura, boisterous aura, nondescript aura}
 
 \renewcommand{\HomeAnchorItems}{
 \item My well-maintained but tempermental conversion van
-\item My house that always seems to need repair
-\item A well-used tent and backpacking gear
+\item  My house that always seems to need repair
+\item  A well-used tent and backpacking gear
 }
 \renewcommand{\ConnectionAnchorItems}{
 \item Iris, who will be my legacy
-\item My family
-\item Devin, my childhood chaplin
+\item  My family
+\item  Devin, my childhood chaplin
 }
 \renewcommand{\MemoryAnchorItems}{
 \item My well-polished Harley
-\item My tattered, empty diary
-\item My collection of smoothed stones
+\item  My tattered, empty diary
+\item  My collection of smoothed stones
 }
-
 \renewcommand{\Gear}{
 \item No Savings
+
 \item Choose a means of getting around: My well-cared-for motorcycle; A walking staff and good pair of boots; The latest in a long series of cars, not yet on its last legs.
-\item Choose a way of protecting yourself: A pet dog, your loyal traveling companion; Enough hidden knives to arm a small gang; A [flavorful] pistol
-\item Choose a curiosity: A map to somewhere you'll need to go again; A spirit totem that isn't sure it accepts you as its owner; The latest in amateur radio technology
+
+\item Choose a way of protecting yourself: A pet dog, your loyal traveling companion; Enough hidden knives to arm a small gang; A pistol with a hidden holster
+
+\item Choose a curiosity: A map to somewhere you’ll need to go again; A spirit totem that isn't sure it accepts you as its owner; The latest in amateur radio technology
+
 }
-\renewcommand{\StatsSpaceAdjust}{1em}
+\renewcommand{\StatsSpaceAdjust}{0em}
 \renewcommand{\BasicAdvancements}{
 \item Pick a new Wayfarer Move
 \item Gain +1 Will (Max Will +1)
@@ -77,89 +51,67 @@ Will +0, Wits +0, Charm +2, Grace +1, Body +0
 }
 \renewcommand{\SpecialAdvancements}{
 \item Pick a new Wayfarer move
-\item When using Step Sideways, always choose +1 option, even on a
-  miss
+\item When using Step Sideways, always choose +1 option, even on a miss
 \item Pick a playbook move from another playbook
 \item Pick a playbook move from another playbook
 \item Gain +1 Wits (max Wits +3)
 \item Get an Advanced Wayfarer Move
 }
-\renewcommand{\MoveExplanation}{The Wayfarer gets the \textbf{Step
-    Sideways} move, and 2 other moves of your choice.}
+\renewcommand{\MoveExplanation}{The Wayfarer gets the \textbf{Step Sideways} move, and 2 other moves of your choice.}
 \renewcommand{\MoveSpacing}{0em}
 \renewcommand{\Moves}{
-  \DEFAULTMOVE{Step Sideways}{When you \TRIGGER{seek a path to step
-      sideways and travel to someplace new}, roll +Entropic. On a 10+
-    choose 4, on a 7-9 choose 2.
-    \vspace{-.5em}
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item You get where you meant to go, no funny business. 
-    \item You arrive promptly. 
-    \item You arrive unharmed. 
-    \item You remember the path, so you can travel it again. 
-    \item You can safely and easily return.
-    \end{itemize}
-  }
+  \DEFAULTMOVE{Step Sideways}{When you \TRIGGER{seek a path to step sideways and travel to someplace new}, roll +Entropic. On a 10+ choose 4, on a 7-9 choose 2.  \vspace{-.5em}
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item You get where you meant to go, no funny business.
+\item You arrive promptly.
+\item You arrive unharmed.
+\item You remember the path, so you can travel it again.
+\item You can safely and easily return.\end{itemize}}
 
-  \MOVE{Chance Meetings}{When you \TRIGGER{meet an important stranger}
-    (your choice) in your travels, roll +Dynamic. On a 10+ choose one,
-    on a 7-9 the MC will choose one.
-    \vspace{-.5em}
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item They tell you something useful and true.
-    \item They give you something that is potentially useful.
-    \item They have something of great value to you.
-    \item You have something of great value to them, and you know it.
-    \end{itemize}
-  }
+\MOVE{Chance Meetings}{When you \TRIGGER{meet an important stranger} (your choice) in your travels, roll +Dynamic. On a 10+ choose one, on a 7-9 the MC will choose one.
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item They tell you something useful and true.
+\item They give you something that is potentially useful.
+\item They have something of great value to you.
+\item You have something of great value to them, and you know it.\end{itemize}}
 
-  \MOVE{Sixth Sense}{When you \TRIGGER{travel along a path before it
-      happens}, roll +Within, and see a vision of possible futures. On
-    a 10+, tell the MC what you sense, they may add to it. On a 7-9,
-    the MC will tell you what you sense, and two possible
-    interpretations.}
+\MOVE{Sixth Sense}{When you \TRIGGER{travel along a path before it happens}, roll +Within, and see a vision of possible futures. On a 10+, tell the MC what you sense, they may add to it. On a 7-9, the MC will tell you what you sense, and two possible interpretations.}
 
-  \MOVE{Parkour}{When you \TRIGGER{Outfox in an urban jungle}, on a
-    12+ you additionally hold 3. You can spend your hold one for one
-    to:
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item Take +1 forward on an additional Outfox roll
-    \item Take +1 forward to keeping your head down
-    \item Treat your skills as something a sleeper wants for Use a
-      Sleeper
-    \end{itemize}
-  }
-  
-  \MOVE{Any Port in a Storm}{ When you \TRIGGER{find yourself in an
-      unwelcoming situation}, roll +Dynamic. On a 10+, tell
-    the MC what you recognize as familiar and how that helps you. On a
-    7-9, the MC will tell you.}
+\MOVE{Parkour}{When you \TRIGGER{Outfox in an urban jungle}, on a 12+ you additionally hold 3. You can spend your hold one for one to:
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item Take +1 forward on an additional Outfox roll
+\item Take +1 forward to keeping your head down
+\item Treat your skills as something a sleeper wants for Use a Sleeper\end{itemize}}
 
-  \MOVE{The Soul of an Explorer}{When you \TRIGGER{seek out or find an
-    entirely new experience}, roll +Dynamic. On a hit, you learn
-    something, mark experience. On a 10+, you find something that
-    makes it easier, safer, or more enjoyable, the MC will tell you
-    what.}
+\MOVE{Any Port in a Storm}{When you \TRIGGER{find yourself in an unwelcoming situation}, roll +Dynamic. On a 10+, tell the MC what you recognize as familiar and how that helps you. On a 7-9, the MC will tell you.}
+
+\MOVE{The Soul of an Explorer}{When you \TRIGGER{seek out or find an entirely new experience}, roll +Dynamic. On a hit, you learn something, mark experience. On a 10+, you find something that makes it easier, safer, or more enjoyable, the MC will tell you what.}
+
 }
+
+
+
 \renewcommand{\SpecialMoveSpacing}{0em}
-\renewcommand{\SpecialMove}{roll +Within. On a 10+, once, you can step
-  sideways to this person as if they were a place you've never been
-  before. On a 7-9, you see each other in a new light, you each pick
-  one from the Chance Meetings list for the other. On a 6-, take -1
-  ongoing until you prove you don't owe them anything.}
-\renewcommand{\Paradigms}{
-\PARADIGM{All people are connected, all people affect one
-  another.}{Sympathy magic, Travel magic}{Choose one: Creation,
-  permanent effects}{Choose one: Binding magic, magic that prevents
-  movement}
+\renewcommand{\SpecialMove}{roll +Within. On a 10+, once, you can step sideways to this person as if they were a place you’ve never been before. On a 7-9, you see each other in a new light, you each pick one from the Chance Meetings list for the other. On a 6-, take -1 ongoing until you prove they haven't chained you down or anything.}
 
-\PARADIGM{I have one foot in the spirit world}{Travel between worlds,
-  Opening things, Spirit Magic}{Choose one: Static magic, Abstract
-  magic}{Choose one: Magic that uses physical objects, Stationary magic}
+\renewcommand{\Paradigms}{
+  \PARADIGM{All people are connected, all people affect one another}{Symparthy magic, travel magic  }\
+  
+           {(choose one) Creation, permanent effects  }\
+		   
+           {(choose one) Binding magic, magic that prevents movement}
+		   
+  \PARADIGM{I have one foot in the spirit world}{Travel between worlds, opening things, spirit magic  }\
+  
+           {(choose one) Static magic, abstract magic  }\
+		   
+           {(choose one) Magic that uses physical objects, stationary magic}
+		   
 }
+
 \renewcommand{\PaneSix}{\Description
 
 \GearSection

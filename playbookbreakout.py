@@ -79,6 +79,7 @@ def playbookdata(name):
 	in_paradigms = False
 	in_moves = False
 	in_anchors = False
+	in_description = False
 	gear = []
 	looks = []
 	paradigm = []
@@ -106,6 +107,7 @@ def playbookdata(name):
 		
 		if line.startswith('## ' + name[0]):
 			startnum = n-1
+			in_description = True
 		if line.startswith('## ' + name[1]):
 			endnum = n-1
 			break
@@ -114,23 +116,35 @@ def playbookdata(name):
 			break
 		
 	playbooktext = playbookstext[startnum:endnum]
-	playbookdescription = playbooktext[2][:-1]
+	playbookdescription = ''
 	playbook = playbooktext[0][3:][:-1]
 	playbooks[playbook] = Playbook()
 	p = playbooks[playbook]
 	p.name = playbook[4:]
-	p.description = playbookdescription
+	
+	if '_' in p.description:
+		p.description = p.description.replace('_', '')
 	
 	for line in playbooktext:
 		z+=1
+		if line.startswith('## ' + name[0]):
+			in_description = True
 		if line.startswith('**Name:**'):
+			in_description = False
 			p.names = line[:-1]
+		if in_description:
+			if not line.startswith('## ' + name[0]):
+				if not line == '\n':              
+					playbookdescription = playbookdescription + line
+					p.description = playbookdescription
+					if '_' in p.description:
+						p.description = p.description.replace('_', '')
 		if line.startswith('**Why was your humanity trivialized?**'):
-			p.question1 = line[39:-1]
+			p.question1 = line[39:].strip(' \n')
 		if line.startswith('**Why is your humanity still in question?**'):
-			p.question2 = line[44:-1]
+			p.question2 = line[44:].strip(' \n')
 		if line.startswith('**Why are you hunted?**'):
-			p.question3 = line[24:-1]
+			p.question3 = line[24:].strip(' \n')
 		if line.startswith('**Looks:**'):
 			in_looks = True
 		if line.startswith('### '):
@@ -173,17 +187,17 @@ def playbookdata(name):
 		
 	for line in looks:
 		if 'presentation' in line:
-			p.presentation = line[2:-1]
+			p.presentation = line.strip(' -\n')
 		if 'eyes' in line:
-			p.eyes = line[2:-1]
+			p.eyes = line.strip(' -\n')
 		if 'face' in line:
-			p.faces = line[2:-1]
+			p.faces = line.strip(' -\n')
 		if 'body' in line:
-			p.bodies = line[2:-1]
+			p.bodies = line.strip(' -\n')
 		if 'clothes' in line:
-			p.clothes = line[2:-1]
+			p.clothes = line.strip(' -\n')
 		if 'aura' in line:
-			p.auras = line[2:-1]
+			p.auras = line.strip(' -\n')
 			
 	num_of_paradigms = -1	
 	for line in paradigm[1:]:
@@ -191,8 +205,11 @@ def playbookdata(name):
 			num_of_paradigms += 1
 			p.add_paradigm()
 			p.paradigms[num_of_paradigms]['name'] = line[5:-1]
-		elif line.startswith('**Aligned'):
-			p.paradigms[num_of_paradigms]['aligned'] = line[26:-1]
+			if '_' in p.paradigms[num_of_paradigms]['name']:
+				linelist = p.paradigms[num_of_paradigms]['name'].split('_')
+				p.paradigms[num_of_paradigms]['name'] = linelist[0] + '\\textit{' + linelist[1] + '}' + linelist[2]
+		elif line.startswith('**Aligned'):			if '(choose one)' in line:
+				p.paradigms[num_of_paradigms]['aligned'] = line[26:-1]			else:				p.paradigms[num_of_paradigms]['aligned'] = line[13:-1]				
 		elif line.startswith('**Opposed'):
 			p.paradigms[num_of_paradigms]['opp1'] = line[13:-1]
 		elif not line == '\n':
@@ -274,7 +291,7 @@ def playbookdata(name):
 				movedict['before'] = movedict['before'][1:]
 	
 	for line in anchors:
-		if '_______' in line:
+		if '______' in line:
 			line = line.replace('______', '\BLANK')
 		if 'My **Shelter Anchor** is:' in line:
 			p.anchors['home'] = line[103:][:-1].split(';')

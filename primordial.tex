@@ -2,71 +2,43 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Primordial}
-\renewcommand{\Picture}{Primordial-new.png}
-\renewcommand{\Description}{
-You don't need fancy rituals, long drawn-out methods, or anything like
-that when you're working with the raw forces that shaped the
-universe. That's what magic is really about.
+\renewcommand{\Picture}{Primordial-new}
+\renewcommand{\Description}{You don't need fancy rituals, long drawn-out methods, or anything like that when you're working with the raw forces that shaped the Universe. That's what magic is really about.
 }
-\renewcommand{\Names}{Markus, Zakiel, Kassandra, The Hooded One,
-Crystal, Zuri, Malaki, Jeyde, Andrzej, Kolden, Sheth}
+\renewcommand{\Names}{Markus, Zakiel, Kassandra, The Hooded One, Crystal, Zuri, Malaki, Jeyde, Andrzej, Kolden, Sheth}
+\renewcommand{\Trivialized}{Because of my anger, because the world isn't accessible, because of my fear, \BLANK}
+\renewcommand{\Questioned}{Because I'm too different, because I can't stay still, because I'm afraid, \BLANK}
+\renewcommand{\Hunted}{Because I hurt people, for my wealth, because I want to be, \BLANK}
 
-\renewcommand{\Trivialized}{Because of my anger, (because of my
-  disability), because of my fear, \BLANK}
-\renewcommand{\Hunted}{Because I hurt people, for my wealth, because I
-  want to be, \BLANK}
+\renewcommand{\Eyes}{burning eyes, dead eyes, piercing eyes, hungry eyes, hopeful eyes, white eyes}
+\renewcommand{\Faces}{scarred face, drawn face, sallow face, eager face, tired face, weathered face}
+\renewcommand{\Bodies}{imposing body, sinewy body, impish body, emaciated body, thickset body \BLANK}
+\renewcommand{\Clothes}{concealing clothes, goth clothes, simple clothes, worn clothes, grubby clothes}
+\renewcommand{\Auras}{fiery aura, dark aura, shifting aura, grey aura, brilliant aura, mossy aura}
 
-\renewcommand{\Eyes}{burning eyes, dead eyes, piercing eyes, hungry
-eyes, hopeful eyes, white eyes}
-\renewcommand{\Faces}{scarred face, drawn face, sallow face, eager
-face, tired face, weathered face}
-\renewcommand{\Bodies}{imposing body, sinewy body, impish body,
-emaciated body, thickset body}
-\renewcommand{\Clothes}{concealing clothes, goth clothes, simple
-clothes, worn clothes, grubby clothes}
-\renewcommand{\Auras}{fiery aura, dark aura, shifting aura, grey aura,
-  brilliant aura, mossy aura}
-
-\renewcommand{\Stats}{
-Will +1, Wits +0, Charm +0, Grace +1, Body +1
-
-Will +2, Wits +1, Charm +0, Grace +0, Body +0
-
-Will +2, Wits +1, Charm -1, Grace +1, Body +0
-
-Will +1, Wits +2, Charm +0, Grace +1, Body -1
-}
-\renewcommand{\AnchorNumber}{2}
-\renewcommand{\Anchors}{
-\item \BLANKSIZED{2cm}, the last gift from my first love
-\item The engraved knife I found in \BLANKSIZED{2cm}
-\item Agnes, my faltering grandmother
-\item \BLANK, from my childhood home
-\item The yellowed love letters my parents exchanged
-}
-
-\renewcommand{\AnchorNote}{Only pick Anchors from two of the
-  categories below.}
 \renewcommand{\HomeAnchorItems}{
 \item A small tent down under the East Side Bridge
-\item My small house, where my pets live
-\item An apartment roughly the size of a closet
+\item  My small house, where my pets live
+\item  An apartment roughly the size of a closet
 }
 \renewcommand{\ConnectionAnchorItems}{
 \item Agnes, my faltering grandmother
-\item Red, my oddball neighbor
+\item  Red, my oddball neighbor
 }
 \renewcommand{\MemoryAnchorItems}{
 \item \BLANK from my childhood home
-\item The engraved knife I found in \BLANK
-\item The yellowed love letters my parents exchanged
+\item  The engraved knife I found in \BLANK
+\item  The yellowed love letters my parents exchanged
 }
-
 \renewcommand{\Gear}{
-\item 2 Savings
-\item Choose a prize that you won: A [flavorful] sharp knife; A large [flavorful] rainstick; A gold-plated hip-flask; A once-used guitar; An embellished leather jacket; A bleached animal skull.
-\item Choose an impracticality: A large ornate mirror; Two sets of black-tie attire; A high-powered telescope; A timeshare in the Hamptons; A 96” plasma TV; A marble bust of your head.
+\item Savings
+
+\item Choose a prize that you won: An always-sharp knife; A large rainstick that sometimes works; A gold-plated hip-flask; A once-used guitar; An embellished leather jacket; A bleached animal skull.
+
+\item Choose an impracticality: A large ornate mirror; Two sets black-tie attire; A high-powered telescope; A timeshare in the Hamptons; A 96" plasma TV; A marble bust of your head.
+
 }
+\renewcommand{\StatsSpaceAdjust}{0em}
 \renewcommand{\BasicAdvancements}{
 \item Gain +1 Charm (Maximum Charm +1)
 \item Gain +1 Grace (Maximum Grace +2)
@@ -82,55 +54,59 @@ Will +1, Wits +2, Charm +0, Grace +1, Body -1
 \item Get an Advanced Primordial move
 }
 \renewcommand{\StatsSpaceAdjust}{3em}
-\renewcommand{\MoveExplanation}{
-  The Primordial gets the \textbf{Strong
-    Avatar} and \textbf{What Doesn't Kill You} moves, and 1 other move
-  of your choice.
-}
+\renewcommand{\MoveExplanation}{The Primordial getsthe \textbf{
+Strong Avatar}
+move, 
+the \textbf{
+What Doesn't Kill You}
+move, 
+and 1 other move of your choice.}
 \renewcommand{\MoveSpacing}{2em}
 \renewcommand{\Moves}{
-  \DEFAULTMOVE{Strong Avatar}{When you \TRIGGER{assert your Paradigm's
-      truth to another Mage}, roll +Static. On a hit, replace one of
-    their Opposed with one of your own for the rest of the scene. On a
-  10+, both mark experience.}
-  \DEFAULTMOVE{What Doesn't Kill You}{The first time during a session
-    your Health hits Code 30, mark experience.}
-  \MOVE{Harvest}{When you \TRIGGER{Rip the Power from a Being},
-    describe what power and  roll +Entropic. On a 10+ choose 3, on a 7-9
-    choose 1.
-    \begin{itemize}
-    \item It dies then and there.
-    \item You are empowered, take +1 ongoing until you fail a roll.
-    \item The power is not tainted.
-    \item You don't draw excessive attention.
-  \end{itemize}}
-  \MOVE{Hunter}{When you \TRIGGER{Track your Prey's Magical Trail}
-    roll +Without. On a 10+ you find them, and they're close. On a 7-9,
-    choose 1:
-    \begin{itemize}
-    \item You're in for a trek, but at least the trail is strong.
-    \item They're close by, but the trail went cold.
-  \end{itemize}}
-  \MOVE{Serendipity}{Once per session, when you \TRIGGER{Use Magic to
-      Fix it}, you may choose none of the options.}
+  \DEFAULTMOVE{Strong Avatar}{When you \TRIGGER{assert your Paradigm's truth to another Mage}, roll +Static. On a hit, replace one of their Opposed with one of your own for the rest of the scene. On a 10+, both mark experience.}
+  \DEFAULTMOVE{What Doesn't Kill You}{The first time during a session your Health hits Code 30, mark experience.\TRIGGER{}}
+
+\MOVE{Harvest}{When you \TRIGGER{Rip the Power from a Being}, describe what power and roll +Entropic. On a 10+ choose 3, on a 7-9 choose 1.
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item It dies then and there.
+\item You are empowered, take +1 ongoing until you fail a roll.
+\item The power is not tainted.
+\item You don't draw excessive attention.\end{itemize}}
+
+\MOVE{Hunter}{When you \TRIGGER{track your Prey's magical trail} roll +Without. On a 10+ you find them, and they're close. On a 7-9, choose 1:
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item You're in for a trek, but at least the trail is strong
+\item They're close by, but the trail went cold\end{itemize}}
+
+\MOVE{Serendipity}{Once per session, when you \TRIGGER{Use Magic to Fix it}, you may choose none of the options.}
+
 }
+
+
 \renewcommand{\SpecialMoveSpacing}{10em}
-\renewcommand{\SpecialMove}{you each hold 1. You can each spend that
-  hold at any time to help or hinder each other, no matter the
-  barriers or distance between you.}
+\renewcommand{\SpecialMove}{you each hold 1. You can each spend that hold at any time to Help or Hinder each other, no matter the barriers or distance between you.}
+
 \renewcommand{\Paradigms}{
-  \PARADIGM{Blood is the Strongest Sympathy}{Healing, Curses,
-    Sympathy}{Choose one: Restoration, Mind-affecting magic}\
-    {Choose this one: Magic that doesn't require sacrifice}
-
-  \PARADIGM{The World's Energy is Wrapped in Crude Matter}{Transformations and
-    Transmutations, Energy Manipulation}{Choose one: Destruction, Creation}\
-    {Choose one: Subtle magic, Finesse magic}
-
-  \PARADIGM{I See, Hear, and Command the Spirits}{Elemental Magic,
-    Summoning}{Choose one: Man-made things, Transmutation}\
-    {Choose one: Magic that disrespects the spirit world, Magic without
-    spirits}
+  \PARADIGM{Blood is the Strongest Sympathy}{Healing, Curses, Sympathy  }\
+  
+           {(choose one) Restoration, Mind-affecting magic  }\
+		   
+           {Magic that doesn't require sacrifice}
+		   
+  \PARADIGM{The World's Energy is Wrapped in Crude Matter}{Transformations and Transmutations, Energy Manipulation  }\
+  
+           {(choose one) Destruction, Creation  }\
+		   
+           {(choose one) Subtle magic, finesse magic}
+		   
+  \PARADIGM{I See, Hear, and Command the Spirits}{Elemental magic, Summoning  }\
+  
+           {(choose one) Man-made things, Transmutation  }\
+		   
+           {(choose one) Magic that disrespects the spirit world, magic without spirits}
+		   
 }
 \renewcommand{\PaneSix}{\Description
 

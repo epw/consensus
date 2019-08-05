@@ -2,68 +2,42 @@
 \input{playbook.tex}
 
 \renewcommand{\Name}{Hedge Mage}
-\renewcommand{\Picture}{Hedge-Mage-new.jpg}
-\renewcommand{\Description}{``Once Upon a Time, Humans could move
-  mountains with their will. Now, it is upon us to carry on the
-  ancient traditions, and master as many types of magic as we can.''}
-\renewcommand{\Names}{Merle, Freya, Orenna, Benjamin, Liro, Norfeld,
-  Wood, Sherand, Lilith, Melinda, Corin, Wilhelm, Byecross}
-
-\renewcommand{\Trivialized}{Because of my attitude, (because I was not
-  neurotypical), because I couldn't keep up, \BLANK}
-\renewcommand{\Hunted}{For fun, for my Talents, because I disturb
-  people, \BLANK}
-
-\renewcommand{\Eyes}{distracted eyes, glittering eyes, faraway eyes,
-  inscrutable eyes, determined eyes}
-\renewcommand{\Faces}{wizened face, deadpan face, vivacious face,
-  brisk face, chipper face, sharp face}
-\renewcommand{\Bodies}{spindly body, angular body, aggressive body,
-  thickset body, dexterous body}
-\renewcommand{\Clothes}{rustic clothes, embellished clothes, coarse
-  clothes, domestic clothes}
-\renewcommand{\Auras}{sprightly aura, stalwart aura, agile aura,
-  musical aura, flashy aura, unrefined aura}
-\renewcommand{\Stats}{
-Will +1, Wits +1, Charm +0, Grace +1, Body +0 
-
-Will +2, Wits +0, Charm +1, Grace -1, Body +1
-
-Will +2, Wits +2, Charm -1, Grace +0, Body -1 
-
-Will +0, Wits +2, Charm +1, Grace +0, Body +0
+\renewcommand{\Picture}{Hedge-Mage-new}
+\renewcommand{\Description}{"Once Upon a Time, Humans could move mountains with their will. Now, it is upon us to carry on the ancient traditions, and master as many types of magic as we can."
 }
-\renewcommand{\AnchorNumber}{3}
-\renewcommand{\Anchors}{
-\item My garden 
-\item My grandfather's old chipped pipe 
-\item The ancestral family home 
-\item The forests I know from \BLANK
-\item My compass that doesn't point North
-\item Lazarus, the man I saved from drowning
-}
+\renewcommand{\Names}{Merle, Freya, Orenna, Benjamin, Liro, Norfeld, Wood, Sherand, Lilith, Melinda, Corin, Wilhelm, Byecross}
+\renewcommand{\Trivialized}{{\small Because of my attitude, because I was neurodivergent, because I couldn't keep up, \BLANK}}
+\renewcommand{\Questioned}{{\small Because of my detachment, because I don't want to fit in, because I screwed up, \BLANK}}
+\renewcommand{\Hunted}{{\small For fun, for my Talents, because I disturb people, \BLANK}}
+
+\renewcommand{\Eyes}{distracted eyes, glittering eyes, faraway eyes, inscrutable eyes, determined eyes}
+\renewcommand{\Faces}{wizened face, deadpan face, vivacious face, brisk face, chipper face, sharp face}
+\renewcommand{\Bodies}{spindly body, angular body, aggressive body, thickset body, dexterous body \BLANK}
+\renewcommand{\Clothes}{rustic clothes, embellished clothes, coarse clothes, domestic clothes}
+\renewcommand{\Auras}{sprightly aura, stalwart aura, agile aura, musical aura, flashy aura, unrefined aura}
 
 \renewcommand{\HomeAnchorItems}{
 \item The Ancestral Family Home
-\item My cottage with a small garden out back
-\item My penthouse apartment that I barely afford
+\item  My cottage with a small garden out back
+\item  My penthouse apartment that I barely afford
 }
 \renewcommand{\ConnectionAnchorItems}{
 \item Lazarus, the man I saved from drowning
-\item My well-meaning mother
-\item Chance, my favorite nibbling
+\item  My well-meaning mother
+\item  Chance, my favorite nibbling
 }
 \renewcommand{\MemoryAnchorItems}{
 \item My grandfather's old chipped pipe
-\item My compass that doesn't point north
-\item A leaf from the forests I knew from \BLANK
+\item  My compass that doesn't point north
+\item  A leaf from the forests I knew from \BLANK
 }
-
-
 \renewcommand{\Gear}{
 \item 1 Savings
+
 \item Choose a symbol of hospitality: A set of fine china; A spare bedroom; A large cast-iron oven; The latest in home entertainment systems; A well stocked bar.
+
 \item Choose a tool: A tablesaw and misc. woodworking equipment; A glassblowing oven; A well-used set of gardening implements; An emergency shotgun, loaded with rock-salt.
+
 }
 \renewcommand{\StatsSpaceAdjust}{2em}
 \renewcommand{\BasicAdvancements}{
@@ -81,72 +55,45 @@ Will +0, Wits +2, Charm +1, Grace +0, Body +0
 \item Gain +1 Wits (max Wits +3)
 \item Get an Advanced Hedge Mage Move
 }
-\renewcommand{\MoveExplanation}{The Hedge Mage gets the
-  \textbf{Exactly When I Mean To} move, and 2 other moves of your
-  choice.}
+\renewcommand{\MoveExplanation}{The Hedge Mage gets the \textbf{Exactly When I Mean To} move, and 2 other moves of your choice.}
+
 \renewcommand{\MoveSpacing}{.5em}
 \renewcommand{\Moves}{
-  \DEFAULTMOVE{Exactly When I Mean To}{At the \TRIGGER{beginning of
-      the session}, roll +Entropic. On a 10+, hold 2. On a 7–9, hold 1. At
-    any time, either you or the MC can spend your hold to have you
-    arrive in a scene, with the proper tools and knowledge, with or
-    without any clear explanation why. Take +1 forward when you do
-    so. On a miss, the MC holds 1, and can spend it to have you
-    arrive, but somehow pinned, caught or trapped}
-  \MOVE{Call Through Shadow}{When you \TRIGGER{call a mundane or
-      common object to yourself}, roll +Dynamic. On a hit, you have
-    successfully summoned it to you. On a 10+ you're in the clear. On
-    a 7-9 choose 1:
-    \vspace{-.5em}
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item It comes out of an intense nearby situation
-    \item It comes with strings attached
-    \item It can be traced back to you
-    \end{itemize}
-  }
-  \MOVE{Scrying Bowl}{When you have an object related to a person and
-    use it to \TRIGGER{gaze upon their current situation}, roll
-    +Without. On a 10+ all 3, on a 7-9 choose 1:
-    \vspace{-.5em}
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item They don't know they're being watched
-    \item You can identify where they are
-    \item You can discern what they are doing
-    \end{itemize}
-  }
-  \MOVE{If You Ask Me}{When you \TRIGGER{offer an
-      alternative perspective on someone's Paradigm}, roll +Without. On
-    a hit, they gain experience. On a 10+, give them a new Aligned
-    related to what you told them until the end of session.}
-  \MOVE{Magical Experimentation}{When you collaborate with other Mages
-    to \TRIGGER{push your magic past its current boundaries} in a
-    controlled setting, roll +Dynamic. On a 10+ all 3, on a 7-9 choose 1:
-    \begin{itemize}
-      \setlength\itemsep{-.5em}
-    \item It works pretty much as intended
-    \item It doesn't cause a scene, draw extra attention, or harm
-      you
-    \item It was controlled enough that you can repeat it
-    \end{itemize}
-  }
-  \MOVE{This One Is Mine}{When you \TRIGGER{call out another magical
-      being}, so long as your companions don’t interfere,
-    others will give you enough space to finish it, come what may.}
+  \DEFAULTMOVE{Exactly When I Mean To}{At the \TRIGGER{beginning of the session}, roll +Entropic. On a 10+, hold 2. On a 7–9, hold 1. At any time, either you or the MC can spend your hold to have you arrive in a scene, with the proper tools and knowledge, with or without any clear explanation why. Take +1 forward when you do so. On a miss, the MC holds 1, and can spend it to have you arrive, but somehow pinned, caught or trapped.}
+
+\MOVE{Call Through Shadow}{When you \TRIGGER{call a mundane or common object to yourself}, roll +Dynamic. On a hit, you have successfully summoned it to you. On a 10+ you're in the clear. On a 7-9 choose 1:
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item It comes out of an intense nearby situation
+\item It comes with strings attached
+\item It can be traced back to you.\end{itemize}}
+
+\MOVE{Scrying Bowl}{When you have an object related to a person and use it to \TRIGGER{gaze upon their current situation}, roll +Without. On a 10+ all 3, on a 7-9 choose 1:
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item They don't know they're being watched
+\item You can identify where they are
+\item You can discern what they are doing.\end{itemize}}
+
+\MOVE{If You Ask Me}{When you \TRIGGER{offer an alternative perspective on someone's Paradigm}, roll +Without. On a hit, they gain experience. On a 10+, give them a new Aligned related to what you told them until the end of session.}
+
+\MOVE{Magical Experimentation}{When you collaborate with other Mages to \TRIGGER{push your magic past its current boundaries} in a controlled setting, roll +Dynamic. On a 10+ all 3, on a 7-9 choose 1:
+\begin{itemize}
+\setlength\itemsep{-.5em}
+\item It works pretty much as intended
+\item It doesn't cause a scene, draw extra attention, or harm you
+\item It was controlled enough that you can repeat it.\end{itemize}}
+
+\MOVE{This One Is Mine}{When you \TRIGGER{call out another magical being}, so long as your companions don't interfere, others will give you enough space to finish it, come what may.}
+
 }
 \renewcommand{\SpecialMoveSpacing}{2em}
-\renewcommand{\SpecialMove}{they gain one hold, which they can spend to cause
-    you to appear as if by Exactly When I Mean To.}
+\renewcommand{\SpecialMove}{they gain one hold, which they can spend to cause you to appear as if by Exactly When I Mean To.}
 \renewcommand{\Paradigms}{
-  \PARADIGM{A Thousand Arcane Secrets}{Cantrips, Ritual
-    Magic}{Choose one: Large-reaching Effects, Immediate
-    Effects}{Choose one: Planning Magic, Magic from Rote}
-
-  \PARADIGM{Double, Double, Toil and Trouble}{Any type of
-    effect}{Choose this one: Magic that doesn't require
-    preparation}{Choose this one: Magic that doesn't require physical
-    components}
+  \PARADIGM{A Thousand Arcane Secrets}{Cantrips, Ritual Maigc  }{(choose one) Large-reaching effects, immediate effects  }{(choose one) Planning magic, magic from rote}
+		   
+  \PARADIGM{Double, Double, Toil and Trouble}{Any type of effect  }{Magic that doesn't require preparation  }{Magic that doesn't require physical components}
+		   
 }
 \renewcommand{\PaneSix}{\Description
 

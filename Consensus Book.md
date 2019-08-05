@@ -251,8 +251,7 @@ The secrets of the Universe are yours, but you don't guard them jealously. You s
 
 **Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Senshu, Sena
 
-**Why was your humanity trivialized?** Because I was poor, because
-I was neurodivergent, because of my transgressions  
+**Why was your humanity trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
 **Why is your humanity still in question?** Because I see things as they really are, because I make my own path, because people started noticing me  
 **Why are you hunted?** Because I'm famous, for my forbidden knowledge, so my students are not
 
@@ -265,8 +264,7 @@ presentation, transgressing presentation
 - weathered face, gaunt face, wrinkled face, caring face, creased face
 - wiry body, ripped body, lanky body
 - street clothes, flowing clothes, concealing clothes
-- menacing aura, peaceful aura, green aura, golden aura, fading aura, grounded
-aura, rippling aura
+- menacing aura, peaceful aura, green aura, golden aura, fading aura, grounded aura, rippling aura
 
 ### Paradigms
 
@@ -494,7 +492,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 (Choose only after 5 from the first section and if not Tethered)
 
 - (*) Remove a Restriction from your Paradigm
-Pick a new Hedge Mage move
+- Pick a new Hedge Mage move
 - Pick a new Hedge Mage move
 - Pick a playbook move from another playbook
 - Pick a playbook move from another playbook
@@ -1024,7 +1022,7 @@ Zamira, Kousan, Prudence, Orpheus, Sophie
 
 The Voiced gets the **Charming Voice** move, and 2 other moves of your choice.
 
-**Charming Voice:** (You have this move by default) When you *Sell a Lie* using your voice to do so, you may roll +Without instead of +Dynamic
+**Charming Voice:** (You have this move by default) When you **Sell a Lie** using your voice to do so, you may roll +Without instead of +Dynamic
 
 **Voice in the Wind:** When you **speak across boundaries** that would otherwise make communication impossible, you are heard.
 
@@ -1086,7 +1084,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 There are many who travel the world in this day and age, and many fewer who travel where you do. The journey of a thousand miles begins with you.
 
-**Name:**
+**Name:** Roland, Isobel, Amelia, Karma, Daniel, Celina, Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina, Corwin
 
 **Why was your humanity trivialized?** Because I couldn't keep up, because of my attitude, because the world isn't accessible
 **Why is your humanity still in question?** Because I don't care, because people started noticing me, Because I see things as they really are  
@@ -1132,8 +1130,7 @@ The Wayfarer gets the **Step Sideways** move, and 2 other moves of your choice.
 - They tell you something useful and true.
 - They give you something that is potentially useful.
 - They have something of great value to you.
-- You have something of great value to them, and you know
-it.
+- You have something of great value to them, and you know it.
 
 **Sixth Sense:** When you **travel along a path before it happens**, roll +Within, and see a vision of possible futures. On a 10+, tell the MC what you sense, they may add to it. On a 7-9, the MC will tell you what you sense, and two possible interpretations.
 
@@ -1230,7 +1227,7 @@ When you **sell a lie** (to a person or to the Consensus), explain why they migh
 
 >This is one of the most complex moves in the game, and also one of the most versatile. Any time you're trying to slip something by a person in conversation, or otherwise trick them, this is the move to go to. Any time you try to slip a subtle, harmonious magical effect past the filters of reality, this is the move to go to. Pretty much any magic that doesn't fit into one of the other moves probably can fit into this one.
 
-When you outfox, outpace, or outmaneuver to avoid a danger, name your gambit and roll +Dynamic. On a 10+, you pull it off, just as described. On a 7-9 choose 1:
+When you **outfox, outpace, or outmaneuver** to avoid a danger, name your gambit and roll +Dynamic. On a 10+, you pull it off, just as described. On a 7-9 choose 1:
 - you overextend yourself in the process
 - you come away with something missing
 - someone else is drawn in.
@@ -1253,7 +1250,7 @@ On a miss, choose one, but not “You don’t Backlash.”
 
 >Here’s the thing about magic that rends holes in reality. It just works, but never without a price. It’s noteworthy here that “affecting” a Lookout means even in the broadest sense. Did you painstakingly craft a homunculus that helps out in your workshop? That might be just fine, until a Lookout sees it. Did you make money appear out of thin air? Fine, until you spend it. Once a lookout is affected, the Consensus catches up with you quick. If you’re very lucky, you can escape some of the consequences, but never all of them, and never forever.
 
-When you **do magic that is Aligned to your Paradigm** and roll a 12+, take narrative control briefly to describe how it works above and beyond your expectations, and how that goes well for you.
+When you do **magic that is Aligned to your Paradigm** and roll a 12+, take narrative control briefly to describe how it works above and beyond your expectations, and how that goes well for you.
 
 >Aligned magic represents a Mage’s real specialty, the kind of thing that just comes naturally to them. It might not even be their primary focus, but when they do something along those lines, everything tends to go better. This move makes that real. Rolling a 12+ while doing Aligned magic is like the stars aligning, just a little bit. Don’t go overboard with the results - a healing spell isn’t going to suddenly raise the dead instead. But it’s the pleasure of a painting that comes out so well it’s bought by a collector on the spot, or a protection spell that will last for eight days instead of just the one, or a website that reveals you have a lot more supporters than you realized.
 
@@ -1330,18 +1327,19 @@ When you have time, relatively safety, a place of power, and enough Mages, and y
 >If a plan was made, but the requirements were too high, and then a ritual to accomplish the same thing is attempted anyway, this is just like improvising a ritual, and the outcome really is defined only by what each constituent Mage is doing. Hopefully they have talked it through well enough to have the same goals and a way of getting there.
 
 When you **lose an Anchor**, roll +Anchors left. On a 10+, it may take some time, but you’ll get through this. On a 7-9, choose 1:
- - Another Anchor gets put in danger
- - You do something you will regret. The MC tells you what. Note: This means it does not cause another Anchor to get put in danger
- - You Backlash On a miss: Lose another Anchor. The MC will tell you which one and how.
+- Another Anchor gets put in danger
+- You do something you will regret. The MC tells you what. Note: This means it does not cause another Anchor to get put in danger
+- You Backlash 
+On a miss: Lose another Anchor. The MC will tell you which one and how.
 
 >Losing an Anchor can hurt. Any time a connection is broken, even under amicable terms, it can be a detactching feeling, leaving you adrift. For a Mage, capable of walking into other worlds entirely, or reaching levels of enlightenment in this one nearly incomprehensible to onlookers, it can be particularly dangerous. Even if the Mage is happy to see the Anchor go, it will be destabilizing. If they’re not careful, the Mage might start to spiral.
 
 At the **end of session**: note any effects that lasted "until end of session," but should continue into the next. Then, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
- - Did you show the lengths you were willing to go to in order to protect an Anchor?
- - Did you uncover a secret?
- - Did you learn something that puts your paradigms in perspective, or caused you to question them?
- - Did you expose the depths of your humanity, to yourself or to someone else?
- - Did you witness loss, selfishness, or pain born of magic?
+- Did you show the lengths you were willing to go to in order to protect an Anchor?
+- Did you uncover a secret?
+- Did you learn something that puts your paradigms in perspective, or caused you to question them?
+- Did you expose the depths of your humanity, to yourself or to someone else?
+- Did you witness loss, selfishness, or pain born of magic?
 
 >This move wraps up the session, and rewards you for delving into certain parts of the game. After finishing it, pack up your character sheets. Go ahead and keep thinking about what might come next, and some of you might have Advancements to pick, but the game is done, for now.
 
