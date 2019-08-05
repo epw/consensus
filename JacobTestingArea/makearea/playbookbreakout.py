@@ -187,17 +187,17 @@ def playbookdata(name):
 		
 	for line in looks:
 		if 'presentation' in line:
-			p.presentation = line[2:-1]
+			p.presentation = line.strip(' -\n')
 		if 'eyes' in line:
-			p.eyes = line[2:-1]
+			p.eyes = line.strip(' -\n')
 		if 'face' in line:
-			p.faces = line[2:-1]
+			p.faces = line.strip(' -\n')
 		if 'body' in line:
-			p.bodies = line[2:-1]
+			p.bodies = line.strip(' -\n')
 		if 'clothes' in line:
-			p.clothes = line[2:-1]
+			p.clothes = line.strip(' -\n')
 		if 'aura' in line:
-			p.auras = line[2:-1]
+			p.auras = line.strip(' -\n')
 			
 	num_of_paradigms = -1	
 	for line in paradigm[1:]:

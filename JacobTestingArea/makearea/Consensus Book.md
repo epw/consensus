@@ -264,8 +264,7 @@ presentation, transgressing presentation
 - weathered face, gaunt face, wrinkled face, caring face, creased face
 - wiry body, ripped body, lanky body
 - street clothes, flowing clothes, concealing clothes
-- menacing aura, peaceful aura, green aura, golden aura, fading aura, grounded
-aura, rippling aura
+- menacing aura, peaceful aura, green aura, golden aura, fading aura, grounded aura, rippling aura
 
 ### Paradigms
 
