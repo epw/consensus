@@ -39,7 +39,12 @@
     \item \VAR{item}
 	\BLOCK{ endfor }
     \end{itemize}
-\VAR{sufferharm['afterlist']}
+\VAR{sufferharm['afterlist']}    \begin{itemize}
+      \setlength\itemsep{0em}
+	  \BLOCK{ for item in sufferharm['secondlist'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
+    \end{itemize}\VAR{sufferharm['secondafter']
   \end{move}
 
   \columnbreak
