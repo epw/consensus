@@ -24,7 +24,7 @@ basicmoves.pdf: basicmoves.tex moves.tex consensus.md
 	python movesbreakout.py basic
 	$(LATEX) basicmoves.tex
 
-extendedmoves.pdf: extendedmoves.tex moves.tex consensus.md
+extendedmoves.pdf: extendedmoves.tex moves.tex consensus.md templates/extendedmoves-template.tex
 	python movesbreakout.py extended
 	$(LATEX) extendedmoves.tex
 
