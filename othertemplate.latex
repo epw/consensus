@@ -2,7 +2,7 @@
 %\usepackage{createspace}
 %\usepackage[size=pocket,noicc]{createspace}
 \usepackage[paperwidth=4.25in, paperheight=6.875in,bindingoffset=.75in]{geometry}
-%\usepackage[T1]{fontenc}
+\usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{tgtermes}
 
