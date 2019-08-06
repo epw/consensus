@@ -1,0 +1,153 @@
+\documentclass[
+$if(fontsize)$
+  $fontsize$,
+$endif$
+$if(lang)$
+  $babel-lang$,
+$endif$
+$if(papersize)$
+  $papersize$paper,
+$endif$
+$if(beamer)$
+  ignorenonframetext,
+$if(handout)$
+  handout,
+$endif$
+$if(aspectratio)$
+  aspectratio=$aspectratio$,
+$endif$
+$endif$
+$for(classoption)$
+  $classoption$$sep$,
+$endfor$
+]{memoir}
+
+%\usepackage{createspace}
+%\usepackage[size=pocket,noicc]{createspace}
+\usepackage{fontspec}
+\usepackage[english]{babel}
+\usepackage{tgtermes}
+\usepackage{hyperref}
+\usepackage{titlesec}
+%\usepackage{mathpazo}
+\usepackage[protrusion=true]{microtype}
+%\usepackage{type1cm}
+%\usepackage{lettrine}
+
+%\checkandfixthelayout
+
+$if(mainfont)$
+\setmainfont []{$mainfont$}
+$endif$
+
+$if(chapterfont)$
+\newfontfamily\chapterfont[]{$chapterfont$}
+\titleformat{\chapter}[display]
+  {\huge\chapterfont}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
+$endif$
+
+% See the ``Memoir customise'' template for some common customisations
+% Don't forget to read the Memoir manual: memman.pdf
+
+\title{$title$}
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+\date{} % Delete this line to display the current date
+
+%% BEGIN TITLE
+
+\makeatletter
+\renewcommand{\and}{\\}
+\def\maketitle{%
+  \null
+  \thispagestyle{empty}%
+  \vfill
+  \begin{center}\leavevmode
+    \normalfont
+    {\LARGE\raggedleft \@author\par}%
+    \hrulefill\par
+    {\huge\raggedright \@title\par}%
+    \vskip 1cm
+%    {\Large \@date\par}%
+  \end{center}%
+  \vfill
+  \null
+  \cleardoublepage
+  }
+\makeatother
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+\title{$title$}
+\date{}
+
+
+
+
+
+
+
+
+
+
+%%% BEGIN DOCUMENT
+
+\begin{document}
+
+\let\cleardoublepage\clearpage
+
+
+\maketitle
+
+
+
+
+
+
+\frontmatter
+
+\null\vfill
+
+\begin{flushleft}
+\textit{$title$}
+
+
+© COPYRIGHT INFO
+
+
+ISBN--INFO
+
+ISBN--13: 
+\bigskip
+
+
+
+
+
+ALL RIGHTS RESERVED OR COPYRIGHT LICENSE LANGUAGE
+
+
+
+
+\end{flushleft}
+\let\cleardoublepage\clearpage
+
+\mainmatter
+
+$if(toc)$
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+\setcounter{tocdepth}{$toc-depth$}
+$endif$
+\tableofcontents
+}
+$endif$
+
+$body$
+
+\end{document}
