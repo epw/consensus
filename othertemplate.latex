@@ -1,7 +1,6 @@
 \documentclass[10pt,twoside,openright]{memoir}
 %\usepackage{createspace}
 %\usepackage[size=pocket,noicc]{createspace}
-\usepackage[paperwidth=4.25in, paperheight=6.875in,bindingoffset=.75in]{geometry}
 \usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{tgtermes}
@@ -30,6 +29,7 @@ $endif$
 %% BEGIN TITLE
 
 \makeatletter
+\renewcommand{\and}{\\}
 \def\maketitle{%
   \null
   \thispagestyle{empty}%
