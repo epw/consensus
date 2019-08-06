@@ -106,6 +106,19 @@ ALL RIGHTS RESERVED OR COPYRIGHT LICENSE LANGUAGE
 
 \mainmatter
 
+$if(toc)$
+$if(toc-title)$
+\renewcommand*\contentsname{$toc-title$}
+$endif$
+{
+$if(colorlinks)$
+\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
+\setcounter{tocdepth}{$toc-depth$}
+$endif$
+\tableofcontents
+}
+$endif$
+
 $body$
 
 \end{document}
