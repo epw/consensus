@@ -5,17 +5,18 @@
 \usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{tgtermes}
+\usepackage{hyperref}
 
 %\usepackage{mathpazo}
-\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage[protrusion=true]{microtype}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
 
-%\checkandfixthelayout$if(mainfont)$\setmainfont [Path = fonts/,
-  UprightFont = $mainfont$_Rg.ttf,
-  BoldFont = $mainfont$.ttf,
-  ItalicFont = $mainfont$.ttf
-]{$mainfont$}$endif$
+%\checkandfixthelayout
+
+$if(mainfont)$
+\setmainfont []{$mainfont$}
+$endif$
 
 % See the ``Memoir customise'' template for some common customisations
 % Don't forget to read the Memoir manual: memman.pdf
@@ -43,9 +44,10 @@
   \null
   \cleardoublepage
   }
-\makeatother$for(author)$
+\makeatother
+$if(author)$
 \author{$author$}
-$endfor$
+$endif$
 \title{$title$}
 \date{}
 
