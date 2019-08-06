@@ -64,10 +64,12 @@ $endif$
   \thispagestyle{empty}%
   \vfill
   \begin{center}\leavevmode
+    \chapterfont
+    {\HUGE\center \@title\par}%
+\vskip 5cm
     \normalfont
-    {\LARGE\raggedleft \@author\par}%
-    \hrulefill\par
-    {\huge\raggedright \@title\par}%
+    {\normalsize\center by}\par
+    {\large\center \@author\par}%
     \vskip 1cm
 %    {\Large \@date\par}%
   \end{center}%
