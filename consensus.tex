@@ -1,59 +1,117 @@
-% Options for packages loaded elsewhere
-\PassOptionsToPackage{unicode}{hyperref}
-\PassOptionsToPackage{hyphens}{url}
-%
-\documentclass[
-]{article}
-\usepackage{lmodern}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
-  \usepackage[T1]{fontenc}
-  \usepackage[utf8]{inputenc}
-  \usepackage{textcomp} % provide euro and other symbols
-\else % if luatex or xetex
-  \usepackage{unicode-math}
-  \defaultfontfeatures{Scale=MatchLowercase}
-  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
-  \setmainfont[]{Aller}
-\fi
-% Use upquote if available, for straight quotes in verbatim environments
-\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
-\IfFileExists{microtype.sty}{% use microtype if available
-  \usepackage[]{microtype}
-  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
-}{}
-\makeatletter
-\@ifundefined{KOMAClassName}{% if non-KOMA class
-  \IfFileExists{parskip.sty}{%
-    \usepackage{parskip}
-  }{% else
-    \setlength{\parindent}{0pt}
-    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
-}{% if KOMA class
-  \KOMAoptions{parskip=half}}
-\makeatother
-\usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
-\setlength{\emergencystretch}{3em} % prevent overfull lines
-\providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
-\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\documentclass[10pt,twoside,openright]{memoir}
+%\usepackage{createspace}
+%\usepackage[size=pocket,noicc]{createspace}
+\usepackage{fontspec}
+\usepackage[english]{babel}
+\usepackage{tgtermes}
+\usepackage{hyperref}
+\usepackage{titlesec}
+%\usepackage{mathpazo}
+\usepackage[protrusion=true]{microtype}
+%\usepackage{type1cm}
+%\usepackage{lettrine}
 
+%\checkandfixthelayout
+
+\setmainfont []{Aller}
+
+\newfontfamily\chapterfont[]{Kingthings Printingkit}
+\titleformat*{\chapter}{\chapterfont}
+
+% See the ``Memoir customise'' template for some common customisations
+% Don't forget to read the Memoir manual: memman.pdf
+
+\title{Consensus}
+\author{Angela Bouvier-Wood \and Eric Willisson \and Jacob Bouvier-Wood}
+\date{} % Delete this line to display the current date
+
+%% BEGIN TITLE
+
+\makeatletter
+\renewcommand{\and}{\\}
+\def\maketitle{%
+  \null
+  \thispagestyle{empty}%
+  \vfill
+  \begin{center}\leavevmode
+    \normalfont
+    {\LARGE\raggedleft \@author\par}%
+    \hrulefill\par
+    {\huge\raggedright \@title\par}%
+    \vskip 1cm
+%    {\Large \@date\par}%
+  \end{center}%
+  \vfill
+  \null
+  \cleardoublepage
+  }
+\makeatother
+\author{Angela Bouvier-Wood \and Eric Willisson \and Jacob Bouvier-Wood}
+\title{Consensus}
 \date{}
+
+
+
+
+
+
+
+
+
+
+%%% BEGIN DOCUMENT
 
 \begin{document}
 
+\let\cleardoublepage\clearpage
+
+
+\maketitle
+
+
+
+
+
+
+\frontmatter
+
+\null\vfill
+
+\begin{flushleft}
+\textit{Consensus}
+
+
+© COPYRIGHT INFO
+
+
+ISBN--INFO
+
+ISBN--13: 
+\bigskip
+
+
+
+
+
+ALL RIGHTS RESERVED OR COPYRIGHT LICENSE LANGUAGE
+
+
+
+
+\end{flushleft}
+\let\cleardoublepage\clearpage
+
+\mainmatter
+
+{
+\tableofcontents
+}
+
 \hypertarget{in-the-beginning}{%
-\section{In The Beginning}\label{in-the-beginning}}
+\chapter{In The Beginning}\label{in-the-beginning}}
 
 \hypertarget{consensus}{%
-\subsection{Consensus}\label{consensus}}
+\section{Consensus}\label{consensus}}
 
 Everybody knows how the world works. Dropped things fall down,
 electricity moves in circuits, there's no way to truly show someone else
@@ -74,7 +132,7 @@ and that kind of power can't exist without making waves.
 Would you like to see what it is to be one?
 
 \hypertarget{setting-up-to-play}{%
-\subsection{Setting Up to Play}\label{setting-up-to-play}}
+\section{Setting Up to Play}\label{setting-up-to-play}}
 
 First off, you'll need around 3-6 people, and not just any people,
 you'll need the type of people that are into this sort of thing. People
@@ -108,7 +166,7 @@ pencils, can go a long way.
 Finally, go to the First Session chapter, and begin to follow its rules.
 
 \hypertarget{roleplaying-as-a-conversation}{%
-\subsection{Roleplaying as a
+\section{Roleplaying as a
 Conversation}\label{roleplaying-as-a-conversation}}
 
 This is a roleplaying game, in which players take on the roles of
@@ -143,7 +201,7 @@ in the end, you're the one who decides what your character thinks and
 does.
 
 \hypertarget{moves-and-dice}{%
-\subsection{Moves and Dice}\label{moves-and-dice}}
+\section{Moves and Dice}\label{moves-and-dice}}
 
 The basic building block of a conversation in a classroom might be
 question and answer. In Consensus, the basic building blocks of our
@@ -190,7 +248,7 @@ do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and
 some will even tell you what happens on a 6-.
 
 \hypertarget{stats}{%
-\subsection{Stats}\label{stats}}
+\section{Stats}\label{stats}}
 
 The Stats in Consensus describe things about the character, what they're
 good at, and what patterns they might reach for first in order to solve
@@ -205,7 +263,7 @@ reactions, ability to introspect, and know yourself. Without: referring
 to the external world, connections, empathy and understanding.
 
 \hypertarget{the-life-of-a-mage}{%
-\subsection{The Life of a Mage}\label{the-life-of-a-mage}}
+\section{The Life of a Mage}\label{the-life-of-a-mage}}
 
 Mages in Consensus are people who have a deep belief about how the world
 works and how they can fit into it. This belief is strong enough to
@@ -217,7 +275,7 @@ world just by existing, whether they like it or not, and these changes
 form the basis for many of the stories in Consensus.
 
 \hypertarget{paradigm}{%
-\subsubsection{Paradigm}\label{paradigm}}
+\subsection{Paradigm}\label{paradigm}}
 
 A Mage's particular beliefs are summed up in their Paradigm. This
 describes what it is they believe that is different enough from the
@@ -232,7 +290,7 @@ as to not have a disastrous clash of worldviews).
 See the Magic Chapter (page \pageref{Magic Chapter}) for more on Paradigms.
 
 \hypertarget{hardship-breeds-revelation}{%
-\subsubsection{Hardship Breeds
+\subsection{Hardship Breeds
 Revelation}\label{hardship-breeds-revelation}}
 
 Beliefs can be made stronger by being challenged, just like people. Very
@@ -246,8 +304,7 @@ Mage is never an easy one.
 To get at this, Playbooks ask three questions: Why was your humanity trivialized, why is your humanity still in question, and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. The Safety Rules (page \pageref{Safety Rules}) in the First Session chapter can help make sure no-one crosses a boundary they don’t want to.
 
 \hypertarget{anchors-and-inspirations}{%
-\subsubsection{Anchors and
-Inspirations}\label{anchors-and-inspirations}}
+\subsection{Anchors and Inspirations}\label{anchors-and-inspirations}}
 
 Mages, just like anyone, are tied to people and things around them. Some
 of the most significant ties are to Anchors, the answers to the question
@@ -270,12 +327,12 @@ reconnect with, which can be very rewarding.
 See the Anchors and Inspirations chapter (page \pageref{Anchors and Inspirations chapter}) for more.
 
 \hypertarget{gear-and-accoutrements}{%
-\subsection{Gear and Accoutrements}\label{gear-and-accoutrements}}
+\section{Gear and Accoutrements}\label{gear-and-accoutrements}}
 
 A Mage is hopefully capable enough when armed only with their mind, but often will have a variety of supplements to draw on. They tend to have a few pieces of noteworthy gear that usually travels with them. In addition, they may have access to a special magical place, or a band of other Mages to work with, or a group of students who seek to learn their wisdom. For more on these things, see the Gear and Accoutrements chapter (page \pageref{Gear and Accoutrements chapter}).
 
 \hypertarget{status-tracks}{%
-\subsection{Status Tracks}\label{status-tracks}}
+\section{Status Tracks}\label{status-tracks}}
 
 Consensus measures progress over time for a number of elements of the
 game, from health to a sinister plot. This is usually done with a Status
@@ -292,7 +349,7 @@ off.
 For more on Status Tracks, see the Status Tracks chapter (page \pageref{Status Tracks chapter}).
 
 \hypertarget{why-to-play}{%
-\subsection{Why to Play}\label{why-to-play}}
+\section{Why to Play}\label{why-to-play}}
 
 Maybe you want to feel what it would be like to be able to seize spirits
 by their names and command them. Maybe you like talking about whether
@@ -309,10 +366,10 @@ you've been waiting for something that says it's real, for a long time.
 \newpage
 
 \hypertarget{the-characters}{%
-\section{The Characters}\label{the-characters}}
+\chapter{The Characters}\label{the-characters}}
 
 \hypertarget{the-cabalist}{%
-\subsection{The Cabalist}\label{the-cabalist}}
+\section{The Cabalist}\label{the-cabalist}}
 
 In a world where mages are solitary islands of power, shaping reality in
 loneliness, you have a group of people who understand you.
@@ -351,10 +408,10 @@ my family ties
 \end{itemize}
 
 \hypertarget{paradigms}{%
-\subsubsection{Paradigms}\label{paradigms}}
+\subsection{Paradigms}\label{paradigms}}
 
 \hypertarget{true-names-give-command}{%
-\paragraph{True Names Give Command}\label{true-names-give-command}}
+\subsubsection{True Names Give Command}\label{true-names-give-command}}
 
 \textbf{Aligned:} (choose one) Command, Binding, Summonings\\
 \textbf{Opposed:} (choose one) Inanimate mundane objects, Creation,
@@ -362,7 +419,7 @@ Silent Magic\\
 (choose this one) Targets whose names you do not know
 
 \hypertarget{ancient-languages-hold-secret-power}{%
-\paragraph{Ancient Languages Hold Secret
+\subsubsection{Ancient Languages Hold Secret
 Power}\label{ancient-languages-hold-secret-power}}
 
 \textbf{Aligned}: (choose one) Cantrips, Enchantment, Written Magic\\
@@ -370,7 +427,7 @@ Power}\label{ancient-languages-hold-secret-power}}
 (choose this one) Magic without words
 
 \hypertarget{moves}{%
-\subsubsection{Moves}\label{moves}}
+\subsection{Moves}\label{moves}}
 
 The Cabalist gets the Gossamer Threads move, and 2 other moves of your
 choice.
@@ -409,12 +466,12 @@ spend your hold 1 for 1 to attempt to Sway them as if they were part of
 your cabal. On a 6-, they hold 2, you hold 0.
 
 \hypertarget{stats-1}{%
-\subsubsection{Stats}\label{stats-1}}
+\subsection{Stats}\label{stats-1}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors}{%
-\subsubsection{Anchors}\label{anchors}}
+\subsection{Anchors}\label{anchors}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) My creaky old house with my
@@ -429,7 +486,7 @@ Humans need memories, ties to the past and dreams of the future. My
 journal; My father's service pistol; My little brother's baby blanket
 
 \hypertarget{starting-gear}{%
-\subsubsection{Starting Gear}\label{starting-gear}}
+\subsection{Starting Gear}\label{starting-gear}}
 
 \begin{itemize}
 \tightlist
@@ -452,7 +509,7 @@ journal; My father's service pistol; My little brother's baby blanket
 \end{itemize}
 
 \hypertarget{your-cabal}{%
-\subsubsection{Your Cabal}\label{your-cabal}}
+\subsection{Your Cabal}\label{your-cabal}}
 
 By default there are about 5 in the Cabal, you don't control them and
 they don't control you. You're pretty close in your outlooks on the
@@ -493,7 +550,7 @@ And pick one of these:
 \end{itemize}
 
 \hypertarget{place-of-power}{%
-\subsubsection{Place of Power}\label{place-of-power}}
+\subsection{Place of Power}\label{place-of-power}}
 
 You have this if you take the Sanctum move.
 
@@ -531,7 +588,7 @@ A Ritual performed here will never (choose 1):
 \end{itemize}
 
 \hypertarget{advancements}{%
-\subsubsection{Advancements}\label{advancements}}
+\subsection{Advancements}\label{advancements}}
 
 \begin{itemize}
 \tightlist
@@ -590,7 +647,7 @@ A Ritual performed here will never (choose 1):
 \newpage
 
 \hypertarget{the-mentor}{%
-\subsection{The Mentor}\label{the-mentor}}
+\section{The Mentor}\label{the-mentor}}
 
 The secrets of the Universe are yours, but you don't guard them
 jealously. You share the wisdom with the precious few who will listen,
@@ -629,10 +686,10 @@ knowledge, so my students are not
 \end{itemize}
 
 \hypertarget{paradigms-1}{%
-\subsubsection{Paradigms}\label{paradigms-1}}
+\subsection{Paradigms}\label{paradigms-1}}
 
 \hypertarget{your-focus-determines-your-reality}{%
-\paragraph{Your Focus Determines Your
+\subsubsection{Your Focus Determines Your
 Reality}\label{your-focus-determines-your-reality}}
 
 \textbf{Aligned:} (choose one) Calming Magic, Projecting Power, Perfect
@@ -641,7 +698,7 @@ Positioning\\
 (choose one) Technomagic, Magic while distracted
 
 \hypertarget{i-am-the-platonic-ideal-of-myself}{%
-\paragraph{I am the Platonic Ideal of
+\subsubsection{I am the Platonic Ideal of
 Myself}\label{i-am-the-platonic-ideal-of-myself}}
 
 \textbf{Aligned:} (choose one) Static Magic, Convergence, Reflexive
@@ -650,7 +707,7 @@ Magic\\
 (choose one) Cynical magic, magic without my whole self
 
 \hypertarget{moves-1}{%
-\subsubsection{Moves}\label{moves-1}}
+\subsection{Moves}\label{moves-1}}
 
 The Mentor gets the \textbf{Pupils} move, and 2 other moves of your
 choice.
@@ -698,12 +755,12 @@ they may immediately gain an Anchor (They still may not have more
 anchors than their playbook started with this way).
 
 \hypertarget{stats-2}{%
-\subsubsection{Stats}\label{stats-2}}
+\subsection{Stats}\label{stats-2}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-1}{%
-\subsubsection{Anchors}\label{anchors-1}}
+\subsection{Anchors}\label{anchors-1}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) The apartment I share with a few
@@ -720,13 +777,13 @@ mentor; The gold necklace given to me by \_\_\_\_\_\_; A coal to remind
 me of \_\_\_\_\_\_
 
 \hypertarget{starting-gear-1}{%
-\subsubsection{Starting Gear}\label{starting-gear-1}}
+\subsection{Starting Gear}\label{starting-gear-1}}
 
 No major possessions to speak of, but 3 Savings tucked away for a rainy
 day.
 
 \hypertarget{your-students}{%
-\subsubsection{Your Students}\label{your-students}}
+\subsection{Your Students}\label{your-students}}
 
 By default you have about 10 students, they are moderately studious
 sleepers and they respect you, though they're not fully loyal. They have
@@ -767,7 +824,7 @@ And one of these:
 \end{itemize}
 
 \hypertarget{place-of-power-1}{%
-\subsubsection{Place of Power}\label{place-of-power-1}}
+\subsection{Place of Power}\label{place-of-power-1}}
 
 You have this if you take the Academe move.
 
@@ -806,7 +863,7 @@ A Ritual performed here will never (choose 1):
 \end{itemize}
 
 \hypertarget{advancements-1}{%
-\subsubsection{Advancements}\label{advancements-1}}
+\subsection{Advancements}\label{advancements-1}}
 
 \begin{itemize}
 \tightlist
@@ -865,7 +922,7 @@ A Ritual performed here will never (choose 1):
 \newpage
 
 \hypertarget{the-hedge-mage}{%
-\subsection{The Hedge Mage}\label{the-hedge-mage}}
+\section{The Hedge Mage}\label{the-hedge-mage}}
 
 ``Once Upon a Time, Humans could move mountains with their will. Now, it
 is upon us to carry on the ancient traditions, and master as many types
@@ -906,10 +963,11 @@ people
 \end{itemize}
 
 \hypertarget{paradigms-2}{%
-\subsubsection{Paradigms}\label{paradigms-2}}
+\subsection{Paradigms}\label{paradigms-2}}
 
 \hypertarget{a-thousand-arcane-secrets}{%
-\paragraph{A Thousand Arcane Secrets}\label{a-thousand-arcane-secrets}}
+\subsubsection{A Thousand Arcane
+Secrets}\label{a-thousand-arcane-secrets}}
 
 \textbf{Aligned:} (choose one) Cantrips, Ritual Maigc\\
 \textbf{Opposed:} (choose one) Large-reaching effects, immediate
@@ -917,7 +975,7 @@ effects\\
 (choose one) Planning magic, magic from rote
 
 \hypertarget{double-double-toil-and-trouble}{%
-\paragraph{Double, Double, Toil and
+\subsubsection{Double, Double, Toil and
 Trouble}\label{double-double-toil-and-trouble}}
 
 \textbf{Aligned:} Any type of effect\\
@@ -925,7 +983,7 @@ Trouble}\label{double-double-toil-and-trouble}}
 Magic that doesn't require physical components
 
 \hypertarget{moves-2}{%
-\subsubsection{Moves}\label{moves-2}}
+\subsection{Moves}\label{moves-2}}
 
 The Hedge Mage gets the \textbf{Exactly When I Mean To} move, and 2
 other moves of your choice.
@@ -996,12 +1054,12 @@ they gain one hold, which they can spend to cause you to appear as if by
 Exactly When I Mean To.
 
 \hypertarget{stats-3}{%
-\subsubsection{Stats}\label{stats-3}}
+\subsection{Stats}\label{stats-3}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-2}{%
-\subsubsection{Anchors}\label{anchors-2}}
+\subsection{Anchors}\label{anchors-2}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) The Ancestral Family Home; My
@@ -1018,7 +1076,7 @@ pipe; My compass that doesn't point north; A leaf from the forests I
 knew from \_\_\_\_\_\_
 
 \hypertarget{starting-gear-2}{%
-\subsubsection{Starting Gear}\label{starting-gear-2}}
+\subsection{Starting Gear}\label{starting-gear-2}}
 
 \begin{itemize}
 \tightlist
@@ -1035,7 +1093,7 @@ knew from \_\_\_\_\_\_
 \end{itemize}
 
 \hypertarget{advancements-2}{%
-\subsubsection{Advancements}\label{advancements-2}}
+\subsection{Advancements}\label{advancements-2}}
 
 \begin{itemize}
 \tightlist
@@ -1092,7 +1150,7 @@ knew from \_\_\_\_\_\_
 \newpage
 
 \hypertarget{the-inspired}{%
-\subsection{The Inspired}\label{the-inspired}}
+\section{The Inspired}\label{the-inspired}}
 
 Many people wonder where inspiration comes from. That question is boring
 to you, you know the answer. The right question is, how much can you do
@@ -1130,10 +1188,10 @@ the Rules, for my insight
 \end{itemize}
 
 \hypertarget{paradigms-3}{%
-\subsubsection{Paradigms}\label{paradigms-3}}
+\subsection{Paradigms}\label{paradigms-3}}
 
 \hypertarget{i-bend-the-rules-through-my-source}{%
-\paragraph{I Bend the Rules through my
+\subsubsection{I Bend the Rules through my
 Source}\label{i-bend-the-rules-through-my-source}}
 
 \textbf{Aligned:} (choose one) Mental magic, Time-affecting magic\\
@@ -1142,7 +1200,7 @@ magic that doesn't protect my Source\\
 (choose one) Magic without my Source
 
 \hypertarget{my-source-lets-me-see-the-true-nature-of-things}{%
-\paragraph{My Source Lets me See the True Nature of
+\subsubsection{My Source Lets me See the True Nature of
 Things}\label{my-source-lets-me-see-the-true-nature-of-things}}
 
 \textbf{Aligned:} (choose one) Divinations, Transmutations\\
@@ -1151,7 +1209,7 @@ Static\\
 (choose one) Magic without my Source, magic while Blind
 
 \hypertarget{moves-3}{%
-\subsubsection{Moves}\label{moves-3}}
+\subsection{Moves}\label{moves-3}}
 
 The Inspired gets the \textbf{Source} move, and 2 other moves of your
 choice.
@@ -1233,12 +1291,12 @@ a 6-, if they are aware of the magical world, they gain a Restriction
 against magic with your Source.
 
 \hypertarget{stats-4}{%
-\subsubsection{Stats}\label{stats-4}}
+\subsection{Stats}\label{stats-4}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-3}{%
-\subsubsection{Anchors}\label{anchors-3}}
+\subsection{Anchors}\label{anchors-3}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) 617 Arbor St.~Rear; The couches
@@ -1256,7 +1314,7 @@ before they left; The diamond necklace from \_\_\_\_\_\_; The well-worn
 T-shirt I always sleep in
 
 \hypertarget{starting-gear-3}{%
-\subsubsection{Starting Gear}\label{starting-gear-3}}
+\subsection{Starting Gear}\label{starting-gear-3}}
 
 \begin{itemize}
 \tightlist
@@ -1270,7 +1328,7 @@ T-shirt I always sleep in
 \end{itemize}
 
 \hypertarget{your-source}{%
-\subsubsection{Your Source}\label{your-source}}
+\subsection{Your Source}\label{your-source}}
 
 First pick your Source's form: a person, an object, a substance, an
 abstract concept, an action, an emotion
@@ -1293,7 +1351,7 @@ physically or otherwise (+dangerous) - Your source makes your magic more
 unpredictable, you can't always control it or its effects (+chaotic)
 
 \hypertarget{advancements-3}{%
-\subsubsection{Advancements}\label{advancements-3}}
+\subsection{Advancements}\label{advancements-3}}
 
 \begin{itemize}
 \tightlist
@@ -1346,7 +1404,7 @@ unpredictable, you can't always control it or its effects (+chaotic)
 \newpage
 
 \hypertarget{the-pious}{%
-\subsection{The Pious}\label{the-pious}}
+\section{The Pious}\label{the-pious}}
 
 You know the true meaning of sacrifice. It isn't something dramatic or
 grandiose, sometimes it just means going without sleep so you can stake
@@ -1389,10 +1447,10 @@ for the Truth
 \end{itemize}
 
 \hypertarget{paradigms-4}{%
-\subsubsection{Paradigms}\label{paradigms-4}}
+\subsection{Paradigms}\label{paradigms-4}}
 
 \hypertarget{all-is-one-and-the-one-is-all}{%
-\paragraph{All is One and the One is
+\subsubsection{All is One and the One is
 All}\label{all-is-one-and-the-one-is-all}}
 
 \textbf{Aligned:} (choose one) Pattern magic, cooperative magic\\
@@ -1400,7 +1458,7 @@ All}\label{all-is-one-and-the-one-is-all}}
 (choose one) Magic without Faith, magic that doesn't involve people
 
 \hypertarget{i-am-the-new-prophet}{%
-\paragraph{I am the New Prophet}\label{i-am-the-new-prophet}}
+\subsubsection{I am the New Prophet}\label{i-am-the-new-prophet}}
 
 \textbf{Aligned:} (choose one) Visions of the Future, Forging a
 Destiny\\
@@ -1408,7 +1466,7 @@ Destiny\\
 (choose one) Changing the Future you Know, Hiding the Truth
 
 \hypertarget{moves-4}{%
-\subsubsection{Moves}\label{moves-4}}
+\subsection{Moves}\label{moves-4}}
 
 The Pious gets the \textbf{Vows} move, and 2 other moves of your choice.
 
@@ -1468,12 +1526,12 @@ choice. On a 7-9, they choose whether to transfer one Discord from you
 to them or from them to you.
 
 \hypertarget{stats-5}{%
-\subsubsection{Stats}\label{stats-5}}
+\subsection{Stats}\label{stats-5}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-4}{%
-\subsubsection{Anchors}\label{anchors-4}}
+\subsection{Anchors}\label{anchors-4}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) The alley behind the best Chilean
@@ -1489,7 +1547,7 @@ Humans need memories, ties to the past and dreams of the future. My
 first love; My dog-eared holy text
 
 \hypertarget{starting-gear-4}{%
-\subsubsection{Starting Gear}\label{starting-gear-4}}
+\subsection{Starting Gear}\label{starting-gear-4}}
 
 \begin{itemize}
 \tightlist
@@ -1510,7 +1568,7 @@ first love; My dog-eared holy text
 \end{itemize}
 
 \hypertarget{place-of-power-2}{%
-\subsubsection{Place of Power}\label{place-of-power-2}}
+\subsection{Place of Power}\label{place-of-power-2}}
 
 You have this if you take the Sanctuary move.
 
@@ -1553,7 +1611,7 @@ A Ritual performed here will never (choose 1):
 \end{itemize}
 
 \hypertarget{advancements-4}{%
-\subsubsection{Advancements}\label{advancements-4}}
+\subsection{Advancements}\label{advancements-4}}
 
 \begin{itemize}
 \tightlist
@@ -1610,7 +1668,7 @@ A Ritual performed here will never (choose 1):
 \newpage
 
 \hypertarget{the-primordial}{%
-\subsection{The Primordial}\label{the-primordial}}
+\section{The Primordial}\label{the-primordial}}
 
 You don't need fancy rituals, long drawn-out methods, or anything like
 that when you're working with the raw forces that shaped the Universe.
@@ -1651,10 +1709,10 @@ because I want to be
 \end{itemize}
 
 \hypertarget{paradigms-5}{%
-\subsubsection{Paradigms}\label{paradigms-5}}
+\subsection{Paradigms}\label{paradigms-5}}
 
 \hypertarget{blood-is-the-strongest-sympathy}{%
-\paragraph{Blood is the Strongest
+\subsubsection{Blood is the Strongest
 Sympathy}\label{blood-is-the-strongest-sympathy}}
 
 \textbf{Aligned:} (choose one) Healing, Curses, Sympathy\\
@@ -1662,7 +1720,7 @@ Sympathy}\label{blood-is-the-strongest-sympathy}}
 Magic that doesn't require sacrifice
 
 \hypertarget{the-worlds-energy-is-wrapped-in-crude-matter}{%
-\paragraph{The World's Energy is Wrapped in Crude
+\subsubsection{The World's Energy is Wrapped in Crude
 Matter}\label{the-worlds-energy-is-wrapped-in-crude-matter}}
 
 \textbf{Aligned:} (choose one) Transformations and Transmutations,
@@ -1671,7 +1729,7 @@ Energy Manipulation\\
 (choose one) Subtle magic, finesse magic
 
 \hypertarget{i-see-hear-and-command-the-spirits}{%
-\paragraph{I See, Hear, and Command the
+\subsubsection{I See, Hear, and Command the
 Spirits}\label{i-see-hear-and-command-the-spirits}}
 
 \textbf{Aligned:} (choose one) Elemental magic, Summoning\\
@@ -1680,7 +1738,7 @@ Spirits}\label{i-see-hear-and-command-the-spirits}}
 spirits
 
 \hypertarget{moves-5}{%
-\subsubsection{Moves}\label{moves-5}}
+\subsection{Moves}\label{moves-5}}
 
 The Primordial gets the \textbf{Strong Avatar} and \textbf{What Doesn't
 Kill You} moves, and 1 other move of your choice.
@@ -1729,12 +1787,12 @@ you each hold 1. You can each spend that hold at any time to Help or
 Hinder each other, no matter the barriers or distance between you.
 
 \hypertarget{stats-6}{%
-\subsubsection{Stats}\label{stats-6}}
+\subsection{Stats}\label{stats-6}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-5}{%
-\subsubsection{Anchors}\label{anchors-5}}
+\subsection{Anchors}\label{anchors-5}}
 
 Only pick Anchors from two of the categories below.
 
@@ -1753,7 +1811,7 @@ home; The engraved knife I found in \_\_\_\_\_\_; The yellowed love
 letters my parents exchanged
 
 \hypertarget{starting-gear-5}{%
-\subsubsection{Starting Gear}\label{starting-gear-5}}
+\subsection{Starting Gear}\label{starting-gear-5}}
 
 2 Savings
 
@@ -1770,7 +1828,7 @@ letters my parents exchanged
 \end{itemize}
 
 \hypertarget{advancements-5}{%
-\subsubsection{Advancements}\label{advancements-5}}
+\subsection{Advancements}\label{advancements-5}}
 
 \begin{itemize}
 \tightlist
@@ -1825,7 +1883,7 @@ letters my parents exchanged
 \newpage
 
 \hypertarget{the-tech-adept}{%
-\subsection{The Tech Adept}\label{the-tech-adept}}
+\section{The Tech Adept}\label{the-tech-adept}}
 
 Most people think magic and technology are incompatible, but you know
 better. You prefer to think of them as peanut butter and chocolate. And
@@ -1865,10 +1923,10 @@ because I antagonize
 \end{itemize}
 
 \hypertarget{paradigms-6}{%
-\subsubsection{Paradigms}\label{paradigms-6}}
+\subsection{Paradigms}\label{paradigms-6}}
 
 \hypertarget{reality-has-an-api}{%
-\paragraph{Reality has an API}\label{reality-has-an-api}}
+\subsubsection{Reality has an API}\label{reality-has-an-api}}
 
 \textbf{Aligned:} (choose one) Changing a signle variable, magic done
 from a terminal\\
@@ -1876,7 +1934,7 @@ from a terminal\\
 (choose one) Unplanned magic, magic not done from a terminal
 
 \hypertarget{my-own-theory-of-everything}{%
-\paragraph{\texorpdfstring{My Own \emph{Theory of
+\subsubsection{\texorpdfstring{My Own \emph{Theory of
 Everything}}{My Own Theory of Everything}}\label{my-own-theory-of-everything}}
 
 \textbf{Aligned:} (choose one) The physical world, repeated magic
@@ -1885,7 +1943,7 @@ that violates the Law of Entropy\\
 (choose this one) Magic without technological accountrements
 
 \hypertarget{moves-6}{%
-\subsubsection{Moves}\label{moves-6}}
+\subsection{Moves}\label{moves-6}}
 
 The Tech Adept gets the \textbf{Universal Programmer} move, and 2 other
 moves of your choice.
@@ -1949,12 +2007,12 @@ question, you speak back to them in the same way, and they may ask up to
 3 questions of the same list.
 
 \hypertarget{stats-7}{%
-\subsubsection{Stats}\label{stats-7}}
+\subsection{Stats}\label{stats-7}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-6}{%
-\subsubsection{Anchors}\label{anchors-6}}
+\subsection{Anchors}\label{anchors-6}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) A squat without running water; My
@@ -1971,7 +2029,7 @@ Humans need memories, ties to the past and dreams of the future. My
 My High School Diploma, which I almost had to forge
 
 \hypertarget{starting-gear-6}{%
-\subsubsection{Starting Gear}\label{starting-gear-6}}
+\subsection{Starting Gear}\label{starting-gear-6}}
 
 \begin{itemize}
 \tightlist
@@ -1988,7 +2046,7 @@ My High School Diploma, which I almost had to forge
 \end{itemize}
 
 \hypertarget{advancements-6}{%
-\subsubsection{Advancements}\label{advancements-6}}
+\subsection{Advancements}\label{advancements-6}}
 
 \begin{itemize}
 \tightlist
@@ -2043,7 +2101,7 @@ My High School Diploma, which I almost had to forge
 \newpage
 
 \hypertarget{the-voiced}{%
-\subsection{The Voiced}\label{the-voiced}}
+\section{The Voiced}\label{the-voiced}}
 
 \emph{I am the voice of the past that will always be}\\
 \emph{I am the voice of your hunger and pain}\\
@@ -2082,10 +2140,10 @@ broken
 \end{itemize}
 
 \hypertarget{paradigms-7}{%
-\subsubsection{Paradigms}\label{paradigms-7}}
+\subsection{Paradigms}\label{paradigms-7}}
 
 \hypertarget{i-am-a-voice-in-the-chorus}{%
-\paragraph{I am a Voice in the
+\subsubsection{I am a Voice in the
 Chorus}\label{i-am-a-voice-in-the-chorus}}
 
 \textbf{Aligned:} (choose one) Words spoken which become Truth, divine
@@ -2094,7 +2152,7 @@ insight\\
 (choose one) silent magic, magic done alone
 
 \hypertarget{spirit-whisperer}{%
-\paragraph{Spirit Whisperer}\label{spirit-whisperer}}
+\subsubsection{Spirit Whisperer}\label{spirit-whisperer}}
 
 \textbf{Aligned:} (choose one) The breath of life, soothing magic,
 transcending barriers\\
@@ -2102,7 +2160,7 @@ transcending barriers\\
 (choose one) Magic without spirits, silent magic
 
 \hypertarget{music-is-the-language-of-the-universe}{%
-\paragraph{Music is the language of the
+\subsubsection{Music is the language of the
 Universe}\label{music-is-the-language-of-the-universe}}
 
 \textbf{Aligned:} (choose one) Regular rhythms, variations on a theme,
@@ -2112,7 +2170,7 @@ effects\\
 (choose one) Soundless magic, emotionless magic
 
 \hypertarget{moves-7}{%
-\subsubsection{Moves}\label{moves-7}}
+\subsection{Moves}\label{moves-7}}
 
 The Voiced gets the \textbf{Charming Voice} move, and 2 other moves of
 your choice.
@@ -2149,12 +2207,12 @@ you may tell them a secret about yourself. If you do, they will respond
 with a secret about themselves.
 
 \hypertarget{stats-8}{%
-\subsubsection{Stats}\label{stats-8}}
+\subsection{Stats}\label{stats-8}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-7}{%
-\subsubsection{Anchors}\label{anchors-7}}
+\subsection{Anchors}\label{anchors-7}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) A studio in the nice part of town
@@ -2172,7 +2230,7 @@ I was given for \_\_\_\_\_\_; The headphones that \_\_\_\_\_\_ got for
 me; The \_\_\_\_\_\_ my mother brought back from a business trip.
 
 \hypertarget{starting-gear-7}{%
-\subsubsection{Starting Gear}\label{starting-gear-7}}
+\subsection{Starting Gear}\label{starting-gear-7}}
 
 \begin{itemize}
 \tightlist
@@ -2192,7 +2250,7 @@ me; The \_\_\_\_\_\_ my mother brought back from a business trip.
 \end{itemize}
 
 \hypertarget{advancements-7}{%
-\subsubsection{Advancements}\label{advancements-7}}
+\subsection{Advancements}\label{advancements-7}}
 
 \begin{itemize}
 \tightlist
@@ -2247,7 +2305,7 @@ me; The \_\_\_\_\_\_ my mother brought back from a business trip.
 \newpage
 
 \hypertarget{the-wayfarer}{%
-\subsection{The Wayfarer}\label{the-wayfarer}}
+\section{The Wayfarer}\label{the-wayfarer}}
 
 There are many who travel the world in this day and age, and many fewer
 who travel where you do. The journey of a thousand miles begins with
@@ -2289,10 +2347,10 @@ for what I know
 \end{itemize}
 
 \hypertarget{paradigms-8}{%
-\subsubsection{Paradigms}\label{paradigms-8}}
+\subsection{Paradigms}\label{paradigms-8}}
 
 \hypertarget{all-people-are-connected-all-people-affect-one-another}{%
-\paragraph{All people are connected, all people affect one
+\subsubsection{All people are connected, all people affect one
 another}\label{all-people-are-connected-all-people-affect-one-another}}
 
 \textbf{Aligned:} (choose one) Symparthy magic, travel magic\\
@@ -2300,7 +2358,7 @@ another}\label{all-people-are-connected-all-people-affect-one-another}}
 (choose one) Binding magic, magic that prevents movement
 
 \hypertarget{i-have-one-foot-in-the-spirit-world}{%
-\paragraph{I have one foot in the spirit
+\subsubsection{I have one foot in the spirit
 world}\label{i-have-one-foot-in-the-spirit-world}}
 
 \textbf{Aligned:} (choose one) Travel between worlds, opening things,
@@ -2309,7 +2367,7 @@ spirit magic\\
 (choose one) Magic that uses physical objects, stationary magic
 
 \hypertarget{moves-8}{%
-\subsubsection{Moves}\label{moves-8}}
+\subsection{Moves}\label{moves-8}}
 
 The Wayfarer gets the \textbf{Step Sideways} move, and 2 other moves of
 your choice.
@@ -2386,12 +2444,12 @@ other. On a 6-, take -1 ongoing until you prove they haven't chained you
 down or anything.
 
 \hypertarget{stats-9}{%
-\subsubsection{Stats}\label{stats-9}}
+\subsection{Stats}\label{stats-9}}
 
 Arrange +2, +1, +0, +0, -1
 
 \hypertarget{anchors-8}{%
-\subsubsection{Anchors}\label{anchors-8}}
+\subsection{Anchors}\label{anchors-8}}
 
 Humans need shelter, a place to live, and a home to come back to. My
 \textbf{Shelter Anchor} is: (pick one) My well-maintained but
@@ -2407,7 +2465,7 @@ Humans need memories, ties to the past and dreams of the future. My
 tattered, empty diary; My collection of smoothed stones
 
 \hypertarget{starting-gear-8}{%
-\subsubsection{Starting Gear}\label{starting-gear-8}}
+\subsection{Starting Gear}\label{starting-gear-8}}
 
 \begin{itemize}
 \tightlist
@@ -2428,7 +2486,7 @@ tattered, empty diary; My collection of smoothed stones
 \end{itemize}
 
 \hypertarget{advancements-8}{%
-\subsubsection{Advancements}\label{advancements-8}}
+\subsection{Advancements}\label{advancements-8}}
 
 \begin{itemize}
 \tightlist
@@ -2485,10 +2543,10 @@ tattered, empty diary; My collection of smoothed stones
 \newpage
 
 \hypertarget{the-moves}{%
-\section{The Moves}\label{the-moves}}
+\chapter{The Moves}\label{the-moves}}
 
 \hypertarget{the-basic-moves}{%
-\subsection{The Basic Moves}\label{the-basic-moves}}
+\section{The Basic Moves}\label{the-basic-moves}}
 
 When you \textbf{assert your Paradigm} over another Mage's, roll +Static
 (-1 if Tethered). On a 10+, hold 3, or on a 7-9, hold 1. You can spend
@@ -2689,7 +2747,7 @@ This move is complex, it carries a lot of weight, and it can heavily shape the e
 \end{quote}
 
 \hypertarget{the-advanced-moves}{%
-\subsection{The Advanced Moves}\label{the-advanced-moves}}
+\section{The Advanced Moves}\label{the-advanced-moves}}
 
 When you fail a roll on a magical action and decide to \textbf{put
 willpower behind changing it}, the MC may ask you some questions. Answer
@@ -2879,7 +2937,7 @@ want to give it up, but the possibility is there.
 \end{quote}
 
 \hypertarget{changing-flags}{%
-\subsection{Changing Flags}\label{changing-flags}}
+\section{Changing Flags}\label{changing-flags}}
 
 You'll set up your flags during the first session. Flags are special
 sorts of moves, made by the players, that encourage certain types of
@@ -2894,7 +2952,7 @@ may change the flag to better reflect how they want the other players'
 mages to interact with their mage.
 
 \hypertarget{improvement}{%
-\subsection{Improvement}\label{improvement}}
+\section{Improvement}\label{improvement}}
 
 Among the many improvement options available to your playbook, you may
 see options such as Gain another {[}playbook{]} move, Gain a move from
@@ -2912,7 +2970,7 @@ whole table should be prepared for what that means.
 \newpage
 
 \hypertarget{the-master-of-ceremonies}{%
-\section{The Master of Ceremonies}\label{the-master-of-ceremonies}}
+\chapter{The Master of Ceremonies}\label{the-master-of-ceremonies}}
 
 The Master of Ceremonies, or MC, facilitates conversation and play. This
 is the player whose job it is to make the moves that keep the
@@ -2927,7 +2985,7 @@ the MC player, and following them is necessary to keep the game working
 smoothly.
 
 \hypertarget{agenda}{%
-\subsection{Agenda}\label{agenda}}
+\section{Agenda}\label{agenda}}
 
 The Agenda is your most abstract, highest order, set of rules. These are
 your objectives during the game. If you succeed at all of these agendas
@@ -2979,7 +3037,7 @@ later. In this way, you make the world feel real, like a living,
 breathing world, one that is exciting to explore.
 
 \hypertarget{always-say}{%
-\subsection{Always Say}\label{always-say}}
+\section{Always Say}\label{always-say}}
 
 When the other players look to you to see what happens, you have to say
 something. Make sure the things you say follow these rules.
@@ -3012,7 +3070,7 @@ set the scene, and don't leave out important details waiting for them to
 ask the right question.
 
 \hypertarget{the-principles}{%
-\subsection{The Principles}\label{the-principles}}
+\section{The Principles}\label{the-principles}}
 
 \textbf{Riddle the world with hidden magic, unexpected connections, and
 unrecognized potential}
@@ -3154,7 +3212,7 @@ can just keep saying what's obvious, and the players will keep thinking
 the story is full of creative twists and turns.
 
 \hypertarget{your-moves}{%
-\subsection{Your Moves}\label{your-moves}}
+\section{Your Moves}\label{your-moves}}
 
 Your moves behave differently from other moves in the game. While most
 moves trigger when a character not controlled by you takes an action in
@@ -3241,7 +3299,7 @@ After you make a move, always turn it back to the other players. Ask
 them, ``what do you do?''
 
 \hypertarget{softer-moves}{%
-\subsubsection{Softer Moves}\label{softer-moves}}
+\subsection{Softer Moves}\label{softer-moves}}
 
 \textbf{Tell them the possible consequences and ask}
 
@@ -3419,7 +3477,7 @@ a spin\ldots and instead find a ticket with the number of a tow truck
 company! What do you do?''}
 
 \hypertarget{soft-or-hard-moves}{%
-\subsubsection{Soft or Hard Moves}\label{soft-or-hard-moves}}
+\subsection{Soft or Hard Moves}\label{soft-or-hard-moves}}
 
 \textbf{Hit them with the static realities of their world}
 
@@ -3488,7 +3546,7 @@ to tell these upstarts their place, when the Winter Princess herself
 steps out from behind a tree and says `Actually\ldots{}'\,''}
 
 \hypertarget{harder-moves}{%
-\subsubsection{Harder Moves}\label{harder-moves}}
+\subsection{Harder Moves}\label{harder-moves}}
 
 \textbf{Change the Battlefield}
 
@@ -3651,7 +3709,7 @@ spell shatters and turns against you. Roll backlash."}
 around inside you trying to get out, and suddenly - it does.''}
 
 \hypertarget{running-a-session}{%
-\subsection{Running a Session}\label{running-a-session}}
+\section{Running a Session}\label{running-a-session}}
 
 A session of Consensus is a self-contained advance of the story. It will
 build on what came before and set up new directions for the future, but
@@ -3659,7 +3717,7 @@ it has a beginning, middle, and end, and should always change the game
 world in ways not easily undone.
 
 \hypertarget{starting-a-session}{%
-\subsubsection{Starting a Session}\label{starting-a-session}}
+\subsection{Starting a Session}\label{starting-a-session}}
 
 Your MC sheet has a list of steps to guide you through the beginning of
 the session.
@@ -3721,7 +3779,7 @@ to the rules below, and open the action with a soft move, to require a
 response, and you're off.
 
 \hypertarget{scene-framing-and-spotlight}{%
-\subsubsection{Scene Framing and
+\subsection{Scene Framing and
 Spotlight}\label{scene-framing-and-spotlight}}
 
 Consensus is played out in scenes. Each one should go as long as it
@@ -3754,7 +3812,7 @@ paradigm discussion than anything else, and that's okay, but when you're
 guiding the scenes, keep the 1/3 rule in the back of your mind.
 
 \hypertarget{anchor-scenes}{%
-\paragraph{Anchor Scenes}\label{anchor-scenes}}
+\subsubsection{Anchor Scenes}\label{anchor-scenes}}
 
 One of the central tensions of a Mage's life is feeling like they have
 one foot in each of two worlds. Sometimes they're probably late to work
@@ -3790,7 +3848,7 @@ aren't\ldots{} refer to slipping status tracks and the move \textbf{Lose
 an Anchor}.
 
 \hypertarget{inspiration-scenes}{%
-\paragraph{Inspiration Scenes}\label{inspiration-scenes}}
+\subsubsection{Inspiration Scenes}\label{inspiration-scenes}}
 
 Many Mages have big, sweeping ideas about the world, the Universe, and
 their place in it. Mages who don't still tend to find themselves
@@ -3813,7 +3871,7 @@ time teaching, learning, or just talking, and give them Inspiration
 scenes to play it out.
 
 \hypertarget{force-scenes}{%
-\paragraph{Force Scenes}\label{force-scenes}}
+\subsubsection{Force Scenes}\label{force-scenes}}
 
 A Force scene is a goal-seeking scene. Either a force is working towards
 their goals, and the Mages either help or hinder, or the Mages have a
@@ -3832,7 +3890,7 @@ see more sides of these events. Wrap it up so that it doesn't drag on,
 and start later scenes reacting to the ongoing status.
 
 \hypertarget{ending-a-session}{%
-\subsubsection{Ending a Session}\label{ending-a-session}}
+\subsection{Ending a Session}\label{ending-a-session}}
 
 At some point, it will be the right time to end the session. Maybe the
 players will have time constraints, or a significant climax was reached
@@ -3871,13 +3929,13 @@ something already seems played out, or is otherwise no longer
 interesting.
 
 \hypertarget{your-sheets}{%
-\subsection{Your Sheets}\label{your-sheets}}
+\section{Your Sheets}\label{your-sheets}}
 
 These sheets help you organize your thoughts and are more tools for
 keeping the game running.
 
 \hypertarget{the-mc}{%
-\subsubsection{The MC}\label{the-mc}}
+\subsection{The MC}\label{the-mc}}
 
 This sheet should be front-and-center. It reminds you of your agenda and
 principles, and lists all of your moves, arranged from hard moves to
@@ -3887,7 +3945,7 @@ never far from your mind (and never far from the Slip a Status Track
 move).
 
 \hypertarget{pc-summaries}{%
-\subsubsection{PC Summaries}\label{pc-summaries}}
+\subsection{PC Summaries}\label{pc-summaries}}
 
 This sheet collapses the essential details of the Mages down to the size
 of cards. Especially early in the campaign, it can help you refer to the
@@ -3897,7 +3955,7 @@ don't need to obsessively track every single detail of the characters
 here, but keep the broad strokes.
 
 \hypertarget{forces}{%
-\subsubsection{Forces}\label{forces}}
+\subsection{Forces}\label{forces}}
 
 Forces are your main organizational tool for notable elements in the
 world, and the sheets collect all the relevant information about them.
@@ -3912,7 +3970,7 @@ one, since you shouldn't have any deep dark secrets you are scheming to
 unveil at the worst possible moment.
 
 \hypertarget{sundries}{%
-\subsection{Sundries}\label{sundries}}
+\section{Sundries}\label{sundries}}
 
 Some things to remember.
 
@@ -3969,7 +4027,7 @@ and one long.
 \newpage
 
 \hypertarget{stacking-moves}{%
-\section{Stacking Moves}\label{stacking-moves}}
+\chapter{Stacking Moves}\label{stacking-moves}}
 
 Sometimes, maybe even often, and especially when you're zoomed in on a
 scene, a single move isn't enough to resolve an interaction. 7-9 results
@@ -4104,10 +4162,10 @@ lurking around!'\,''
 \newpage
 
 \hypertarget{the-first-session}{%
-\section{The First Session}\label{the-first-session}}
+\chapter{The First Session}\label{the-first-session}}
 
 \hypertarget{before-the-first-session}{%
-\subsection{Before the First Session}\label{before-the-first-session}}
+\section{Before the First Session}\label{before-the-first-session}}
 
 Make sure you have all the materials needed for play. A printout of each
 of the playbooks, a few copies of the basic moves sheet, an MC sheet, a
@@ -4130,12 +4188,12 @@ effort, and the game is so much more fun when you can take those ideas
 and run with them.
 
 \hypertarget{character-creation}{%
-\subsection{Character Creation}\label{character-creation}}
+\section{Character Creation}\label{character-creation}}
 
 \label{Safety Rules}
 
 \hypertarget{initial-expectations-and-safety-rules}{%
-\subsubsection{Initial Expectations and Safety
+\subsection{Initial Expectations and Safety
 Rules}\label{initial-expectations-and-safety-rules}}
 
 This is a game centered around humans with magical abilities, called
@@ -4157,7 +4215,8 @@ everyone push themselves exactly as far as they want to go, but no
 farther.
 
 \hypertarget{discuss-and-align-themes}{%
-\paragraph{Discuss and Align Themes}\label{discuss-and-align-themes}}
+\subsubsection{Discuss and Align
+Themes}\label{discuss-and-align-themes}}
 
 The best thing you can do is talk about themes as a table. Find out what
 you all are interested in playing for. It doesn't have to be exhaustive,
@@ -4181,7 +4240,8 @@ fine, but so is ``I don't want to play a character who is abandoned by
 others.''
 
 \hypertarget{explicit-safety-mechanics}{%
-\paragraph{Explicit Safety Mechanics}\label{explicit-safety-mechanics}}
+\subsubsection{Explicit Safety
+Mechanics}\label{explicit-safety-mechanics}}
 
 Because of the vulnerability inherent in roleplaying, and roleplaying
 potentially difficult themes, it is important that you use some form of
@@ -4191,9 +4251,11 @@ Consensus. If you have a favorite safety mechanic, we highly encourage
 you to bring it with you to this game.
 
 \hypertarget{the-x-card}{%
-\subparagraph{The X Card}\label{the-x-card}}
+\paragraph{The X Card}\label{the-x-card}}
 
-Credit for this mechanic goes to John Stavropoulos
+\hypertarget{credit-for-this-mechanic-goes-to-john-stavropoulos}{%
+\subparagraph{Credit for this mechanic goes to John
+Stavropoulos}\label{credit-for-this-mechanic-goes-to-john-stavropoulos}}
 
 Give every player an index card with a large, clear `X' on it. Explain
 that at any time, any player may raise or clearly tap their X card. If
@@ -4206,12 +4268,12 @@ will be exposed to, without having to figure out and list hard lines
 ahead of time.
 
 \hypertarget{dial-it-updown}{%
-\subparagraph{{[}Dial It Up/Down?{]}}\label{dial-it-updown}}
+\paragraph{{[}Dial It Up/Down?{]}}\label{dial-it-updown}}
 
 {[}Likely some form of these would be useful{]}
 
 \hypertarget{magic}{%
-\subsubsection{Magic}\label{magic}}
+\subsection{Magic}\label{magic}}
 
 Consensus is fairly flexible in the type of magic it showcases, but
 there are some starting points to know so you're all on the same page.
@@ -4230,7 +4292,7 @@ other people's, and it will be enough to help them with their problems,
 cause some other problems, but never truly make them all go away.
 
 \hypertarget{introduce-playbooks}{%
-\subsubsection{Introduce Playbooks}\label{introduce-playbooks}}
+\subsection{Introduce Playbooks}\label{introduce-playbooks}}
 
 Make the playbooks available, laying them all on the table or handing
 some out to each player to be passed around. In addition, read these
@@ -4328,7 +4390,7 @@ has read this book the most, can help answer questions as they get
 started.
 
 \hypertarget{stats-10}{%
-\subsubsection{Stats}\label{stats-10}}
+\subsection{Stats}\label{stats-10}}
 
 The stats are:
 
@@ -4354,7 +4416,7 @@ The stats are:
 Stats can never be higher than +3, and most will range from -1 to +2.
 
 \hypertarget{setting-expectations}{%
-\subsubsection{Setting Expectations}\label{setting-expectations}}
+\subsection{Setting Expectations}\label{setting-expectations}}
 
 While the players start making characters, the MC will be answering
 questions as they come up, and in between that should be setting
@@ -4411,14 +4473,14 @@ we suggest getting out in front of.
 \end{itemize}
 
 \hypertarget{introductions}{%
-\subsubsection{Introductions}\label{introductions}}
+\subsection{Introductions}\label{introductions}}
 
 Once everyone has the basics of their characters decided, go around the
 table and have everyone introduce their characters. Start with name and
 pronouns, and move on to more specific details.
 
 \hypertarget{paradigm-1}{%
-\paragraph{Paradigm}\label{paradigm-1}}
+\subsubsection{Paradigm}\label{paradigm-1}}
 
 Sharing a character's Paradigm gives the starting point of who they are
 as a Mage. It says something about how they look at the world and what
@@ -4427,14 +4489,14 @@ Characters are likely to have to work around each others' Opposed
 Aspects a lot, so it's important to have been exposed to what they are.
 
 \hypertarget{looks}{%
-\paragraph{Looks}\label{looks}}
+\subsubsection{Looks}\label{looks}}
 
 Talk about what the character looks like, using the traits on the
 character sheet as guides. Since Mages usually have more than just the
 five senses, Aura is a noteworthy part of any Mage's description.
 
 \hypertarget{preparations}{%
-\paragraph{Preparations}\label{preparations}}
+\subsubsection{Preparations}\label{preparations}}
 
 This is one element that can be skipped if the themes of the game
 suggest it won't be relevant any time soon. But, describing the
@@ -4449,7 +4511,7 @@ bogged down with it, but these connections help build the world the
 characters will inhabit.
 
 \hypertarget{the-three-questions}{%
-\subsubsection{The Three Questions}\label{the-three-questions}}
+\subsection{The Three Questions}\label{the-three-questions}}
 
 The MC will want to know the answers to each of the three questions on
 your playbook, ``Why was your humanity trivialized?'' ``Why is your
@@ -4463,7 +4525,7 @@ first scenes of the game will fill out exactly how these connect the
 characters to the world.
 
 \hypertarget{anchors-9}{%
-\subsubsection{Anchors}\label{anchors-9}}
+\subsection{Anchors}\label{anchors-9}}
 
 As the characters become ready, ask them about their Anchors. This is
 key to understanding what motivates the characters and to revealing the
@@ -4481,7 +4543,7 @@ is the only one left, and so on. Don't get too deep, since there will be
 time for that later, but seek to have a clear starting point.
 
 \hypertarget{flags}{%
-\subsubsection{Flags}\label{flags}}
+\subsection{Flags}\label{flags}}
 
 Each character needs a Flag, which is a way that the player thinks it
 would be interesting for other characters to interact with them. For
@@ -4507,7 +4569,7 @@ establish that he's trusting to a fault, he might say to the table
 believe'. It shouldn't be hard to make him believe.''
 
 \hypertarget{first-scenes}{%
-\subsection{First Scenes}\label{first-scenes}}
+\section{First Scenes}\label{first-scenes}}
 
 Once characters have been created, it's time to play through the first
 scenes in the game. In Consensus, the first scenes we play through are
@@ -4527,7 +4589,7 @@ introduction to the mechanics as well as to our characters and the
 world.
 
 \hypertarget{pulling-in-multiple-characters}{%
-\subsubsection{Pulling in Multiple
+\subsection{Pulling in Multiple
 Characters}\label{pulling-in-multiple-characters}}
 
 When the players go around introducing their characters, make a note of
@@ -4543,7 +4605,7 @@ each scene you should look for places where the actions they describe
 would trigger a move, and have them roll it.
 
 \hypertarget{framing-a-scene}{%
-\subsubsection{Framing a Scene}\label{framing-a-scene}}
+\subsection{Framing a Scene}\label{framing-a-scene}}
 
 During the first session, your method of choosing scenes is a bit more
 structured and formulaic than it will be in future sessions. First,
@@ -4580,7 +4642,7 @@ details about the world. Frame a scene that shows them being hunted or
 pursued, or evidence that they soon will be or recently have been.
 
 \hypertarget{turning-the-three-questions-into-scenes}{%
-\paragraph{Turning the Three Questions into
+\subsubsection{Turning the Three Questions into
 Scenes}\label{turning-the-three-questions-into-scenes}}
 
 The first question asks the player to think about why their Mage's
@@ -4608,7 +4670,7 @@ questions in scenes that focus on this question, players will likely
 give answers that lead directly to your most interesting Forces.
 
 \hypertarget{ask-leading-questions}{%
-\subsubsection{Ask Leading Questions}\label{ask-leading-questions}}
+\subsection{Ask Leading Questions}\label{ask-leading-questions}}
 
 In addition to playing to find out what happens, during these scenes you
 should ask questions that get at things which interest you and seem like
@@ -4638,8 +4700,7 @@ You can go deeper here than earlier in character creation, as long as
 the answers keep giving the table interesting stuff to work with.
 
 \hypertarget{identifying-the-stressor}{%
-\subsubsection{Identifying the
-Stressor}\label{identifying-the-stressor}}
+\subsection{Identifying the Stressor}\label{identifying-the-stressor}}
 
 During the first session, after a scene or while a scene wraps up, the
 MC should take a look at the list of stressors, and think about which
@@ -4650,7 +4711,7 @@ stressor assigned to it after the fact, and the MC will use this to fill
 out the world before the second session.
 
 \hypertarget{number-of-scenes}{%
-\subsubsection{Number of Scenes}\label{number-of-scenes}}
+\subsection{Number of Scenes}\label{number-of-scenes}}
 
 Depending on how much time you have, the number of scenes are variable.
 However, we recommend between 3 and 6 because each scene turns into a
@@ -4662,7 +4723,7 @@ want to fit into the game, extra Forces will tend to fall by the
 wayside.
 
 \hypertarget{ending-a-session-1}{%
-\subsection{Ending a Session}\label{ending-a-session-1}}
+\section{Ending a Session}\label{ending-a-session-1}}
 
 At the end of a session, before wrapping up and putting everything away,
 there's a few things that you should do as a table. First, you should
@@ -4674,7 +4735,7 @@ is often good form to mention anything you particularly enjoyed from
 another player during this time.
 
 \hypertarget{after-the-first-session}{%
-\subsection{After the First Session}\label{after-the-first-session}}
+\section{After the First Session}\label{after-the-first-session}}
 
 Give it a little bit of time, don't start this right after the first
 session. Let some ideas percolate through your dreams and subconscious.
@@ -4695,11 +4756,11 @@ binge-watch. Things that make your mind overflow with vivid imagery,
 things that make you yearn to explore and change the world.
 
 \hypertarget{the-second-session-and-beyond}{%
-\subsection{The Second Session and
+\section{The Second Session and
 Beyond}\label{the-second-session-and-beyond}}
 
 \hypertarget{starting-a-session-1}{%
-\subsubsection{Starting a Session}\label{starting-a-session-1}}
+\subsection{Starting a Session}\label{starting-a-session-1}}
 
 Gather your MC sheet, PC summary sheet, Forces, Flags, and Foreshadows.
 Read out Flags for all the players' characters, and note which ones can
@@ -4722,7 +4783,7 @@ them. Remember the ones that roll 6- for the first scene.
 Frame a scene and make a soft move.
 
 \hypertarget{framing-scenes}{%
-\subsubsection{Framing Scenes}\label{framing-scenes}}
+\subsection{Framing Scenes}\label{framing-scenes}}
 
 Frame scenes so that everyone knows where they are starting and can use
 that as a jumping-off point to contribute. A scene should start when the
@@ -4783,7 +4844,7 @@ or made into new scenes of their own.
 \label{Status Tracks chapter}
 
 \hypertarget{status-tracks-1}{%
-\section{Status Tracks}\label{status-tracks-1}}
+\chapter{Status Tracks}\label{status-tracks-1}}
 
 Many things in Consensus have a sort of progression. Even if individual
 events aren't precisely connected, one layers on top of another, getting
@@ -4793,7 +4854,7 @@ To represent this, Consensus uses Status Codes similar to those used in
 medical transport, ranging from Code 50 down to Code N.
 
 \hypertarget{harm-and-healing}{%
-\subsection{Harm and Healing}\label{harm-and-healing}}
+\section{Harm and Healing}\label{harm-and-healing}}
 
 Every playbook has a section labeled ``Health,'' which is the primary
 status track players will keep track of for their PCs. These are
@@ -4866,7 +4927,7 @@ be represented by 0 Harm. The move is rolled as usual, and consequences
 may occur. An injury that causes 0 harm does not spend Preparations.
 
 \hypertarget{healing}{%
-\subsubsection{Healing}\label{healing}}
+\subsection{Healing}\label{healing}}
 
 Healing, whether mundane or magical can help you recover from harm. In
 some cases this will cause the MC to tell you to erase codes off of your
@@ -4904,7 +4965,7 @@ but beyond your normal abilities; }and \textbf{Do Rending Magic} in
 particular, as well as any potentially relevant playbook moves.
 
 \hypertarget{anchor-status-tracks}{%
-\subsection{Anchor Status Tracks}\label{anchor-status-tracks}}
+\section{Anchor Status Tracks}\label{anchor-status-tracks}}
 
 Each Anchor that each player character has on their playbook has a
 status track to keep track of their relationship with that Anchor. At
@@ -4916,7 +4977,7 @@ relationship with an anchor or shares a Moment of Humanity with that
 anchor, clear that status track of all crossed off codes.
 
 \hypertarget{portents}{%
-\subsection{Portents}\label{portents}}
+\section{Portents}\label{portents}}
 
 From time to time, things will happen in game that feel like they
 deserve to be followed up on, but aren't tied to any obvious way to
@@ -4934,7 +4995,7 @@ off another Code. When you hit Code N, bring the Portent into play
 somehow, and cross it off the list.
 
 \hypertarget{reality-breaks}{%
-\subsection{Reality Breaks}\label{reality-breaks}}
+\section{Reality Breaks}\label{reality-breaks}}
 
 Sometimes, Reality fights back. When a mage backlashes, if they are
 unlucky, they may find themselves in a reality break, a way the
@@ -5059,7 +5120,7 @@ When a reality break is created, follow the steps of the move:
 \end{itemize}
 
 \hypertarget{forces-1}{%
-\subsection{Forces}\label{forces-1}}
+\section{Forces}\label{forces-1}}
 
 Each Force has a Status Track, representing how close it is to making an
 irrevocable change on the game world. These Status Tracks have
@@ -5078,7 +5139,7 @@ setback. This may also involve changing the descriptions, as the Force
 may have had to restructure or change plans.
 
 \hypertarget{consensus-shift}{%
-\subsection{Consensus Shift}\label{consensus-shift}}
+\section{Consensus Shift}\label{consensus-shift}}
 
 With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the Advanced Moves (page \pageref{Advanced Moves}) section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
 
@@ -5087,14 +5148,14 @@ With certain advanced moves, a Mage can attempt to shift the Consensus and chang
 \label{Magic Chapter}
 
 \hypertarget{magic-1}{%
-\section{Magic}\label{magic-1}}
+\chapter{Magic}\label{magic-1}}
 
 What is magic you may be asking? Or ``Where the heck is all the magic, I
 thought that's what this game was supposed to be about!'' Well look no
 further.
 
 \hypertarget{paradigm-2}{%
-\subsection{Paradigm}\label{paradigm-2}}
+\section{Paradigm}\label{paradigm-2}}
 
 You need light to see. You need air to breathe. Things fall when you
 drop them. Electricity only flows in a complete circuit. There are
@@ -5152,7 +5213,7 @@ section. In Consensus, key aspects that are relevant to magic are called
 out.
 
 \hypertarget{title}{%
-\subsubsection{Title}\label{title}}
+\subsection{Title}\label{title}}
 
 The title of a Paradigm is just a label, but usually indicates something
 about the flavor or approach that it entails. ``True Names Give
@@ -5164,7 +5225,7 @@ language or the crafting of devices which can change the world's
 properties.
 
 \hypertarget{aligned}{%
-\subsubsection{Aligned}\label{aligned}}
+\subsection{Aligned}\label{aligned}}
 
 Aligned aspects are parts of the Paradigm that the Mage is particularly
 good at. This may have to do with their beliefs (a Mage who believes in
@@ -5180,7 +5241,7 @@ and magic which is Aligned to your character's Paradigm has a chance of
 being particularly, remarkably successful.
 
 \hypertarget{opposed}{%
-\subsubsection{Opposed}\label{opposed}}
+\subsection{Opposed}\label{opposed}}
 
 Opposed aspects are things which your Mage believes are impossible, as
 firmly as you probably believe that the Sun rises each day. These will
@@ -5223,7 +5284,7 @@ A Mage may be able to break past their Opposed, and do magic that is
 Opposed to their own paradigm, but it will always be Rending if they do.
 
 \hypertarget{freedoms}{%
-\subsubsection{Freedoms}\label{freedoms}}
+\subsection{Freedoms}\label{freedoms}}
 
 Freedoms are one of the perks that come with working with other Mages
 over time. Another Mage may choose, when they take an Advancement, to
@@ -5244,7 +5305,7 @@ Freedoms let them stop hiding some of their magic from each other, and
 reward collaboration.
 
 \hypertarget{restrictions}{%
-\subsubsection{Restrictions}\label{restrictions}}
+\subsection{Restrictions}\label{restrictions}}
 
 Restrictions are new holes discovered in a Mage's view of what is
 possible. They often come about as a result of significant failure: Not
@@ -5266,7 +5327,7 @@ gained, representing an expansion of understanding or self-confidence by
 the Mage.
 
 \hypertarget{magic-and-moves}{%
-\subsection{Magic and Moves}\label{magic-and-moves}}
+\section{Magic and Moves}\label{magic-and-moves}}
 
 There's no one move in this game that you roll to just ``Do Magic.''
 Instead, magic infuses the very essence of the game. Almost any move you
@@ -5308,7 +5369,7 @@ away. This is also enacting sudden (violent) and unexpected change on
 the world, even though there was no magic involved.
 
 \hypertarget{harmonious-magic}{%
-\subsection{Harmonious Magic}\label{harmonious-magic}}
+\section{Harmonious Magic}\label{harmonious-magic}}
 
 Most magic that Mages do is barely distinguishable from coincidence or
 extreme luck. There's a reason for this. That kind of magic is easy, and
@@ -5325,7 +5386,7 @@ Paradigm is going to be violated by a Mage happening to have exactly the
 small item that they need in their pocket.
 
 \hypertarget{rending-magic}{%
-\subsection{Rending Magic}\label{rending-magic}}
+\section{Rending Magic}\label{rending-magic}}
 
 But what if your character thinks they Really Need to throw a fireball
 down the streets of Chicago? Well first, they're almost certainly wrong,
@@ -5339,7 +5400,7 @@ just works, and you roll the move if it affects a lookout. This can be
 very powerful, but the costs are very high.
 
 \hypertarget{lookouts}{%
-\subsubsection{Lookouts}\label{lookouts}}
+\subsection{Lookouts}\label{lookouts}}
 
 Sometimes you can tear holes in reality and get away with it because no
 one is around to act as eyes and ears for the Consensus. Rending Magic
@@ -5359,7 +5420,7 @@ humanoid form made out of clay, no matter where your mage is, they roll
 the rending magic move.
 
 \hypertarget{discord}{%
-\subsection{Discord}\label{discord}}
+\section{Discord}\label{discord}}
 
 Discord is a buildup of some sort, reality leaving its mark on mages who
 dare to tear holes in it left and right. The more the discord builds up,
@@ -5370,7 +5431,7 @@ it's best not to let it build up too much.
 \label{Backlash chapter}
 
 \hypertarget{backlash}{%
-\subsection{Backlash}\label{backlash}}
+\section{Backlash}\label{backlash}}
 
 This is the universe's way of fixing itself after a hole is torn in it
 by Rending magic. It is also the punishment for Mages who break the
@@ -5399,7 +5460,7 @@ discord and Enforcers though. Using magic to try and get rid of them or
 mitigate their consequences will only make matters worse.
 
 \hypertarget{reality-breaks-1}{%
-\subsection{Reality Breaks}\label{reality-breaks-1}}
+\section{Reality Breaks}\label{reality-breaks-1}}
 
 Sometimes, when the Consensus is particularly pushed against, a Mage
 needs to learn a lesson, reality breaks around them. This can take a
@@ -5463,7 +5524,7 @@ mages are unbound by the laws of the Consensus and can be very dangerous
 for everyone.
 
 \hypertarget{rituals}{%
-\subsection{Rituals}\label{rituals}}
+\section{Rituals}\label{rituals}}
 
 A ritual is any larger magical working undertaken by one or more
 characters. Rituals increase the power that can be brought to bear, and
@@ -5473,7 +5534,7 @@ time. A ritual is often the right option when time allows.
 A ritual has two phases: planning and performing.
 
 \hypertarget{planning-a-ritual}{%
-\subsubsection{Planning a Ritual}\label{planning-a-ritual}}
+\subsection{Planning a Ritual}\label{planning-a-ritual}}
 
 In order to perform a ritual, you must know what you are doing, first.
 Planning requires ``some time and relative safety.'' It allows you to
@@ -5495,7 +5556,7 @@ Once you have planned the ritual, you need to write it down. This
 ensures that important details aren't lost.
 
 \hypertarget{performing-a-ritual}{%
-\subsubsection{Performing a Ritual}\label{performing-a-ritual}}
+\subsection{Performing a Ritual}\label{performing-a-ritual}}
 
 Performing a ritual has more requirements than planning one. To start
 with, it must be at a place of power that is appropriate for the ritual.
@@ -5525,7 +5586,7 @@ and beyond their prescribed roles. The outcomes can be rather dangerous,
 so a ritual should never be undertaken lightly.
 
 \hypertarget{place-of-power-3}{%
-\subsubsection{Place of Power}\label{place-of-power-3}}
+\subsection{Place of Power}\label{place-of-power-3}}
 
 Places of power are locations with a high concentration of magic, for
 one reason or another. These tend to be naturally occurring, like
@@ -5555,10 +5616,10 @@ away their stuff'', which can be good motivation and drama.
 \label{Anchors and Inspirations chapter}
 
 \hypertarget{anchors-and-inspirations-1}{%
-\section{Anchors and Inspirations}\label{anchors-and-inspirations-1}}
+\chapter{Anchors and Inspirations}\label{anchors-and-inspirations-1}}
 
 \hypertarget{anchors-10}{%
-\subsection{Anchors}\label{anchors-10}}
+\section{Anchors}\label{anchors-10}}
 
 When we say that Mages are the pinnacle of humanity, we mean it. But
 that's not always a good thing, right? The thing about being at an edge
@@ -5579,7 +5640,7 @@ reality to keep you there. Your pet cat who brings you comfort, fine.
 Your cat familiar, not so fine.
 
 \hypertarget{starting-anchors}{%
-\subsubsection{Starting Anchors}\label{starting-anchors}}
+\subsection{Starting Anchors}\label{starting-anchors}}
 
 All characters start with Anchors, which say things about who they have
 been so far. Each playbook suggests different Anchors in the starting
@@ -5593,7 +5654,7 @@ Starting Anchors fall under three categories: Shelter Anchors,
 Connection Anchors, and Memories Anchors.
 
 \hypertarget{shelter}{%
-\paragraph{Shelter}\label{shelter}}
+\subsubsection{Shelter}\label{shelter}}
 
 A Shelter Anchor is literally that, an Anchor that gives you shelter. It
 can be very powerful and grounding to have a home for an Anchor, but
@@ -5607,7 +5668,7 @@ yelling about who will do the dishes that can get your head right down
 out of the clouds.
 
 \hypertarget{connection}{%
-\paragraph{Connection}\label{connection}}
+\subsubsection{Connection}\label{connection}}
 
 Connection Anchors are notable for their agency, as they are people or
 animals. Keep in mind that these Anchors can protect themselves from
@@ -5616,7 +5677,7 @@ If they do so, it's up to you at that point if they remain an
 Anchor\ldots but if they do, they won't make it easy on you.
 
 \hypertarget{memories}{%
-\paragraph{Memories}\label{memories}}
+\subsubsection{Memories}\label{memories}}
 
 Memory Anchors are the objects, signs, and places that connect to
 memories of the past and ideas of the future. They can be grounding, but
@@ -5624,7 +5685,7 @@ need to be kept in your mind, and likely regularly interacted to or kept
 on hand, lest they slip away.
 
 \hypertarget{filling-in-blanks}{%
-\paragraph{Filling in Blanks}\label{filling-in-blanks}}
+\subsubsection{Filling in Blanks}\label{filling-in-blanks}}
 
 Some starting Anchors are not completely filled in to start, they will
 have a blank space left to fill in. Choose something evocative to write
@@ -5633,7 +5694,7 @@ means. Keep in mind the category of Anchor it is in, and don't fill in
 the blank in a way that makes that Anchor not fill that need.
 
 \hypertarget{anchor-upkeep}{%
-\subsubsection{Anchor Upkeep}\label{anchor-upkeep}}
+\subsection{Anchor Upkeep}\label{anchor-upkeep}}
 
 Anchors require upkeep to remain. Every Anchor has a Status Track
 representing its condition. At the start of each session, mark off one
@@ -5660,7 +5721,8 @@ Transformation section later in this chapter for more examples.
 Note that an Anchor's Status Track can being slipping, like any other.
 
 \hypertarget{connecting-with-an-anchor}{%
-\paragraph{Connecting with an Anchor}\label{connecting-with-an-anchor}}
+\subsubsection{Connecting with an
+Anchor}\label{connecting-with-an-anchor}}
 
 When you've been shaken by the threat or reality of bodily harm,
 connecting with and Anchor is an important step for helping you get your
@@ -5675,7 +5737,7 @@ from you, and you will not be able to connect with it until the issue(s)
 are resolved.
 
 \hypertarget{losing-anchors}{%
-\subsubsection{Losing Anchors}\label{losing-anchors}}
+\subsection{Losing Anchors}\label{losing-anchors}}
 
 Losing an Anchor is a moment of transformation for your character. It
 can happen in many ways, but all of them mean that the Mage is a little
@@ -5705,7 +5767,7 @@ appropriate Front, or keep them in the Home Front if none stand out, as
 an element that can still be brought into play.
 
 \hypertarget{upkeep}{%
-\paragraph{Upkeep}\label{upkeep}}
+\subsubsection{Upkeep}\label{upkeep}}
 
 If an Anchor's Status Track hits Code N, you have lost them. Depending
 on the nature of the needed upkeep, this could mean many different
@@ -5717,7 +5779,7 @@ once did, or it might finally break, and you feel your connection to
 that part of your life break as well.
 
 \hypertarget{threats-to-anchors}{%
-\paragraph{Threats to Anchors}\label{threats-to-anchors}}
+\subsubsection{Threats to Anchors}\label{threats-to-anchors}}
 
 A Mage's life is full of danger, and this can extend to those around
 them. During play, you are likely to discover from time to time that an
@@ -5740,7 +5802,7 @@ relationship is in real danger from that kind of ultimatum, and they
 need to make an immediate choice.
 
 \hypertarget{narrative-loss}{%
-\paragraph{Narrative Loss}\label{narrative-loss}}
+\subsubsection{Narrative Loss}\label{narrative-loss}}
 
 Sometimes, it is clear that you have lost an Anchor. If a Connection
 Anchor dies, they clearly are no longer an Anchor. You also might
@@ -5748,7 +5810,7 @@ acknowledge that for other reasons, and Anchor no longer fulfills that
 role. This is exactly like losing an Anchor in any other way.
 
 \hypertarget{transformation}{%
-\subparagraph{Transformation}\label{transformation}}
+\paragraph{Transformation}\label{transformation}}
 
 One way to lose an Anchor is for it to become magical. Anchors, after
 all, cannot be magic at their hearts. It is OK to put some magic on
@@ -5763,7 +5825,7 @@ pool, and discover when she emerges that it not only healed her wounds,
 it transformed her into an oracle.
 
 \hypertarget{gaining-anchors}{%
-\subsubsection{Gaining Anchors}\label{gaining-anchors}}
+\subsection{Gaining Anchors}\label{gaining-anchors}}
 
 Your starting Anchors are not the only ones you can ever have. It is
 possible to gain new ones during play. These behave exactly like other
@@ -5774,7 +5836,7 @@ Shelter/Connection/Memories, but it is not required. Add them to your
 sheet, and put a Status Track next to them.
 
 \hypertarget{through-a-move}{%
-\paragraph{Through a Move}\label{through-a-move}}
+\subsubsection{Through a Move}\label{through-a-move}}
 
 A few moves allow an Anchor to be gained. Work with the MC, and
 originator of the move if not you, to determine who or what the new
@@ -5796,7 +5858,7 @@ Anchored at all. This represents a certain type of enlightenment, one
 that encourages them to stick around to spread their wisdom.
 
 \hypertarget{through-an-advancement}{%
-\paragraph{Through an Advancement}\label{through-an-advancement}}
+\subsubsection{Through an Advancement}\label{through-an-advancement}}
 
 All playbooks also have the option to gain an anchor as one of their
 Tier 1 unlimited advancements. This will list a maximum number of
@@ -5806,7 +5868,7 @@ This is a good way to regain some ground if you are close to the edge,
 but can't bring you back to as fully grounded as you started out.
 
 \hypertarget{non-player-character-mages}{%
-\subsubsection{Non Player Character
+\subsection{Non Player Character
 Mages}\label{non-player-character-mages}}
 
 In this world, Mages have anchors. MCs should be sure to think about
@@ -5815,7 +5877,7 @@ will likely hit an NPC extremely hard, much like NPCs often only take 1
 or 2 harm before going down for the count.
 
 \hypertarget{inspirations}{%
-\subsection{Inspirations}\label{inspirations}}
+\section{Inspirations}\label{inspirations}}
 
 The counterpart to Anchors, Inspirations are what bring a Mage their
 power, or tempt them to cross the line to being something other than
@@ -5834,7 +5896,7 @@ really open their eyes, thinking about how perfect everything will be
 then.)
 
 \hypertarget{gaining-inspirations}{%
-\subsubsection{Gaining Inspirations}\label{gaining-inspirations}}
+\subsection{Gaining Inspirations}\label{gaining-inspirations}}
 
 While there are many people, spirits, animals or even items that could
 serve to inspire you, only some of them are actively on your mind at a
@@ -5843,7 +5905,7 @@ your magic in certain special ways, they become an active Inspiration
 for you, lifting you to new heights.
 
 \hypertarget{having-a-moment-of-humanity}{%
-\paragraph{Having a Moment of
+\subsubsection{Having a Moment of
 Humanity}\label{having-a-moment-of-humanity}}
 
 The first way of gaining (or re-gaining) an inspiration is to have a
@@ -5854,7 +5916,8 @@ to greater magical feats, like ``reminds me to think of individuals, not
 just groups'' or ``shows me new forms of magic every time we meet.''
 
 \hypertarget{doing-magic-through-them}{%
-\paragraph{Doing Magic Through Them}\label{doing-magic-through-them}}
+\subsubsection{Doing Magic Through
+Them}\label{doing-magic-through-them}}
 
 The second way of gaining (or re-gaining) an inspiration is to actively
 work your magic through, or in deep collaboration with, them or it. This
@@ -5867,8 +5930,7 @@ maybe a note about how they inspire you to greater magical heights, like
 code.''
 
 \hypertarget{maintaining-inspirations}{%
-\subsubsection{Maintaining
-Inspirations}\label{maintaining-inspirations}}
+\subsection{Maintaining Inspirations}\label{maintaining-inspirations}}
 
 Inspiration is sometimes said to be fleeting. In order to maintain your
 connection with your inspirations, simply do the same thing you might do
@@ -5876,7 +5938,7 @@ to gain one in the first place. If you do so once per session per
 inspiration, they'll continue to inspire you.
 
 \hypertarget{losing-inspirations-and-why-its-not-a-big-deal}{%
-\subsubsection{Losing Inspirations (and why it's not a big
+\subsection{Losing Inspirations (and why it's not a big
 deal)}\label{losing-inspirations-and-why-its-not-a-big-deal}}
 
 Losing an inspiration, more likely just falling out of touch and not
@@ -5887,7 +5949,7 @@ humanity with or done magic through one or more of your inspirations,
 just erase them from your sheet and keep on keeping on.
 
 \hypertarget{non-human-inspirations}{%
-\subsubsection{Non-Human Inspirations}\label{non-human-inspirations}}
+\subsection{Non-Human Inspirations}\label{non-human-inspirations}}
 
 Most Inspirations are other humans, especially the other Mages played at
 the table. But, they're not the only possible source. Magic itself can
@@ -5919,10 +5981,10 @@ feels different from piecing the components together out of pop
 witchcraft, and sometimes a wand chooses a wizard.
 
 \hypertarget{tethered-and-untethered}{%
-\subsection{Tethered and Untethered}\label{tethered-and-untethered}}
+\section{Tethered and Untethered}\label{tethered-and-untethered}}
 
 \hypertarget{being-tethered}{%
-\subsubsection{Being Tethered}\label{being-tethered}}
+\subsection{Being Tethered}\label{being-tethered}}
 
 Being Tethered is a state that all mages find themselves in at the start
 of a game of Consensus. It simply means that you have at least as many
@@ -5932,7 +5994,7 @@ tethered, you can't work your will on reality when you let yourself be
 tethered to reality.
 
 \hypertarget{becoming-untethered}{%
-\subsubsection{Becoming Untethered}\label{becoming-untethered}}
+\subsection{Becoming Untethered}\label{becoming-untethered}}
 
 Once you have more Inspirations than Anchors, you become Untethered, a
 mage truly starting to grasp just how far their power can reach. More
@@ -5944,7 +6006,7 @@ Untethered, you go back to being Tethered, but you keep any advancements
 you may have gained while Untethered.
 
 \hypertarget{untethered-advancements}{%
-\subsubsection{Untethered Advancements}\label{untethered-advancements}}
+\subsection{Untethered Advancements}\label{untethered-advancements}}
 
 The top tier of advancements are only available while your PC is
 Untethered. These advancements are often more powerful than others you
@@ -5955,13 +6017,13 @@ want to access your Untethered Advancements immediately, it is time to
 start gaining Inspirations, or shedding Anchors.
 
 \hypertarget{advanced-moves}{%
-\paragraph{Advanced Moves}\label{advanced-moves}}
+\subsubsection{Advanced Moves}\label{advanced-moves}}
 
 Notably, the only way to access your playbook's Advanced Moves is by
 being Untethered, at least for a time.
 
 \hypertarget{basic-move-effects}{%
-\subsubsection{Basic Move Effects}\label{basic-move-effects}}
+\subsection{Basic Move Effects}\label{basic-move-effects}}
 
 Certain moves care if your character is tethered, or how many Anchors or
 Inspirations your character has. Asserting your Paradigm and impressing
@@ -5970,7 +6032,7 @@ the other hand, when you roll to help or hinder another PC, you roll
 +Anchors, even if you are helping or hindering a magical effect.
 
 \hypertarget{losing-a-character}{%
-\subsubsection{Losing a Character}\label{losing-a-character}}
+\subsection{Losing a Character}\label{losing-a-character}}
 
 If you ever find yourself with inspirations totaling more than twice the
 number of anchors you have remaining, that's the moment you've taken a
@@ -5995,10 +6057,10 @@ become.
 \label{Gear and Accoutrements chapter}
 
 \hypertarget{gear-and-accoutrements-1}{%
-\section{Gear and Accoutrements}\label{gear-and-accoutrements-1}}
+\chapter{Gear and Accoutrements}\label{gear-and-accoutrements-1}}
 
 \hypertarget{gear}{%
-\subsection{Gear}\label{gear}}
+\section{Gear}\label{gear}}
 
 Gear covers notable possessions. This is the modern world, so there are
 lots of trivial or common items that don't get mentioned often: You
@@ -6046,7 +6108,7 @@ write it on your playbook under the Gear section. Sometimes this could
 be as simple as telling the MC you'd like to buy something.
 
 \hypertarget{savings}{%
-\subsubsection{Savings}\label{savings}}
+\subsection{Savings}\label{savings}}
 
 Money is hard to deal with. In some games, it makes sense to simply keep
 track of gold coins as they come and go. The modern world is more
@@ -6119,7 +6181,7 @@ diggings holes in your yard until the Consensus sits up and takes
 notice.
 
 \hypertarget{accoutrements}{%
-\subsection{Accoutrements}\label{accoutrements}}
+\section{Accoutrements}\label{accoutrements}}
 
 Some playbooks have extra sections that include how they relate to the
 world. Only fill in these sections if you select or start with the Move
@@ -6129,7 +6191,7 @@ starts with the move Gossamer Threads, and fills out the Cabal section
 of their playbook when making the character.
 
 \hypertarget{places-of-power}{%
-\subsubsection{Places of Power}\label{places-of-power}}
+\subsection{Places of Power}\label{places-of-power}}
 
 Places of power are magically significant sites, and for a PC to have
 access to one is a Big Deal. If you take a move that gives you access to
@@ -6138,7 +6200,7 @@ do Rituals, which allow for much larger effects than normal. Each place
 of power has several sections to fill out.
 
 \hypertarget{facade}{%
-\paragraph{Facade}\label{facade}}
+\subsubsection{Facade}\label{facade}}
 
 This is the appearance that the place takes on, or the structure built
 over and around it. These are both thematic and practical, and the
@@ -6147,7 +6209,7 @@ making the Place of Power. This is also when you will work with the MC
 to determine the location of your Place of Power.
 
 \hypertarget{strengths}{%
-\paragraph{Strengths}\label{strengths}}
+\subsubsection{Strengths}\label{strengths}}
 
 These represent the upsides to the particular place you have chosen.
 Whichever one you choose, make sure to talk a little bit about what that
@@ -6155,7 +6217,7 @@ means to you, so the MC doesn't accidentally circumvent it. (They may of
 course purposely circumvent it when their moves allow them to.)
 
 \hypertarget{weaknesses}{%
-\paragraph{Weaknesses}\label{weaknesses}}
+\subsubsection{Weaknesses}\label{weaknesses}}
 
 These represent the downsides to your place of power. Again, talk a
 little bit about which ones you choose and what they mean to you, and
@@ -6167,7 +6229,7 @@ questions at the weaknesses, to help everyone understand the potential
 risks of that Place of Power.
 
 \hypertarget{ritual-bonus}{%
-\paragraph{Ritual Bonus}\label{ritual-bonus}}
+\subsubsection{Ritual Bonus}\label{ritual-bonus}}
 
 This choice is a bonus to the Ritual move when it is performed at this
 place of power. This really helps solidify the uniqueness of your place
@@ -6176,10 +6238,10 @@ play with a Place of Power move. This limits the potential costs, needs,
 or downsides of doing a ritual here.
 
 \hypertarget{other-accoutrements}{%
-\subsubsection{Other Accoutrements}\label{other-accoutrements}}
+\subsection{Other Accoutrements}\label{other-accoutrements}}
 
 \hypertarget{the-cabalists-cabal}{%
-\paragraph{The Cabalist's Cabal}\label{the-cabalists-cabal}}
+\subsubsection{The Cabalist's Cabal}\label{the-cabalists-cabal}}
 
 The Cabalist has a group of like-minded mages that they work with
 regularly. Though they are represented as a group on your playbook, work
@@ -6191,7 +6253,7 @@ and also tell the MC what kinds of stories and situations you want to
 play out with your cabal, and what kinds you want to avoid.
 
 \hypertarget{example-cabal}{%
-\subparagraph{Example Cabal}\label{example-cabal}}
+\paragraph{Example Cabal}\label{example-cabal}}
 
 The Chi Beta Chi Book Club Secret Society -
 
@@ -6205,7 +6267,7 @@ The frat likes to throw parties and the book club doesn't really know
 the meaning of subtle. Vulnerable: Target
 
 \hypertarget{the-gurus-students}{%
-\paragraph{The Guru's Students}\label{the-gurus-students}}
+\subsubsection{The Guru's Students}\label{the-gurus-students}}
 
 The Guru has a group of mundane students that they're teaching. Each
 session they progress towards their want or their surplus or both. When
@@ -6216,7 +6278,7 @@ player characters. While they often act together as a group, they also
 act as individuals with their own personalities.
 
 \hypertarget{example-students}{%
-\subparagraph{Example Students}\label{example-students}}
+\paragraph{Example Students}\label{example-students}}
 
 Shady Grove Middle School Go Club -
 
@@ -6232,7 +6294,7 @@ The students are quick studies, always trying out new things and
 adapting strategies on the fly. (+1 learning)
 
 \hypertarget{the-inspireds-source}{%
-\paragraph{The Inspired's Source}\label{the-inspireds-source}}
+\subsubsection{The Inspired's Source}\label{the-inspireds-source}}
 
 The Inspired's source is a reliable Inspiration for them, when they can
 get it. It has a form that describes it, one positive tag, and two
@@ -6242,7 +6304,7 @@ interacting with your Source, and the MC can use the negative tags to
 affect you (or your ability to access your source.)
 
 \hypertarget{example-sources}{%
-\subparagraph{Example Sources}\label{example-sources}}
+\paragraph{Example Sources}\label{example-sources}}
 
 Muse - A person, +sense, +quick, +chaotic
 
@@ -6264,7 +6326,7 @@ An ornately carved statue with sharp edges - An object, +social,
 Terror - An emotion, +social, +forbidden, +dangerous
 
 \hypertarget{tags}{%
-\subsubsection{Tags}\label{tags}}
+\subsection{Tags}\label{tags}}
 
 Tags are narrative flags applied to some accoutrements. They are one or
 two words written with a + in front to make them stand out. When you are
@@ -6287,7 +6349,7 @@ describe what has changed to make this true.
 \newpage
 
 \hypertarget{improvement-1}{%
-\section{Improvement}\label{improvement-1}}
+\chapter{Improvement}\label{improvement-1}}
 
 Characters grow and change through the course of a story. Mages are no
 different. They learn new types of magic, get stronger, and sometimes
@@ -6299,7 +6361,7 @@ these changes can be made at any time that they make sense during a
 session.
 
 \hypertarget{gaining-experience}{%
-\subsection{Gaining Experience}\label{gaining-experience}}
+\section{Gaining Experience}\label{gaining-experience}}
 
 Experience is a measure of how your character grows and learns over
 time. In Consensus, ``marking experience'' refers to filling in a bubble
@@ -6319,7 +6381,7 @@ Here are most common ways to mark experience, which reflect how
 Consensus is encouraging you to play the game.
 
 \hypertarget{flags-1}{%
-\subsubsection{Flags}\label{flags-1}}
+\subsection{Flags}\label{flags-1}}
 
 Every character in play should have a Flag. When you hit a Flag for a
 character that you haven't hit before, mark experience. This will give
@@ -6330,7 +6392,7 @@ players how you would like to see your character interacted with, and
 offer them a little experience in return if they do it.
 
 \hypertarget{asserting-your-paradigm}{%
-\subsubsection{Asserting Your Paradigm}\label{asserting-your-paradigm}}
+\subsection{Asserting Your Paradigm}\label{asserting-your-paradigm}}
 
 If someone Asserts their Paradigm over you, and rolls a success, one of
 the things they can spend their Hold to do is cause you to mark
@@ -6340,7 +6402,7 @@ I'll let you mark experience.'' In-game, this represents your character
 seeing something in their assertion, and maybe learning from it.
 
 \hypertarget{an-anchor-is-put-in-danger}{%
-\subsubsection{An Anchor is put in
+\subsection{An Anchor is put in
 Danger}\label{an-anchor-is-put-in-danger}}
 
 When one of your Anchors is put in danger, mark experience right away.
@@ -6351,7 +6413,7 @@ just reminds you of the precious and fleeting nature of things, it adds
 to your experience.
 
 \hypertarget{at-end-of-session}{%
-\subsubsection{At End of Session}\label{at-end-of-session}}
+\subsection{At End of Session}\label{at-end-of-session}}
 
 At the end of every session, a move triggers to resolve dangling
 threads, but also asks the table a set of questions. If anyone answers
@@ -6369,7 +6431,7 @@ as it could. You may want to talk about the tone of game you want to
 play in, and change the end of session move to better fit that.
 
 \hypertarget{playbook-moves}{%
-\subsubsection{Playbook Moves}\label{playbook-moves}}
+\subsection{Playbook Moves}\label{playbook-moves}}
 
 Various playbook moves involve marking experience, or allowing others to
 mark experience. It's a good idea to note these to the table, so they
@@ -6377,7 +6439,7 @@ can understand what your motivations are, and know what you are offering
 them.
 
 \hypertarget{choosing-advancements}{%
-\subsection{Choosing Advancements}\label{choosing-advancements}}
+\section{Choosing Advancements}\label{choosing-advancements}}
 
 When you reach 5 experience, erase all bubbles and choose an advancement
 from a tier that you have access to. Each playbook has their own set of
@@ -6396,7 +6458,7 @@ Attempting to min-max your character advancements can be disappointing
 in this game.
 
 \hypertarget{tier-1-advancements}{%
-\subsubsection{Tier 1 Advancements}\label{tier-1-advancements}}
+\subsection{Tier 1 Advancements}\label{tier-1-advancements}}
 
 Tier 1 Advancements are accessible to all characters without
 restriction, these are your playbook's base level advancements. Some of
@@ -6405,14 +6467,14 @@ playbooks, and can only be accessed when the criteria for choosing
 Untethered Advancements are met.
 
 \hypertarget{gain-1-in-a-stat}{%
-\paragraph{Gain +1 in a Stat}\label{gain-1-in-a-stat}}
+\subsubsection{Gain +1 in a Stat}\label{gain-1-in-a-stat}}
 
 This advancement adds +1 to one of your stats, up to a maximum listed on
 your playbook. If your stat is already at this maximum, taking the
 improvement will confer no benefit on your character.
 
 \hypertarget{pick-a-new-option-for-a-playbook-specific-accoutrement}{%
-\paragraph{Pick a new option for a playbook specific
+\subsubsection{Pick a new option for a playbook specific
 accoutrement}\label{pick-a-new-option-for-a-playbook-specific-accoutrement}}
 
 This advancement will specify a new option for one of your playbook
@@ -6421,7 +6483,7 @@ group of NPCs that your character has influence over. You can choose a
 negative modifier unless otherwise specified.
 
 \hypertarget{gain-a-new-move-from-your-playbook}{%
-\paragraph{Gain a new move from your
+\subsubsection{Gain a new move from your
 playbook}\label{gain-a-new-move-from-your-playbook}}
 
 This advancement lets you pick another move from your current playbook,
@@ -6437,7 +6499,7 @@ they don't even realize they can do, and the first time the move
 triggers will be a surprise to them?
 
 \hypertarget{gain-a-move-from-another-playbook}{%
-\paragraph{Gain a move from another
+\subsubsection{Gain a move from another
 playbook}\label{gain-a-move-from-another-playbook}}
 
 This advancement lets you pick a new move from a different playbook than
@@ -6449,7 +6511,7 @@ Playbook moves are one of the big ways that characters in Consensus are
 unique, so try not to pick a move that another character already has.
 
 \hypertarget{remove-a-restriction-from-your-paradigm}{%
-\subsection{Remove a Restriction from your
+\section{Remove a Restriction from your
 Paradigm}\label{remove-a-restriction-from-your-paradigm}}
 
 Restrictions may be added to your character's paradigm by the MC during
@@ -6462,7 +6524,7 @@ restriction. It doesn't need to be big and momentus for them, but it
 very well might be.
 
 \hypertarget{special-give-a-freedom-to-another-mages-paradigm}{%
-\paragraph{(Special) Give a Freedom to another Mage's
+\subsubsection{(Special) Give a Freedom to another Mage's
 Paradigm}\label{special-give-a-freedom-to-another-mages-paradigm}}
 
 This special advancement, noted by an asterisk on your playbook, can be
@@ -6479,7 +6541,7 @@ You Ask Me, Clarity of Purpose, or Strong Avatar have been recently
 triggered.
 
 \hypertarget{special-gain-an-anchor}{%
-\paragraph{(Special) Gain an Anchor}\label{special-gain-an-anchor}}
+\subsubsection{(Special) Gain an Anchor}\label{special-gain-an-anchor}}
 
 This special advancement, noted by an asterisk on your playbook, can be
 taken any number of times. You may gain a new anchor, in a category that
@@ -6492,14 +6554,14 @@ with a little more information about the Anchor and your relationship to
 it for the MC.
 
 \hypertarget{tier-2-advancements}{%
-\subsubsection{Tier 2 Advancements}\label{tier-2-advancements}}
+\subsection{Tier 2 Advancements}\label{tier-2-advancements}}
 
 Tier 2 Advancements are unlocked only after you have taken five Tier 1
 Advancements. These represent large changes to the character, and do not
 make sense for a brand new character to take.
 
 \hypertarget{retire-to-safety}{%
-\paragraph{Retire to safety}\label{retire-to-safety}}
+\subsubsection{Retire to safety}\label{retire-to-safety}}
 
 If you choose this, your character stops being playable. They have
 decided to opt for a simpler, safer life, at least for the time being.
@@ -6517,7 +6579,7 @@ If you are still playing in the campaign when you choose this, and don't
 have any other characters, make a new character to join in.
 
 \hypertarget{switch-playbooks}{%
-\paragraph{Switch playbooks}\label{switch-playbooks}}
+\subsubsection{Switch playbooks}\label{switch-playbooks}}
 
 This represents a more profound change to the way your character
 approaches the world than simply gaining a new move. Maybe your Wayfarer
@@ -6546,7 +6608,8 @@ talk about it if some things make sense to transfer over, and you also
 want some of the gear the new playbook offers.
 
 \hypertarget{start-a-second-character}{%
-\paragraph{Start a second character}\label{start-a-second-character}}
+\subsubsection{Start a second
+character}\label{start-a-second-character}}
 
 You can also start an entirely new character, to play alongside your old
 one. They are wholly independent beings, who just happen to have the
@@ -6573,8 +6636,7 @@ related to them from advancing, so do make sure that they get their
 moments in the spotlight as appropriate.
 
 \hypertarget{untethered-advancements-1}{%
-\subsubsection{Untethered
-Advancements}\label{untethered-advancements-1}}
+\subsection{Untethered Advancements}\label{untethered-advancements-1}}
 
 Some very powerful advancements are only available to Mages who have
 left behind a certain amount of attachment to the mundane world, or are
@@ -6586,7 +6648,7 @@ advancements gained while Untethered. Advanced Moves for each playbook
 are under this tier, and are some of the most powerful moves available.
 
 \hypertarget{becoming-untethered-inspirations-and-anchors}{%
-\paragraph{Becoming Untethered: Inspirations and
+\subsubsection{Becoming Untethered: Inspirations and
 Anchors}\label{becoming-untethered-inspirations-and-anchors}}
 
 A character becomes Untethered when they have more Inspirations than
@@ -6601,7 +6663,7 @@ is the careful balancing act Mages must do in order to access their most
 powerful advancements.
 
 \hypertarget{special-remove-a-restriction-from-your-paradigm}{%
-\paragraph{(Special) Remove a Restriction from your
+\subsubsection{(Special) Remove a Restriction from your
 Paradigm}\label{special-remove-a-restriction-from-your-paradigm}}
 
 This is the same advancement as the one-time advancement from Tier 1,
@@ -6611,7 +6673,7 @@ while Untethered.
 \label{Advanced Moves}
 
 \hypertarget{advanced-moves-1}{%
-\subsubsection{Advanced Moves}\label{advanced-moves-1}}
+\subsection{Advanced Moves}\label{advanced-moves-1}}
 
 Advanced moves for each of the playbooks can be found below. These moves
 often change the nature of the game or the world significantly, and with
@@ -6620,7 +6682,7 @@ likely the culmination of your character's goals, abilities, or
 research, so consider very carefully what move fits them best.
 
 \hypertarget{consensus-shifting}{%
-\paragraph{Consensus Shifting}\label{consensus-shifting}}
+\subsubsection{Consensus Shifting}\label{consensus-shifting}}
 
 If you have an Advanced Move that lets you attempt to shift the
 Consensus, you start a Consensus Shift Status Track. If this status
@@ -6638,17 +6700,17 @@ Consensus Shift Status Track next time your Consensus Shifting move
 triggers.
 
 \hypertarget{cabalist-advanced-moves}{%
-\paragraph{Cabalist Advanced Moves}\label{cabalist-advanced-moves}}
+\subsubsection{Cabalist Advanced Moves}\label{cabalist-advanced-moves}}
 
 \hypertarget{strength-of-the-circle}{%
-\subparagraph{Strength of the Circle}\label{strength-of-the-circle}}
+\paragraph{Strength of the Circle}\label{strength-of-the-circle}}
 
 Once per session, when you would gain any amount of discord, your cabal
 intercepts the discord and spreads it among the members, effectively
 diluting it enough to dissipate it.
 
 \hypertarget{cult}{%
-\subparagraph{Cult}\label{cult}}
+\paragraph{Cult}\label{cult}}
 
 Your cabal follows you fanatically. Add the following option to Gossamer
 Threads, and always choose +1 option when you roll that move, even on a
@@ -6661,17 +6723,17 @@ miss.
 \end{itemize}
 
 \hypertarget{group-research}{%
-\subparagraph{Group research}\label{group-research}}
+\paragraph{Group research}\label{group-research}}
 
 When your cabal helps you Research, on a 12+, hold 2. Use this hold 1
 for 1 to introduce a previously unknown fact or weakness about the topic
 of your research at any time.
 
 \hypertarget{guru-advanced-moves}{%
-\paragraph{Guru Advanced Moves}\label{guru-advanced-moves}}
+\subsubsection{Guru Advanced Moves}\label{guru-advanced-moves}}
 
 \hypertarget{nekkhamma}{%
-\subparagraph{Nekkhamma}\label{nekkhamma}}
+\paragraph{Nekkhamma}\label{nekkhamma}}
 
 Once per session, when you lose an anchor, treat the roll as a 10+, no
 matter what it is. Mark an additional XP. When you lose your last
@@ -6679,38 +6741,39 @@ anchor, you immediately gain one final anchor of "My Love for
 Humanity``, continue playing as normal.
 
 \hypertarget{diamond-body}{%
-\subparagraph{Diamond Body}\label{diamond-body}}
+\paragraph{Diamond Body}\label{diamond-body}}
 
 Any time you take Harm, reduce it by 1 (to a minimum of 0)
 
 \hypertarget{mass-awakening}{%
-\subparagraph{Mass Awakening}\label{mass-awakening}}
+\paragraph{Mass Awakening}\label{mass-awakening}}
 
 All of your students are awakened, change playbooks to Cabalists.
 
 \hypertarget{hedge-mage-advanced-moves}{%
-\paragraph{Hedge Mage Advanced Moves}\label{hedge-mage-advanced-moves}}
+\subsubsection{Hedge Mage Advanced
+Moves}\label{hedge-mage-advanced-moves}}
 
 \hypertarget{familiar}{%
-\subparagraph{Familiar}\label{familiar}}
+\paragraph{Familiar}\label{familiar}}
 
 You may take a magical being or object as an anchor. You may only ever
 have one magical anchor at a time. Your magical anchor may also be an
 Inspiration.
 
 \hypertarget{universal-understanding}{%
-\subparagraph{Universal Understanding}\label{universal-understanding}}
+\paragraph{Universal Understanding}\label{universal-understanding}}
 
 Remove an Opposed Aspect from your Paradigm
 
 \hypertarget{true-summoning}{%
-\subparagraph{True Summoning}\label{true-summoning}}
+\paragraph{True Summoning}\label{true-summoning}}
 
 Call Through Shadow can now work on magical objects and beings, as well
 as specific objects and beings.
 
 \hypertarget{push-the-consensus}{%
-\subparagraph{Push the Consensus}\label{push-the-consensus}}
+\paragraph{Push the Consensus}\label{push-the-consensus}}
 
 When you take this move, you may note a small but arcane shift you are
 attempting to make in the Consensus. Start a Consensus Shift Status
@@ -6733,10 +6796,10 @@ the Consensus Shift status track. On a 7-9, choose 1:
 On a 6-, that was certainly rending magic! The GM makes a hard move
 
 \hypertarget{inspired-advanced-moves}{%
-\paragraph{Inspired Advanced Moves}\label{inspired-advanced-moves}}
+\subsubsection{Inspired Advanced Moves}\label{inspired-advanced-moves}}
 
 \hypertarget{with-a-little-help-from-my-friends}{%
-\subparagraph{With a Little Help From My
+\paragraph{With a Little Help From My
 Friends}\label{with-a-little-help-from-my-friends}}
 
 When you roll a 10+ on the Backlash move, bring someone with you. They
@@ -6744,12 +6807,12 @@ see and experience what you do, but retain their understanding and
 awareness of reality
 
 \hypertarget{mind-wide-open}{%
-\subparagraph{Mind Wide Open}\label{mind-wide-open}}
+\paragraph{Mind Wide Open}\label{mind-wide-open}}
 
 Add this to Open Their Mind: On a 12+, they Awaken.
 
 \hypertarget{hidden-in-plain-sight}{%
-\subparagraph{Hidden in Plain Sight}\label{hidden-in-plain-sight}}
+\paragraph{Hidden in Plain Sight}\label{hidden-in-plain-sight}}
 
 At the beginning of the session, roll +Within. On a 10+ hold 3, on a 7-9
 hold 2, on a miss hold 1. Spend a hold to negate one of the negative
@@ -6758,7 +6821,7 @@ tags aren't interfering for whatever reason, or it could be because of
 something you did, magical or mundane. Narrate as appropriate.)
 
 \hypertarget{terror-and-wonder}{%
-\subparagraph{Terror and Wonder}\label{terror-and-wonder}}
+\paragraph{Terror and Wonder}\label{terror-and-wonder}}
 
 When you take this move, you may note one moderate shift (on par with a
 major technological breakthrough), or two tiny shifts you are attempting
@@ -6782,23 +6845,23 @@ On a 6-, you are sucked into a Reality Bubble, and your Grip On Reality
 status track starts having hit Code 30.
 
 \hypertarget{pious}{%
-\paragraph{Pious}\label{pious}}
+\subsubsection{Pious}\label{pious}}
 
 \hypertarget{awakener}{%
-\subparagraph{Awakener}\label{awakener}}
+\paragraph{Awakener}\label{awakener}}
 
 When you perform rending magic in front of a non-magical witness, you
 may add another option to the list: They awaken. You may only choose
 this option if you don't chose ``You don't cause collateral damage.''
 
 \hypertarget{humanist}{%
-\subparagraph{Humanist}\label{humanist}}
+\paragraph{Humanist}\label{humanist}}
 
 When you show someone the value of humanity, they may immediately gain
 an anchor. They may go above their starting number of Anchors for this.
 
 \hypertarget{secret-keeper}{%
-\subparagraph{Secret Keeper}\label{secret-keeper}}
+\paragraph{Secret Keeper}\label{secret-keeper}}
 
 When you and another character \textbf{exchange a moment of humanity} in
 addition to any other effects, you immediately learn one secret about
@@ -6810,21 +6873,22 @@ for 1 to have them suffer 0 harm * Transfer all of their Discord to you,
 Transfer all of their Harm to you, Nothing
 
 \hypertarget{primordial-advanced-moves}{%
-\paragraph{Primordial Advanced Moves}\label{primordial-advanced-moves}}
+\subsubsection{Primordial Advanced
+Moves}\label{primordial-advanced-moves}}
 
 \hypertarget{one-with-everything}{%
-\subparagraph{One With Everything}\label{one-with-everything}}
+\paragraph{One With Everything}\label{one-with-everything}}
 
 Remove an Opposed Aspect from your Paradigm
 
 \hypertarget{iron-will}{%
-\subparagraph{Iron Will}\label{iron-will}}
+\paragraph{Iron Will}\label{iron-will}}
 
 Once per session when you Put Willpower Behind Changing It, you may
 choose none of the options.
 
 \hypertarget{fountain-of-power}{%
-\subparagraph{Fountain of Power}\label{fountain-of-power}}
+\paragraph{Fountain of Power}\label{fountain-of-power}}
 
 When you are at a place of power, you may do magic within your Paradigm
 but beyond your normal abilities (without expending a magical resource).
@@ -6832,10 +6896,11 @@ In addition, you are aware of the magic stores within the place of
 power.
 
 \hypertarget{tech-adept-advanced-moves}{%
-\paragraph{Tech Adept Advanced Moves}\label{tech-adept-advanced-moves}}
+\subsubsection{Tech Adept Advanced
+Moves}\label{tech-adept-advanced-moves}}
 
 \hypertarget{publish-or-perish}{%
-\subparagraph{Publish Or Perish}\label{publish-or-perish}}
+\paragraph{Publish Or Perish}\label{publish-or-perish}}
 
 When you take this move, you may note a small but substantial shift you
 are attempting to make in the Consensus. Start a Consensus Shift status
@@ -6855,19 +6920,19 @@ track, but choose 1:
 On a miss, the GM will advance the Consensus Front and make a move.
 
 \hypertarget{reality-2.0}{%
-\subparagraph{Reality 2.0}\label{reality-2.0}}
+\paragraph{Reality 2.0}\label{reality-2.0}}
 
 Remove an Opposed Aspect from your Paradigm
 
 \hypertarget{perfected-blueprints}{%
-\subparagraph{Perfected Blueprints}\label{perfected-blueprints}}
+\paragraph{Perfected Blueprints}\label{perfected-blueprints}}
 
 Add the following to Universal Programmer: On a 12+ you can make
 additional copies of it without rolling, as long as you have the time
 and materials.
 
 \hypertarget{detailed-analysis}{%
-\subparagraph{Detailed Analysis}\label{detailed-analysis}}
+\paragraph{Detailed Analysis}\label{detailed-analysis}}
 
 When you roll Things Speak, always ask 1 additional question. In
 addition, add these questions to the list of possible questions:
@@ -6882,17 +6947,17 @@ addition, add these questions to the list of possible questions:
 \end{itemize}
 
 \hypertarget{voiced-advanced-moves}{%
-\paragraph{Voiced Advanced Moves}\label{voiced-advanced-moves}}
+\subsubsection{Voiced Advanced Moves}\label{voiced-advanced-moves}}
 
 \hypertarget{renown}{%
-\subparagraph{Renown}\label{renown}}
+\paragraph{Renown}\label{renown}}
 
 You are powerful, connected, or otherwise a Big Deal. You yourself count
 as a significant or powerful group for the purposes of Power Vested in
 Me.
 
 \hypertarget{storyteller}{%
-\subparagraph{Storyteller}\label{storyteller}}
+\paragraph{Storyteller}\label{storyteller}}
 
 When you tell a group of non-magical people a compelling story about a
 seemingly magical feat that someone else has performed, start a
@@ -6905,7 +6970,7 @@ Consensus Front. On a 12+, additionally, advance the relevant Consensus
 Shift Status Track.
 
 \hypertarget{heart-of-the-storm}{%
-\subparagraph{Heart of the Storm}\label{heart-of-the-storm}}
+\paragraph{Heart of the Storm}\label{heart-of-the-storm}}
 
 Choose one large-reaching effect that you specialize in. (Examples
 include: Conjuring storms, Creating Golems, Miraculous Healing). For
@@ -6914,10 +6979,10 @@ witnessed casting this by a Witness, rather than if it affects a
 Witness.
 
 \hypertarget{wayfarer-advanced-moves}{%
-\paragraph{Wayfarer Advanced Moves}\label{wayfarer-advanced-moves}}
+\subsubsection{Wayfarer Advanced Moves}\label{wayfarer-advanced-moves}}
 
 \hypertarget{demiplane}{%
-\subparagraph{Demiplane}\label{demiplane}}
+\paragraph{Demiplane}\label{demiplane}}
 
 You gain a place of power that isn't entirely of this world. It is
 afforded more protection and power than a standard place of power.
@@ -6982,13 +7047,13 @@ It will also never:
 \end{itemize}
 
 \hypertarget{find-the-path}{%
-\subparagraph{Find the Path}\label{find-the-path}}
+\paragraph{Find the Path}\label{find-the-path}}
 
 When you seek the path to a place that you can imagine, the MC will tell
 you how to get there.
 
 \hypertarget{exile}{%
-\subparagraph{Exile}\label{exile}}
+\paragraph{Exile}\label{exile}}
 
 Add this option to Assert your Paradigm and Impress a lusus naturae: On
 a 12+, you may instead choose to exile your target from one of: - their
@@ -6997,7 +7062,7 @@ return. This cannot target another player's character without the
 player's consent.
 
 \hypertarget{custom-moves}{%
-\subsection{Custom Moves}\label{custom-moves}}
+\section{Custom Moves}\label{custom-moves}}
 
 Sometimes, it will become clear that something your character does is
 iconic or frequent enough that it's worth codifying. The table can
@@ -7023,7 +7088,7 @@ Don't use this to copy other playbooks' moves, especially moves that are
 already possessed by other characters at the table.
 
 \hypertarget{fictional-positioning}{%
-\subsection{Fictional Positioning}\label{fictional-positioning}}
+\section{Fictional Positioning}\label{fictional-positioning}}
 
 Finally, characters advance within the context of the story. A character
 gets some money and buys a new car, and now has a reliable means of
@@ -7042,7 +7107,7 @@ beyond your abilities.
 \newpage
 
 \hypertarget{forces-2}{%
-\section{Forces}\label{forces-2}}
+\chapter{Forces}\label{forces-2}}
 
 Forces are one of the main organizational structures used in MCing
 Consensus. They give you a way to keep track of what powers are in the
@@ -7070,7 +7135,7 @@ active enemies of each other, but even very positive Forces in the world
 can find themselves pushing in different directions.
 
 \hypertarget{parts-of-a-force}{%
-\subsection{Parts of a Force}\label{parts-of-a-force}}
+\section{Parts of a Force}\label{parts-of-a-force}}
 
 Forces are tracked on the Force Sheets, so that you can easily reference
 them while playing. They should put the information you need front and
@@ -7085,7 +7150,7 @@ Pirates!'' is a lot better than ``What Comes from the Mists'', even if
 it's more trite.
 
 \hypertarget{stressor}{%
-\subsubsection{Stressor}\label{stressor}}
+\subsection{Stressor}\label{stressor}}
 
 Each Force is based on a Stressor, which itself comes from key aspects
 of one or more characters. A Stressor is a feeling or outlook which is
@@ -7118,7 +7183,7 @@ The available Stressors are:
 \end{itemize}
 
 \hypertarget{type}{%
-\subsubsection{Type}\label{type}}
+\subsection{Type}\label{type}}
 
 Each force falls into a broad category of types. Each type has a
 subtype, which gives an impulse, which describes its Code N outcome.
@@ -7142,7 +7207,7 @@ The available types are:
 \end{itemize}
 
 \hypertarget{force-moves}{%
-\subsubsection{Force Moves}\label{force-moves}}
+\subsection{Force Moves}\label{force-moves}}
 
 Every Force has up to three moves associated with it, chosen from a list
 given by its Stressor. These moves are available to you at all times,
@@ -7160,7 +7225,7 @@ move from a Force not currently in play, and let that direct what they
 are doing and so what the characters need to react to.
 
 \hypertarget{cast}{%
-\subsubsection{Cast}\label{cast}}
+\subsection{Cast}\label{cast}}
 
 Here is where you can list NPCs who are connected with this Force. This
 does not have to mean that they are a part of the organization it
@@ -7176,7 +7241,7 @@ of description, when you need to help make a Force feel alive and
 active.
 
 \hypertarget{force-status-tracks-countdown}{%
-\subsubsection{Force Status Tracks
+\subsection{Force Status Tracks
 (Countdown)}\label{force-status-tracks-countdown}}
 
 Part of Forces being an active part of the fiction is that if they are
@@ -7203,7 +7268,7 @@ the effect clear and visible. They are not meant to sneak up on the
 other players.
 
 \hypertarget{code-n-outcome}{%
-\subsubsection{Code N Outcome}\label{code-n-outcome}}
+\subsection{Code N Outcome}\label{code-n-outcome}}
 
 When a Force reaches Code N, it means a material, irrevocable chance has
 occurred in the fiction. The Force has achieved their current goal, or
@@ -7225,7 +7290,7 @@ nothing more to be done with it. See the section below on removing a
 Force.
 
 \hypertarget{the-three-questions-1}{%
-\subsection{The Three Questions}\label{the-three-questions-1}}
+\section{The Three Questions}\label{the-three-questions-1}}
 
 During character creation, each player will answer 3 questions about
 their character, roughly corresponding to past, present, and future.
@@ -7234,7 +7299,7 @@ make sure you take some time with each player to explore these questions
 during the first session.
 
 \hypertarget{why-was-your-humanity-trivialized}{%
-\subsubsection{Why was your humanity
+\subsection{Why was your humanity
 trivialized?}\label{why-was-your-humanity-trivialized}}
 
 People who live perfect lives never quite find the need to reach out
@@ -7248,7 +7313,7 @@ these moments caused by pleasant interaction. The answer to this
 question will tell you about the Mage's past circumstances.
 
 \hypertarget{why-is-your-humanity-still-in-question}{%
-\subsubsection{Why is your humanity still in
+\subsection{Why is your humanity still in
 question?}\label{why-is-your-humanity-still-in-question}}
 
 Despite how it may seem, expanding your consciousness to include the
@@ -7260,7 +7325,7 @@ things that magic just can't completely solve for you. That doesn't mean
 that they won't try.
 
 \hypertarget{why-are-you-hunted}{%
-\subsubsection{Why are you hunted?}\label{why-are-you-hunted}}
+\subsection{Why are you hunted?}\label{why-are-you-hunted}}
 
 There's an old adage that everyone is either running to something or
 running from something. That may not hold true for everyone, but there
@@ -7272,7 +7337,7 @@ to the weird like intentionally needling dangerous people because you
 find it fun to be hunted.
 
 \hypertarget{stressors}{%
-\subsection{Stressors}\label{stressors}}
+\section{Stressors}\label{stressors}}
 
 During the first session, as you explore the three questions, you will
 find a main stressor that motivates the scene, write them down. After
@@ -7283,61 +7348,61 @@ sure they can express any stressors or themes they do not want to
 explore for any reason. Here are the stressors that might come up.
 
 \hypertarget{control}{%
-\subsubsection{Control}\label{control}}
+\subsection{Control}\label{control}}
 
 Is someone trying to manipulate, gain power over, or otherwise control
 someone else?
 
 \hypertarget{fear}{%
-\subsubsection{Fear}\label{fear}}
+\subsection{Fear}\label{fear}}
 
 Is someone afraid of a threat, real or imagined, or is someone acting
 out of fear?
 
 \hypertarget{guilt}{%
-\subsubsection{Guilt}\label{guilt}}
+\subsection{Guilt}\label{guilt}}
 
 Is someone primarily motivated by an internal guilt, either for
 something they did or something they are or were?
 
 \hypertarget{anger}{%
-\subsubsection{Anger}\label{anger}}
+\subsection{Anger}\label{anger}}
 
 Is someone angry, either the hot rage that threatens to boil over, or
 the cold anger that motivates them to seek vengeance?
 
 \hypertarget{distrust}{%
-\subsubsection{Distrust}\label{distrust}}
+\subsection{Distrust}\label{distrust}}
 
 Is someone mistrustful of others, maybe strangers or even friends? This
 can be justified or imagined, distrust breeds distrust.
 
 \hypertarget{extremism}{%
-\subsubsection{Extremism}\label{extremism}}
+\subsection{Extremism}\label{extremism}}
 
 Has someone taken a nominally acceptable opinion and gone so far with it
 that they are causing harm to others?
 
 \hypertarget{isolation}{%
-\subsubsection{Isolation}\label{isolation}}
+\subsection{Isolation}\label{isolation}}
 
 Is someone or is a group isolating themselves or being forcibly
 isolated?
 
 \hypertarget{envy}{%
-\subsubsection{Envy}\label{envy}}
+\subsection{Envy}\label{envy}}
 
 Is someone feeling a deep desire for something that someone else has,
 like an object, relationship, or knowledge?
 
 \hypertarget{obsession}{%
-\subsubsection{Obsession}\label{obsession}}
+\subsection{Obsession}\label{obsession}}
 
 Is someone preoccupied or engrossed with a person, object, action or etc
 to the degree that it is intrusive?
 
 \hypertarget{types}{%
-\subsection{Types}\label{types}}
+\section{Types}\label{types}}
 
 Sometimes you'll know right away what a Force is going to be, either
 because of an answer that a player gave to your leading question, or
@@ -7346,35 +7411,35 @@ have a stressor to start with, so Types will help you narrow down the
 Force and really understand what it is. Here's a list of the types.
 
 \hypertarget{organization}{%
-\subsubsection{Organization}\label{organization}}
+\subsection{Organization}\label{organization}}
 
 A group with some amount of power, tradition, and goals.
 
 \hypertarget{outsider}{%
-\subsubsection{Outsider}\label{outsider}}
+\subsection{Outsider}\label{outsider}}
 
 An entity or group of entities that aren't part of the normal
 mundane/human world, or are otherwise outside of the norms of the
 setting.
 
 \hypertarget{aspirant}{%
-\subsubsection{Aspirant}\label{aspirant}}
+\subsection{Aspirant}\label{aspirant}}
 
 A person or small group with great ambition and the will to see it
 through.
 
 \hypertarget{place-of-power-4}{%
-\subsubsection{Place of Power}\label{place-of-power-4}}
+\subsection{Place of Power}\label{place-of-power-4}}
 
 A magical or significant place that can pull at the threads of reality.
 
 \hypertarget{artifact}{%
-\subsubsection{Artifact}\label{artifact}}
+\subsection{Artifact}\label{artifact}}
 
 A magical or powerful item that may warp reality around it.
 
 \hypertarget{as-above-so-below-as-within-so-without}{%
-\subsection{As Above So Below, As Within So
+\section{As Above So Below, As Within So
 Without}\label{as-above-so-below-as-within-so-without}}
 
 The three questions become stressors. Stressors will then become Forces.
@@ -7386,7 +7451,7 @@ that came up during the first session, and make sure to include any
 interesting ones in your Forces.
 
 \hypertarget{how-to-make-a-force-out-of-a-stressor}{%
-\subsection{How to Make a Force out of A
+\section{How to Make a Force out of A
 Stressor}\label{how-to-make-a-force-out-of-a-stressor}}
 
 Step one:
@@ -7571,7 +7636,7 @@ If you have used up each Stressor from your initial list, you're done!
 Otherwise, return to step 1
 
 \hypertarget{special-forces}{%
-\subsection{Special Forces}\label{special-forces}}
+\section{Special Forces}\label{special-forces}}
 
 There are two other types of Forces for the MC to keep track of, and
 they represent other crucial parts of the world. They also have fewer
@@ -7585,7 +7650,7 @@ the local Consensus, and is almost always in control of one of the other
 Forces.
 
 \hypertarget{the-internal-forces}{%
-\subsubsection{The Internal Forces}\label{the-internal-forces}}
+\subsection{The Internal Forces}\label{the-internal-forces}}
 
 The Internal Forces sheet has space for cast and a status track with no
 labels. This track advances just like any others, when interacting with
@@ -7596,7 +7661,7 @@ be a Big Deal to at least one of the player characters. Which one will
 depend entirely on the fiction at the time.
 
 \hypertarget{the-consensus-force}{%
-\subsubsection{The Consensus Force}\label{the-consensus-force}}
+\subsection{The Consensus Force}\label{the-consensus-force}}
 
 The Consensus Force sheet has space for the Force(s) currently in
 control, a status track, and a space for listing the Consensus Shift
@@ -7606,7 +7671,7 @@ entirely seasonal. It could also be a larger change, such as believing
 that long pointy ears are entirely normal for humans.
 
 \hypertarget{revealing-retiring-and-adapting-forces}{%
-\subsection{Revealing, Retiring, and Adapting
+\section{Revealing, Retiring, and Adapting
 Forces}\label{revealing-retiring-and-adapting-forces}}
 
 Consensus' rules give you an initial set of Forces that should be tied

@@ -5,7 +5,7 @@
 \usepackage[english]{babel}
 \usepackage{tgtermes}
 \usepackage{hyperref}
-
+\usepackage{titlesec}
 %\usepackage{mathpazo}
 \usepackage[protrusion=true]{microtype}
 %\usepackage{type1cm}
@@ -15,6 +15,12 @@
 
 $if(mainfont)$
 \setmainfont []{$mainfont$}
+$endif$
+
+$if(chapterfont)$
+\newfontfamily\chapterfont[]{$chapterfont$}
+\titleformat{\chapter}[display]
+  {\huge\chapterfont}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 $endif$
 
 % See the ``Memoir customise'' template for some common customisations
