@@ -11,7 +11,7 @@ python: consensus.md
 	python movesbreakout.py
 
 consensus.pdf: consensus.md
-	$(PANDOC) "consensus.md" -f markdown -t latex -s -o "consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
+	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --template=font-template
 
 consensus.html: consensus.md
 	$(PANDOC) "consensus.md" -f markdown -t html -s -o "consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
