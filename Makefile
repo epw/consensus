@@ -6,15 +6,23 @@ ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf pr
 
 all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf consensus.pdf consensus.html
 
+books: consensus_print.pdf consensus_print_dyslexic.pdf consensus_screen.pdf consensus_screen_dyslexic.pdf
+
 python: consensus.md
 	python playbookbreakout.py
 	python movesbreakout.py
 
 consensus_print.pdf: consensus.md
-	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus_print.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter
+	$(PANDOC) --pdf-engine=xelatex consensus.md print.yaml -f markdown -s -o "consensus_print.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter
+
+consensus_print_dyslexic.pdf: consensus.md
+	$(PANDOC) --pdf-engine=xelatex consensus.md print_d.yaml -f markdown -s -o "consensus_print_dyslexic.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter
 
 consensus_screen.pdf: consensus.md
-	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus_screen.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter -V classoption=oneside
+	$(PANDOC) --pdf-engine=xelatex consensus.md screen.yaml -f markdown -s -o "consensus_screen.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
+
+consensus_screen_dyslexic.pdf: consensus.md
+	$(PANDOC) --pdf-engine=xelatex consensus.md screen_d.yaml -f markdown -s -o "consensus_screen_dyslexic.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
 
 consensus.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc
