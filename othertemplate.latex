@@ -11,7 +11,11 @@
 %\usepackage{type1cm}
 %\usepackage{lettrine}
 
-%\checkandfixthelayout
+%\checkandfixthelayout$if(mainfont)\setmainfont [Path = fonts/,
+  UprightFont = $mainfont$_Rg.ttf,
+  BoldFont = $mainfont$.ttf,
+  ItalicFont = $mainfont$.ttf
+]{$mainfont$}$endif$
 
 % See the ``Memoir customise'' template for some common customisations
 % Don't forget to read the Memoir manual: memman.pdf
