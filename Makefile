@@ -6,7 +6,7 @@ ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf pr
 
 all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf consensus.pdf consensus.html
 
-books: consensus_print.pdf consensus_print_dyslexic.pdf consensus_screen.pdf consensus_screen_dyslexic.pdf
+books: consensus_print.pdf consensus_print_dyslexic.pdf consensus_screen.pdf consensus_screen_hc.pdf consensus_screen_dyslexic.pdf consensus_screen_dyslexic_hc.pdf
 
 python: consensus.md
 	python playbookbreakout.py
@@ -21,8 +21,14 @@ consensus_print_dyslexic.pdf: consensus.md
 consensus_screen.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex consensus.md screen.yaml -f markdown -s -o "consensus_screen.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
 
+consensus_screen_hc.pdf: consensus.md
+	$(PANDOC) --pdf-engine=xelatex consensus.md screen_hc.yaml -f markdown -s -o "consensus_screen_hc.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
+
 consensus_screen_dyslexic.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex consensus.md screen_d.yaml -f markdown -s -o "consensus_screen_dyslexic.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
+
+consensus_screen_dyslexic_hc.pdf: consensus.md
+	$(PANDOC) --pdf-engine=xelatex consensus.md screen_d_hc.yaml -f markdown -s -o "consensus_screen_dyslexic_hc.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
 
 consensus.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc

@@ -1,5 +1,5 @@
 ---
-title: 'Consensus'
+title: 'CONSENSUS'
 author:
 - Angela Bouvier-Wood
 - Eric Willisson

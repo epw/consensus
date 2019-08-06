@@ -31,23 +31,36 @@ $endfor$
 \usepackage{titlesec}
 %\usepackage{mathpazo}
 \usepackage[protrusion=true]{microtype}
+\usepackage{xcolor}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
 
 %\checkandfixthelayout
 
 $if(mainfont)$
-\setmainfont []{$mainfont$}
+\setmainfont [
+$if(highcontrast)$
+Color=FFFFFE
+$endif$
+]{$mainfont$}
 $endif$
 
 $if(chapterfont)$
-\newfontfamily\chapterfont[]{$chapterfont$}
+\newfontfamily\chapterfont[
+$if(highcontrast)$
+Color=FFFFFE
+$endif$
+]{$chapterfont$}
 \titleformat{\chapter}[display]
   {\huge\chapterfont}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 $endif$
 
 % See the ``Memoir customise'' template for some common customisations
 % Don't forget to read the Memoir manual: memman.pdf
+
+$if(highcontrast)$
+\pagecolor{darkgray}
+$endif$
 
 \title{$title$}
 $if(author)$
