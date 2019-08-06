@@ -14,7 +14,7 @@ consensus_print.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus_print.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter
 
 consensus_screen.pdf: consensus.md
-	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus_screen.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter -V classoption=oneside
+	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus_screen.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter -V classoption=oneside
 
 consensus.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc
