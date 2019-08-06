@@ -11,7 +11,7 @@
 %\usepackage{type1cm}
 %\usepackage{lettrine}
 
-%\checkandfixthelayout$if(mainfont)\setmainfont [Path = fonts/,
+%\checkandfixthelayout$if(mainfont)$\setmainfont [Path = fonts/,
   UprightFont = $mainfont$_Rg.ttf,
   BoldFont = $mainfont$.ttf,
   ItalicFont = $mainfont$.ttf
