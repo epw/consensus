@@ -1,10 +1,8 @@
 ---
-mainfont: Aller_Rg.ttf
-mainfontoptions: 
-- BoldFont=Aller_Bd.ttf
-- ItalicFont=Aller_It.ttf
-- BoldItalicFont=Aller_BdIt.ttf- TitleFont=Kingthings_Printingkit.ttf
----# In The Beginning
+mainfont: Aller
+---
+
+# In The Beginning
 
 ## Consensus
 
