@@ -22,7 +22,9 @@ $endif$
 % Don't forget to read the Memoir manual: memman.pdf
 
 \title{$title$}
-\author{$author$}
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
 \date{} % Delete this line to display the current date
 
 %% BEGIN TITLE
@@ -46,7 +48,7 @@ $endif$
   }
 \makeatother
 $if(author)$
-\author{$author$}
+\author{$for(author)$$author$$sep$ \and $endfor$}
 $endif$
 \title{$title$}
 \date{}
