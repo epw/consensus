@@ -2,7 +2,6 @@
 mainfont: Aller
 ---
 
-
 # In The Beginning
 
 ## Consensus
