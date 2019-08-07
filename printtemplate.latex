@@ -30,7 +30,8 @@ $endfor$
 \usepackage{titlesec}
 %\usepackage{mathpazo}
 \usepackage[protrusion=true]{microtype}
-\usepackage{indentfirst}
+%\usepackage{indentfirst}
+\usepackage{xcolor}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
 
@@ -45,6 +46,8 @@ $if(chapterfont)$
 \titleformat{\chapter}[display]
   {\huge\chapterfont}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 $endif$
+
+\setlength{\parskip}{1ex}
 
 % See the ``Memoir customise'' template for some common customisations
 % Don't forget to read the Memoir manual: memman.pdf

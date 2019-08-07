@@ -8,3 +8,5 @@ for new page, type \newpage on its own line, with one blank line above and one b
 
 for links, type {{linkThe Text You Want to Link}}, this will link in html, and append (page xx) in pdf
 for anchors, type {{anchorThe Same Text From Your Link}}, on its own line, with one blank line above and one below, this will be invisible in both views (For some reason this appears to fail in windows Notepad++, but work when the space is added in ubuntu textedit)
+
+for removing paragraph indenting for a block, type \setlength{\parindent}{0em} on its own line with one blank line above and one below. Type \setlength{\parindent}{1em} on its own line with one blank line above and one below, to return it to its normal value after the block.

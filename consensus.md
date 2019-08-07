@@ -107,6 +107,8 @@ Maybe you’ve felt like you realized something about the world, and you’ve be
 
 \newpage
 
+\setlength{\parindent}{0em}
+
 # The Characters
 
 ## The Cabalist
@@ -1195,6 +1197,8 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Get an Advanced Wayfarer Move
 
 \newpage
+
+\setlength{\parindent}{1em}
 
 # The Moves
 
