@@ -56,6 +56,8 @@ $endif$
   {\huge\chapterfont}{\chaptertitlename\ \thechapter}{20pt}{\Huge}
 $endif$
 
+\setlength{\parskip}{1ex}
+
 % See the ``Memoir customise'' template for some common customisations
 % Don't forget to read the Memoir manual: memman.pdf
 

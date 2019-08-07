@@ -1,5 +1,5 @@
 ---
-mainfont: Aller
+mainfont: 'Fira Sans'
 chapterfont: 'Kingthings Printingkit'
 classoption: oneside
 highcontrast: True
