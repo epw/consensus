@@ -87,7 +87,8 @@ $endif$
 \title{$title$}
 \date{}
 
-
+\makeevenfoot{plain}{\thepage}{}{}
+\makeoddfoot{plain}{}{}{\thepage}
 
 
 
