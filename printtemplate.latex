@@ -30,6 +30,7 @@ $endfor$
 \usepackage{titlesec}
 %\usepackage{mathpazo}
 \usepackage[protrusion=true]{microtype}
+\usepackage{indentfirst}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
 
@@ -135,6 +136,7 @@ ALL RIGHTS RESERVED OR COPYRIGHT LICENSE LANGUAGE
 \let\cleardoublepage\clearpage
 
 \mainmatter
+\pagestyle{ruled}
 
 $if(toc)$
 $if(toc-title)$
@@ -148,6 +150,8 @@ $endif$
 \tableofcontents
 }
 $endif$
+
+
 
 $body$
 

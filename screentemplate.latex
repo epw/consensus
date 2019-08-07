@@ -31,6 +31,7 @@ $endfor$
 \usepackage{titlesec}
 %\usepackage{mathpazo}
 \usepackage[protrusion=true]{microtype}
+\usepackage{indentfirst}
 \usepackage{xcolor}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
