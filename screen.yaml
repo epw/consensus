@@ -1,5 +1,7 @@
 ---
 mainfont: 'Fira Sans'
 chapterfont: 'Kingthings Printingkit'
-classoption: oneside
+classoption: 
+- oneside
+- statementpaper
 ---

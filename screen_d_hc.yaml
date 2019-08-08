@@ -1,6 +1,8 @@
 ---
 mainfont: OpenDyslexic3
 chapterfont: OpenDyslexic3
-classoption: oneside
 highcontrast: True
+classoption: 
+- oneside
+- statementpaper
 ---

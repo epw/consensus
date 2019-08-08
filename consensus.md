@@ -2772,7 +2772,7 @@ Some very powerful advancements are only available to Mages who have left behind
 
 A character becomes Untethered when they have more Inspirations than they do Anchors. This can happen by gaining a new inspiration or by losing an Anchor. (Sometimes both may happen at once, but this is likely a rare occurrence.) They remain Untethered while this remains true. However, if a character at any point has at least twice as many Inspirations as they do Anchors, that character becomes Lost and is no longer a playable character (See [Losing a Character](AnchorsandInspirationsLosingACharacter)). This is the careful balancing act Mages must do in order to access their most powerful advancements.
 
-#### (Special) Remove a Restriction from your Paradigm
+##### (Special) Remove a Restriction from your Paradigm
 
 This is the same advancement as the one-time advancement from Tier 1, but as it is notated with an asterisk, can be taken any number of times while Untethered.
 
