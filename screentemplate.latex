@@ -20,6 +20,7 @@ $endif$
 $for(classoption)$
   $classoption$$sep$,
 $endfor$
+statementpaper
 ]{memoir}
 
 %\usepackage{createspace}
