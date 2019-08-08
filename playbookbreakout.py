@@ -1,5 +1,6 @@
 import jinja2
-import osimport sys
+import os
+import sys
 from jinja2 import Template
 import io
 latex_jinja_env = jinja2.Environment(
@@ -208,8 +209,11 @@ def playbookdata(name):
 			if '_' in p.paradigms[num_of_paradigms]['name']:
 				linelist = p.paradigms[num_of_paradigms]['name'].split('_')
 				p.paradigms[num_of_paradigms]['name'] = linelist[0] + '\\textit{' + linelist[1] + '}' + linelist[2]
-		elif line.startswith('**Aligned'):			if '(choose one)' in line:
-				p.paradigms[num_of_paradigms]['aligned'] = line[26:-1]			else:				p.paradigms[num_of_paradigms]['aligned'] = line[13:-1]				
+		elif line.startswith('**Aligned'):
+			if '(choose one)' in line:
+				p.paradigms[num_of_paradigms]['aligned'] = line[26:-1]
+			else:
+				p.paradigms[num_of_paradigms]['aligned'] = line[13:-1]				
 		elif line.startswith('**Opposed'):
 			p.paradigms[num_of_paradigms]['opp1'] = line[13:-1]
 		elif not line == '\n':
@@ -385,8 +389,26 @@ def playbookdata(name):
 		
 if __name__ == "__main__":
 	get_data()
-	playbooknames = ['The Cabalist', 'The Mentor', 'The Hedge Mage', 'The Inspired', 'The Pious', 'The Primordial', 'The Tech Adept', 'The Voiced', 'The Wayfarer', '___']
-	iterations = 0	runs = -1	for pb in playbooknames:		runs += 1		if len(sys.argv) == 1:			print ("No Args")			break		input = sys.argv[1]		input = input.strip('.tex')		converted = pb.lower()		converted = converted.replace(' ', '_')		if input in converted:			print ("Arg accepted")			start =  playbooknames[runs]			end = playbooknames[runs+1]			playbookdata([start, end])
+	playbooknames = ['The Cabalist', 'The Hedge Mage', 'The Inspired', 'The Mentor', 'The Pious', 'The Primordial', 'The Tech Adept', 'The Voiced', 'The Wayfarer', '___']
+	iterations = 0
+
+	runs = -1
+	for pb in playbooknames:
+		runs += 1
+		if len(sys.argv) == 1:
+			print ("No Args")
+			break
+		input = sys.argv[1]
+		input = input.strip('.tex')
+		converted = pb.lower()
+		converted = converted.replace(' ', '_')
+		if input in converted:
+			print ("Arg accepted")
+			start =  playbooknames[runs]
+			end = playbooknames[runs+1]
+
+
+			playbookdata([start, end])
 			filename = start[4:].replace(' ', '_')
 			filename = filename.lower()
 			template = latex_jinja_env.get_template(filename + '-template.tex')
@@ -401,7 +423,9 @@ if __name__ == "__main__":
 
 			output = template.render(name = playbook.name, description= playbook.description, names = playbook.names[10:], question1 = playbook.question1, question2 = playbook.question2, question3 = playbook.question3, eyes = playbook.eyes, faces = playbook.faces, clothes = playbook.clothes, presentation = playbook.presentation, bodies = playbook.bodies, auras = playbook.auras, homeanchors = playbook.anchors['home'], connectionanchors = playbook.anchors['connection'], memoryanchors = playbook.anchors['memories'], gear = playbook.gear, basicadvancements = playbook.advancements['basic'], specialadvancements = playbook.advancements['special'],	defaultmove = defaultmove, othermoves = othermoves, specialmove = playbook.specialmove, paradigms = playbook.paradigms, special = playbook.special, place_of_power = playbook.place_of_power)
 			with io.open(filename + '.tex', 'w+', encoding='utf-8') as f:
-				f.write(output)		"""
+				f.write(output)	
+
+	"""
 	for i in range(len(playbooknames)-1):
 	
 		playbookdata([playbooknames[i], playbooknames[i+1]])
@@ -419,4 +443,5 @@ if __name__ == "__main__":
 		filename = filename.lower()
 		output = template.render(name = playbook.name, description= playbook.description, names = playbook.names[10:], question1 = playbook.question1, question2 = playbook.question2, question3 = playbook.question3, eyes = playbook.eyes, faces = playbook.faces, clothes = playbook.clothes, presentation = playbook.presentation, bodies = playbook.bodies, auras = playbook.auras, homeanchors = playbook.anchors['home'], connectionanchors = playbook.anchors['connection'], memoryanchors = playbook.anchors['memories'], gear = playbook.gear, basicadvancements = playbook.advancements['basic'], specialadvancements = playbook.advancements['special'],	defaultmove = defaultmove, othermoves = othermoves, specialmove = playbook.specialmove, paradigms = playbook.paradigms, special = playbook.special, place_of_power = playbook.place_of_power)
 		with io.open(filename + '.tex', 'w+', encoding='utf-8') as f:
-			f.write(output)		"""
+			f.write(output)	
+	"""

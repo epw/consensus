@@ -20,9 +20,11 @@ $endif$
 $for(classoption)$
   $classoption$$sep$,
 $endfor$
+statementpaper
 ]{memoir}
 %\usepackage{createspace}
 %\usepackage[size=pocket,noicc]{createspace}
+%\usepackage[paperwidth=6in, paperheight=9in]{geometry}
 \usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{tgtermes}

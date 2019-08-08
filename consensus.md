@@ -252,150 +252,6 @@ A Ritual performed here will never (choose 1):
 
 \newpage
 
-## The Mentor
-
-The secrets of the Universe are yours, but you don't guard them jealously. You share the wisdom with the precious few who will listen, taking on pupils who will one day surpass you.
-
-**Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Sena
-
-**Why was your humanity trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
-**Why is your humanity still in question?** Because I see things as they really are, because I make my own path, because people started noticing me  
-**Why are you hunted?** Because I'm famous, for my forbidden knowledge, so my students are not
-
-**Looks:**
-
-- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
-- shining eyes, sunken eyes, alert eyes, glowing eyes
-- weathered face, gaunt face, wrinkled face, caring face, creased face
-- wiry body, ripped body, lanky body
-- street clothes, flowing clothes, concealing clothes
-- menacing aura, peaceful aura, green aura, golden aura, fading aura, grounded aura, rippling aura
-
-### Paradigms
-
-#### Your Focus Determines Your Reality
-**Aligned:** (choose one) Calming Magic, Projecting Power, Perfect Positioning  
-**Opposed:** (choose one) Breaking cycles, External effects  
-(choose one) Technomagic, Magic while distracted
-
-#### I am the Platonic Ideal of Myself
-**Aligned:** (choose one) Static Magic, Convergence, Reflexive Magic  
-**Opposed:** (choose one) Fragmenting magic, creation  
-(choose one) Cynical magic, magic without my whole self
-
-### Moves
-
-The Mentor gets the **Pupils** move, and 2 other moves of your choice.
-
-**Pupils:** (You have this move by default) You have a number of students who follow your paradgimatic teachings. At the beginning of the session, roll +learning to determine how their studies are progressing. On a 10+ they have a surplus. On a 7-9, both a surplus and a want. On a 6-, they will do everything in their power to satisfy all their wants.
-
-**Meditation:** When you meditate on the best course of action for considerable time, roll +Dynamic. On a 10+ hold 3, on a 7-9 hold 1. You may spend this hold 1-for-1 at any time to ask the MC a question from this list, the MC will answer truthfully.  
-You take +1 forward when acting on this information.
-
-- What's my escape route?
-- What are the unknowable risks?
-- Where can the Consensus be bent in my favor?
-- Who is favorable towards my plan?
-
-**Academe:** You have a Place of Power where you train your students. While you are within your Place of Power, take +1 forward to any Static rolls you make.
-
-**Matter over Mind:** You may roll +Static instead of +Without when impressing a lusus naturae in order to sway them.
-
-**What you Need, not what you Want:** When another character comes to you for advice and you tell them honestly what you think the best course of action is, they take +1 ongoing while following your advice, and you mark experience.
-
-You also have this move:
-
-When you and another character **exchange a moment of humanity**, they may immediately gain an Anchor (They still may not have more anchors than their playbook started with this way).
-
-### Stats
-Arrange +2, +1, +0, +0, -1
-
-### Anchors
-
-Humans need shelter, a place to live, and a home to come back to. My **Shelter Anchor** is: (pick one) The apartment I share with a few roommates; My small but immaculate house downtown; A single room at the back of my place of work
-
-Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) My best friend Ayah; Devon, my oldest rival; Zorrah, my forbidden love
-
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) A portrait of my own long-dead mentor; The gold necklace given to me by ______; A coal to remind me of ______
-
-### Starting Gear
-
-No major possessions to speak of, but 3 Savings tucked away for a rainy day.
-
-### Your Students
-
-By default you have about 10 students, they are moderately studious sleepers and they respect you, though they're not fully loyal. They have their own lives apart from you, family and friends in the area. (learning +1. surplus: time. want:
-departure.)
-
-Pick up to two of these:
-
-- Your students are competitive (replace want: departure with want: competition)
-- Your students are driven (replace surplus: time with surplus: dedication)
-- Your students are enthusiastic (replace surplus: time with surplus: energy)
-- Your students are lazy (replace want: departure with want: sloth)
-
-And one of these:
-
-- Your school is famous (add surplus: growth and want: infamy)
-- Your school is large (default students 20)
-- Your students are quick learners (+1 learning)
-- You have a protege; your most advanced student is Awakened
-- Your students are rowdy (add want: violence and surplus: intimidation)
-
-### Place of Power
-
-You have this if you take the Academe move.
-
-First, pick a facade:
-
-- Dojo
-- Dance Studio
-- Abandoned warehouse
-- Stunt filming location
-- Lecture hall
-
-Then pick up to 1 Strength: +hidden, +famous, +easily defended,
-+inconspicuous, +free
-
-Pick at least 1 Weakness: +cramped, +dangerous, +temporary,
-+infamous, +weak
-
-A Ritual performed here will never (choose 1):
-
-- Need help from an outside source
-- Take longer than expected
-- Have greater than intended effec
-
-### Advancements
-
-- Gain +1 Body (Maximum Body +3)
-- Gain +1 Grace (Maximum Grace +3)
-- Gain +1 Will (Maximum Will +2)
-- Gain +1 Wits (Maximum Wits +2)
-- Get a new Mentor move
-- Remove a Restriction from your Paradigm
-- (*) Give a Freedom to another Mage’s Paradigm
-- (*) Gain an Anchor (3 Anchors max)
-
-(Choose only after 5 from the first section)
-
-- Retire to safety
-- Switch playbooks
-- Start a second character
-
-(Choose only after 5 from the first section and if not Tethered)
-
-- (*) Remove a Restriction from your Paradigm
-- Get a new Mentor move
-- Choose a new option for your Students
-- Choose a new option for your Students
-- Choose a new option for your Place of Power
-- Get a playbook move from another book
-- Get a playbook move from another book
-- Get an Advanced Mentor Move
-
-\newpage
-
 ## The Hedge Mage
 
 "Once Upon a Time, Humans could move mountains with their will. Now, it is upon us to carry on the ancient traditions, and master as many types of magic as we can."
@@ -631,6 +487,151 @@ And choose two of these:
 - Gain +1 Charm (max Charm +3)
 - Gain +1 Grace (max Grace +3)
 - Get an Advanced Inspired Move
+
+\newpage
+
+## The Mentor
+
+The secrets of the Universe are yours, but you don't guard them jealously. You share the wisdom with the precious few who will listen, taking on pupils who will one day surpass you.
+
+**Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Sena
+
+**Why was your humanity trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
+**Why is your humanity still in question?** Because I see things as they really are, because I make my own path, because people started noticing me  
+**Why are you hunted?** Because I'm famous, for my forbidden knowledge, so my students are not
+
+**Looks:**
+
+- (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
+- shining eyes, sunken eyes, alert eyes, glowing eyes
+- weathered face, gaunt face, wrinkled face, caring face, creased face
+- wiry body, ripped body, lanky body
+- street clothes, flowing clothes, concealing clothes
+- menacing aura, peaceful aura, green aura, golden aura, fading aura, grounded aura, rippling aura
+
+### Paradigms
+
+#### Your Focus Determines Your Reality
+**Aligned:** (choose one) Calming Magic, Projecting Power, Perfect Positioning  
+**Opposed:** (choose one) Breaking cycles, External effects  
+(choose one) Technomagic, Magic while distracted
+
+#### I am the Platonic Ideal of Myself
+**Aligned:** (choose one) Static Magic, Convergence, Reflexive Magic  
+**Opposed:** (choose one) Fragmenting magic, creation  
+(choose one) Cynical magic, magic without my whole self
+
+### Moves
+
+The Mentor gets the **Pupils** move, and 2 other moves of your choice.
+
+**Pupils:** (You have this move by default) You have a number of students who follow your paradgimatic teachings. At the beginning of the session, roll +learning to determine how their studies are progressing. On a 10+ they have a surplus. On a 7-9, both a surplus and a want. On a 6-, they will do everything in their power to satisfy all their wants.
+
+**Meditation:** When you meditate on the best course of action for considerable time, roll +Dynamic. On a 10+ hold 3, on a 7-9 hold 1. You may spend this hold 1-for-1 at any time to ask the MC a question from this list, the MC will answer truthfully.  
+You take +1 forward when acting on this information.
+
+- What's my escape route?
+- What are the unknowable risks?
+- Where can the Consensus be bent in my favor?
+- Who is favorable towards my plan?
+
+**Academe:** You have a Place of Power where you train your students. While you are within your Place of Power, take +1 forward to any Static rolls you make.
+
+**Matter over Mind:** You may roll +Static instead of +Without when impressing a lusus naturae in order to sway them.
+
+**What you Need, not what you Want:** When another character comes to you for advice and you tell them honestly what you think the best course of action is, they take +1 ongoing while following your advice, and you mark experience.
+
+You also have this move:
+
+When you and another character **exchange a moment of humanity**, they may immediately gain an Anchor (They still may not have more anchors than their playbook started with this way).
+
+### Stats
+Arrange +2, +1, +0, +0, -1
+
+### Anchors
+
+Humans need shelter, a place to live, and a home to come back to. My **Shelter Anchor** is: (pick one) The apartment I share with a few roommates; My small but immaculate house downtown; A single room at the back of my place of work
+
+Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) My best friend Ayah; Devon, my oldest rival; Zorrah, my forbidden love
+
+Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) A portrait of my own long-dead mentor; The gold necklace given to me by ______; A coal to remind me of ______
+
+### Starting Gear
+
+No major possessions to speak of, but 3 Savings tucked away for a rainy day.
+
+### Your Students
+
+By default you have about 10 students, they are moderately studious sleepers and they respect you, though they're not fully loyal. They have their own lives apart from you, family and friends in the area. (learning +1. surplus: time. want:
+departure.)
+
+Pick up to two of these:
+
+- Your students are competitive (replace want: departure with want: competition)
+- Your students are driven (replace surplus: time with surplus: dedication)
+- Your students are enthusiastic (replace surplus: time with surplus: energy)
+- Your students are lazy (replace want: departure with want: sloth)
+
+And one of these:
+
+- Your school is famous (add surplus: growth and want: infamy)
+- Your school is large (default students 20)
+- Your students are quick learners (+1 learning)
+- You have a protege; your most advanced student is Awakened
+- Your students are rowdy (add want: violence and surplus: intimidation)
+
+### Place of Power
+
+You have this if you take the Academe move.
+
+First, pick a facade:
+
+- Dojo
+- Dance Studio
+- Abandoned warehouse
+- Stunt filming location
+- Lecture hall
+
+Then pick up to 1 Strength: +hidden, +famous, +easily defended,
++inconspicuous, +free
+
+Pick at least 1 Weakness: +cramped, +dangerous, +temporary,
++infamous, +weak
+
+A Ritual performed here will never (choose 1):
+
+- Need help from an outside source
+- Take longer than expected
+- Have greater than intended effec
+
+### Advancements
+
+- Gain +1 Body (Maximum Body +3)
+- Gain +1 Grace (Maximum Grace +3)
+- Gain +1 Will (Maximum Will +2)
+- Gain +1 Wits (Maximum Wits +2)
+- Get a new Mentor move
+- Remove a Restriction from your Paradigm
+- (*) Give a Freedom to another Mage’s Paradigm
+- (*) Gain an Anchor (3 Anchors max)
+
+(Choose only after 5 from the first section)
+
+- Retire to safety
+- Switch playbooks
+- Start a second character
+
+(Choose only after 5 from the first section and if not Tethered)
+
+- (*) Remove a Restriction from your Paradigm
+- Get a new Mentor move
+- Choose a new option for your Students
+- Choose a new option for your Students
+- Choose a new option for your Place of Power
+- Get a playbook move from another book
+- Get a playbook move from another book
+- Get an Advanced Mentor Move
+
 
 \newpage
 
@@ -1916,7 +1917,7 @@ Make the playbooks available, laying them all on the table or handing some out t
 
 **The Cabalist** has a group of mages with a similar paradigm to their own, that they may or may not be the leader of. If you want to be part of a group, or have other mages to work with regularly, play a cabalist. Warning: A lot of your power is in your cabal, and that means lots of drama trying to wrangle them.
 
-**The Guru **is a teacher for a group of non-magical students. If you want to be explicitly in charge of a group of sleepers, you want to play a guru. Warning: This playbook is quite reactive until you get to Advanced moves. You may be bored if you don’t make your way there eventually.
+**The Mentor** is a teacher for a group of non-magical students. If you want to be explicitly in charge of a group of sleepers, you want to play a mentor. Warning: This playbook is quite reactive until you get to Advanced moves. You may be bored if you don’t make your way there eventually.
 
 **The Hedge Mage** is flexible in their magic, they have a lot of options, and feel the most like a classic wizard. Warning: The Hedge Mage is eclectic and doesn’t have a specific focus or niche, and it can be hard to know exactly what to be doing at any given moment.
 
@@ -2457,7 +2458,7 @@ Your starting Anchors are not the only ones you can ever have. It is possible to
 
 A few moves allow an Anchor to be gained. Work with the MC, and originator of the move if not you, to determine who or what the new Anchor is, and how you come to realize what they mean to you.
 
-If you exchange a moment of humanity with a Guru, you may immediately gain an Anchor. They are highly grounded as it is, and this rubs off on you. You cannot gain more Anchors than you started with in this way, however. There is only so much you can be connected to.
+If you exchange a moment of humanity with a Mentor, you may immediately gain an Anchor. They are highly grounded as it is, and this rubs off on you. You cannot gain more Anchors than you started with in this way, however. There is only so much you can be connected to.
 
 The Pious’ Advanced Move Humanist lets a Pious show you the value of humanity, and that can affect you strongly enough to immediately gain an Anchor, even going above your starting number. The Pious sees something special in the world.
 
@@ -2625,9 +2626,9 @@ The book club has studied magic and has passed down techniques from Senior to Fr
 
 The frat likes to throw parties and the book club doesn’t really know the meaning of subtle. Vulnerable: Target
 
-#### The Guru’s Students
+#### The Mentor’s Students
 
-The Guru has a group of mundane students that they’re teaching. Each session they progress towards their want or their surplus or both. When they reach a tipping point, the MC will have them either help out in a way related to the surplus, or cause problems by pursuing their want or wants. The students are also individuals, who can be connected to other player characters. While they often act together as a group, they also act as individuals with their own personalities. 
+The Mentor has a group of mundane students that they’re teaching. Each session they progress towards their want or their surplus or both. When they reach a tipping point, the MC will have them either help out in a way related to the surplus, or cause problems by pursuing their want or wants. The students are also individuals, who can be connected to other player characters. While they often act together as a group, they also act as individuals with their own personalities. 
 
 ##### Example Students
 
@@ -2801,7 +2802,7 @@ Your cabal follows you fanatically. Add the following option to Gossamer Threads
 
 When your cabal helps you Research, on a 12+, hold 2. Use this hold 1 for 1 to introduce a previously unknown fact or weakness about the topic of your research at any time.
 
-#### Guru Advanced Moves
+#### Mentor Advanced Moves
 
 ##### Nekkhamma
 
