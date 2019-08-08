@@ -1692,15 +1692,15 @@ A session of Consensus is a self-contained advance of the story. It will build o
 
 Your MC sheet has a list of steps to guide you through the beginning of the session.
 
-**Gather The MC sheet, PC summary sheet, Fronts, Flags, and Foreshadows**
+#### Gather The MC sheet, PC summary sheet, Fronts, Flags, and Foreshadows
 
 These cover all the essential information you need to make sure the table has available.
 
-**Look over and read out Flags, note which ones can be changed**
+#### Look over and read out Flags, note which ones can be changed
 
 Flags are one of the main methods that allow Mages to mark experience, so everyone should be reminded of them and be able to reference them. In addition, Flags which have been hit at least once are available to be changed if the player wishes, so remind them of that.
 
-**Mark one Code off every Foreshadow Status Track**
+#### Mark one Code off every Foreshadow Status Track
 
 Foreshadows have a fairly short lifespan, so that they will be brought up again before they fade out of memory. If you mark off Code N of the Foreshadow, it should come up fairly early in the session.
 
@@ -1708,23 +1708,25 @@ Foreshadows have a fairly short lifespan, so that they will be brought up again 
 [//]: # ()
 [//]: # (If you wrote "love letters", now is the time to have the players read them and trigger their moves, if any. The results shouldn’t move straight into the action, because there is still more session start to perform, but here it will start to become clear what elements will be in play.)
 
-**Mark one Code off every Anchor Status Track**
+#### Mark one Code off every Anchor Status Track
 
 Anchors require maintenance. The Status Tracks advancing represent this.
 
-**Note all slipping Status Tracks**
+#### Note all slipping Status Tracks
 
 Status Tracks which are slipping are very relevant during this session. They should feel like whatever they are connected to is beginning to spiral out of control, or fall out of reach, or come to an inexorable conclusion. Advancing a slipping Status Track is a soft move, so you can do it almost any time it makes sense, and going over them at the start of the session will help you think of it. Write the slipping Status Tracks on your MC sheet.
 
-**Review any effects that last session were decided to be extended into this one**
+#### Review any effects that last session were decided to be extended into this one
 
 Some game effects last "for the rest of the session", but might come up near the end of one. This lets you extend things that seem worth it, like a bonus or penalty that hasn’t come into play yet.
 
-**Perform moves triggered at start of session**
+#### Perform moves triggered at start of session
 
-Remind the players to perform moves on their sheets which are triggered at the start of the session. Much like with love letters, these won’t start the action exactly, even on a 6-, but they do prepare things.
+Remind the players to perform moves on their sheets which are triggered at the start of the session. These won’t start the action exactly, even on a 6-, but they do prepare things.
 
-**Frame a scene and make a soft move**
+[//]: # (Much like with love letters, these won't....)
+
+#### Frame a scene and make a soft move
 
 Now, you have seen all of the pieces you have to work with. Fairly abstractly, there are the Mages with their hopes and desires, and the Forces relevant to their world. More urgently, there are Foreshadows, Anchors, and other Status Tracks that are demanding attention, and you may have already been told to make moves. Now, frame a scene according to the rules below, and open the action with a soft move, to require a response, and you're off.
 
