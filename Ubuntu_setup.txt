@@ -7,3 +7,19 @@ texlive-xetex
 texlive-extra-utils
 git
 pandoc 2.7.3 (from https://github.com/jgm/pandoc/releases/latest)
+python-pip
+
+
+
+
+pip install jinja2
+
+git clone
+
+cd consensus
+
+makedir ~/.fonts
+
+cp -a /fonts/. ~/.fonts
+
+fc-cache -f -v
