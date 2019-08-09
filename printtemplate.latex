@@ -20,7 +20,8 @@ $endif$
 $for(classoption)$
   $classoption$$sep$,
 $endfor$
-statementpaper
+statementpaper,
+9pt
 ]{memoir}
 %\usepackage{createspace}
 %\usepackage[size=pocket,noicc]{createspace}
