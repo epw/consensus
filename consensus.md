@@ -2883,8 +2883,8 @@ When you show someone the value of humanity, they may immediately gain an anchor
 ##### Secret Keeper
 
 When you and another character **exchange a moment of humanity** in addition to any other effects, you immediately learn one secret about that character. Ask their player for a deep secret about the character. When you do, choose one from each line:
-* The secret gets out, The secret is magically sealed, The secret is forgotten by everyone but me
-* Hold 3 as per Assert Your Paradigm, Hold 3 as per Vows, Hold 3 spent 1 for 1 to have them suffer 0 harm
+* The secret gets out, The secret is magically sealed, The secret is forgotten by everyone but me  
+* Hold 3 as per Assert Your Paradigm, Hold 3 as per Vows, Hold 3 spent 1 for 1 to have them suffer 0 harm  
 * Transfer all of their Discord to you, Transfer all of their Harm to you, Nothing
 
 #### Primordial Advanced Moves
