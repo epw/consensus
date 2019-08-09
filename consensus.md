@@ -1903,9 +1903,9 @@ Give every player an index card with a large, clear ‘X’ on it. Explain that 
 
 This ensures that everyone at the table remains in control of what they will be exposed to, without having to figure out and list hard lines ahead of time.
 
-##### [Dial It Up/Down?]
+##### Dial It Up/Dial it Down
 
-[Likely some form of these would be useful]
+*[This is a mechanic for recalibating in the middle of a scene, to help stop them from going too far, and help stop them from not going far enough.]*
 
 ### Magic
 
@@ -3109,7 +3109,7 @@ People who live perfect lives never quite find the need to reach out beyond the 
 
 ### Why is your humanity still in question?
 
-Despite how it may seem, expanding your consciousness to include the ability to alter reality at your whim doesn’t solve all of your problems. From juggling the balance between your mundane job, bills, and relationships with the wonder of the magical world, to much of the same bigotry and discrimination that mundane people experience, there are things that magic just can’t completely solve for you. That doesn’t mean that they won’t try.
+Despite how it may seem, expanding your consciousness to include the ability to alter reality at your whim doesn’t solve all of your problems. From juggling the balance between your mundane job, bills, and relationships with the wonder of the magical world, to much of the same bigotry and discrimination that mundane people experience, there are things that magic just can’t completely solve for you. That doesn’t mean that you won’t try.
 
 ### Why are you hunted?
 
@@ -3165,7 +3165,7 @@ A group with some amount of power, tradition, and goals.
 
 ### Outsider
 
-An entity or group of entities that aren’t part of the normal mundane/human world, or are otherwise outside of the norms of the setting.
+An entity or group of entities that aren’t part of the normal mundane/human world, or are otherwise outside of the norms of the setting. Usually, this means they are lusus naturae.
 
 ### Aspirant
 
@@ -3281,7 +3281,7 @@ Distrust:
 
 Extremism:
 
-• Convert an Ally • Emotional barriers • Respond Disproportionally
+• Convert an Ally • Enforce Emotional barriers • Respond Disproportionally
 
 Isolation:
 
@@ -3296,6 +3296,8 @@ Obsession:
 • Seduce someone • Stalk • Lock something or someone away
 
 Insecurity:
+
+• Overcompensate • Goad Someone into Overreacting • Grind to a Halt • Undermine Someone
 
 Step five:
 
