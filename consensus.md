@@ -1693,7 +1693,7 @@ A session of Consensus is a self-contained advance of the story. It will build o
 
 Your MC sheet has a list of steps to guide you through the beginning of the session.
 
-#### Gather The MC sheet, PC summary sheet, Fronts, Flags, and Foreshadows
+#### Gather The MC sheet, PC summary sheet, Fronts, Flags, and Portents
 
 These cover all the essential information you need to make sure the table has available.
 
@@ -1701,9 +1701,9 @@ These cover all the essential information you need to make sure the table has av
 
 Flags are one of the main methods that allow Mages to mark experience, so everyone should be reminded of them and be able to reference them. In addition, Flags which have been hit at least once are available to be changed if the player wishes, so remind them of that.
 
-#### Mark one Code off every Foreshadow Status Track
+#### Mark one Code off every Portent Status Track
 
-Foreshadows have a fairly short lifespan, so that they will be brought up again before they fade out of memory. If you mark off Code N of the Foreshadow, it should come up fairly early in the session.
+Portents have a fairly short lifespan, so that they will be brought up again before they fade out of memory. If you mark off Code N of the Portent, it should come up fairly early in the session.
 
 [//]: # (**Distribute and resolve ****"love letters"**)
 [//]: # ()
@@ -1729,7 +1729,7 @@ Remind the players to perform moves on their sheets which are triggered at the s
 
 #### Frame a scene and make a soft move
 
-Now, you have seen all of the pieces you have to work with. Fairly abstractly, there are the Mages with their hopes and desires, and the Forces relevant to their world. More urgently, there are Foreshadows, Anchors, and other Status Tracks that are demanding attention, and you may have already been told to make moves. Now, frame a scene according to the rules below, and open the action with a soft move, to require a response, and you're off.
+Now, you have seen all of the pieces you have to work with. Fairly abstractly, there are the Mages with their hopes and desires, and the Forces relevant to their world. More urgently, there are Portents, Anchors, and other Status Tracks that are demanding attention, and you may have already been told to make moves. Now, frame a scene according to the rules below, and open the action with a soft move, to require a response, and you're off.
 
 ### Scene Framing and Spotlight
 
@@ -2055,7 +2055,7 @@ Depending on how much time you have, the number of scenes are variable. However,
 
 ## Ending a Session
 
-At the end of a session, before wrapping up and putting everything away, there’s a few things that you should do as a table. First, you should note down a little bit about where you ended, whether on a cliffhanger or with some resolution, and make sure to write down any lingering Foreshadows that have come up during play. Then, you should proceed through the end of session move, following its instructions. Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
+At the end of a session, before wrapping up and putting everything away, there’s a few things that you should do as a table. First, you should note down a little bit about where you ended, whether on a cliffhanger or with some resolution, and make sure to write down any lingering Portents that have come up during play. Then, you should proceed through the end of session move, following its instructions. Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
 
 ## After the First Session
 
@@ -2069,7 +2069,7 @@ When thinking of Forces, because you need to have interesting things to say, cho
 
 ### Starting a Session
 
-Gather your MC sheet, PC summary sheet, Forces, Flags, and Foreshadows. Read out Flags for all the players’ characters, and note which ones can be changed. Mark one Code off every Foreshadow, and mention them as you do so.
+Gather your MC sheet, PC summary sheet, Forces, Flags, and Portents. Read out Flags for all the players’ characters, and note which ones can be changed. Mark one Code off every Portent, and mention them as you do so.
 
 [//]: # (If you have them, read out and resolve "love letters." [maybe we actually explain them right here?].)
 
@@ -2764,7 +2764,7 @@ You can also start an entirely new character, to play alongside your old one. Th
 
 If you have two, or even three characters, it can be hard to fit everybody in. So, when you are told to do something for all characters at the start of the session, select at least one, who you want to see in play. If you’re sure you will want to see multiple, that’s fine. Later, if another of your characters is going to be in a scene, cover their start of session actions right then: Updating their Flag, mark a code of each of their Anchors’ Status Tracks and determine what they mean, take stock of their slipping Status Tracks, and roll start of session moves. At the end of the session, only characters you played mark experience in response to the questions.
 
-Note that not playing a character doesn’t stop, for example, Foreshadows related to them from advancing, so do make sure that they get their moments in the spotlight as appropriate.
+Note that not playing a character doesn’t stop, for example, Portents related to them from advancing, so do make sure that they get their moments in the spotlight as appropriate.
 
 ### Untethered Advancements
 
