@@ -2530,6 +2530,8 @@ Notably, the only way to access your playbook’s Advanced Moves is by being Unt
 
 Certain moves care if your character is tethered, or how many Anchors or Inspirations your character has. Asserting your Paradigm and impressing non-Mage magical beings are both slightly harder if you are Tethered. On the other hand, when you roll to help or hinder another PC, you roll +Anchors, even if you are helping or hindering a magical effect.
 
+{{anchorLosing a Character}}
+
 ### Losing a Character
 
 If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. 
@@ -2726,7 +2728,7 @@ This advancement lets you pick another move from your current playbook, one of t
 
 This advancement lets you pick a new move from a different playbook than your own. This is as close to "multi-classing" as it is possible to get in Consensus. Try to pick a move from a playbook that isn’t already in play, or if you do have your eye on a move that is in a playbook some other player is playing for one of their characters, talk to them first. Playbook moves are one of the big ways that characters in Consensus are unique, so try not to pick a move that another character already has.
 
-## Remove a Restriction from your Paradigm
+#### Remove a Restriction from your Paradigm
 
 Restrictions may be added to your character’s paradigm by the MC during play. These are limitations on what you can do within your limitations, similar to the Opposed choices you made at character creation. Choosing this advancement is the only way to remove them. This advancement, like most advancements, can only be chosen once, so choose carefully when you decide to use it. Think about how your character overcomes this restriction. It doesn’t need to be big and momentus for them, but it very well might be. 
 
@@ -2770,9 +2772,9 @@ Some very powerful advancements are only available to Mages who have left behind
 
 #### Becoming Untethered: Inspirations and Anchors
 
-A character becomes Untethered when they have more Inspirations than they do Anchors. This can happen by gaining a new inspiration or by losing an Anchor. (Sometimes both may happen at once, but this is likely a rare occurrence.) They remain Untethered while this remains true. However, if a character at any point has at least twice as many Inspirations as they do Anchors, that character becomes Lost and is no longer a playable character (See [Losing a Character](AnchorsandInspirationsLosingACharacter)). This is the careful balancing act Mages must do in order to access their most powerful advancements.
+A character becomes Untethered when they have more Inspirations than they do Anchors. This can happen by gaining a new inspiration or by losing an Anchor. (Sometimes both may happen at once, but this is likely a rare occurrence.) They remain Untethered while this remains true. However, if a character at any point has at least twice as many Inspirations as they do Anchors, that character becomes Lost and is no longer a playable character ({{linkLosing a Character}}). This is the careful balancing act Mages must do in order to access their most powerful advancements.
 
-##### (Special) Remove a Restriction from your Paradigm
+#### (Special) Remove a Restriction from your Paradigm
 
 This is the same advancement as the one-time advancement from Tier 1, but as it is notated with an asterisk, can be taken any number of times while Untethered.
 

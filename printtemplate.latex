@@ -24,7 +24,7 @@ statementpaper
 ]{memoir}
 %\usepackage{createspace}
 %\usepackage[size=pocket,noicc]{createspace}
-%\usepackage[paperwidth=6in, paperheight=9in]{geometry}
+\usepackage[paperwidth=5.5in, paperheight=8.5in]{geometry}
 \usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{tgtermes}
