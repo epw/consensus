@@ -2804,20 +2804,6 @@ Your cabal follows you fanatically. Add the following option to Gossamer Threads
 
 When your cabal helps you Research, on a 12+, hold 2. Use this hold 1 for 1 to introduce a previously unknown fact or weakness about the topic of your research at any time.
 
-#### Mentor Advanced Moves
-
-##### Nekkhamma
-
-Once per session, when you lose an anchor, treat the roll as a 10+, no matter what it is. Mark an additional XP. When you lose your last anchor, you immediately gain one final anchor of "My Love for Humanity“, continue playing as normal.
-
-##### Diamond Body
-
-Any time you take Harm, reduce it by 1 (to a minimum of 0)
-
-##### Mass Awakening
-
-All of your students are awakened, change playbooks to Cabalists.
-
 #### Hedge Mage Advanced Moves
 
 ##### Familiar
@@ -2869,6 +2855,20 @@ When you take this move, you may note one moderate shift (on par with a major te
 * Advance your Consensus Shift Status Track again
 
 On a 6-, you are sucked into a Reality Bubble, and your Grip On Reality status track starts having hit Code 30.
+
+#### Mentor Advanced Moves
+
+##### Nekkhamma
+
+Once per session, when you lose an anchor, treat the roll as a 10+, no matter what it is. Mark an additional XP. When you lose your last anchor, you immediately gain one final anchor of "My Love for Humanity“, continue playing as normal.
+
+##### Diamond Body
+
+Any time you take Harm, reduce it by 1 (to a minimum of 0)
+
+##### Mass Awakening
+
+All of your students are awakened, change playbooks to Cabalists.
 
 #### Pious
 
