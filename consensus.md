@@ -55,10 +55,10 @@ The Outcome: In Consensus, a result of 10 or higher is a full success, the chara
 
 The Stats in Consensus describe things about the character, what they’re good at, and what patterns they might reach for first in order to solve a problem. Stats can be in the range of -1 to +3, and are added to the dice rolls for relevant moves. The specific stats used in Consensus are:
 
-Static: as in unmovable, steady, set in your ways, and conservative.
-Dynamic: as in creative, free-flowing, adaptable, easily moved, and inventive.
-Entropic: as in direct, active, unstoppable, forward, and destructive.
-Within: referring to the internal self, controlled reactions, ability to introspect, and know yourself.
+Static: as in unmovable, steady, set in your ways, and conservative.  
+Dynamic: as in creative, free-flowing, adaptable, easily moved, and inventive.  
+Entropic: as in direct, active, unstoppable, forward, and destructive.  
+Within: referring to the internal self, controlled reactions, ability to introspect, and know yourself.  
 Without: referring to the external world, connections, empathy and understanding.
 
 ## The Life of a Mage
@@ -1032,7 +1032,7 @@ The Voiced gets the **Charming Voice** move, and 2 other moves of your choice.
 
 **Power Vested in Me:** When you **speak as the voice of a significant or powerful group**, and with their full weight and authority, roll +Static. On a 10+ those you are speaking to will take you at your word, on a 7-9, they will need some proof or assurances first.
 
-**Arresting Voice:** When you **use your voice to deliver a message that is both powerful and captivating**, roll +Charm. On a 10+, your audience is frozen, unable to do anything other than to continue listening until you finish. On a 7-9, they are likewise frozen, but you must not take any action other than to continue delivering your message, or the spell will be broken.
+**Arresting Voice:** When you **use your voice to deliver a message that is both powerful and captivating**, roll +Without. On a 10+, your audience is frozen, unable to do anything other than to continue listening until you finish. On a 7-9, they are likewise frozen, but you must not take any action other than to continue delivering your message, or the spell will be broken.
 
 **The Voice of Experience:** When you **have been here before**, give advice on a course of action and roll +Dynamic, -1 if Tethered. On a 7-9, take +1 forward when following the plan. On a 10+, additionally everyone who follows the plan marks experience.
 
