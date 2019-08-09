@@ -3083,7 +3083,7 @@ Here is where you can list NPCs who are connected with this Force. This does not
 
 Note characters down here aggressively. It is very useful to have an established cast to draw on, already with names and maybe a word or two of description, when you need to help make a Force feel alive and active.
 
-### Force Status Tracks (Countdown)
+### Force Status Tracks
 
 Part of Forces being an active part of the fiction is that if they are left unchecked, they will result in some material change to the world around them. In the simplest case, the Force represents a group or individual and the change is something they are actively working towards. However, it can also be a kind of natural outcome of each part of the Force acting, without being concerted effort.
 
