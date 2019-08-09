@@ -224,10 +224,10 @@ A Ritual performed here will never (choose 1):
 
 ### Advancements
 
-- Get +1 Charm (Max Charm +3)
-- Get +1 Grace (Max Grace +2)
-- Get +1 Wits (Max Wits +3)
-- Get +1 Will (Max Will +3)
+- Get +1 Without (Max Without +3)
+- Get +1 Within (Max Within +2)
+- Get +1 Dynamic (Max Dynamic +3)
+- Get +1 Static (Max Static +3)
 - Pick a new option for your Place of Power
 - Pick a new option for your Cabal
 - Remove a Restriction from your Paradigm
@@ -335,9 +335,9 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 ### Advancements
 
-- Gain +1 Charm (max Charm +2)
-- Gain +1 Grace (max Grace +2)
-- Gain +1 Body (max Body +2)
+- Gain +1 Without (max Without +2)
+- Gain +1 Within (max Within +2)
+- Gain +1 Entropy (max Entropy +2)
 - Pick a new Hedge Mage move
 - Pick a playbook move from another playbook
 - Remove a Restriction from your Paradigm
@@ -357,7 +357,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - Pick a new Hedge Mage move
 - Pick a playbook move from another playbook
 - Pick a playbook move from another playbook
-- Gain +1 Wits (max Wits +3)
+- Gain +1 Dynamic (max Dynamic +3)
 - Get an Advanced Hedge Mage Move
 
 \newpage
@@ -465,9 +465,9 @@ And choose two of these:
 
 ### Advancements
 
-- Gain +1 Charm (max Charm +2)
-- Gain +1 Grace (max Grace +2)
-- Gain +1 Body (max Body +2)
+- Gain +1 Without (max Without +2)
+- Gain +1 Within (max Within +2)
+- Gain +1 Entropic (max Entropic +2)
 - Pick a new Inspired move
 - Remove a Restriction from your Paradigm
 - (*) Give a Freedom to another Mage’s Paradigm
@@ -484,8 +484,8 @@ And choose two of these:
 - (*) Remove a Restriction from your Paradigm
 - Pick a new Inspired move
 - Pick a playbook move from another playbook
-- Gain +1 Charm (max Charm +3)
-- Gain +1 Grace (max Grace +3)
+- Gain +1 Without (max Without +3)
+- Gain +1 Within (max Within +3)
 - Get an Advanced Inspired Move
 
 \newpage
@@ -606,10 +606,10 @@ A Ritual performed here will never (choose 1):
 
 ### Advancements
 
-- Gain +1 Body (Maximum Body +3)
-- Gain +1 Grace (Maximum Grace +3)
-- Gain +1 Will (Maximum Will +2)
-- Gain +1 Wits (Maximum Wits +2)
+- Gain +1 Entropic (Maximum Entropic +3)
+- Gain +1 Within (Maximum Within +3)
+- Gain +1 Static (Maximum Static +2)
+- Gain +1 Dynamic (Maximum Dynamic +2)
 - Get a new Mentor move
 - Remove a Restriction from your Paradigm
 - (*) Give a Freedom to another Mage’s Paradigm
@@ -739,10 +739,10 @@ A Ritual performed here will never (choose 1):
 
 ### Advancements
 
-- Gain +1 Charm (Maximum Charm +3)
-- Gain +1 Grace (Maximum Grace +2)
-- Gain +1 Will (Maximum Will +2)
-- Gain +1 Wits (Maximum Wits +2)
+- Gain +1 Without (Maximum Without +3)
+- Gain +1 Within (Maximum Within +2)
+- Gain +1 Static (Maximum Static +2)
+- Gain +1 Dynamic (Maximum Dynamic +2)
 - Get a new Pious move
 - Remove a Restriction from your Paradigm
 - (*) Give a Freedom to another Mage’s Paradigm
@@ -851,10 +851,10 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 ### Advancements
 
-- Gain +1 Charm (Maximum Charm +1)
-- Gain +1 Grace (Maximum Grace +2)
-- Gain +1 Will (Maximum Will +3)
-- Gain +1 Wits (Maximum Wits +2)
+- Gain +1 Without (Maximum Without +1)
+- Gain +1 Within (Maximum Within +2)
+- Gain +1 Static (Maximum Static +3)
+- Gain +1 Dynamic (Maximum Dynamic +2)
 - Get a new Primordial move
 - Remove a Restriction from your Paradigm
 - (*) Give a Freedom to another Mage’s Paradigm
@@ -956,9 +956,9 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 ### Advancements
 
-- Gain +1 Charm (Max Charm+2)
-- Gain +1 Grace (Max Grace +2)
-- Gain +1 Body (Max Body +2)
+- Gain +1 Without (Max Without +2)
+- Gain +1 Within (Max Within +2)
+- Gain +1 Entropic (Max Entropic +2)
 - Gain a new Tech-Adept move
 - Gain a new Tech-Adept move
 - Remove a Restriction from your Paradigm
@@ -974,7 +974,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 (Choose only after 5 from the first section and if not Tethered)
 
 - (*) Remove a Restriction from your Paradigm
-- Gain +1 Will (Max Will +2)
+- Gain +1 Static (Max Static +2)
 - Gain a new Tech-Adept move
 - Pick a playbook move from another playbook
 - Get an Advanced Tech-Adept Move
@@ -1060,10 +1060,10 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 ### Advancements
 
-- Get +1 Will (Max Will +2)
-- Get +1 Wits (Max Wits +2)
-- Get +1 Grace (Max Grace +2)
-- Get +1 Body (Max +2 Body)
+- Get +1 Static (Max Static +2)
+- Get +1 Dynamic (Max Dynamic +2)
+- Get +1 Within (Max Within +2)
+- Get +1 Entropic (Max Entropic +2)
 - Get a new Voiced move
 - Remove a Restriction from your Paradigm
 - (*) Give a Freedom to another Mage’s Paradigm
@@ -1078,8 +1078,8 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 (Choose only after 5 from the first section and if not Tethered)
 
 - (*) Remove a Restriction from your Paradigm
-- Get +1 Charm (Max Charm +3)
-- Get +1 Will (Max Will +3)
+- Get +1 Without (Max Without +3)
+- Get +1 Static (Max Static +3)
 - Get a new Voiced move
 - Get a move from another playbook
 - Get an Advanced Voiced move
@@ -1173,10 +1173,10 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 ### Advancements
 
 - Pick a new Wayfarer Move
-- Gain +1 Will (Max Will +1)
-- Gain +1 Charm (max Charm +3)
-- Gain +1 Grace (max Grace +3)
-- Gain +1 Body (max Body +2)
+- Gain +1 Static (Max Static +1)
+- Gain +1 Without (max Without +3)
+- Gain +1 Within (max Within +3)
+- Gain +1 Entropic (max Entropic +2)
 - Remove a Restriction from your Paradigm
 - (*) Give a Freedom to another Mage’s Paradigm
 - (*) Gain an Anchor (2 Anchors max)
@@ -1194,7 +1194,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 - When using Step Sideways, always choose +1 option, even on a miss
 - Pick a playbook move from another playbook
 - Pick a playbook move from another playbook
-- Gain +1 Wits (max Wits +3)
+- Gain +1 Dynamic (max Dynamic +3)
 - Get an Advanced Wayfarer Move
 
 \newpage
