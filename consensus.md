@@ -1917,11 +1917,11 @@ Make the playbooks available, laying them all on the table or handing some out t
 
 **The Cabalist** has a group of mages with a similar paradigm to their own, that they may or may not be the leader of. If you want to be part of a group, or have other mages to work with regularly, play a cabalist. Warning: A lot of your power is in your cabal, and that means lots of drama trying to wrangle them.
 
-**The Mentor** is a teacher for a group of non-magical students. If you want to be explicitly in charge of a group of sleepers, you want to play a mentor. Warning: This playbook is quite reactive until you get to Advanced moves. You may be bored if you don’t make your way there eventually.
-
 **The Hedge Mage** is flexible in their magic, they have a lot of options, and feel the most like a classic wizard. Warning: The Hedge Mage is eclectic and doesn’t have a specific focus or niche, and it can be hard to know exactly what to be doing at any given moment.
 
 **The Inspired** can have both very personal connections and large reaching moments where they bring magic to sleepers. They are extremely powerful when interacting with their Source. Warning: Their Source is a constant source of tension, and magically they can be stymied without if. If you’re not willing to have your magic rendered useless or impossible on a somewhat regular basis, you probably don’t want to play an Inspired.
+
+**The Mentor** is a teacher for a group of non-magical students. If you want to be explicitly in charge of a group of sleepers, you want to play a mentor. Warning: This playbook is quite reactive until you get to Advanced moves. You may be bored if you don’t make your way there eventually.
 
 **The Pious **has a vision for how things should be, and goals, and are ready to see them through. A Pious is often a very driven character. Warning: It’s easy to try eschew connections and try to go it alone as a Pious, but no Mage survives without connections to the world around them. Make sure to keep connected to at least your Anchors.
 
