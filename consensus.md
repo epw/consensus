@@ -2593,8 +2593,8 @@ Of course, a Mage who shapes Reality to their whims can decide that money is a p
 Some playbooks have extra sections that include how they relate to the world. Only fill in these sections if you select or start with the Move that is attached to them. For example, a Pious only fills out their Place of Power once they select the Sanctuary move, whereas a Cabalist starts with the move Gossamer Threads, and fills out the Cabal section of their playbook when making the character.
 
 ### Places of Power
-[//]: # (FIXME: Eric add)
-Places of power are magically significant sites, and for a PC to have access to one is a Big Deal. If you take a move that gives you access to a Place of Power, you will fairly reliably have access to somewhere to do Rituals, which allow for much larger effects than normal. Each place of power has several sections to fill out.
+
+Places of power are magically significant sites, and for a PC to have access to one is a Big Deal. It means that unlike Mages who have to depend on rare confluences of energy or the generosity of others in order to take part in Rituals, you can usually expect to have a place to go that is awash with energy. The details of this will be determined by the move, because it is never truly simple: maybe you don't exactly own the place as such, you just know about the magic there and take care of it. Or maybe you do own it, but the land is half an hour by car on dirt roads from anywhere, has no running water, and something of a wolf problem. Still, a standard plan to use when you need to create a much larger effect than you can accomplish unaided is incredibly valuable.
 
 #### Facade
 
