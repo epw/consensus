@@ -1341,10 +1341,10 @@ On a miss: Lose another Anchor. The MC will tell you which one and how.
 >Losing an Anchor can hurt. Any time a connection is broken, even under amicable terms, it can be a detactching feeling, leaving you adrift. For a Mage, capable of walking into other worlds entirely, or reaching levels of enlightenment in this one nearly incomprehensible to onlookers, it can be particularly dangerous. Even if the Mage is happy to see the Anchor go, it will be destabilizing. If they’re not careful, the Mage might start to spiral.
 
 At the **end of session**: note any effects that lasted "until end of session," but should continue into the next. Then, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
-- Did you show the lengths you were willing to go to in order to protect an Anchor?
-- Did you uncover a secret?
-- Did you learn something that puts your paradigms in perspective, or caused you to question them?
-- Did you expose the depths of your humanity, to yourself or to someone else?
+- Did you show the lengths you were willing to go to in order to protect an Anchor?  
+- Did you uncover a secret?  
+- Did you learn something that puts your paradigms in perspective, or caused you to question them?  
+- Did you expose the depths of your humanity, to yourself or to someone else?  
 - Did you witness loss, selfishness, or pain born of magic?
 
 >This move wraps up the session, and rewards you for delving into certain parts of the game. After finishing it, pack up your character sheets. Go ahead and keep thinking about what might come next, and some of you might have Advancements to pick, but the game is done, for now.
