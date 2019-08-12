@@ -1563,7 +1563,7 @@ This means raising the tension, putting more on the line, or otherwise upping th
 
 **Introduce a Lookout**
 
-Oftentimes, Mages try to set up circumstances so that they can make free use of their magic, without anyone "spying" on them for the Consensus. They’ll meet up with other Mages in secret basements, summon spirits deep in the woods, or they set up a distraction for everyone else in the area. So it can provide some complications when a Lookout shows up out of nowhere. If they’re about to do Rending magic, they’ll either have to stop, or trigger the move. And if they’re about to do “questionably” harmonious magic, a lookout being there will likely make them have to Pull One Over to keep it from being Rending.
+Oftentimes, Mages try to set up circumstances so that they can make free use of their magic, without anyone "spying" on them for the Consensus. They’ll meet up with other Mages in secret basements, summon spirits deep in the woods, or they set up a distraction for everyone else in the area. So it can provide some complications when a Lookout shows up out of nowhere. If they’re about to do Rending magic, they’ll either have to stop, or trigger the move. And if they’re about to do “questionably” harmonious magic, a lookout being there will likely make them have to Sell a Lie to keep it from being Rending.
 
 *"The two of you have just finished lining the doorway in chalk runes, but before you can activate the portal, a patron comes in from the other side. ‘Excuse me, is this the reference section?’ What do you do?"*
 
