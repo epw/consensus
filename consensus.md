@@ -20,7 +20,7 @@ Would you like to see what it is to be one?
 
 ## Setting Up to Play
 
-First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another. One to be the MC, and the rest to play Mages. More than that and it will be hard to keep everyone involved and keep track of everything that’s going on. Everyone should at least skim this book, and the MC should have read it more thoroughly.
+First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another. One to be the Master of Ceremonies (or MC), and the rest to play Mages. More than that and it will be hard to keep everyone involved and keep track of everything that’s going on. Everyone should at least skim this book, and the MC should have read it more thoroughly.
 
 You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper.
 
@@ -49,7 +49,7 @@ The Trigger: This part will be bolded on the moves sheet or playbook. It takes t
 
 The Roll: Most moves (but not all of them) will have a roll associated with them. It will take the form of “Roll +[Something]” usually one of your character’s stats. A roll in Consensus is always two dice added together, plus whatever the move says. Regular dice with six sides and numbers or pips on them. Nothing fancy or weird. (If you want fancy or weird dice, take a look at our Hacking section for some options). 
 
-The Outcome: In Consensus, a result of 10 or higher is a full success, the character should succeed at what they were attempting to do. A roll of 7-9 is a mixed success. The character should still succeed, but at some cost. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+, the move will give guidance. A roll of a 6- is a failure, and means that the MC gets to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice your horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish though, they could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
+The Outcome: In Consensus, a result of 10 or higher is a full success, the character should succeed at what they were attempting to do. A roll of 7-9 is a mixed success. The character should still succeed, but at some cost. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+, the move will give guidance. A roll of a six or less (notated 6-) is a failure, and means that the MC gets to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice your horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish though, they could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
 
 ## Stats
 
@@ -103,7 +103,7 @@ For more on Status Tracks, see the {{linkStatus Tracks chapter}}.
 
 Maybe you want to feel what it would be like to be able to seize spirits by their names and command them. Maybe you like talking about whether souls exist and what it would mean if they did, and want to try out being someone who knows they do, can act on them, but still stays up late talking about what it means. Maybe you hear power corrupts, but want to play out struggling between that and using power to do good. Maybe Mages sound like the kind of people you want to associate with, and think like, and this seems like a good way to try it out.
 
-Maybe you’ve felt like you realized something about the world, and you’ve been waiting for something that says it’s real, for a long time.
+Maybe you’ve felt like you realized something true about the world, and you’ve been waiting for something that says it’s real, for a long time.
 
 \newpage
 
@@ -1619,7 +1619,7 @@ Use this when you want to throw the Mages’ control of a situation into questio
 
 *"So you Step Sideways, planning to phase out and phase back in, but while you’re on the Other Side you see this vast space with creepy floating creatures, and they’re fighting to get in. It looks like this battle is taking place on more planes than you knew."
 
-“Everyone’s fighting, you feel like you have a good handle on things - and then the ghost pirate ship appears, with Gordon dangling in a cage off the bow. They’re rowdy and their cannons are armed.”*
+*“Everyone’s fighting, you feel like you have a good handle on things - and then the ghost pirate ship appears, with Gordon dangling in a cage off the bow. They’re rowdy and their cannons are armed.”*
 
 **Take away things they expect to have**
 
@@ -1627,7 +1627,7 @@ Most of the time, you can assume the Mages have what they need for what they wan
 
 *"So you shoot the harpoon gun, but you aren’t braced and the gun flies out of your hands, backwards! Your target falls, but another guy sees that you’re unarmed and jumps at you."
 
-“Something has gone mysteriously missing? How about the gas for your boat. Not that you’d notice right away, of course.”*
+*“Something has gone mysteriously missing? How about the gas for your boat. Not that you’d notice right away, of course.”*
 
 **Imprison Someone**
 
@@ -1635,7 +1635,7 @@ Mages’ lives involve the fundamental freedom to do what they believe, and so i
 
 *"As you look around the ballroom, you notice what are clearly ensorcelled humans serving drinks, and wait, that’s the man you saved from drowning! As dead-eyed as the rest of them."
 
-“Allison opens the door to get into the taxi, and the driver looks you in the eye, and as you recognize him, says ‘My Lady sends her regards,’ and drives off before you can react”*
+*“Allison opens the door to get into the taxi, and the driver looks you in the eye, and as you recognize him, says ‘My Lady sends her regards,’ and drives off before you can react”*
 
 **Adjust a Status Track**
 
@@ -1653,9 +1653,9 @@ A mage’s paradigm is inherent and intuitive, and sometimes it might take some 
 
 *"So his fist is coming for your head, and as your self-protective instincts take over, you try to yank at his life-thread to throw him off balance. But you can’t get a grip on it, and he keeps coming. It occurs to you as your head rings from the impact that there never has been room in your paradigm for selfish acts. Add a restriction to your paradigm: self-defense is considered selfish."*
 
-*"So you reach out for ghosts under the sea - and get nothing at all. Maybe this is why ghost pirates always have a ship. Add this restriction: The Sea’s Vastness Outdoes Mortal Magic."
+*"So you reach out for ghosts under the sea - and get nothing at all. Maybe this is why ghost pirates always have a ship. Add this restriction: The Sea’s Vastness Outdoes Mortal Magic."*
 
-“You try to speak across boundaries to him, but it’s like his mind is a mirrored sphere. You can’t reach him, and add the restriction, ‘The close-minded hears only themselves.’”*
+*“You try to speak across boundaries to him, but it’s like his mind is a mirrored sphere. You can’t reach him, and add the restriction, ‘The close-minded hears only themselves.’”*
 
 **Assign Discord**
 
@@ -1665,7 +1665,7 @@ Discord is what happens when reality bends around a Mage like a spring. It hasn�
 
 *"You’re not working at all within the local expectations. Your camera flashlight can work to illuminate Glamour, but take 2 Discord."
 
-“The ritual is being resisted by something with a deep hold over this place. You all take 1 Discord, and at this rate it’s going to get worse.”*
+*“The ritual is being resisted by something with a deep hold over this place. You all take 1 Discord, and at this rate it’s going to get worse.”*
 
 **Deal Damage**
 
