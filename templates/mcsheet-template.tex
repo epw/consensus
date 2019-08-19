@@ -1,0 +1,123 @@
+\documentclass[letterpaper,10pt]{article}
+\setlength{\topmargin}{-1in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{-.25in}
+\setlength{\textwidth}{7in}
+
+\setcounter{secnumdepth}{-1}
+
+\usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{textpos}
+\usepackage{rotating}
+\usepackage[usenames, dvipsnames]{color}
+
+\pagenumbering{gobble}
+
+\setmainfont [Path = fonts/,
+  UprightFont = FiraSans-Regular.otf,
+  BoldFont = FiraSans-Bold.otf,
+  ItalicFont = FiraSans-Italic.otf
+]{'Fira Sans'}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+]{Kingthings}
+
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
+
+}
+\newcommand{\TEXTBULLET}{\textbullet\hspace{.5ex}}
+
+\setlist[itemize]{topsep=0pt}
+\setlist[itemize]{itemsep=0pt}
+
+\begin{document}
+
+\TITLE{The MC}
+
+\SECTION{Agenda}
+\begin{center}
+\textbf{
+\BLOCK{ for item in agenda }
+\VAR{item}
+\BLOCK{ endfor }
+}
+\end{center}
+
+\vspace{-1em}
+
+\SECTION{Always Say}
+\begin{center}
+\BLOCK{ for item in always_say }
+\VAR{item}
+\BLOCK{ endfor }
+\end{center}
+
+\vspace{-1em}
+
+\SECTION{The Principles}
+\begin{multicols}{2}
+\begin{itemize}
+\BLOCK{ for item in principles }
+\item \VAR{item}
+\BLOCK{ endfor }
+\end{itemize}
+\end{multicols}
+
+\begin{multicols}{2}
+\SECTION{Your Moves}
+\begin{textblock}{1}(-.5,1)
+\begin{sideways}
+\color{Gray}
+{\large Harder $\rightarrow$}
+\end{sideways}
+\end{textblock}
+\begin{itemize}
+\BLOCK{ for item in hardmoves }
+\item \VAR{item}
+\BLOCK{ endfor }
+\bigskip
+\BLOCK{ for item in medmoves }
+\item \VAR{item}
+\BLOCK{ endfor }
+\bigskip
+\BLOCK{ for item in softmoves }
+\item \VAR{item}
+\BLOCK{ endfor }
+\item After every move: ``what do you do?''
+\end{itemize}
+\begin{textblock}{1}(0,-2)
+\begin{sideways}
+\color{Gray}
+{\large $\leftarrow$ Softer}
+\end{sideways}
+\end{textblock}
+\columnbreak
+
+\SECTION{Starting a Session}
+\begin{itemize}
+  \setlength\itemsep{-.4em}
+\BLOCK{ for item in start_session }
+\item \VAR{item}
+\BLOCK{ endfor }
+\end{itemize}
+
+\SECTION{Scene Types}
+\begin{itemize}
+\BLOCK{ for item in scene_types }
+\item \VAR{item}
+\BLOCK{ endfor }
+\end{itemize}
+
+\SECTION{Slipping Status Tracks}
+
+\vspace{.5em}
+
+\textbf{Owner \hspace{1cm} Track}
+
+\end{multicols}
+
+\end{document}

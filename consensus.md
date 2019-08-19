@@ -1417,7 +1417,7 @@ Your job isn’t to lie to the players, or trick them, or make them guess what y
 
 ## The Principles
 
-**Riddle the world with hidden magic, unexpected connections, and unrecognized potential**
+**Riddle the world with hidden magic, unexpected connections, and unrecognised potential**
 
 Save up those images that speak to you from your favorite media about magic. Don’t just describe a bookstore, talk about the dust laying thick on a stack of books in the back, talk about a ghostly light shining through the motes of dust like a sunbeam normally would. Make the world feel like there’s magic in it, but also that it’s hidden, buried, or unseen.
 
