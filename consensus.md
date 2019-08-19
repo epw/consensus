@@ -20,13 +20,13 @@ Would you like to find out?
 
 ## Setting Up to Play
 
-First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another. One to be the Master of Ceremonies (or MC), and the rest to play Mages. More than that and it will be hard to keep everyone involved and keep track of everything that’s going on. Everyone should at least skim this book, and the MC should have read it more thoroughly.
+First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another, people who feel safe with each other. One to be the Master of Ceremonies (or MC), and the rest to play Mages. More than that and it will be hard to keep everyone involved and keep track of everything that’s going on. Everyone should at least skim this book, and the MC should have read it more thoroughly.
 
-You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper.
+You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper, and writing utensils to go around.
 
-You’ll need some pairs of normal, six-sided dice (d6s, if you prefer). Ideally, one pair for every Mage playing. The MC does not need dice. This isn’t that kind of game.
+You’ll need some pairs of normal, six-sided dice (d6s, if you prefer). Ideally, one pair for every Mage playing. The MC does not need dice; this isn’t that kind of game.
 
-To get started, you’ll need somewhere reasonably free of distractions and interruptions, where everyone can get into character and start to imagine together. You’ll want comfortable enough seating and a table of some kind to put all the papers and roll dice on, and so everyone can see each other. Some people like to add to the ambiance, with music, candles, incense, grimoires, ravens’ skulls, or Tesla coils. Consensus tends to have 6-12 sessions, so try to find somewhere you’ll be able to return to several times.
+To get started, you’ll need a place reasonably free of distractions and interruptions, where everyone can get into character and start to imagine together. You’ll want comfortable seating and a table of some kind to spread out all the papers and roll dice on, and so everyone can see each other. Some people like to add to the ambiance, with music, candles, incense, grimoires, ravens’ skulls, or Tesla coils; be creative and take ownership of your space! Consensus tends to run about 6-12 sessions, so try to find somewhere you’ll be able to return to several times.
 
 Games of Consensus often start to bring up images and symbols that feel real within the game. Materials to show or make them, such as colored pencils, can go a long way.
 
