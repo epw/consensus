@@ -10,13 +10,13 @@ author:
 
 ## Consensus
 
-Everybody knows how the world works. Dropped things fall down, electricity moves in circuits, there’s no way to truly show someone else an image inside your head. This is the Consensus, the agreement about how reality works.
+There are certain rules, that everyone seems to know, about how the world works. Electricity moves in circuits. There’s no way to show someone else an exact image of what you see inside your head. You can believe with all your heart that you can fly, but when you step off the cliff, that won't be enough to stop you from plummeting to the ground. This is the Consensus, the universe's general agreement about how reality works.
 
-A few people, though, seem to know differently. They might know that an antenna uses an open circuit to make invisible waves. Or that the right drumbeat can let them focus a point behind their eyes into a picture for another to see. Or the secret, forgotten word from the dawn of history that when spoken as a command tells an object to ignore gravity.
+A few people, though, seem to know differently. They might know that an antenna uses an open circuit to make invisible waves which can be translated into sound. Or that the right drumbeat can let them focus a point behind their eyes into a picture--an exact image--for another to see. Or that there is a secret, forgotten word from the dawn of history that, when spoken as a command, allows you to ignore gravity. They understand a truth that defies the Consensus.
 
-These people are Mages, the Awakened who understand a truth different than the Consensus. They exist within it, playing by its rules when they have to, but always know there is more. That kind of knowledge is power, and that kind of power can’t exist without making waves.
+They are known as Mages, as Awakened. They may exist within the Consensus, play by its rules when they must, but always they harbor the knowledge that there is more. That knowledge carries power; the power to shape the very truths of reality. Who can weild such power? What ripples radiate outward from its source?
 
-Would you like to see what it is to be one?
+Would you like to find out?
 
 ## Setting Up to Play
 
@@ -1417,7 +1417,7 @@ Your job isn’t to lie to the players, or trick them, or make them guess what y
 
 ## The Principles
 
-**Riddle the world with hidden magic, unexpected connections, and unrecognised potential**
+**Riddle the world with hidden magic, unexpected connections, and unrecognized potential**
 
 Save up those images that speak to you from your favorite media about magic. Don’t just describe a bookstore, talk about the dust laying thick on a stack of books in the back, talk about a ghostly light shining through the motes of dust like a sunbeam normally would. Make the world feel like there’s magic in it, but also that it’s hidden, buried, or unseen.
 
