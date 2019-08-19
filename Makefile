@@ -40,6 +40,10 @@ consensus.html: consensus.md
 	python playbookbreakout.py $<
 	$(LATEX) $<
 
+mcsheet.pdf: mcsheet.tex consensus.md templates/mcsheet-template.tex
+	python mcbreakout.py
+	$(LATEX) mcsheet.tex
+
 basicmoves.pdf: basicmoves.tex moves.tex consensus.md templates/basicmoves-template.tex
 	python movesbreakout.py basic
 	$(LATEX) basicmoves.tex

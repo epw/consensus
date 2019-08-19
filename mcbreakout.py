@@ -142,10 +142,8 @@ def mc_data():
 	
 	principlesnum = -1
 	for item in principles:
-		print (item)
 		principlesnum+=1
-		if item.startswith("Don’t Be Afraid to be Obvious"):
-			print ("yes")
+		if item.startswith("Don"):
 			principles[principlesnum] = '{\large\\bf ' + item + '}'
 			
 	
