@@ -3277,39 +3277,110 @@ Control:
 
 Fear:
 
-• Show and Ally to be Untrustworthy • Reveal a new enemy cell or sect • Track down a Mark • Resist Magical Effects • Torture Someone • Uncover and Exploit a Weakness • Avoid Consequences
+\begin{itemize*}
+
+\item Show and Ally to be Untrustworthy 
+\item Reveal a new enemy cell or sect 
+\item Track down a Mark 
+\item Resist Magical Effects 
+\item Torture Someone 
+\item Uncover and Exploit a Weakness 
+\item Avoid Consequences
+
+\end{itemize*}
 
 Guilt:
 
-• Deprive them of Resources • Cover Up an Atrocity • Take Advantage of a Weak Link • Press an Advantage • Cause Collateral Damage 
+\item Deprive them of Resources 
+\item Cover Up an Atrocity 
+\item Take Advantage of a Weak Link 
+\item Press an Advantage 
+\item Cause Collateral Damage 
+
+\end{itemize*}
 
 Anger:
 
-• Destroy something irreplacable • Provoke an Overreaction • Damage Infrastructure • Drain Energy • Lash out Chaotically • Enact a Cold-Blooded Plan 
+\begin{itemize*}
+
+\item Destroy something irreplacable 
+\item Provoke an Overreaction 
+\item Damage Infrastructure 
+\item Drain Energy 
+\item Lash out Chaotically 
+\item Enact a Cold-Blooded Plan 
+
+\end{itemize*}
 
 Distrust:
 
-• Manipulate Public Opinion • Hide in Plain Sight • Circulate False Information • Turn Friend on Friend • Flaunt their Secure Positioning • Introduce Self-Doubt
+\begin{itemize*}
+
+\item Manipulate Public Opinion 
+\item Hide in Plain Sight 
+\item Circulate False Information 
+\item Turn Friend on Friend 
+\item Flaunt their Secure Positioning 
+\item Introduce Self-Doubt
+
+\end{itemize*}
 
 Extremism:
 
-• Convert an Ally • Enforce Emotional barriers • Respond Disproportionally
+\begin{itemize*}
+
+\item Convert an Ally 
+\item Enforce Emotional barriers 
+\item Respond Disproportionally
+
+\end{itemize*}
 
 Isolation:
 
-• Rationalize Evil for the Greater Good • Miscalculate Emotional Response • Be Unshakable in their Convictions • Brainwash Agents • Break a supply line • Cause a boundary to be crossed 
+\begin{itemize*}
+
+\item Rationalize Evil for the Greater Good 
+\item Miscalculate Emotional Response 
+\item Be Unshakable in their Convictions 
+\item Brainwash Agents 
+\item Break a supply line 
+\item Cause a boundary to be crossed 
+
+\end{itemize*}
 
 Envy:
 
-• Enchant Someone • Conceal Weakness • Simulate Expertise • Use Their Tricks Against Them • Bring Them to Your Level • Sabotage Their Strengths
+\begin{itemize*}
+
+\item Enchant Someone 
+\item Conceal Weakness 
+\item Simulate Expertise 
+\item Use Their Tricks Against Them 
+\item Bring Them to Your Level 
+\item Sabotage Their Strengths
+
+\end{itemize*}
 
 Obsession:
 
-• Seduce someone • Stalk • Lock something or someone away
+\begin{itemize*}
+
+\item Seduce someone 
+\item Stalk 
+\item Lock something or someone away
+
+\end{itemize*}
 
 Insecurity:
 
-• Overcompensate • Goad Someone into Overreacting • Grind to a Halt • Undermine Someone
+\begin{itemize*}
+
+\item Overcompensate 
+\item Goad Someone into Overreacting 
+\item Grind to a Halt 
+\item Undermine Someone
+
+\end{itemize*}
 
 Step five:
 

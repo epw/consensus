@@ -1,0 +1,95 @@
+\documentclass[letterpaper,10pt]{article}
+\setlength{\topmargin}{-1in}
+\setlength{\textheight}{10in}
+\setlength{\oddsidemargin}{-.25in}
+\setlength{\textwidth}{7in}
+
+\setcounter{secnumdepth}{-1}
+
+\usepackage{fontspec}
+\usepackage{graphicx}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\pagenumbering{gobble}
+
+\setmainfont [Path = fonts/,
+  UprightFont = FiraSans-Regular.otf,
+  BoldFont = FiraSans-Bold.otf,
+  ItalicFont = FiraSans-Italic.otf
+]{'Fira Sans'}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+]{Kingthings}
+
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
+
+}
+\newcommand{\SUBTITLE}[1]{\begin{center}{\titlefont\huge\textbf{#1}}\end{center}}
+\newcommand{\STRESSOR}[3]{\SECTION{#1}
+  \textit{(Examples: #2)}
+
+  \begin{itemize}
+    #3
+  \end{itemize}
+  \filbreak
+}
+\newcommand{\TYPE}[3]{\SECTION{#1}
+  \textit{(Examples: #2)}
+
+  \begin{itemize}
+    #3
+  \end{itemize}
+  \filbreak
+}
+
+\setlist[itemize]{topsep=0pt}
+\setlist[itemize]{itemsep=0pt}
+
+\begin{document}
+
+\TITLE{How to Make a Force}
+
+\SUBTITLE{Step One}
+\VAR{steps[0]}
+
+\SUBTITLE{Step Two}
+\VAR{steps[1]}
+
+\begin{multicols}{2}
+\SUBTITLE{Step Three}
+\VAR{steps[2]}
+\BLOCK{ for item in stressors }
+\STRESSOR{\VAR{item['name']}}{
+\BLOCK{ for move in item['moves'] }
+\item \VAR{move}
+\BLOCK{ endfor }
+}
+\BLOCK{ endfor }
+ 
+\SUBTITLE{Step Four}
+\VAR{steps[3]}
+\BLOCK{ for item in types }
+\STRESSOR{\VAR{item['name']}}{
+\BLOCK{ for subtype in item['subtypes'] }
+\item \VAR{subtype}
+\BLOCK{ endfor }
+}
+\BLOCK{ endfor }
+
+\end{multicols}
+
+\SUBTITLE{Step Five}
+\VAR{steps[4]}
+
+\SUBTITLE{Step Six}
+\VAR{steps[5]}
+
+\SUBTITLE{Step Seven}
+\VAR{steps[6]}
+
+\SUBTITLE{Step Eight}
+\VAR{steps[7]}
+
+\end{document}
