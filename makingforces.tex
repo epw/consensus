@@ -10,6 +10,7 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{multicol}
+%\usepackage{extsizes}
 
 \pagenumbering{gobble}
 
@@ -22,42 +23,46 @@
   UprightFont = Kingthings_Printingkit.ttf,
 ]{Kingthings}
 
-\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
-\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
-
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Large\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\small\textbf{#1}}
 }
-\newcommand{\SUBTITLE}[1]{\begin{center}{\titlefont\huge\textbf{#1}}\end{center}}
+\newcommand{\SUBTITLE}[1]{\vspace{.5em}{\begin{center}{\titlefont\normalsize\textbf{#1}}\end{center}}}
 \newcommand{\STRESSOR}[2]{\SECTION{#1}
-
+\vspace{-1em}
+\scriptsize{
   \begin{itemize}
     #2
   \end{itemize}
   \filbreak
-}
+}}
 \newcommand{\TYPE}[2]{\SECTION{#1}
+\vspace{0em}
+\scriptsize{
   \begin{itemize}
     #2
   \end{itemize}
   \filbreak
-}
+}}
 
-\setlist[itemize]{topsep=0pt}
-\setlist[itemize]{itemsep=0pt}
+\setlist[itemize]{topsep=-.5ex}
+\setlist[itemize]{itemsep=-.5ex}
 
 \begin{document}
 
 \TITLE{How to Make a Force}
 
 \SUBTITLE{Step One}
-Sit down with your list of stressors from the first session. Pick one of them. Then, pick a force type that compliments it.
+\small{Sit down with your list of stressors from the first session. Pick one of them. Then, pick a force type that compliments it.}
 
 \SUBTITLE{Step Two}
-Write down anything you already know about this Force. For example, you might know some of its cast because they were named in the first session. You might know the name of the Force if that came up. The only things you absolutely should not fill in during this step are the Moves and the Countdown Steps. These will come during later steps.
+\small{Write down anything you already know about this Force. For example, you might know some of its cast because they were named in the first session. You might know the name of the Force if that came up. The only things you absolutely should not fill in during this step are the Moves and the Countdown Steps. These will come during later steps.}
 
 \begin{multicols}{2}
 \SUBTITLE{Step Three}
-Choose a Type for this Force, and then choose one of the subtypes from the list below.
+\center{\scriptsize{Choose a Type for this Force, and then choose one of the subtypes from the list below.}}
+
 \STRESSOR{Control:}{
+\begin{multicols}{2}
 \item Seize something dear to them
 \item Blackmail them
 \item Introduce a new enemy agent
@@ -67,102 +72,113 @@ Choose a Type for this Force, and then choose one of the subtypes from the list 
 \item Appear More Reasonable
 \item Lookout for (even) non-Rending magic
 \item Enforce Dominant Paradigm
-}
+\end{multicols}}
 \STRESSOR{Fear:}{
-\item Show and Ally to be Untrustworthy
+\begin{multicols}{2}
+\item Show an Ally to be Untrustworthy
 \item Reveal a new enemy cell or sect
 \item Track down a Mark
 \item Resist Magical Effects
 \item Torture Someone
 \item Uncover and Exploit a Weakness
 \item Avoid Consequences
-}
+\end{multicols}}
 \STRESSOR{Guilt:}{
+\begin{multicols}{2}
 \item Deprive them of Resources
 \item Cover Up an Atrocity
 \item Take Advantage of a Weak Link
 \item Press an Advantage
 \item Cause Collateral Damage
-}
+\end{multicols}}
 \STRESSOR{Anger:}{
+\begin{multicols}{2}
 \item Destroy something irreplacable
 \item Provoke an Overreaction
 \item Damage Infrastructure
 \item Drain Energy
 \item Lash out Chaotically
 \item Enact a Cold-Blooded Plan
-}
+\end{multicols}}
 \STRESSOR{Distrust:}{
+\begin{multicols}{2}
 \item Manipulate Public Opinion
 \item Hide in Plain Sight
 \item Circulate False Information
 \item Turn Friend on Friend
 \item Flaunt their Secure Positioning
 \item Introduce Self-Doubt
-}
+\end{multicols}}
 \STRESSOR{Extremism:}{
+\begin{multicols}{2}
 \item Convert an Ally
 \item Enforce Emotional barriers
 \item Respond Disproportionally
-}
+\end{multicols}}
 \STRESSOR{Isolation:}{
+\begin{multicols}{2}
 \item Rationalize Evil for the Greater Good
 \item Miscalculate Emotional Response
-\item Be Unshakable in their Convictions
+\item Be Unshakable in Convictions
 \item Brainwash Agents
 \item Break a supply line
 \item Cause a boundary to be crossed
-}
+\end{multicols}}
 \STRESSOR{Envy:}{
+\begin{multicols}{2}
 \item Enchant Someone
 \item Conceal Weakness
 \item Simulate Expertise
 \item Use Their Tricks Against Them
 \item Bring Them to Your Level
 \item Sabotage Their Strengths
-}
+\end{multicols}}
 \STRESSOR{Obsession:}{
+\begin{multicols}{2}
 \item Seduce someone
 \item Stalk
 \item Lock something or someone away
-}
+\end{multicols}}
 \STRESSOR{Insecurity:}{
+\begin{multicols}{2}
 \item Overcompensate
 \item Goad Someone into Overreacting
 \item Grind to a Halt
 \item Undermine Someone
-}
+\end{multicols}}
+
  
 \SUBTITLE{Step Four}
-Choose up to three Force moves from the stressor that this Force is based on. The Force Moves are listed below.
-\STRESSOR{Organization}{
+\center{\scriptsize{Choose up to three Force moves from the stressor that this Force is based on. The Force Moves are listed below.}}
+
+\TYPE{Organization}{
 \item Dogmatic (impulse: enforce some truth on the local area)
 \item Expansionist (Impulse: grow and gain members)
 \item Acquisitive (impulse: gain resources or knowledge)
 \item Vigilant (impulse: stand together and defend each other)
 }
-\STRESSOR{Outsider}{
+\TYPE{Outsider}{
 \item Wild (impulse: to return something to its natural state)
 \item Tricky (impulse: to beguile, lure in, and toy with victims)
 \item Corrupting (impulse: to invert a being’s desires)
 \item Ephemeral (impulse: to become more real)
 \item Destructive (impulse: to consume, raze, and damage)
 }
-\STRESSOR{Aspirant}{
+\TYPE{Aspirant}{
 \item Power (impulse: to steal power from those who have it)
 \item Secrets (impulse: to learn a dangerous secret)
 \item Taboo (impulse: to do something no one would do)
 \item Revenge (impulse: to exact revenge on someone who has wronged them)
 \item Entropy (impulse: to return things to lower states of energy)
 }
-\STRESSOR{Place of Power}{
+\TYPE{Place of Power}{
 \item Cursed(impulse: to draw in new victims)
 \item Wild (impulse: to grow)
 \item Dedicated (impulse: to reduce control)
 \item Convergent (impulse: to be used)
 \item Hidden (impulse: to be found)
 }
-\STRESSOR{Artifact}{
+\TYPE{Artifact}{
 \item Powerful (impulse: to overwhelm the user)
 \item Destructive (impulse: to cause collateral damage)
 \item Knowledgable (impulse: to reveal something better left hidden)
@@ -173,15 +189,15 @@ Choose up to three Force moves from the stressor that this Force is based on. Th
 \end{multicols}
 
 \SUBTITLE{Step Five}
-If you have not named the Force, do so now. Likewise fill in any cast that are likely to come up right away. Write a brief description of the Force, and how it interacts with the world (ie the player’s characters and the other Forces)
+\small{If you have not named the Force, do so now. Likewise fill in any cast that are likely to come up right away. Write a brief description of the Force, and how it interacts with the world (ie the player’s characters and the other Forces)}
 
 \SUBTITLE{Step Six}
-Look at the impulse from the type this Force is based on, and write down a Code N outcome for the Force. These are broad categories, so narrow it down and make it specific to the Force you’ve built. This represents what happens when the Force progresses its goals or is left unchecked, and the effect it will have on the world. Since this is Code N on a status track, make sure it is a Newsworthy Event. It doesn’t have to be front page above the fold, but it should at least warrant a story in the local media.
+\small{Look at the impulse from the type this Force is based on, and write down a Code N outcome for the Force. These are broad categories, so narrow it down and make it specific to the Force you’ve built. This represents what happens when the Force progresses its goals or is left unchecked, and the effect it will have on the world. Since this is Code N on a status track, make sure it is a Newsworthy Event. It doesn’t have to be front page above the fold, but it should at least warrant a story in the local media.}
 
 \SUBTITLE{Step Seven}
-Write in the Code 40 and Code 20 Outcomes on the Force sheet. The Code 20 effect should be a measurable step towards the Code N Outcome, and something that would be noticed by the world (and likely the players’ characters). The Code 40 effect should either be a measurable step towards the Code N Outcome, or a measurable step towards the Code 20 Outcome. This should also be something noticed by the world, and will likely be the characters first hints at the Force’s Outcome.
+\small{Write in the Code 40 and Code 20 Outcomes on the Force sheet. The Code 20 effect should be a measurable step towards the Code N Outcome, and something that would be noticed by the world (and likely the players’ characters). The Code 40 effect should either be a measurable step towards the Code N Outcome, or a measurable step towards the Code 20 Outcome. This should also be something noticed by the world, and will likely be the characters first hints at the Force’s Outcome.}
 
 \SUBTITLE{Step Eight}
-If you have used up each Stressor from your initial list, you’re done! Otherwise, return to step 1
+\small{If you have used up each Stressor from your initial list, you’re done! Otherwise, return to step 1}
 
 \end{document}

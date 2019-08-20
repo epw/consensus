@@ -3279,7 +3279,7 @@ Fear:
 
 \begin{itemize*}
 
-\item Show and Ally to be Untrustworthy 
+\item Show an Ally to be Untrustworthy 
 \item Reveal a new enemy cell or sect 
 \item Track down a Mark 
 \item Resist Magical Effects 
@@ -3343,7 +3343,7 @@ Isolation:
 
 \item Rationalize Evil for the Greater Good 
 \item Miscalculate Emotional Response 
-\item Be Unshakable in their Convictions 
+\item Be Unshakable in Convictions 
 \item Brainwash Agents 
 \item Break a supply line 
 \item Cause a boundary to be crossed 

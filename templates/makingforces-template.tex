@@ -10,6 +10,7 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{multicol}
+%\usepackage{extsizes}
 
 \pagenumbering{gobble}
 
@@ -22,71 +23,76 @@
   UprightFont = Kingthings_Printingkit.ttf,
 ]{Kingthings}
 
-\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
-\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\LARGE\textbf{#1}}
-
+\newcommand{\TITLE}[1]{\begin{center}{\titlefont\Large\textbf{#1}}\end{center}}
+\newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\small\textbf{#1}}
 }
-\newcommand{\SUBTITLE}[1]{\begin{center}{\titlefont\huge\textbf{#1}}\end{center}}
+\newcommand{\SUBTITLE}[1]{\vspace{.5em}{\begin{center}{\titlefont\normalsize\textbf{#1}}\end{center}}}
 \newcommand{\STRESSOR}[2]{\SECTION{#1}
-
+\vspace{-1em}
+\scriptsize{
   \begin{itemize}
     #2
   \end{itemize}
   \filbreak
-}
+}}
 \newcommand{\TYPE}[2]{\SECTION{#1}
+\vspace{0em}
+\scriptsize{
   \begin{itemize}
     #2
   \end{itemize}
   \filbreak
-}
+}}
 
-\setlist[itemize]{topsep=0pt}
-\setlist[itemize]{itemsep=0pt}
+\setlist[itemize]{topsep=-.5ex}
+\setlist[itemize]{itemsep=-.5ex}
 
 \begin{document}
 
 \TITLE{How to Make a Force}
 
 \SUBTITLE{Step One}
-\VAR{steps[0]}
+\small{\VAR{steps[0]}}
 
 \SUBTITLE{Step Two}
-\VAR{steps[1]}
+\small{\VAR{steps[1]}}
 
 \begin{multicols}{2}
 \SUBTITLE{Step Three}
-\VAR{steps[2]}
+\center{\scriptsize{\VAR{steps[2]}}}
+
 \BLOCK{ for item in stressors }
 \STRESSOR{\VAR{item['name']}}{
+\begin{multicols}{2}
 \BLOCK{ for move in item['moves'] }
 \item \VAR{move}
 \BLOCK{ endfor }
-}
+\end{multicols}}
 \BLOCK{ endfor }
+
  
 \SUBTITLE{Step Four}
-\VAR{steps[3]}
+\center{\scriptsize{\VAR{steps[3]}}}
+
 \BLOCK{ for item in types }
-\STRESSOR{\VAR{item['name']}}{
+\TYPE{\VAR{item['name']}}{
 \BLOCK{ for subtype in item['subtypes'] }
 \item \VAR{subtype}
-\BLOCK{ endfor }
-}
+\BLOCK{ endfor }}
 \BLOCK{ endfor }
 
 \end{multicols}
 
 \SUBTITLE{Step Five}
-\VAR{steps[4]}
+\small{\VAR{steps[4]}}
 
 \SUBTITLE{Step Six}
-\VAR{steps[5]}
+\small{\VAR{steps[5]}}
 
 \SUBTITLE{Step Seven}
-\VAR{steps[6]}
+\small{\VAR{steps[6]}}
 
 \SUBTITLE{Step Eight}
-\VAR{steps[7]}
+\small{\VAR{steps[7]}}
 
 \end{document}
