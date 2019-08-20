@@ -36,8 +36,10 @@ $endfor$
 \usepackage{xcolor}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
+\usepackage[inline]{enumitem}
 
 %\checkandfixthelayout
+
 
 $if(mainfont)$
 \setmainfont [

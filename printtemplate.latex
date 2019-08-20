@@ -37,6 +37,7 @@ statementpaper,
 \usepackage{xcolor}
 %\usepackage{type1cm}
 %\usepackage{lettrine}
+\usepackage[inline]{enumitem}
 
 %\checkandfixthelayout
 

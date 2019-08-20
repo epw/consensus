@@ -3261,7 +3261,19 @@ Choose up to three Force moves from the stressor that this Force is based on. Th
 
 Control:
 
-• Seize something dear to them • Blackmail them • Introduce a new enemy agent • Spring an elaborate trap • Manipulate an Ally • Demonstrate Power • Appear More Reasonable • Lookout for (even) non-Rending magic • Enforce Dominant Paradigm 
+\begin{itemize*}
+
+\item Seize something dear to them 
+\item Blackmail them 
+\item Introduce a new enemy agent 
+\item Spring an elaborate trap 
+\item Manipulate an Ally 
+\item Demonstrate Power 
+\item Appear More Reasonable 
+\item Lookout for (even) non-Rending magic 
+\item Enforce Dominant Paradigm 
+
+\end{itemize*}
 
 Fear:
 

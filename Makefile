@@ -4,7 +4,7 @@ PANDOC = pandoc
 
 ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
-all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf consensus.pdf consensus.html
+all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf consensus.html books
 
 books: consensus_print.pdf consensus_print_dyslexic.pdf consensus_screen.pdf consensus_screen_hc.pdf consensus_screen_dyslexic.pdf consensus_screen_dyslexic_hc.pdf
 
@@ -29,9 +29,6 @@ consensus_screen_dyslexic.pdf: consensus.md
 
 consensus_screen_dyslexic_hc.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex consensus.md screen_d_hc.yaml -f markdown -s -o "consensus_screen_dyslexic_hc.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
-
-consensus.pdf: consensus.md
-	$(PANDOC) --pdf-engine=xelatex "consensus.md" -f markdown -s -o "consensus.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc
 
 consensus.html: consensus.md
 	$(PANDOC) "consensus.md" -f markdown -t html -s -o "consensus.html" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua"
