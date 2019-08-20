@@ -32,11 +32,11 @@ return {
   {
   Para = function (elem)
     elemstr = pandoc.utils.stringify(elem)
-    if elemstr:match ".*\item.*" then
+    if elemstr:match "\\item" then
 		return pandoc.Para(itemreplace(FORMAT))
-    if elemstr:match ".*\begin{itemize\*}.*" then
+    elseif elemstr:match "\\begin{itemize*}}.*" then
 		return pandoc.Para(beginreplace(FORMAT))
-    if elemstr:match ".*\end{itemize\*}.*" then
+    elseif elemstr:match "\\end{itemize*}" then
 		return pandoc.Para(endreplace(FORMAT))
     else
       return elem
