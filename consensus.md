@@ -3291,6 +3291,8 @@ Fear:
 
 Guilt:
 
+\begin{itemize*}
+
 \item Deprive them of Resources 
 \item Cover Up an Atrocity 
 \item Take Advantage of a Weak Link 

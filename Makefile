@@ -4,7 +4,7 @@ PANDOC = pandoc
 
 ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
-all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf stressors.pdf all_playbooks.pdf consensus.html books
+all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf makingforces.pdf all_playbooks.pdf consensus.html books
 
 books: consensus_print.pdf consensus_print_dyslexic.pdf consensus_screen.pdf consensus_screen_hc.pdf consensus_screen_dyslexic.pdf consensus_screen_dyslexic_hc.pdf
 
@@ -40,6 +40,10 @@ consensus.html: consensus.md
 mcsheet.pdf: mcsheet.tex consensus.md templates/mcsheet-template.tex
 	python mcbreakout.py
 	$(LATEX) mcsheet.tex
+
+makingforces.pdf: makingforces.tex consensus.md templates/makingforces-template.tex
+	python forcesbreakout.py
+	$(LATEX) makingforces.tex
 
 basicmoves.pdf: basicmoves.tex moves.tex consensus.md templates/basicmoves-template.tex
 	python movesbreakout.py basic
