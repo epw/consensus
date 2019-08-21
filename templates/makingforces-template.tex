@@ -12,6 +12,9 @@
 \usepackage{multicol}
 %\usepackage{extsizes}
 
+\parskip 0em
+\parindent 0ex
+
 \pagenumbering{gobble}
 
 \setmainfont [Path = fonts/,
@@ -26,9 +29,9 @@
 \newcommand{\TITLE}[1]{\begin{center}{\titlefont\Large\textbf{#1}}\end{center}}
 \newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\small\textbf{#1}}
 }
-\newcommand{\SUBTITLE}[1]{\vspace{.5em}{\begin{center}{\titlefont\normalsize\textbf{#1}}\end{center}}}
+\newcommand{\SUBTITLE}[1]{\vspace{.5em}{\begin{center}{\titlefont\large\textbf{#1}}\end{center}}}
 \newcommand{\STRESSOR}[2]{\SECTION{#1}
-\vspace{-1em}
+\vspace{-1.5em}
 \scriptsize{
   \begin{itemize}
     #2
@@ -36,7 +39,7 @@
   \filbreak
 }}
 \newcommand{\TYPE}[2]{\SECTION{#1}
-\vspace{0em}
+\vspace{-.5em}
 \scriptsize{
   \begin{itemize}
     #2
@@ -50,16 +53,15 @@
 \begin{document}
 
 \TITLE{How to Make a Force}
+\vspace{-2em}\SUBTITLE{Step One}
+\vspace{-1em}\footnotesize{\VAR{steps[0]}}
 
-\SUBTITLE{Step One}
-\small{\VAR{steps[0]}}
-
-\SUBTITLE{Step Two}
-\small{\VAR{steps[1]}}
+\vspace{-.5em}\SUBTITLE{Step Two}
+\vspace{-.75em}\footnotesize{\VAR{steps[1]}}
 
 \begin{multicols}{2}
 \SUBTITLE{Step Three}
-\center{\scriptsize{\VAR{steps[2]}}}
+\center{\vspace{-1em}\scriptsize{\VAR{steps[2]}}}
 
 \BLOCK{ for item in stressors }
 \STRESSOR{\VAR{item['name']}}{
@@ -72,7 +74,7 @@
 
  
 \SUBTITLE{Step Four}
-\center{\scriptsize{\VAR{steps[3]}}}
+\center{\vspace{-1em}\scriptsize{\VAR{steps[3]}}}
 
 \BLOCK{ for item in types }
 \TYPE{\VAR{item['name']}}{
@@ -83,16 +85,16 @@
 
 \end{multicols}
 
-\SUBTITLE{Step Five}
-\small{\VAR{steps[4]}}
+\vspace{-1em}\SUBTITLE{Step Five}
+\vspace{-1em}\footnotesize{\VAR{steps[4]}}
 
-\SUBTITLE{Step Six}
-\small{\VAR{steps[5]}}
+\vspace{-.5em}\SUBTITLE{Step Six}
+\vspace{-.75em}\footnotesize{\VAR{steps[5]}}
 
-\SUBTITLE{Step Seven}
-\small{\VAR{steps[6]}}
+\vspace{-.5em}\SUBTITLE{Step Seven}
+\vspace{-.75em}\footnotesize{\VAR{steps[6]}}
 
-\SUBTITLE{Step Eight}
-\small{\VAR{steps[7]}}
+\vspace{-.5em}\SUBTITLE{Step Eight}
+\vspace{-.75em}\footnotesize{\VAR{steps[7]}}
 
 \end{document}

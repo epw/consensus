@@ -12,6 +12,9 @@
 \usepackage{multicol}
 %\usepackage{extsizes}
 
+\parskip 0em
+\parindent 0ex
+
 \pagenumbering{gobble}
 
 \setmainfont [Path = fonts/,
@@ -26,9 +29,9 @@
 \newcommand{\TITLE}[1]{\begin{center}{\titlefont\Large\textbf{#1}}\end{center}}
 \newcommand{\SECTION}[1]{\vspace{.5em}{\noindent\titlefont\small\textbf{#1}}
 }
-\newcommand{\SUBTITLE}[1]{\vspace{.5em}{\begin{center}{\titlefont\normalsize\textbf{#1}}\end{center}}}
+\newcommand{\SUBTITLE}[1]{\vspace{.5em}{\begin{center}{\titlefont\large\textbf{#1}}\end{center}}}
 \newcommand{\STRESSOR}[2]{\SECTION{#1}
-\vspace{-1em}
+\vspace{-1.5em}
 \scriptsize{
   \begin{itemize}
     #2
@@ -36,7 +39,7 @@
   \filbreak
 }}
 \newcommand{\TYPE}[2]{\SECTION{#1}
-\vspace{0em}
+\vspace{-.5em}
 \scriptsize{
   \begin{itemize}
     #2
@@ -50,16 +53,15 @@
 \begin{document}
 
 \TITLE{How to Make a Force}
+\vspace{-2em}\SUBTITLE{Step One}
+\vspace{-1em}\footnotesize{Sit down with your list of stressors from the first session. Pick one of them. Then, pick a force type that compliments it.}
 
-\SUBTITLE{Step One}
-\small{Sit down with your list of stressors from the first session. Pick one of them. Then, pick a force type that compliments it.}
-
-\SUBTITLE{Step Two}
-\small{Write down anything you already know about this Force. For example, you might know some of its cast because they were named in the first session. You might know the name of the Force if that came up. The only things you absolutely should not fill in during this step are the Moves and the Countdown Steps. These will come during later steps.}
+\vspace{-.5em}\SUBTITLE{Step Two}
+\vspace{-.75em}\footnotesize{Write down anything you already know about this Force. For example, you might know some of its cast because they were named in the first session. You might know the name of the Force if that came up. The only things you absolutely should not fill in during this step are the Moves and the Countdown Steps. These will come during later steps.}
 
 \begin{multicols}{2}
 \SUBTITLE{Step Three}
-\center{\scriptsize{Choose a Type for this Force, and then choose one of the subtypes from the list below.}}
+\center{\vspace{-1em}\scriptsize{Choose a Type for this Force, and then choose one of the subtypes from the list below.}}
 
 \STRESSOR{Control:}{
 \begin{multicols}{2}
@@ -149,7 +151,7 @@
 
  
 \SUBTITLE{Step Four}
-\center{\scriptsize{Choose up to three Force moves from the stressor that this Force is based on. The Force Moves are listed below.}}
+\center{\vspace{-1em}\scriptsize{Choose up to three Force moves from the stressor that this Force is based on. The Force Moves are listed below.}}
 
 \TYPE{Organization}{
 \item Dogmatic (impulse: enforce some truth on the local area)
@@ -188,16 +190,16 @@
 
 \end{multicols}
 
-\SUBTITLE{Step Five}
-\small{If you have not named the Force, do so now. Likewise fill in any cast that are likely to come up right away. Write a brief description of the Force, and how it interacts with the world (ie the player’s characters and the other Forces)}
+\vspace{-1em}\SUBTITLE{Step Five}
+\vspace{-1em}\footnotesize{If you have not named the Force, do so now. Likewise fill in any cast that are likely to come up right away. Write a brief description of the Force, and how it interacts with the world (ie the player’s characters and the other Forces)}
 
-\SUBTITLE{Step Six}
-\small{Look at the impulse from the type this Force is based on, and write down a Code N outcome for the Force. These are broad categories, so narrow it down and make it specific to the Force you’ve built. This represents what happens when the Force progresses its goals or is left unchecked, and the effect it will have on the world. Since this is Code N on a status track, make sure it is a Newsworthy Event. It doesn’t have to be front page above the fold, but it should at least warrant a story in the local media.}
+\vspace{-.5em}\SUBTITLE{Step Six}
+\vspace{-.75em}\footnotesize{Look at the impulse from the type this Force is based on, and write down a Code N outcome for the Force. These are broad categories, so narrow it down and make it specific to the Force you’ve built. This represents what happens when the Force progresses its goals or is left unchecked, and the effect it will have on the world. Since this is Code N on a status track, make sure it is a Newsworthy Event. It doesn’t have to be front page above the fold, but it should at least warrant a story in the local media.}
 
-\SUBTITLE{Step Seven}
-\small{Write in the Code 40 and Code 20 Outcomes on the Force sheet. The Code 20 effect should be a measurable step towards the Code N Outcome, and something that would be noticed by the world (and likely the players’ characters). The Code 40 effect should either be a measurable step towards the Code N Outcome, or a measurable step towards the Code 20 Outcome. This should also be something noticed by the world, and will likely be the characters first hints at the Force’s Outcome.}
+\vspace{-.5em}\SUBTITLE{Step Seven}
+\vspace{-.75em}\footnotesize{Write in the Code 40 and Code 20 Outcomes on the Force sheet. The Code 20 effect should be a measurable step towards the Code N Outcome, and something that would be noticed by the world (and likely the players’ characters). The Code 40 effect should either be a measurable step towards the Code N Outcome, or a measurable step towards the Code 20 Outcome. This should also be something noticed by the world, and will likely be the characters first hints at the Force’s Outcome.}
 
-\SUBTITLE{Step Eight}
-\small{If you have used up each Stressor from your initial list, you’re done! Otherwise, return to step 1}
+\vspace{-.5em}\SUBTITLE{Step Eight}
+\vspace{-.75em}\footnotesize{If you have used up each Stressor from your initial list, you’re done! Otherwise, return to step 1}
 
 \end{document}
