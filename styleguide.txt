@@ -1,10 +1,14 @@
-Edit text in "Consensus Book.md"
+Edit text in "consensus.md"
 Use Markdown styling
 
 if you need to insert a "blank" in a playbook anchor, use 6 underscores
 
 for page break, type \pagebreak on its own line, with one blank line above and one below
 for new page, type \newpage on its own line, with one blank line above and one below
+
+for addressing the MC: \begin{MC} and \end{MC}
+for addressing the Player: \begin{Player} and \end{Player}
+for common voice: \begin{Narrator} and \end{Narrator}
 
 for links, type {{linkThe Text You Want to Link}}, this will link in html, and append (page xx) in pdf
 for anchors, type {{anchorThe Same Text From Your Link}}, on its own line, with one blank line above and one below, this will be invisible in both views (For some reason this appears to fail in windows Notepad++, but work when the space is added in ubuntu textedit)
