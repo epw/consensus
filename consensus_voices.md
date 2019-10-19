@@ -41,40 +41,93 @@ If you see a section that looks like this, we are talking to you in your role as
 
 ## Setting Up to Play
 
-First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another, people who feel safe with each other. One to be the Master of Ceremonies (or MC), and the rest to play Mages. More than that and it will be hard to keep everyone involved and keep track of everything that’s going on. Everyone should at least skim this book, and the MC should have read it more thoroughly.
+\begin{MC}
 
-You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper, and writing utensils to go around.
+First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another, people who feel safe with each other. You're the MC, and the rest of the players will play Mages. (Unless you don't want that much responsibility, in which case, see if you can pawn this role off onto one of them.) More people than that and it will be hard to keep everyone involved and keep track of everything that’s going on.
 
-You’ll need some pairs of normal, six-sided dice (d6s, if you prefer). Ideally, one pair for every Mage playing. The MC does not need dice; this isn’t that kind of game.
+You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper, and writing utensils to go around. You won't need dice for yourself, this isn't that kind of game, but might want to have a few pairs of six-sided dice for the other players.
+
+\end{MC}
+
+\begin{Player}
+
+First off you'll need a group to play with, and someone to take on the role of the MC. If there isn't someone to take on that role, maybe you can consider doing it. We'll guide you the whole way, we promise.
+
+You'll need a pencil and a pair of normal, six-sided dice (d6s, if you prefer). Check with the MC if you don't have them. Other than that, bring just your creativity and willingness to collaborate. Don't have any firm ideas set in stone, but also don't be afraid to bring to the table what you would like seeing. Games of Consensus often start to bring up images and symbols that feel real within the game. If you want to bring materials to show or make them, such as colored pencils, it can go a long way.
+
+\end{Player}
+
+\begin{MC}
 
 To get started, you’ll need a place reasonably free of distractions and interruptions, where everyone can get into character and start to imagine together. You’ll want comfortable seating and a table of some kind to spread out all the papers and roll dice on, and so everyone can see each other. Some people like to add to the ambiance, with music, candles, incense, grimoires, ravens’ skulls, or Tesla coils; be creative and take ownership of your space! Consensus tends to run about 6-12 sessions, so try to find somewhere you’ll be able to return to several times.
 
-Games of Consensus often start to bring up images and symbols that feel real within the game. Materials to show or make them, such as colored pencils, can go a long way.
+Try to have materials to help you quickly make little pieces of the world to hand to your players, such as scribbling out a "business card" or sketching a rough map. If you can, also faciliate creative expression for everyone,  with things like colored pencils and parchment paper.
 
-Finally, go to the First Session chapter, and begin to follow its rules.
+You'll have read through this book at least once, but when you're sitting down to your first session, go to the First Session chapter and begin to follow its rules.
+
+\end{MC}
 
 ## Roleplaying as a Conversation
 
-This is a roleplaying game, in which players take on the roles of characters in a story and describe, together, what happens. One player, the MC, tends to describe the world, most people in it, and how they respond to the actions of the characters played by the other players, getting input from them on how the world looks and works as appropriate. None of the players are competing with each other, though characters may be at odds. The objective of the game is to tell a story about wondrous things, and to have philosophical conversations about the nature of reality, and about the nature of humanity.
+\begin{MC}
 
-Overall, Consensus works by having all the players describe a setting together. It might be a city, much like one many of them know, but likely with a darker, more sinister slant. It might be a quiet town with secrets hidden just under the surface. Whatever it is, everyone should understand what it’s basically like, enough that they could easily describe a starting point for a new scene, and feel comfortable making up small details. Each player except the MC also describes a Mage, in much greater detail, from the clothes they wear to their beliefs about the universe. Don’t worry, the game helps you do it. The MC asks questions to help flesh out both the world and the characters.
+This is a roleplaying game, and your role is to describe the world, most people in it (including some Mages not played by other players), and how they respond to the action of the characters played by the other players. You will get input from the other players on how the world looks and works as guided by your rules. You aren't trying to compete with, outwit, or win against the other players, but you will provide obstacles and difficulties for the characters. The objective of the game is to tell a story about wondrous things, and to have philosophical conversations about the nature of reality, and about the nature of humanity.
 
-Then, the MC starts framing scenes, describing something that encourages action from a few Mages, and asks, “What do you do?” At this point, a conversation has begun. You answer, and the MC responds, building on what you said, and drawing in others at the table. The rules of the game add depth to the conversation, bringing up pointed questions or adding new complications to the story that’s developing. The rules, and details about your character, can help prompt you where you should go next, but in the end, you’re the one who decides what your character thinks and does.
+Overall, Consensus works by having all the players, including you, describe a setting together. It might be a city, much like one many of you know, but likely with a darker, more sinister slant. It might be a quiet town with secrets hidden just under the surface. Whatever it is, everyone should understand what it’s basically like, enough that any of you could easily describe a starting point for a new scene, and feel comfortable making up small details. Each other player also describes a Mage they'll be playing, in much greater detail, from the clothes they wear to their beliefs about the universe. You'll help them do it by asking questions to help flesh them out. They'll help you flesh the world out. You'll ask probing questions to help them help you.
 
+Then, you'll start framing scenes, describing something that encourages action from a few Mages, and ask a player, “What do you do?” At this point, a conversation has begun. They'll respond, and you'll build on what they said, and draw in others at the table. The rules of the game add depth to the conversation, bringing up pointed questions or adding new complications to the story that’s developing. Your rules, and input from the other players, will guide you as you faciliate the conversation.
+
+\end{MC}
+
+\begin{Player}
+
+This is a roleplaying game, and you will take on the role of a character in the story. You'll describe, with the others, what happens. One player, the MC, tends to describe the world, most people in it, and how they respond to the actions of the characters played by you and the other players, getting input from you on how the world looks and works as appropriate. None of the players are competing with each other, though characters may be at odds. The objective of the game is to tell a story about wondrous things, and to have philosophical conversations about the nature of reality, and about the nature of humanity.
+
+Overall, Consensus works by having all the players describe a setting together. It might be a city, much like one many of you know, but likely with a darker, more sinister slant. It might be a quiet town with secrets hidden just under the surface. Whatever it is, you should understand what it’s basically like, enough that you could easily describe a starting point for a new scene, and feel comfortable making up small details. You also describe a Mage, in much greater detail, from the clothes they wear to their beliefs about the universe. Don’t worry, the game helps you do it. The MC asks questions to help flesh out both the world and your character.
+
+Then, the MC will start framing scenes, describing something that encourages action from a few Mages, and asks someone, “What do you do?” At this point, a conversation has begun. When you're asked, you'll answer with your character's action or reaction. The MC responds, building on what you said, and drawing in others at the table. The rules of the game add depth to the conversation, bringing up pointed questions or adding new complications to the story that’s developing. The rules, and details about your character, can help prompt you where you should go next, but in the end, you’re the one who decides what your character thinks and does.
+
+\end{Player}
 
 ## Moves and Dice
 
-The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time the players look to the MC to see what happens next, the MC will respond with one of their moves. When the players describe what their characters do, it will often trigger one of the Basic moves or one of the Playbook moves. The structure of a move is as follows: (MC moves are a little different and will be explained in depth later)
+\begin{MC}
 
-The Trigger: This part will be bolded on the moves sheet or playbook. It takes the form of **“When you [do something]”** and may be very specific or may be more broad. In either case, when a player says that their character does something that fits one of these moves, the MC should call for them to roll it. If a player does not wish to roll that move, they should change their narration of what their character does so that it does not trigger the move. Likewise, as a player, you should never just say “I want to roll [move],” instead you must describe your character doing something that triggers that move. You can not roll the move without your character taking the action the triggers it, and you can not have your character take an action that triggers a move without also rolling it.
+The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time the other players look to you to see what happens next, or ask you a question about the world, you respond with one of your moves. When the players describe what their characters do, it will often trigger one of the Basic moves or one of the Playbook moves. If not, you respond with one of your moves. The structure of the players' moves is as follows:
 
-The Roll: Most moves (but not all of them) will have a roll associated with them. It will take the form of “Roll +[Something]” usually one of your character’s stats. A roll in Consensus is always two dice added together, plus whatever the move says. Regular dice with six sides and numbers or pips on them. Nothing fancy or weird. (If you want fancy or weird dice, take a look at our Hacking section for some options). 
+The Trigger: This part will be bolded on the moves sheet or playbook. It takes the form of **"When you [do something]"** and may be very specific or may be more broad. In either case, when a player says that their character does something that fits one of these moves, you should call for them to roll it. If a player does not wish to roll that move, they should change their narration of what their character does so that it does not trigger the move. Likewise, a player should never just say “I want to roll [move].” If they do, have them describe their character doing something that triggers that move. If they are describing something close to one of the triggers, you cn help them by suggesting how they could trigger the move. Players can not roll a move without their character taking the action that triggers it, and can not have their character take an action that triggers a move without also rolling it.
 
-The Outcome: In Consensus, a result of 10 or higher is a full success, the character should succeed at what they were attempting to do. A roll of 7-9 is a mixed success. The character should still succeed, but at some cost. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+, the move will give guidance. A roll of a six or less (notated 6-) is a failure, and means that the MC gets to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice your horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish though, they could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
+The Roll: Most moves (but not all of them) will have a roll associated with them. It will take the form of “Roll +[Something],” usually one of a character’s stats. A roll in Consensus is always two dice added together, plus whatever the move says. Regular dice with six sides and numbers or pips on them. Nothing fancy or weird. (If you want fancy or weird dice, take a look at our Hacking section for some options). 
+
+The Outcome: In Consensus, a result of 10 or higher (notated "10+") is a full success, and the character should succeed at what they were attempting to do. A roll of 7-9 is a mixed success. The character should still succeed, but at some cost. The move will give you guidance. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+. A roll of a six or less (notated 6-) is a failure, and means that you have to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice their horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish, though. They could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
+
+\end{MC}
+
+\begin{Player}
+
+The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time you look to the MC to see what happens next, the MC will respond with one of their moves. When you describe what your character does, it will often trigger one of the Basic moves or one of the Playbook moves. The structure of a move is as follows: (MC moves follow a different format)
+
+The Trigger: This part will be bolded on the moves sheet or playbook. It takes the form of **“When you [do something]”** and may be very specific or may be more broad. In either case, when you say your character does something that fits one of these moves, the MC will call for you to roll it. If you do not wish to roll that move, you should change the narration of what your character does so that it does not trigger the move. Likewise, you should never just say “I want to roll [move],” instead you must describe your character doing something that triggers that move. You can not roll the move without your character taking the action the triggers it, and you can not have your character take an action that triggers a move without also rolling it. If you are describing an action that you think should trigger a move and the MC isn't calling for it, you can remind them. This is especially relevant for your Playbook moves, which they might not know by heart.
+
+The Roll: Most moves (but not all of them) will have a roll associated with them. It will take the form of “Roll +[Something]” usually one of your character’s stats. A roll in Consensus is always two dice added together, plus whatever the move says. Regular dice with six sides and numbers or pips on them. Nothing fancy or weird.
+
+The Outcome: In Consensus, a result of 10 or higher (notated "10+") is a full success. Your character succeeds at what they were attempting to do. A roll of 7-9 is a mixed success. Your character still succeeds, but at some cost. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+. The move will give guidance. A roll of a six or less (notated 6-) is a failure, and means that the MC gets to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice your horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish though, they could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
+
+\end{Player}
+
+\begin{MC}
+
+Your moves have a slightly different structure. They are directives, such as "Set Up a Future Problem," "Give Them an Answer They Won't Like," or "Imprison Someone." When you use one, you'll use it as inspiration for what happens in the fiction of the game. For example, the player of an alchemist asks if their character has any eye of newt. This is a form of looking to you to see what happens, and so you make a soft move. You might pick "Set Up a Future Problem," and say "Yes, but only enough for what you want to do now, or the ritual you want to do later, but not both. What do you do?" This sets up their future problem of not having enough eye of newt for their ritual.
+
+When your rules tell you to make a Hard Move, you need to pick one that will allow you to change the fiction irrevocably. When you describe it, don't give the characters a chance to prevent it. 
+
+\end{MC}
 
 ## Stats
 
-The Stats in Consensus describe things about the character, what they’re good at, and what patterns they might reach for first in order to solve a problem. Stats can be in the range of -1 to +3, and are added to the dice rolls for relevant moves. The specific stats used in Consensus are:
+\begin{Player}
+
+The Stats in Consensus describe things about your character, what they’re good at, and what patterns they might reach for first in order to solve a problem. Stats can be in the range of -1 to +3, and are added to your dice rolls for relevant moves. The specific stats used in Consensus are:
 
 Static: as in unmovable, steady, set in your ways, and conservative.  
 Dynamic: as in creative, free-flowing, adaptable, easily moved, and inventive.  
@@ -82,7 +135,19 @@ Entropic: as in direct, active, unstoppable, forward, and destructive.
 Within: referring to the internal self, controlled reactions, ability to introspect, and know yourself.  
 Without: referring to the external world, connections, empathy and understanding.
 
+\end{Player}
+
+\begin{MC}
+
+The other players will keep track of their characters stats. It might be helpful for you to know what they are so that you know what moves the characters are likely to succeed or fail on, but other than that you don't need to interact with the stats much at all.
+
+\end{MC}
+
 ## The Life of a Mage
+
+\begin{Narrator}
+
+No matter what role you're taking on, this is some basic information you'll want to be thinking about.
 
 Mages in Consensus are people who have a deep belief about how the world works and how they can fit into it. This belief is strong enough to allow them to do what the game recognizes as magic, though they may deny that, because if the world really works by allowing people to speak words of power to command the elements, then speaking those words of power isn’t magic any more than using a computer is. Mages change the world just by existing, whether they like it or not, and these changes form the basis for many of the stories in Consensus.
 
@@ -90,10 +155,26 @@ Mages in Consensus are people who have a deep belief about how the world works a
 
 A Mage’s particular beliefs are summed up in their Paradigm. This describes what it is they believe that is different enough from the usual world that when acted on, the Mage produces magic. It suggests what they are generally capable of, what they are particularly good at, and what they think is impossible, whether for just themselves or for anybody. Understanding the depths of their own Paradigm is an important part of the journey for any Mage, and understanding the Paradigms of other Mages around them is key to successfully working together (as well as to not have a disastrous clash of worldviews).
 
+\end{Narrator}
+
+\begin{Player}
+
+This may sound like a lot to figure out when you don't even know the first thing about your character. You'll have help figuring out your character's paradigm as you make your character during the first session. There are also game rules assosciated with it, and you can see the {{linkMagic Chapter}} for more about those and about paradigms in general.
+
+\end{Player}
+
+\begin{MC}
+
+Unlike the stats, you need to understand the character's paradigms deeply. You'll ask probing questions to help the players understand them, and you'll need to keep a sharp eye on Mages trying to do things that their paradigm forbids. Neither you nor the other players need to have exhaustively explored and understood a Mage's paradigm to start out; a large part of playing the game is doing that exploration and learning exactly what a Mage's paradigm means for them.
+
 See the {{linkMagic Chapter}} for more on Paradigms.
+
+\end{MC}
 
 
 ### Hardship Breeds Revelation
+
+\begin{Narrator}
 
 Beliefs can be made stronger by being challenged, just like people. Very few people who lead an easy, charmed, unchallenged life develop the beliefs that are strong enough to transform them into a Mage. But, once they do Awaken, coming to understand their abilities, their story is just getting started. Difficulties remain, whether things they couldn’t shake from their past or new problems brought on by magic. The life of a Mage is never an easy one.
 
@@ -102,20 +183,38 @@ To get at this, Playbooks ask three questions: Why was your humanity trivialized
 
 ### Anchors and Inspirations
 
-Mages, just like anyone, are tied to people and things around them. Some of the most significant ties are to Anchors, the answers to the question “Why did you stay?”. These nonmagical people, places, and things hold a Mage back from their full potential, but also keep them from becoming lost. They require upkeep, since people have needs, apartments need rent, and traditions must be followed. If not seen to often enough, they will stop anchoring the Mage, leaving them that much closer to true power, or to disconnecting entirely from the world. It is also possible to lose an Anchor in one searing moment, when it becomes clear they didn’t matter to you like you thought they did (or they die, are broken, or lost).
+Mages, just like anyone, are tied to people and things around them. Some of the most significant ties are to Anchors, the answers to the question “Why did you stay?”. These nonmagical people, places, and things hold a Mage back from their full potential, but also keep them from becoming lost. They require upkeep, since people have needs, apartments need rent, and traditions must be followed. If not seen to often enough, they will stop anchoring the Mage, leaving them that much closer to true power, and to disconnecting entirely from the world. It is also possible to lose an Anchor in one searing moment, when it becomes clear they didn’t matter to you like you thought they did (or they die, are broken, or lost).
 
 Inspirations are the people, and occasionally magical beings, who further enlighten a Mage and help them see what might be possible. They act as counterbalances to the restraint from Anchors. An Inspiration doesn’t tend to actively inspire for long, but they are easy to reconnect with, which can be very rewarding.
 
+\end{Narrator}
+
+\begin{MC}
+
+You'll be framing a lot of scenes around these two types of characters, which means you'll be spending a lot of time portraying these characters. Make sure to ask probing and pointed questions so that you and the player who's Mage they're connected to are on the same page about who they are and what kind of relationship they have.
+
 See the {{linkAnchors and Inspirations chapter}} for more.
+
+\end{MC}
 
 
 ## Gear and Accoutrements
 
-A Mage is hopefully capable enough when armed only with their mind, but often will have a variety of supplements to draw on. They tend to have a few pieces of noteworthy gear that usually travels with them. In addition, they may have access to a special magical place, or a band of other Mages to work with, or a group of students who seek to learn their wisdom. For more on these things, see the {{linkGear and Accoutrements chapter}}.
+\begin{Player}
+
+Your Mage is hopefully capable enough when armed only with their mind, but they will have a variaty of supplements to draw on. They may have a few pieces of noteworthy gear, access to a special magical place, or a band of other Mages to work with. Some Mages even have a group of students who seek to learn their wisdom. You'll learn more about which of these things your mage has access to during the first session, and you can read more about them in the {{linkGear and Accoutrements chapter}}
+
+\end{Player}
+
+\begin{MC}
+
+A Mage is certainly capable enough when armed only with their mind, and beyond that your fellow players' Mages will have a variaty of other tricks, tools, and resources. Make sure to make note of promenent gear, locations, and especially people that are in their rules during the first session. You can see more in the {{linkGear and Accoutrements chapter}}.
+
+\end{MC}
 
 ## Status Tracks
 
-Consensus measures progress over time for a number of elements of the game, from health to a sinister plot. This is usually done with a Status Track, which is based on the Code system used in medical transport. Status Tracks start with no Codes marked off, then have Code 50 marked off, Code 40, and so on, down to Code 10 and then Code N, the “newsworthy event.” What this means will depend on what the Status Track is tied to, but Code N is always irrevocable, representing a fundamental change. When a Status Track’s Code 30 is marked off, it starts to “slip”, advancing towards Code N much more quickly. Problems that aren’t addressed early on can become much more difficult to head off.
+Consensus measures progress over time for a number of elements of the game, from health to a sinister plot. This is usually done with a Status Track, which is based on the Code system used in some medical transports. Status Tracks start with no Codes marked off, then have Code 50 marked off, Code 40, and so on, down to Code 10 and then Code N, the “newsworthy event.” What this means will depend on what the Status Track is tied to, but Code N is always irrevocable, representing a fundamental change. When a Status Track’s Code 30 is marked off, it starts to “slip”, advancing towards Code N much more quickly. Problems that aren’t addressed early on can become much more difficult to head off.
 
 For more on Status Tracks, see the {{linkStatus Tracks chapter}}.
 
@@ -1444,7 +1543,7 @@ Save up those images that speak to you from your favorite media about magic. Don
 
 **Create Ephemera**
 
-During the game things will come up that need a visual, tactile, or written aid. Draw maps of the cities, write the Mages letters from their mentors on aging parchment, write down the steps of a ritual to be included in a grimoire many years down the road. Play music or ambient sound if it fits the mood. Sketch characters, make props, bring the magic to our world just a little bit.
+During the game things will come up that need a visual, tactile, or written aid. Draw maps of the cities, write the Mages letters from their mentors on aging parchment, write down the steps of a ritual to be included in a grimoire many years down the road. Play music or ambient sound if it fits the mood. Sketch characters, make props, bring the magic to our world just a little bit. [Add something about the image of the MC handing materials to a Mage's player and saying "draw this", as an offer]
 
 **Use Character Names**
 
