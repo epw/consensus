@@ -385,11 +385,23 @@ The Mage who is leading the ritual rolls the move. The other Mages are necessary
 
 ### Place of Power
 
+\begin{Narrator}
+
 Places of power are locations with a high concentration of magic, for one reason or another. These tend to be naturally occurring, like ley-line nodes, which are jealously guarded secrets, or else constructed with a copious amount of time and energy from many Mages. Places with residual magic like this are paramount when putting together rituals of great power, so they are coveted by groups of Mages wishing to work large magics, or singular Mages who need to draw on great amounts of power. 
+
+\end{Narrator}
+
+\begin{MC}
 
 Some playbooks have access to a place of power through optional moves. Other places of power may show up during play. Be careful allowing the players to permanently gain access to a place of power if there isn’t a playbook move specifically granting it to them. There should be a real benefit for taking that move, and that’s easier access to a space in which rituals work. It may be fine to give players that work for it temporary access to a place of power, or even access to a temporary place of power.
 
 Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama.
+
+\end{MC}
+
+\begin{Player}
+
+Your Playbook may have an option to take a Place of Power as one of their move choices. This gives you a large benefit, since you'll always have a place to conduct a ritual, but will also be a place you have to protect and it means your Mage will be somewhat stationary. If you don't take that move, or if your playbook doesn't give access to one, that doesn't mean you'll never be able to do a ritual, but it does mean that you'll have to find a Place of Power, perhaps asking a local hermit in the woods to borrow theirs, or sneaking into a cabal's inner sanctum and do the ritual before they get back.
 
 \newpage
 
