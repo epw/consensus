@@ -212,13 +212,15 @@ A Mage is certainly capable enough when armed only with their mind, and beyond t
 
 \end{MC}
 
+\begin{Narrator}
+
 ## Status Tracks
 
 Consensus measures progress over time for a number of elements of the game, from health to a sinister plot. This is usually done with a Status Track, which is based on the Code system used in some medical transports. Status Tracks start with no Codes marked off, then have Code 50 marked off, Code 40, and so on, down to Code 10 and then Code N, the “newsworthy event.” What this means will depend on what the Status Track is tied to, but Code N is always irrevocable, representing a fundamental change. When a Status Track’s Code 30 is marked off, it starts to “slip”, advancing towards Code N much more quickly. Problems that aren’t addressed early on can become much more difficult to head off.
 
 For more on Status Tracks, see the {{linkStatus Tracks chapter}}.
 
-\begin{Narrator}
+
 
 ## Why to Play
 
@@ -229,7 +231,6 @@ Maybe you’ve felt like you realized something true about the world, and you’
 \end{Narrator}
 
 \newpage
-
 
 {{anchorMagic Chapter}} 
 
