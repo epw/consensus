@@ -25,6 +25,10 @@ Would you like to find out?
 
 Most of this book will be addressed to you, the player, in one of two roles. The first role is the Master of Ceremonies, or MC, who facilitates conversation and play. This is the player whose job it is to make the moves that keep the conversation flowing, in some games this role would be called the GM. The second role is the player of a Mage in the game, who embodies a particular character. They choose and portray this character's thoughts and actions, contributing to the story primarily from that character's perspective. No matter which role you plan to take, feel free to read anything and everything you see herein. This isn't the kind of game that keeps secrets from one role or the other. That said, the reason we break it out like this, is so that you don't have to read more than you want to.
 
+Different people will have different entry points into understanding this game. After you finish chapter 1, here are some places you might skip to:
+
+If you're the kind of person that wants to learn about the flavor of the game, you can continue on to chapter 2, Magic. If you're the kind of person who really needs a character to latch onto before you understand the game, take a look at the Playbooks in Appendex A. If you understand a game best through the actions that it encourages you to take, it's worth taking a look at The Moves chapter. If you want to get an idea of how the game plays out, you can skip to the First Session chapter, but be sure to read on, because it doesn't go into depth about a few important things. If you do take any of these options besides moving right on to chapter 2, there will likely be a lot of terms you don't understand, but that's okay, you can look them up in the glossary, or you can just keep reading the rest of the book where they will be defined.
+
 \end{Narrator}
 
 \begin{MC}
@@ -238,7 +242,15 @@ Maybe you’ve felt like you realized something true about the world, and you’
 
 \begin{Player}
 
-Ask three Mages what magic is, and you'll get at least six answers, and one might be that there's no such thing as magic, this is just how the world works. Your Mage will have their own way of looking at magic, called their Paradigm. It 
+Ask three Mages what magic is, and you'll get at least six answers, and one might be that there's no such thing as magic, this is just how the world works. Your Mage will have their own way of looking at magic, called their Paradigm. It defines how they do magic, but also how they look at the world. Your Playbook will help you build a Paradigm, so don't feel like you have to figure it all out while reading this. All this is against the backdrop that is the Consensus, which is sort of like the Paradigm of the dominant society around you. Because you are a Mage, your Paradigm conflicts with the Consensus in some ways. Magic is the things you can do because they fit in your Paradigm, but are not in the Consensus. Magic that you can hide so it doesn't look impossible within the Consensus is called Harmonious, and is fairly safe. Other magic, that cannot be explained or easily rationalized, is called Rending, and is one of the most dangerous actions a Mage can take. A major concern for Mages is finding ways to solve their problems that remain Harmonious.
+
+\end{Player}
+
+\begin{MC}
+
+Magic, and doing magic, is probably why you and your players picked up this game. Despite that, this game is focused on the people themselves, their interactions, and their paradigms. Magic just happens to be one of the clearest and most straightforward expression of Paradigm available to most Mages. During this game, one of your jobs will be exploring and helping the players conceive of and define their Mage's paradigms. This exploration starts as they make their characters, but continues during play, and in fact makes up a large part of it. You'll also provide the other magic in the world. You will also be playing the part of the Consensus, helping to decide what magic is subtle enough to be Harmonious, and what is just so obvious that it smashes through the veil of reality and is Rending.
+
+\end{MC}
 
 ## Paradigm
 
