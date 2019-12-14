@@ -235,7 +235,9 @@ Maybe you’ve felt like you realized something true about the world, and you’
 
 # Magic
 
-What is magic you may be asking? Or "Where the heck is all the magic, I thought that’s what this game was supposed to be about!" Well look no further.
+\begin{Player}
+
+Ask three Mages what magic is, and you'll get at least six answers, and one might be that there's no such thing as magic, this is just how the world works. Your Mage will have their own way of looking at magic, called their Paradigm. It 
 
 ## Paradigm
 
