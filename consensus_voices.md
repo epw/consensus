@@ -387,7 +387,7 @@ The Mage who is leading the ritual rolls the move. The other Mages are necessary
 
 \begin{Narrator}
 
-Places of power are locations with a high concentration of magic, for one reason or another. These tend to be naturally occurring, like ley-line nodes, which are jealously guarded secrets, or else constructed with a copious amount of time and energy from many Mages. Places with residual magic like this are paramount when putting together rituals of great power, so they are coveted by groups of Mages wishing to work large magics, or singular Mages who need to draw on great amounts of power. 
+Places of power are locations with a high concentration of magic, for one reason or another. These tend to be naturally occurring, like ley-line nodes, which are jealously guarded secrets, or else constructed with a copious amount of time and energy from many Mages. Places of magic like this are paramount when putting together rituals of great power, so they are coveted by groups of Mages wishing to work large magics, or singular Mages who need to draw on great amounts of power. 
 
 \end{Narrator}
 
@@ -402,6 +402,8 @@ Similarly, be careful of restricting access to or taking away places of power ga
 \begin{Player}
 
 Your Playbook may have an option to take a Place of Power as one of their move choices. This gives you a large benefit, since you'll always have a place to conduct a ritual, but will also be a place you have to protect and it means your Mage will be somewhat stationary. If you don't take that move, or if your playbook doesn't give access to one, that doesn't mean you'll never be able to do a ritual, but it does mean that you'll have to find a Place of Power, perhaps asking a local hermit in the woods to borrow theirs, or sneaking into a cabal's inner sanctum and do the ritual before they get back.
+
+\end{Player}
 
 \newpage
 
