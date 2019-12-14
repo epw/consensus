@@ -218,6 +218,7 @@ Consensus measures progress over time for a number of elements of the game, from
 
 For more on Status Tracks, see the {{linkStatus Tracks chapter}}.
 
+\begin{Narrator}
 
 ## Why to Play
 
@@ -225,9 +226,9 @@ Maybe you want to feel what it would be like to be able to seize spirits by thei
 
 Maybe you’ve felt like you realized something true about the world, and you’ve been waiting for something that says it’s real, for a long time.
 
-\newpage
+\end{Narrator}
 
-\setlength{\parindent}{0em}
+\newpage
 
 
 {{anchorMagic Chapter}} 
@@ -2455,6 +2456,8 @@ Finally, it is reasonable to change details of a Force from time to time. Changi
 The Cast of a Force can constantly be in flux, as new characters who are members are established, and as old ones may leave the area, change allegiances, or even be rendered permanently ineffectual.
 
 Moves usually shouldn’t change, since they are core to the Force. You might add more from the appropriate Stressor’s list, if you have less than three written down and discover a new one that makes sense. The moves also might change during a major event, such as the Force hitting Code N. In the reconfiguring that happens as a new goal is selected, old capabilities may be abandoned or made irrelevant, and they may seek or discover new methods.
+
+\setlength{\parindent}{0em}
 
 # The Characters (Apendex A)
 
