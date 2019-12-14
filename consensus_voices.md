@@ -254,19 +254,33 @@ Magic, and doing magic, is probably why you and your players picked up this game
 
 ## Paradigm
 
+\begin{Player}
+
 You need light to see. You need air to breathe. Things fall when you drop them. Electricity only flows in a complete circuit. There are radioactive metals. The sun is a star, and the moon reflects its light.
 
 All of these are very likely part of your model of how the world works. You can use this model to plan future actions, and to understand what must have happened when you’re learning about something. Your Paradigm for the world involves known physical laws, social norms, likely causes and effects, and so on. It even includes things in which you don’t understand the underlying causes, but you do know outcomes. You don’t have to understand the full complexity of the global financial system to know that you’ll be in trouble if you don’t make rent.
 
-A Mage’s Paradigm is similar. It covers how the world works, on some fundamental and some specific levels. The difference is that this Paradigm includes things which most humans would consider to be impossible. It might be that there is an ancient language, infused with the power to affect the world if spoken aloud. It might be that a divine power has chosen them to work the power’s will in the world, and as long as they are acting in line with the plan, they can perform miracles. It even might be a branch of physics that is hitherto unexplored by conventional science, allowing access to other dimensions and enabling wonderous devices. Mages do live in something akin to the real world, so their Paradigms will include major parts of the Paradigm they had before they Awakened, as a backdrop.
+Your Mage’s Paradigm is similar. It covers how the world works, on some fundamental and some specific levels. The difference is that this Paradigm includes things which most humans would consider to be impossible. It might be that there is an ancient language, infused with the power to affect the world if spoken aloud. It might be that a divine power has chosen them to work the power’s will in the world, and as long as they are acting in line with the plan, they can perform miracles. It even might be a branch of physics that is hitherto unexplored by conventional science, allowing access to other dimensions and enabling wonderous devices. Your Mage does live in something akin to the real world, so their Paradigm will still include major parts of the Consensus, essentially the Paradigm they had before they Awakened, as a backdrop.
 
-The key to a Mage is that their Paradigm is not just a belief system: it really works. No matter how strongly a person who is not a Mage believes that they can teleport, it isn’t going to work. However, a Mage can act according to their Paradigm, and what they expect will usually happen. So, if they believe that a ritual circle inscribed in the ground using an ancient language that describes a location will allow travel to that location if it is entered with a clear mind under a full moon, then that will work for them (most of the time, if they’re careful).
+The key to your Mage is that their Paradigm is not just a belief system: it really works. No matter how strongly a person who is not a Mage believes that they can teleport, it isn’t going to work. However, a Mage can act according to their Paradigm, and what they expect will usually happen. So, if they believe that a ritual circle inscribed in the ground using an ancient language that describes a location will allow travel to that location if it is entered with a clear mind under a full moon, then that will work for them (most of the time, if they’re careful).
 
 Paradigms are very personal. Even when they are mostly shared, there are likely to be some details that differ. It’s an effect of being able to shape your own reality. This does mean that two Mage’s magics may not work for each other at all. In extreme cases, their beliefs may actively clash (see Opposed, page XX).
 
-When choosing a Paradigm for a character, look at the listed ones in the Playbook. The choices will cover a variety of possible belief systems tailored to that Playbook, and in fact each individual Paradigm choice is likely to encompass multiple possibilities. You will need to choose something that makes sense to you, the player, because you will need to justify your Mage’s actions in terms of this Paradigm. This also likely means there will be some interpretation, as there are multiple ways to use the aspects written out for each Paradigm to describe a view of the world.
+When choosing a Paradigm for your character, look at the listed ones in the Playbook. The choices will cover a variety of possible belief systems tailored to that Playbook, and in fact each individual Paradigm choice is likely to encompass multiple possibilities. You will need to choose something that makes sense to you, the player, because you will need to justify your Mage’s actions in terms of this Paradigm. This also likely means there will be some interpretation, as there are multiple ways to use the aspects written out for each Paradigm to describe a view of the world.
 
 It is difficult to summarize all of a person’s beliefs in a small section. In Consensus, key aspects that are relevant to magic are called out.
+
+\end{Player}
+
+\begin{MC}
+
+A Paradigm is a way of looking at the world, a structure that helps make sense of things. Mages are defined in large part by having a Paradigm that does not line up perfectly with the local dominant beliefs about how the world works, and being able to act according to their own beliefs successfully.
+
+Of course, a character will have had an entire life to build up beliefs and explore them, while the player might have just made them a few minutes ago. One of your main jobs will be to help construct and expand the players' Mages' Paradigms. They may need help making choices on their character sheets, and you will ask probing questions to help flesh out what the choices actually mean. If a character believes in a divine power, what does it mean that there is evil in the world? Do they receive magical abilities specifically to fight it, or are they just using the divine ways which were there anyway? If a character knows a magical language they can use to construct spells, where did the language come from? Why does it, in particular, have power?
+
+Playbooks call out a few major features of Paradigms for their characters. You can also use these as inspiration for other Mages who show up in the world.
+
+\end{MC}
 
 ### Title
 
