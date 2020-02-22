@@ -413,7 +413,7 @@ Your Playbook may have an option to take a Place of Power as one of your move ch
 
 \begin{Player}
 
-As you might have guessed, this section is addressed to the Master of Ceremonies, or MC. That being said, there's no reason you can't read it! This isn't the kind of game that has secrets which must be kept away from the other players, and it might be interesting to find out what perspective the MC will have, and help see what expectations are in the game by default. However, if you don't want to read it, this chapter is perfectly safe to skip. Pick up in {{link The First Session}}.
+As you might have guessed, this section is addressed to the Master of Ceremonies, or MC. That being said, there's no reason you can't read it! This isn't the kind of game that has secrets which must be kept away from the other players, and it might be interesting to find out what perspective the MC will have, and help see what expectations are in the game by default. However, if you don't want to read it, this chapter is perfectly safe to skip. Pick up in {{linkThe First Session}}.
 
 \end{Player}
 
@@ -871,11 +871,23 @@ Take breaks when you feel like it. The game taking place in scenes gives you a l
 
 ## Before the First Session
 
-Make sure you have all the materials needed for play. A printout of each of the playbooks, a few copies of the basic moves sheet, an MC sheet, a copy of the Forces sheet, as well as the Internal Forces and Consensus Forces sheet. Read through the playbooks and basic moves if you haven’t already, they form the core of the game. You’ll also need a couple of dice. The ones with six sides and pips. Or numbers if you prefer. 
+\begin{Player}
+
+If you're interested in playing Consensus, you likely have some ideas that you'd like to see in a story about Mages. This is great! Keep those in mind. But, don't come with a character concept you're married to. Let the details be worked out at the first session, when you're hearing from all the other players. Likewise, if you don't have many ideas, you can check out our own inspirations in {{linkthe Ludography}}, but don't stress about it. You'll be able to get ideas and bounce things off your fellow players, and the game will guide you through the rest.
+
+Oh, and get a couple of dice to bring to the first session. The ones with six sides and pips. Or numbers if you prefer.
+
+\end{Player}
+
+\begin{MC}
+
+Make sure you have all the materials needed for play. A printout of each of the playbooks, a few copies of the basic moves sheet, an MC sheet, a copy of the Forces sheet, as well as the Internal Forces and Consensus Forces sheet. Read through the playbooks and basic moves if you haven’t already, they form the core of the game. Maybe bring a few pairs of dice in case any players forgot them.
 
 Read through this whole book. You don’t have to memorize it, but at least skim the parts about the different character playbooks, and read the rest with as much attention as you can spare. You’ll want to familiarize yourself with the process of creating Forces, but do not begin to create them. Not even one.
 
 You can also start to come up with some ideas for fantastic imagery to use, settings, themes, descriptions and the like, but don’t commit yourself to any plot, storyline, or even make any characters before the game. You’ll see why as you start to play, this is a collaborative effort, and the game is so much more fun when you can take those ideas and run with them.
+
+\end{MC}
 
 ## Character Creation
 
@@ -883,15 +895,29 @@ You can also start to come up with some ideas for fantastic imagery to use, sett
 
 ### Initial Expectations and Safety Rules
 
+\begin{Narrator}
+
 This is a game centered around humans with magical abilities, called Mages. It is set in modern, or at least semi-modern, times, in a world that looks more or less like our own, at least to ordinary people. It is meant to explore questions of humanity. It will not glorify violence, having power over your fellow humans, or exclusionary rhetoric. We get enough of that in the default reality, and Mages are drawn from marginalized communities as a general rule, not from those who already have the most power.
 
 Roleplaying involves vulnerability, and any game set in familiar times and dealing with philosophical questions can easily bring up topics that may make some people uncomfortable or even unwelcome. We very much want to support the use of the game to explore personal issues, but never at the expense of the players’ wellbeing. Thus, before even looking at the characters, here are some rules to follow throughout the game to help everyone push themselves exactly as far as they want to go, but no farther.
 
+\end{Narrator}
+
 #### Discuss and Align Themes
 
-The best thing you can do is talk about themes as a table. Find out what you all are interested in playing for. It doesn’t have to be exhaustive, but this is the time to find out whether you’re aiming for a game with a lot of romance and scheming, or a lot of hard looks at inequality, or peering into horrors beyond comprehension. Don’t hold things in reserve here. Learning what everyone expects so you can spring a surprise genre shift on them not only damages trust, it won’t work very well in a world where Mages really can shape reality. Be forthcoming with the truth. This won’t have to limit you. If you want to see Mages have to deal as they uncover one terrifying secret after another, tell the table that. If that excites them as much as it does you, it can be a great basis. Don’t forget that you shouldn’t be coming up with those secrets yet, though.
+\begin{MC}
+
+The best thing you can do is talk about themes as a table. Find out what themes you all are interested in playing for. It doesn’t have to be exhaustive, but this is the time to find out whether you’re aiming for a game with a lot of romance and scheming, or a lot of hard looks at inequality, or peering into horrors beyond comprehension. Don’t hold things in reserve here. Learning what everyone expects so you can spring a surprise genre shift on them not only damages trust, it won’t work very well in a world where Mages really can shape reality. Be forthcoming with the truth. This won’t have to limit you. If you want to see Mages have to deal as they uncover one terrifying secret after another, tell the table that. If that excites them as much as it does you, it can be a great basis. Don’t forget that you shouldn’t be coming up with those secrets yet, though.
 
 Pay particular attention to anything that players say they don’t want to see. Don’t push them on it, either, just be sure that you’ll be steering away from those topics. Note that these won’t necessarily be as simple as particular topics. "I don’t want the game to be about faeries" is fine, but so is “I don’t want to play a character who is abandoned by others.”
+
+\end{MC}
+
+\begin{Player}
+
+Talk about themes as a table. Find out what themes the other players are interested in playing for. Bring up whether you're aiming for a game with a lot of romance and scheming, or a lot of hard looks at inequality, or peering into horrors beyond comprehension. If you want to uncover secrets, talk about that!
+
+\end{Player}
 
 #### Explicit Safety Mechanics
 
