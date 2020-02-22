@@ -411,6 +411,12 @@ Your Playbook may have an option to take a Place of Power as one of your move ch
 
 # The Master of Ceremonies
 
+\begin{Player}
+
+As you might have guessed, this section is addressed to the Master of Ceremonies, or MC. That being said, there's no reason you can't read it! This isn't the kind of game that has secrets which must be kept away from the other players, and it might be interesting to find out what perspective the MC will have, and help see what expectations are in the game by default. However, if you don't want to read it, this chapter is perfectly safe to skip. Pick up in {{link The First Session}}.
+
+\end{Player}
+
 The Master of Ceremonies, or MC, facilitates conversation and play. This is the player whose job it is to make the moves that keep the conversation flowing, in some games this role would be called the GM. It’s hard to always have something interesting to say under any circumstances, so the rules that the MC has to follow help make sure there is always something entertaining. The following chapter will help you figure out what to say when the whole table looks at you to see what happens next. The next sections will provide the rules and structure for you to follow. These aren’t suggestions, these are your set of rules as the MC player, and following them is necessary to keep the game working smoothly.
 
 ## Agenda
