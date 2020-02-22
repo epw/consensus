@@ -417,7 +417,11 @@ As you might have guessed, this section is addressed to the Master of Ceremonies
 
 \end{Player}
 
-The Master of Ceremonies, or MC, facilitates conversation and play. This is the player whose job it is to make the moves that keep the conversation flowing, in some games this role would be called the GM. It’s hard to always have something interesting to say under any circumstances, so the rules that the MC has to follow help make sure there is always something entertaining. The following chapter will help you figure out what to say when the whole table looks at you to see what happens next. The next sections will provide the rules and structure for you to follow. These aren’t suggestions, these are your set of rules as the MC player, and following them is necessary to keep the game working smoothly.
+\begin{MC}
+
+The Master of Ceremonies, or MC, facilitates conversation and play. Your job is to make the moves that keep the conversation flowing, in some games this role would be called the GM. Because you're still going to be surprised by the story and play along with the other players, we still consider you a player, just with a special title on top. It’s hard to always have something interesting to say under any circumstances, so the rules that you must follow help make sure there is always something entertaining. The following chapter will help you figure out what to say when the whole table looks at you to see what happens next. The next sections will provide the rules and structure for you to follow. These aren’t suggestions, these are your set of rules as the MC player, and following them is necessary to keep the game working smoothly.
+
+\end{MC}
 
 ## Agenda
 
