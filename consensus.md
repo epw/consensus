@@ -1001,7 +1001,7 @@ Zamira, Kousan, Prudence, Orpheus, Sophie
 - (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - glimmering eyes, vibrant eyes, piercing eyes, innocent eyes
 - open face, laughing face, pained face, serene face, fake face
-- young body, burly body, tantalizing body, able body, flashy body
+- young body, burly body, tantalizing body, forgettable body, flashy body
 - crisp clothes, respectable clothes, stylish clothes, custom clothes, ill-fitting clothes
 - forbidden aura, enticing aura, waifish aura, vivid aura, purple aura
 
