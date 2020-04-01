@@ -173,7 +173,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Eilian, my oldest stepchild; My black cat, Shadow
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My estranged brother's dream journal; My father's service pistol; My little brother's baby blanket
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) My estranged brother's dream journal; My father's service pistol; My little brother's baby blanket
 
 ### Starting Gear
 
@@ -324,7 +324,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Lazarus, the man I saved from drowning; My well-meaning mother; Chance, my favorite nibbling
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My grandfather's old chipped pipe; My compass that doesn't point north; A leaf from the forests I knew from ______
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) My grandfather's old chipped pipe; My compass that doesn't point north; A leaf from the forests I knew from ______
 
 ### Starting Gear
 
@@ -436,7 +436,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Neon and Crystal, some kids I hang out with on the weekend; Leslie, who cares about me but just doesn't understand; ______, my greatest confidante
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My last gift from ______ before they left; The diamond necklace from ______; The well-worn T-shirt I always sleep in
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) My last gift from ______ before they left; The diamond necklace from ______; The well-worn T-shirt I always sleep in
 
 ### Starting Gear
 
@@ -554,7 +554,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) My best friend Ayah; Devon, my oldest rival; Zorrah, my forbidden love
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) A portrait of my own long-dead mentor; The gold necklace given to me by ______; A coal to remind me of ______
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) A portrait of my own long-dead mentor; The gold necklace given to me by ______; A coal to remind me of ______
 
 ### Starting Gear
 
@@ -704,7 +704,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Kell, my heart's delight; My widowed sister-in-law
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My wooden rose, a gift from my first love; My dog-eared holy text
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) My wooden rose, a gift from my first love; My dog-eared holy text
 
 ### Starting Gear
 
@@ -840,7 +840,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Agnes, my faltering grandmother; Red, my oddball neighbor
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) ______ from my childhood home; The engraved knife I found in ______; The yellowed love letters my parents exchanged
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) ______ from my childhood home; The engraved knife I found in ______; The yellowed love letters my parents exchanged
 
 ### Starting Gear
 
@@ -946,7 +946,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) My only uncle, Avi; Zeke, from my virtual community
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) The tree-house I built with ______; My frist hand-held console; My mint copy of ______; My High School Diploma, which I almost had to forge
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) The tree-house I built with ______; My frist hand-held console; My mint copy of ______; My High School Diploma, which I almost had to forge
 
 ### Starting Gear
 
@@ -1049,7 +1049,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) ______ who is always there for me; Allison, who taught me how to live; ______, who finishes my duets
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) The long-dead bouquet of flowers I was given for ______; The headphones that ______ got for me; The ______ my mother brought back from a business trip.
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) The long-dead bouquet of flowers I was given for ______; The headphones that ______ got for me; The ______ my mother brought back from a business trip.
 
 ### Starting Gear
 
@@ -1161,7 +1161,7 @@ Humans need shelter, a place to live, and a home to come back to. My **Shelter A
 
 Humans need connection, people they care about, or that care about them. My **Connection Anchor** is: (pick one) Iris, who will be my legacy; My family; Devin, my childhood chaplin
 
-Humans need memories, ties to the past and dreams of the future. My **Memories Anchor** is: (pick one) My well-polished Harley; My tattered, empty diary; My collection of smoothed stones
+Humans need memories, ties to the past and dreams of the future. My **Emotional Anchor** is: (pick one) My well-polished Harley; My tattered, empty diary; My collection of smoothed stones
 
 ### Starting Gear
 
@@ -2392,7 +2392,7 @@ Anchors cannot be magical in nature. Other Mages, spirits you’ve summoned, enc
 
 All characters start with Anchors, which say things about who they have been so far. Each playbook suggests different Anchors in the starting categories. As you choose them, think about how they keep you grounded, and human. Also think about what you need to do to keep them in your life, be it paying rent on an apartment, or taking care of a loved one. Note that you can choose to forego any of these Anchors, but you may be starting yourself at a disadvantage.
 
-Starting Anchors fall under three categories: Shelter Anchors, Connection Anchors, and Memories Anchors.
+Starting Anchors fall under three categories: Shelter Anchors, Connection Anchors, and Emotional Anchors.
 
 #### Shelter
 
@@ -2414,7 +2414,7 @@ Some starting Anchors are not completely filled in to start, they will have a bl
 
 Anchors require upkeep to remain. Every Anchor has a Status Track representing its condition. At the start of each session, mark off one Code from every Anchor’s Status Track. Come up with what this means. Frequently, it will not be the first Code marked for that Anchor, and so simply represents an exacerbation. In addition, as with all Status Tracks, if something happens which seems to suggest worsening of an Anchor’s condition or connection to you, mark off a Code.
 
-Upkeep for an Anchor involves doing whatever is needed to restore things to normal. Homes frequently cost Savings to upkeep in a literal sense (rent, bills, maintenance, and so on). Connection Anchors usually need to spend time with you, likely receiving your attention. Memories Anchors need to be kept from fading in your mind, often through routine or rote, and also may need physical maintenance. In general, performing upkeep for an Anchor takes a good amount of time, or savings, or has an opportunity cost, and clears the entire Status Track, restoring the connection. Notably, performing this upkeep should be something that grounds you in reality. If you are attempting to upkeep your Shelter Anchor by performing magic on it to tidy everything, you aren’t upkeeping the Anchor, you might in fact be slipping it. See the Transformation section later in this chapter for more examples.
+Upkeep for an Anchor involves doing whatever is needed to restore things to normal. Homes frequently cost Savings to upkeep in a literal sense (rent, bills, maintenance, and so on). Connection Anchors usually need to spend time with you, likely receiving your attention. Emotional Anchors need to be kept from fading in your mind, often through routine or rote, and also may need physical maintenance. In general, performing upkeep for an Anchor takes a good amount of time, or savings, or has an opportunity cost, and clears the entire Status Track, restoring the connection. Notably, performing this upkeep should be something that grounds you in reality. If you are attempting to upkeep your Shelter Anchor by performing magic on it to tidy everything, you aren’t upkeeping the Anchor, you might in fact be slipping it. See the Transformation section later in this chapter for more examples.
 
 Note that an Anchor’s Status Track can being slipping, like any other.
 
@@ -2434,7 +2434,7 @@ A former Anchor likely still exists in the world, and may even continue to inter
 
 #### Upkeep
 
-If an Anchor’s Status Track hits Code N, you have lost them. Depending on the nature of the needed upkeep, this could mean many different things about their place in the world. You might get evicted from your home, or find that the house has become literally unlivable. A Connection Anchor most likely feels neglected by you and decides to go their own way. A Memories Anchor might stop reminding you of what it once did, or it might finally break, and you feel your connection to that part of your life break as well.
+If an Anchor’s Status Track hits Code N, you have lost them. Depending on the nature of the needed upkeep, this could mean many different things about their place in the world. You might get evicted from your home, or find that the house has become literally unlivable. A Connection Anchor most likely feels neglected by you and decides to go their own way. An Emotional Anchor might stop reminding you of what it once did, or it might finally break, and you feel your connection to that part of your life break as well.
 
 #### Threats to Anchors
 
