@@ -2402,9 +2402,9 @@ A Shelter Anchor is literally that, an Anchor that gives you shelter. It can be 
 
 Connection Anchors are notable for their agency, as they are people or animals. Keep in mind that these Anchors can protect themselves from danger sometimes, but also have the choice to turn their backs on you. If they do so, it’s up to you at that point if they remain an Anchor...but if they do, they won’t make it easy on you.
 
-#### Memories
+#### Emotional
 
-Memory Anchors are the objects, signs, and places that connect to memories of the past and ideas of the future. They can be grounding, but need to be kept in your mind, and likely regularly interacted to or kept on hand, lest they slip away.
+Emotional Anchors are the objects, signs, and places that connect to memories of the past and ideas of the future. They can be grounding, but need to be kept in your mind, and likely regularly interacted to or kept on hand, lest they slip away.
 
 #### Filling in Blanks
 
