@@ -301,7 +301,7 @@ def playbookdata(name):
 			p.anchors['home'] = line[103:][:-1].split(';')
 		if 'My **Connection Anchor** is:' in line:
 			p.anchors['connection'] = line[113:][:-1].split(';')
-		if 'My **Memories Anchor** is:' in line:
+		if 'My **Emotional Anchor** is:' in line:
 			p.anchors['memories'] = line[103:][:-1].split(';')
 			
 
