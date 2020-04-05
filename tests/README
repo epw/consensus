@@ -7,3 +7,11 @@ with:
 
 Run the tests with:
   $ python3 playbooks.py
+
+It would be nice to add some textual awareness in the future, checking
+that notable phrases from the playbooks actually are in the PDFs. That
+would avoid embarrassing mistakes like when Eric changed "Memory
+Anchors" to "Emotional Anchors" and they disappeared from the
+playbooks. In theory, this could be done by using the
+playbook-processing code which extracts them from the Markdown, and
+exporting that data into something that the tests can process.
