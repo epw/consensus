@@ -2,3 +2,4 @@
 *.aux
 *.log
 *.tm
+__pycache__
