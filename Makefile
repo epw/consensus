@@ -59,5 +59,8 @@ commonmoves.pdf: basicmoves.pdf extendedmoves.pdf consensus.md
 all_playbooks.pdf: $(ALL_PLAYBOOKS)
 	$(PDFJOIN) $(ALL_PLAYBOOKS) --outfile all_playbooks.pdf
 
+test:
+	$(MAKE) -C tests test
+
 clean:
 	rm *.pdf *.aux *.log

@@ -8,6 +8,11 @@ with:
 Run the tests with:
   $ python3 playbooks.py
 
+Or just:
+  $ make test
+
+Which can even be done in the parent (project root) directory.
+
 It would be nice to add some textual awareness in the future, checking
 that notable phrases from the playbooks actually are in the PDFs. That
 would avoid embarrassing mistakes like when Eric changed "Memory
