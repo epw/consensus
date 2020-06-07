@@ -844,7 +844,7 @@ Humans need memories, ties to the past and dreams of the future. My **Memories A
 
 ### Starting Gear
 
-2 Savings
+- 2 Savings
 
 - Choose a prize that you won: An always-sharp knife; A large rainstick that sometimes works; A gold-plated hip-flask; A once-used guitar; An embellished leather jacket; A bleached animal skull.
 - Choose an impracticality: A large ornate mirror; Two sets black-tie attire; A high-powered telescope; A timeshare in the Hamptons; A 96" plasma TV; A marble bust of your head.
