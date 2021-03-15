@@ -1486,6 +1486,14 @@ Consensus Shift Status Tracks, and the racing Consnsus Force status tracks, work
 
 # The Moves
 
+\begin{MC}
+
+The move descriptions and explanations are directe to the other players, since they're the ones who will be rolling them. Howevrer, you should still be sure you know and understand them! They're the basic ways that Mages interact with the world, and so you will be calling for them as they are triggered, and interpreting the outcomes as needed. Many of these say things the MC will do, which are also your jobs.
+
+\end{MC}
+
+\begin{Player}
+
 ## The Basic Moves
 
 When you **assert your Paradigm** over another Mage’s, roll +Static (-1 if Tethered). On a 10+, hold 3, or on a 7-9, hold 1. You can spend your hold 1 for 1 to:
@@ -1644,13 +1652,25 @@ When you **describe a magical effect within your Paradigm but beyond your normal
 
 >Even Mages have their limits. Archimedes supposedly said, "Give me the place to stand, and I shall move the earth," but he would need that place, and a long enough lever. When a Mage thinks about what they could do if only they had the power, or the tools, they can usually come up with something. It might not be easily achievable and they might not want to give it up, but the possibility is there.
 
+\end{Player}
+
 ## Magic and Moves
+
+\begin{Player}
 
 There’s no one move in this game that you roll to just "Do Magic." Instead, magic infuses the very essence of the game. Almost any move you can roll could be triggered by you doing magic. Remember, you don’t tell the MC “I want to roll the Assert Your Paradigm move," you describe what your character does, and the MC will let you know if it triggers a move. 
 
 Playbook moves can be thought of in many ways as rote magic, spells your character is familiar enough with to get a consistent set of results when they try to cast them. If you describe doing magic, even magic that is close to but does not trigger a playbook move, it may just trigger a basic move instead, and have much more unpredictable results.
 
-In cases where the MC isn’t sure what move is triggered by a mage attempting to do slightly risky harmonious magic, it could be that they just don’t roll a move, and the MC makes a soft move in response. Or, in most cases a mage doing magic that doesn’t cause Backlash could be described as them selling a lie to the Consensus as a whole.
+\end{Player}
+
+\begin{MC}
+
+In cases where you aren't sure what move is triggered by a mage attempting to do slightly risky harmonious magic, it could be that they just don’t roll a move, and you just make a soft move in response. Or, in most cases a mage doing magic that doesn’t cause Backlash could be described as them selling a lie to the Consensus as a whole.
+
+\end{MC}
+
+\begin{Narrator}
 
 Let’s look at some examples of moves, and how they can be both mundane and magical.
 
@@ -1658,13 +1678,19 @@ Tobias is cornered, and really needs a distraction to get out of there. Because 
 
 Dove, on the other hand, is also cornered, but doesn’t want to use magic to get out of the situation, because they’ve been too recently reminded by the Consensus that magic doesn’t fix everything. So Dove’s player describes Dove throwing a rock at a dilapidated wall nearby, to bring it down on their pursuers and distract them long enough for Dove to get away. This is also enacting sudden (violent) and unexpected change on the world, even though there was no magic involved.
 
+\end{Narrator}
+
 ## Changing Flags
 
-You’ll set up your flags during the first session. Flags are special sorts of moves, made by the players, that encourage certain types of interaction with their mage. You can think of a flag as a move in the format of "When you **interact in a certain way with my mage**, mark experience." Once a flag has been hit (ie the move above has been triggered), it may or may not still be interesting for the player. Additionally, once your mage has hit someone’s flag, you can not do so again until they change it. Every time a flag is hit, and at the beginning of a session if a flag had previously been hit, that player may change the flag to better reflect how they want the other players’ mages to interact with their mage.
+\begin{Player}
+
+You’ll set up your initial flags during the first session. Flags are special sorts of moves, made by you and the other players, that encourage certain types of interaction with your mages. You can think of a flag as a move in the format of "When you **interact in a certain way with my mage**, mark experience." Once your flag has been hit (ie the move above has been triggered), it may or may not still be interesting for you. Additionally, once your mage has hit someone’s flag, you can not do so again until they change it. Every time your flag is hit, and at the beginning of a session if your flag had previously been hit, you may change the flag to better reflect how you want the other players’ mages to interact with your mage.
 
 ## Improvement
 
 Among the many improvement options available to your playbook, you may see options such as Gain another [playbook] move, Gain a move from another playbook, or Gain an advanced [playbook] move. Moves from your playbook are listed along with the moves you picked from when creating that character. Choose an additional one, and you now have access to it. When you gain a move from another playbook, try to choose one that someone else isn’t playing, or at least talk with the player using that playbook. The playbook moves are part of what make characters feel unique, and you don’t want to diminish that. When you gain an advanced playbook move, choose from the ones listed in this book for your playbook. These moves will radically alter the game and story, your whole table should be prepared for what that means.
+
+\end{Player}
 
 \newpage
 
