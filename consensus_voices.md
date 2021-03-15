@@ -959,9 +959,15 @@ This ensures that everyone at the table remains in control of what they will be 
 
 ### Magic
 
+\begin{Narrator}
+
 Consensus is fairly flexible in the type of magic it showcases, but there are some starting points to know so you’re all on the same page. Small, subtle magic is easily accessible to most Mages. Magic does not inherently carry a cost, we don’t track a mana pool that determines what spells we can cast, and so effects which are likely only noticed by the Mage in question may be produced at almost any time. Larger effects, more in line with advanced but still modern technology, are achievable with effort and help, or with practice. Technically, there is no true limit to what a determined Mage can achieve, but their achievement may be tempered by a great many caveats. Reality has ways of reigning in obvious magic, such that this is not a game where you can expect to see Mages casually flying through the air, being pointed up at by curious bystanders. But, a Mage’s life will be full of magic, both their own and other people’s, and it will be enough to help them with their problems, cause some other problems, but never truly make them all go away.
 
+\end{Narrator}
+
 ### Introduce Playbooks
+
+\begin{MC}
 
 Make the playbooks available, laying them all on the table or handing some out to each player to be passed around. In addition, read these short intros, unless everyone already seems to know what they want.
 
@@ -997,7 +1003,27 @@ If they want to be sure they play a character who is going to be helpful to the 
 
 Once people have their playbooks, they can start going through and selecting options and filling in blanks. The MC, as likely the one who has read this book the most, can help answer questions as they get started.
 
+\end{MC}
+
+\begin{Player}
+
+Playbooks are the collections of stats and specific rules that make up Mages. Each Playbook defines a dramatically different type of Mage, with different attitudes, talents, biases, and ways of doing magic. At the same time, each Playbook is just an archetype, covering a wide range of possible Mages. It is possible for two Mages created using the same Playbook to be very different people. Nevertheless, each active, player-controlled Mage in a game of Consensus should have their own unique Playbook. There is too much room for overlap and stepping on each other's toes, otherwise (in the frustrating way, not the fun, conversation-provoking way).
+
+Physically, Playbooks are double-sided tri-folded sheets of paper. There will be a front indicating the playbook name, and when you open it, a left column with a bunch of choices, starting with "Name." Other columns contain Stats and Advancements, Playbook Moves, Paradigms, and other information. Each Playbook will be similar, though some sections move around where needed.
+
+The first thing you need to do after discussing safety mechanics and basic assumptions about the world is picking out a Playbook. Because each Mage will have a unique Playbook, you can take it and write your choices and other character details directly on it. In this way, your Playbook becomes your character sheet, in addition to your Mage's archetype.
+
+There are a lot of Playbooks, and choosing among them might be overwhelming. Plus, what you want to play could depend on the other people at the table. Maybe you come assuming you'll play a potion-brewing witch straight out of the Scottish play, but when you hear someone else discussing their Mentor with an anarchist streak, you decide you'd rather play a Voiced who learned from the Mentor and now spreads word of their ideas. To help you decide, the MC will make all the Playbooks available, and read out short descriptions of each of them. Listens, then grab one and look over it. If it seems uninteresting, or whenever you are done with it, toss it back into the pile and pick out another. If you're having trouble drawing meaning out of a Playbook, ask the MC what parts you should look at. They can help direct you, depending on what will help you decide (some players think about what a Playbook will let them do, others think about what relationships their Playbook means they'll have, and still others just care about approaches to magic. All are fine!)
+
+This isn't a solitary activity; talk to the other players and see what they're thinking! Bounce ideas around. If you and someone else both want the same Playbook, you both should try to come up with a notably different idea you'd like based on a different Playbook, and then see if the new idea pulls either or both of you to those other Playbooks instead. If you are truly stuck, you could come up with something random but fair like rolling one of the dice you have available.
+
+Once you have selected a Playbook, you can start filling in the blanks, Name on down. If you don't understand anything or aren't sure, feel free to ask the table, or skip it to come back later. The single column will direct you to make all the choices you need to on your own for a starting character, all the rest you have to do is start thinking about your Mage as a full person, and answering any questions the MC has! They might latch on to certain details such as who some of your Anchors are and ask you to come up with answers.
+
+\end{Player}
+
 ### Stats
+
+\begin{Narrator}
 
 The stats are:
 
@@ -1008,6 +1034,8 @@ The stats are:
 * **Without**: referring to the external world, connections, empathy and understanding.
 
 Stats can never be higher than +3, and most will range from -1 to +2.
+
+\end{Narrator}
 
 ### Setting Expectations
 
