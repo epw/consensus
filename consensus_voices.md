@@ -1346,23 +1346,69 @@ If they are trying to heal quickly, with magic, likely to save someone, it is a 
 
 ## Anchor Status Tracks
 
-Each Anchor that each player character has on their playbook has a status track to keep track of their relationship with that Anchor. At the beginning of each session, each one of these status tracks is advanced by 1 code, and they may be advanced more during play. If one of these status tracks hits Code N, the Mage loses that anchor due to atrophy. If a player character spends a full scene tending to their relationship with an anchor or shares a Moment of Humanity with that anchor, clear that status track of all crossed off codes.
+\begin{Player}
+
+Each of your Anchors has a Status Track to keep track of your relationship with that Anchor. At the beginning of each session, each one of these status tracks is advanced by 1 code, and they may be advanced more during play. Just like with Health, an Anchor's Status Track that hits Code 30 starts to slip. At this point, things have gotten bad enough that you know that you have to deal with it soon, or you will lose them. If it hits Code N, you lose that Anchor. It might not cease to exist in the world, but it no longer Anchors your Mage. The relationship has fundamentally changed or permanently deteriorated. This could be as dramatic as a divorce or a house fire, or as subtle as you no longer feeling the same way when you visit the garden that used to be yours.
+
+You can tell the MC you would like to have your Mage spend some time tending to their relationship with an Anchor, or the MC might offer you a chance to. If you do, it will take a full scene, and you may have to solve problems that have come up, but at the end the MC will tell you to clear the Anchor's status track.
+
+In addition, if you share a Moment of Humanity with an Anchor, clear their status track.
+
+\end{Player}
+
+\begin{MC}
+
+Each Mage's Anchors has its own Status Track. They deplete of their own accord, with all having one Code marked off at the beginning of each session. You or the player can come up with what it means, either right then or when you are setting a scene based around an Anchor.
+
+If a player tells you they'd like to have their Mage spend time tending to an Anchor, try to make that be the next scene you show them in, if at all possible. These are the Anchor Scenes described above. Don't be afraid to question the player on how the Mage deals with however the relationship has deteriorated: where did the money come from to pay the utilities bill? What excuse will you give your parent for missing their show? How do you demonstrate to yourself that you are re-dedicating your meditation practice? Sometimes these can be answered with simple roleplaying, where you and the player get deeper into character and talk through things, and sometimes you might find more lines of tension in the world to pull on in the future.
+
+An Anchor Scene should be soley focused on the Anchor for it to count enough to clear the Status Track. Mages don't get to double-dip, that's what causes Anchor Status Tracks to fall in the first place.
+
+Exchanging a Moment of Humanity clears a Status Track because this can, by definition, only happen with other people. A person can forgive a lot when they are reminded of someone's humanity (the rent is less lenient).
+
+\end{MC}
 
 ## Portents
 
-From time to time, things will happen in game that feel like they deserve to be followed up on, but aren't tied to any obvious way to track them. Maybe a friend felt snubbed about something, maybe a character made a deal and it's unclear when the debt will be called in, maybe a character or player had an idea that was too juicy to just forget about. They can be large or small. It can even just be that something feels like it Matters, like the time I saw a character reach into their sister's mind and wipe away a memory. We knew a line had been crossed, and this should come back in the story. Anyway, when this happens, write down on a sheet of paper everyone can see, a short description of the thing, and a Status Track with just codes 20, 10, and N. At the start of every session, or whenever it feels appropriate, mark off another Code. When you hit Code N, bring the Portent into play somehow, and cross it off the list.
+\begin{Narrator}
+
+From time to time, things will happen in game that feel like they deserve to be followed up on, but aren't tied to any obvious way to track them. Maybe a friend felt snubbed about something, maybe a character made a deal and it's unclear when the debt will be called in, maybe a character or player had an idea that was too juicy to just forget about. They can be large or small. It can even just be that something feels like it Matters, like the time I saw a character reach into their sister's mind and wipe away a memory. We knew a line had been crossed, and this should come back in the story.
+
+\end{Narrator}
+
+\begin{MC}
+
+When this happens, write down on a sheet of paper everyone can see, a short description of the thing, and a Status Track with just codes 20, 10, and N. At the start of every session, or whenever it feels appropriate (they're always slipping), mark off another Code. When you hit Code N, bring the Portent into play somehow, and cross it off the list.
+
+\end{MC}
 
 ## Reality Breaks
 
+\begin{Narrator}
+
 Sometimes, Reality fights back. When a mage backlashes, if they are unlucky, they may find themselves in a reality break, a way the Consensus protects itself. [Reality Breaks](RealityBreaks) have two Status Tracks, which race each other.
 
-One Status Track describes how close the Mage is to escaping. The Mage’s player should keep track of it. It is advanced by a particular move defined by the player and the MC when the Mage first enters the Reality Break. The move’s trigger indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It is always of the form:
+\end{Narrator}
+
+\begin{Player}
+
+One Status Track describes how close the Mage is to escaping. You keep track of it. It is advanced by a particular move defined by you and the MC when the Mage first enters the Reality Break. The move’s trigger indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It is always of the form:
 
 "When **\[trigger\]**, advance the Reality Bubble Escape status track."
 
-The trigger should be relatively easy for the mage’s player to push for.
+The race that the two Status Tracks create will put some fairly serious pressure on your Mage, if they’re aware of it, or at leaston you. If the Mage is completely unwilling to change their ways, they could succumb in just a few scenes. However, since the trigger for the escape Status Track should be easy for you to hit, your Mage should be able to free themselves if they are willing to learn the lesson offered.
 
-The second Status Track describes how close the Reality Bubble is to permanently claiming the Mage, and the MC should keep track of it. This Status Track is advanced at the start of every scene in the Reality Bubble, and it is only a soft move to advance it in response to the mage going along with the scene, struggling against it when they shouldn’t, or failing to learn their lesson.
+If your Reality Bubble Escape status track reaches Code N, your Mage has escaped. They might be disoriented, and they might be upset or just relieved, but whatever it is, they're back in the normal, shared world with everyone else.
+
+The MC will be keeping track of the Reality Bubble Strength Status Track, and keeping you aware of where it stands. If it reaches Code N, your Mage ceases to be a playable character. Depending on the details of the exact type of Reality Bubble, they may or may not still be a presence in the world at all. Either way, it is time for you to start a new character, if you don't already have another to play (see XX). It should be quite obvious that this is happening for some time, so you should have lots of chances, whether acting as your Mage or invoking safety rules, if this outcome would upset you.
+
+\end{Player}
+
+\begin{MC}
+
+One Status Track describes how close the Mage is to escaping. The player keeps track of it. Work with them to define a move trigger that indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It should be relatively easy for the Mage's player to push for.
+
+The second Status Track describes how close the Reality Bubble is to permanently claiming the Mage, and you keep track of it. This Status Track is advanced at the start of every scene in the Reality Bubble, and it is only a soft move to advance it in response to the mage going along with the scene, struggling against it when they shouldn’t, or failing to learn their lesson.
 
 The race that the two Status Tracks create should put some fairly serious pressure on the Mage, if they’re aware of it, or at least the Mage’s player. If the Mage is completely unwilling to change their ways, the Status Track showing them slipping into the Reality Break should fill in at most three scenes. However, since the trigger for the escape Status Track should be easy to hit, the Mage should be able to free themselves if they are willing to learn the lesson offered.
 
@@ -1402,7 +1448,17 @@ When a reality break is created, follow the steps of the move:
 
     * This move specifically should be something entirely under the player’s control, because they will need to push their character to do it in order to win the status track race and keep their character.
 
+\end{MC}
+
 ## Forces
+
+\begin{Player}
+
+Forces are an MC tool you don't need to worry about unless you want to.
+
+\end{Player}
+
+\begin{MC}
 
 Each Force has a Status Track, representing how close it is to making an irrevocable change on the game world. These Status Tracks have descriptions added at Code 40, Code 20, and Code N. They are descriptive and prescriptive labels, so that when the Code is marked off, the description should be made true, but if it happens in the fiction and the Code is not yet marked off, then you should do so.
 
@@ -1410,9 +1466,21 @@ These Status Tracks can be advanced by MC moves, and this can often start a new 
 
 Force Status Tracks can also be reset, if they are given a major setback. This may also involve changing the descriptions, as the Force may have had to restructure or change plans.
 
+\end{MC}
+
 ## Consensus Shift
 
+\begin{Player}
+
 With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the {{linkAdvanced Moves}} section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
+
+\end{Player}
+
+\begin{MC}
+
+Consensus Shift Status Tracks, and the racing Consnsus Force status tracks, work exactly like all the others mentioned: They get advanced when moves dictate it, including if you choose to use Adjust a Status Track or, once they're slipping, Slip a Status Track.
+
+\end{MC}
 
 \newpage
 
