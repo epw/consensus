@@ -1039,7 +1039,9 @@ Stats can never be higher than +3, and most will range from -1 to +2.
 
 ### Setting Expectations
 
-While the players start making characters, the MC will be answering questions as they come up, and in between that should be setting expectations for the game to come. The following are some of the things we suggest getting out in front of.
+\begin{Player}
+
+While you're all making your characters, you'll be defining parameters of the world your game is set in. If someone says they are a Cabalist and their Cabal is a "book club" in a fraternity, then great! They have just indicated this game will include a fraternity, which means a college they're connected to, and so on. This, plus the work you did at the beginning around aligning themes, will help make sure everyone is on the same page. However, Consensus does have a few baked-in assumptions. You don't have to memorize these, but the MC should go through them while you're still working on your character.
 
 * Your characters don’t have to be friends, but at the time the game starts they should all know each other, and should be basically allies and not enemies, even if they have their disagreements. Characters can become enemies during play, but should start out on at least civil terms. These mages are notably and noticeably different from the unawakened masses, so they will have undoubtedly noticed each other.
 
@@ -1055,9 +1057,19 @@ While the players start making characters, the MC will be answering questions as
 
 * The MC isn’t out to get you, and isn’t your adversary. If they were, they could just introduce angry spirits that rip out your characters souls so they die. The end. That’s no fun for anyone. Similarly, they aren’t there to make you guess what they’re thinking, or feel smart by presenting puzzles that prove the players can’t read their mind. The MC and the players are both there to find out what’s going to happen to the Mages.
 
+\end{Player}
+
+\begin{MC}
+
+As the players create their characters, notice as they progress through things and ask specific questions about choices that interest you, such as how they got to know certain Anchors, what the first time using magic with their Paradigm was like, and so on. However, between asking these questions, and before the characters are complete enough to answer any, go over the expectations listed above. The game rules assume they will be true and some things won't work as well if they aren't included.
+
+\end{MC}
+
 ### Introductions
 
-Once everyone has the basics of their characters decided, go around the table and have everyone introduce their characters. Start with name and pronouns, and move on to more specific details.
+\begin{Narrator}
+
+Once everyone has the basics of their characters decided, the MC should go around the table and have everyone introduce their characters. Start with name and pronouns, and move on to more specific details.
 
 #### Paradigm
 
@@ -1073,23 +1085,61 @@ This is one element that can be skipped if the themes of the game suggest it won
 
 As everyone introduces their characters, people will likely start to suggest ideas about how they could be connected, or involved with pieces of the world that are brought up. That’s great! Try not to get too bogged down with it, but these connections help build the world the characters will inhabit.
 
+\end{Narrator}
+
 ### The Three Questions
 
-The MC will want to know the answers to each of the three questions on your playbook, "Why was your humanity trivialized?" “Why is your humanity still in question?” “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean. The MC should ask a few probing or leading questions about these, in order to understand them and start to connect them to the world, but don’t go too far here, leave things unexplored and open to changing, because the first scenes of the game will fill out exactly how these connect the characters to the world.
+\begin{Player}
+
+The MC will want to know the answers to each of the three questions on your playbook, "Why was your humanity trivialized?" “Why is your humanity still in question?”, and “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean.
+
+\end{Player}
+
+\begin{MC}
+
+Ask a few probing or leading questions about these, in order to understand them and start to connect them to the world, but don’t go too far here, leave things unexplored and open to changing, because the first scenes of the game will fill out exactly how these connect the characters to the world.
+
+\end{MC}
 
 ### Anchors
 
+\begin{Player}
+
+The MC will ask questions about your Anchors. They'll ask you as if you are the authority on them, because you are! It's possible that the short descriptions given in your Playbook will have made ideas leap to mind, and if so you should give those answers. Don't hold back here; it's much easier to get the reward of actually seeing ideas you like in play by bringing them up this early on. At the same time, it's just fine to say "I don't know" if you don't have ideas! If it's something necessary to understand the starting point for the world, the MC may suggest things until you find one you like, but if not, it can be left unknown to surface in play. This can be particularly interesting because it will help it slot into just the right spot in the story.
+
+\end{Player}
+
+\begin{MC}
+
 As the characters become ready, ask them about their Anchors. This is key to understanding what motivates the characters and to revealing the world around them. Find out what the Anchors are, and note this on your summary sheet. The most important things to know are how they keep the character anchored, that is, connected to the mundane and physical world, and what common ways for that connection to degrade are. For some cases, this might be easy. A Shelter Anchor that is the Mage’s house keeps them connected by being a home, and it can degrade by the rent coming due, housework building up, pipes bursting, and so on. Other Anchors may be more difficult. Whether clear or not, ask a few detailed questions about each Anchor, to make the player make up some answers. Ask where it came from, what a relative thinks of the Anchor, why this is the only one left, and so on. Don’t get too deep, since there will be time for that later, but seek to have a clear starting point.
+
+\end{MC}
 
 ### Flags
 
-Each character needs a Flag, which is a way that the player thinks it would be interesting for other characters to interact with them. For example, Piper’s player says that she wants to see Piper become more of a leader of the Mages, so she sets her flag as "Acquiesce to my authority". Others might include “Make me look after myself, too” or “Ask for my advice”. Other characters will gain experience for hitting these flags, as an incentive for the players to make it happen. Record these flags in a table where everyone can see them and know which characters have already hit which flags.
+\begin{Player}
 
-Have everyone declare their first Flags and write them in a shared, visible place. These Flags will help the players tell each other what kinds of early interactions they are expecting and hoping for, as well as a chance to start gaining experience right away. Because the Mages are new to the game, it’s likely they will be simple, and may even be based on things that the players expect to become quite common. For the first session, they should be obvious, play to your strengths and set expectations, rather than trying to subvert expectations that the table hasn’t seen established yet. For example, if Lazarus’ player wants to establish that he’s trusting to a fault, he might say to the table "Lazarus is pretty gullible, so my first flag is ‘Tell me a lie that I believe’. It shouldn’t be hard to make him believe."
+Your character needs a Flag, which is a way that you think it would be interesting for other characters to interact with them. If your character "hits" another character's flag, then your character marks experience. This is to give you a little incentive to have that interaction. It means you have a way to tell the rest of the table "please do this with my character." For the first sessions, everyone is still getting to know each other's characters, so it's likely and OK for them to be simple, and may even be based on things that you expect to become quite common. For the first session, play to your strengths and set expectations, rather than trying to subvert expectations that the table hasn’t seen established yet. For example, if Lazarus’ player wants to establish that he’s trusting to a fault, he might say to the table "Lazarus is pretty gullible, so my first flag is ‘Tell me a lie that I believe’. It shouldn’t be hard to make him believe."
+
+\end{Player}
+
+\begin{MC}
+
+Make a table on a piece of paper or something everyone can see, and record the flags as the players tell you theirs, so everyone can see what flags are available to them and which ones they've already hit. These Flags will help the players tell each other what kinds of early interactions they are expecting and hoping for, as well as a chance to start gaining experience right away. Because the Mages are new to the game, it’s likely they will be simple, and may even be based on things that the players expect to become quite common. Help anyone who is having trouble to come up with a fairly basic flag. A good standby would be something that causes them to trigger one of their Playbook Moves.
+
+\end{MC}
 
 ## First Scenes
 
-Once characters have been created, it’s time to play through the first scenes in the game. In Consensus, the first scenes we play through are related to the three questions that every character answers during character creation. Through this we’ll establish some shared history between characters, some current ties, and we’ll foreshadow future problems and complications. Depending on how much time you have available, you should aim for between 3 and 6 scenes for this part, which explore the answers to those three questions for multiple characters. Make sure each character is a part of at least one scene, preferably 2 or more that explore answers to different questions. Also make sure each question is the focus of at least one of the scenes.
+\begin{Player}
+
+Once your characters have been created and introduced, the MC will set a scene and before long should ask someone, "what do you do?" Sooner or later, maybe after a scene or two, that question will be directed to you. From this point onward, roleplay away! Think about how your character would respond, maybe inventing or discovering parts of their personality or the world you didn't know about. The first few scenes will help set up the rest of the game, possibly dipping into the past a little and exploring the three Humanity questions. Forces allayed for and against your characters will be established, Anchors and Inspirations will be met, and you'll start to see how your Mage acts in the world.
+
+\end{Player}
+
+\begin{MC}
+
+Once characters have been created, it’s time to play through the first scenes in the game. In Consensus, the first scenes you play through are related to the three questions that every character answers during character creation. Through this you’ll establish some shared history between characters, some current ties, and you’ll foreshadow future problems and complications. Depending on how much time you have available, you should aim for between 3 and 6 scenes for this part, which explore the answers to those three questions for multiple characters. Make sure each character is a part of at least one scene, preferably 2 or more that explore answers to different questions. Also make sure each question is the focus of at least one of the scenes.
 
 These are the first scenes you will be playing, so if you see the chance to have a move trigger, make sure you take it! These can be a great introduction to the mechanics as well as to our characters and the world.
 
@@ -1125,17 +1175,37 @@ You can go deeper here than earlier in character creation, as long as the answer
 
 ### Identifying the Stressor
 
-During the first session, after a scene or while a scene wraps up, the MC should take a look at the list of stressors, and think about which one was primary in the scene that played out. If it isn’t obvious, and it often will be, the MC can ask a couple more leading questions to really solidify one of the stressors. Each scene should have one stressor assigned to it after the fact, and the MC will use this to fill out the world before the second session.
+During the first session, after a scene or while a scene wraps up, take a look at the list of stressors, and think about which one was primary in the scene that played out. If it isn’t obvious, and it often will be, you can ask a couple more leading questions to really solidify one of the stressors. Each scene should have one stressor assigned to it after the fact, and you will use this to fill out the world before the second session.
 
 ### Number of Scenes
 
 Depending on how much time you have, the number of scenes are variable. However, we recommend between 3 and 6 because each scene turns into a Force in the world. Having less than 3 will result in a flat world and likely players will look at the Forces as challenges to overcome. Having more than 6 becomes very hard to keep track of and keep up with from session to session. There are already so many scenes that players will want to fit into the game, extra Forces will tend to fall by the wayside.
 
+\end{MC}
+
 ## Ending a Session
 
-At the end of a session, before wrapping up and putting everything away, there’s a few things that you should do as a table. First, you should note down a little bit about where you ended, whether on a cliffhanger or with some resolution, and make sure to write down any lingering Portents that have come up during play. Then, you should proceed through the end of session move, following its instructions. Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
+\begin{Player}
+
+At the end of the session, the MC will make sure that any lingering Portents are recorded for next time. Speak up if you think anything is missing! The End of Session move will trigger, and ask some questions of everybody there. You may find it helpful to jot down a few notes about what was going on and what would interest you to pick up with your character next time (or you could just wing it. It's not like your plans are likely to go off unaltered anyway.) Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
+
+\end{Player}
+
+\begin{MC}
+
+At the end of a session, before wrapping up and putting everything away, there’s a few things that you should do with the table. First, you should note down a little bit about where you ended, whether on a cliffhanger or with some resolution, and make sure to write down any lingering Portents that have come up during play. Then, you should proceed through the end of session move, following its instructions. Feel free to draw attention to anything you particularly enjoyed from another player as the session wraps up!
+
+\end{MC}
 
 ## After the First Session
+
+\begin{Player}
+
+You don't have any jobs between sessions! It can be fun to think about what your character might do, but don't feel obligated to. Just don't lose your character sheet. Give it to the MC if you're afraid you might lose it.
+
+\end{Player}
+
+\begin{MC}
 
 Give it a little bit of time, don’t start this right after the first session. Let some ideas percolate through your dreams and subconscious. Give it at least a day or two.
 
@@ -1143,9 +1213,21 @@ Now, take a look at that list of Stressors you got from the scenes in the first 
 
 When thinking of Forces, because you need to have interesting things to say, choose what resonates with you. Pick things that put you in the mindset of: deep connections, magical ethics, everyday miracles, and things that lurk in shadows. Pick things that you would love to read, or binge-watch. Things that make your mind overflow with vivid imagery, things that make you yearn to explore and change the world.
 
+\end{MC}
+
 ## The Second Session and Beyond
 
+\begin{Player}
+
+At subsequent sessions, you have less work to do at the beginning. The MC will lead you through checking on things that carried over from last session and might need to be updated, such as Flags and "ongoing" modifiers.
+
+From time to time, the MC might have a "letter" for you about your character. This might tell you something about what happened to them since the last session ended, and could give you a choice or a roll to make.
+
+\end{Player}
+
 ### Starting a Session
+
+\begin{MC}
 
 Gather your MC sheet, PC summary sheet, Forces, Flags, and Portents. Read out Flags for all the players’ characters, and note which ones can be changed. Mark one Code off every Portent, and mention them as you do so.
 
@@ -1177,9 +1259,11 @@ Frame scenes so that everyone knows where they are starting and can use that as 
 
 * Have an NPC ask one character for help in a way that will put them at odds with another character.
 
-* Ask a leading question of a character that seems like it could have an interesting answer to play out ("Who surprised you when they showed up to worship at your church this morning?"). Only follow up if it seems likely to go somewhere.
+* Ask a leading question of a character that seems like it could have an interesting answer to play out ("Who surprised you when they showed up to worship at your church this morning?"). Only follow up if it seems likely to go somewhere. If not, ask another question or try another one of these starting points.
 
 When framing a scene, define what is needed to get started; think about time, place, and who is around. Let other details be filled in naturally. Keep an eye on when the scene has fulfilled its purpose, so it doesn’t begin to drag on. When the major tension of a scene has resolved, whether that tension was there at the outset or arose within the scene, wrap it up and move on to the next one. Stories often leave you on a cliffhanger, and it can be fun to do that here. Sometimes the end of the scene is left up to the audience to fill in with their imagination, they know the outcome, but what exactly transpired doesn't need to happen "on screen". Followups can either be briefly mentioned, or made into new scenes of their own.
+
+\end{MC}
 
 \newpage
 
