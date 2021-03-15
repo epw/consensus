@@ -1272,13 +1272,15 @@ When framing a scene, define what is needed to get started; think about time, pl
 
 # Status Tracks
 
+\begin{Narrator}
+
 Many things in Consensus have a sort of progression. Even if individual events aren’t precisely connected, one layers on top of another, getting more and more intense until reaching a breaking point.
 
-To represent this, Consensus uses Status Codes similar to those used in medical transport, ranging from Code 50 down to Code N.
+To represent this, Consensus uses Status Codes similar to those used in medical transport, ranging from Code 50 down to Code N. They're described here first, and other Status Tracks are shaped by these standards.
 
 ## Harm and Healing
 
-Every playbook has a section labeled "Health," which is the primary status track players will keep track of for their PCs. These are directly based off the medical transport codes listed below:
+Every playbook has a section labeled "Health," which is the primary status track each Mage's player will keep track of. These are directly based off the medical transport codes listed below:
 
 * **Code 50** Basic transport (not serious)
 
@@ -1292,15 +1294,23 @@ Every playbook has a section labeled "Health," which is the primary status track
 
 * **Code N** Newsworthy event
 
-No matter how injured you are, if you physically push yourself while injured, the injuries may get worse. Being strenuous with a cracked rib is just asking to end up with a punctured lung after all. (MCs note the Adjust a Status Track move) This is especially true when your status track has hit (crossed off) Code 30 of below. We call this state "slipping." When a status track is slipping, the MC may advance that track as a soft move, in response to the normal course of play, where otherwise advancing a status track that is not slipping is usually a hard move. For your health track this represents injuries that will kill you without medical attention. A punctured lung, a cracked skull, the type of things if you just try to rest and recuperate will end up killing you. Note how this means the more you are injured, the faster you slip towards Code N.
+No matter how injured you are, if you physically push yourself while injured, the injuries may get worse. Being strenuous with a cracked rib is just asking to end up with a punctured lung after all. This is especially true when a status track has hit (crossed off) Code 30 of below. We call this state "slipping." When a status track is slipping, the MC may advance that track as a soft move, in response to the normal course of play, where otherwise advancing a status track that is not slipping is usually a hard move. For the health track this represents injuries that will kill without medical attention. A punctured lung, a cracked skull, the type of things if you just try to rest and recuperate will end up killing you. Note how this means the more someone is injured, the faster they slip towards Code N.
 
-Code N, as noted above is a Newsworthy Event, which means something large enough to make headlines (at least for the newspaper of your character’s life) has happened, and is almost always irrevocable. In the case of your health status track, this often means death. If you take harm that would put you at Code N for your health track, you roll the Death Move. 
+Code N, as noted above is a Newsworthy Event, which means something large enough to make headlines (at least for the newspaper of a character’s life) has happened, and is almost always irrevocable. In the case of the health status track, this often means death. If a player's character takes harm that would put them at Code N for their health track, the player rolls the Death Move. 
+
+\end{Narrator}
+
+\begin{Player}
 
 Each time you mark off a Code of health, you should write an idea of what the injury is that came from the harm on the line next to that code. For code 50, this could be as simple as a sprained wrist. For code 30 we might see an injury like blood loss or a gunshot wound.  Code 10 is often reached from a number of compounding or untreated injuries, and therefore might not look on its own like the character is at death’s door, but with the other listed injuries, it should be clear that they can not easily continue.
 
-Harm follows from the fiction. The MC can use the following levels of harm to reference when **dealing damage**:
+\end{Player}
 
-* **0 Harm **Small cuts
+\begin{MC}
+
+Harm follows from the fiction. You can use the following levels of harm to reference when **dealing damage**:
+
+* **0 Harm** Small cuts
 
 * **1 Harm** A solid punch
 
@@ -1312,13 +1322,27 @@ Harm follows from the fiction. The MC can use the following levels of harm to re
 
 Since one of the primary purposes of Harm is triggering the harm move, harm that wouldn’t necessarily leave any lasting effects on its own can be represented by 0 Harm. The move is rolled as usual, and consequences may occur. An injury that causes 0 harm does not spend Preparations.
 
+\end{MC}
+
 ### Healing
+
+\begin{Player}
 
 Healing, whether mundane or magical can help you recover from harm. In some cases this will cause the MC to tell you to erase codes off of your status tracks. 
 
-Mundane healing revolves around medical treatment, up to and including hospitalization. If your player character is in serious need of medical attention, sometimes the best thing to do is call an ambulance. Of course hospitals come with some risks, from snooping nurses wondering where your injuries came from to the ever present threat of enormous medical bills if your game takes place in the United States. It also takes time. Healing up to code 40 or so in a hospital can be relatively quick, sometimes all they need to do is surgery or set a broken bone. Codes 40 and 50 are usually slower to heal, and require physical rest. There are even some things that mundane healing can not fix. These can include injuries beyond modern medicine, or even injuries beyond modern scientific understanding. A hospital will not be much help if your Code 30 injury is "My Aura is being siphoned off by a Demon"
+Mundane healing revolves around medical treatment, up to and including hospitalization. If your character is in serious need of medical attention, sometimes the best thing to do is call an ambulance. Of course hospitals come with some risks, from snooping nurses wondering where your injuries came from to the ever present threat of enormous medical bills if your game takes place in the United States. It also takes time. Healing up to code 40 or so in a hospital can be relatively quick, sometimes all they need to do is surgery or set a broken bone. Codes 40 and 50 are usually slower to heal, and require physical rest. There are even some things that mundane healing can not fix. These can include injuries beyond modern medicine, or even injuries beyond modern scientific understanding. A hospital will not be much help if your Code 30 injury is "My Aura is being siphoned off by a Demon."
 
-Magical healing on the other hand, has its own host of problems. Sometimes in the moment it may seem necessary in order to save someone, but magical healing almost always comes at a cost. Generally speaking, actual healing is likely only possible when you have an excess of time or magical energy, in which case you might want to look at the **Ritual** moves. In crisis situations, you may find the MC offers you an opportunity, but with a heavy cost. A very common cost might be letting you shift harm around, rather than actually healing it. Almost any time a player character wants to perform magical healing, they will be triggering a move (either a basic move or perhaps a playbook move.) The MC should pay attention to how the player describes their character attempting to heal someone, and call for the appropriate move. Keep an eye on **Sell a Lie; Enact Sudden, Violent, or Unexpected Change on the Physical World; describe a magical effect within your Paradigm but beyond your normal abilities; **and **Do Rending Magic** in particular, as well as any potentially relevant playbook moves. 
+Magical healing on the other hand, has its own host of problems. Sometimes in the moment it may seem necessary in order to save someone, but magical healing almost always comes at a cost. Generally speaking, actual healing is likely only possible when you have an excess of time or magical energy, in which case you might want to look at the **Ritual** moves. In crisis situations, you may find the MC offers you an opportunity, but with a heavy cost.
+
+\end{Player}
+
+\begin{MC}
+
+Healing is simply an application of your "Adjust a Status Track" move. This means you can do it at any time that it follows from the fiction. However, it is usually a good idea to make it meaningful. Harm comes from dramatic events, and healing can ratchet the tension up or down, depending on how you use it. You should usually let the Mages heal if they are trying to, but in a way that keeps things interesting, according to your Principles. If they want to spend a lot of time on mundane healing, think about what might happen while the Mage isn't out and about. If they use time or magical energy to perform serious healing, then use the Ritual move to make sure their paradigms are aligned and see what challenges they might have to overcome to pull it off.
+
+If they are trying to heal quickly, with magic, likely to save someone, it is a good idea to make it come at a cost. A very common cost might be letting them shift harm around, rather than actually healing it (meaning two uses of Adjust a Status Track, one up and one down). Almost any time a Mage wants to perform magical healing, they will be triggering a move (either a basic move or perhaps a playbook move.) You should pay attention to how the player describes their Mage attempting to heal someone, and call for the appropriate move. Keep an eye on **Sell a Lie; Enact Sudden, Violent, or Unexpected Change on the Physical World; describe a magical effect within your Paradigm but beyond your normal abilities; and Do Rending Magic** in particular, as well as any potentially relevant playbook moves.
+
+\end{MC}
 
 ## Anchor Status Tracks
 
