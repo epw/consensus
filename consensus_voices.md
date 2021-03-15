@@ -921,7 +921,27 @@ Talk about themes as a table. Find out what themes the other players are interes
 
 #### Explicit Safety Mechanics
 
+\begin{Narrator}
+
 Because of the vulnerability inherent in roleplaying, and roleplaying potentially difficult themes, it is important that you use some form of explicit safety mechanic at your table. There are many available, and we have included a sample of them here, ones that we've found work well for Consensus. If you have a favorite safety mechanic, we highly encourage you to bring it with you to this game.
+
+\end{Narrator}
+
+\begin{MC}
+
+As the person expected to maintain and update the state of the world, paying attention to all the players' characters and adding new elements whenever the rest of the table looks at you to see what happens next, you do have some extra responsibility here. You should watch out for if someone is treading in a direction that has been forbidden for this game, and try to steer away from it. Call it out explicitly if it seems like it's happening anyway. Often, a simple reminder is all that's needed, if a player forgot. Do not be afraid to use the safety mechanics for your game if need be, however.
+
+Be extra sensitive to your fellow players' safety needs. Interpret anything they have said is off-limits broadly, and be scrupulous about following and respecting any safety mechanics invoked by other players. If you are thinking about adding something to the game that was not explicitly disallowed but still could be an unpleasant surprise, ask about it ahead of time (as a starting point, anything that would either bump the rating of the game up to an 'R', or anything that would add a new content descriptor to an 'R' rating, is worthy of checking).
+
+\end{MC}
+
+\begin{Player}
+
+This is a game where you have more leeway and ability to add elements to the world than in some others. This means it is important for you to think about the safety mechanics, especially anything that has been forbidden, in terms of what you add as well as what other people say your character interacts with.
+
+\end{Player}
+
+\begin{Narrator}
 
 ##### The X Card
 
@@ -934,6 +954,8 @@ This ensures that everyone at the table remains in control of what they will be 
 ##### Dial It Up/Dial it Down
 
 *[This is a mechanic for recalibating in the middle of a scene, to help stop them from going too far, and help stop them from not going far enough.]*
+
+\end{Narrator}
 
 ### Magic
 
