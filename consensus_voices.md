@@ -1696,6 +1696,14 @@ Among the many improvement options available to your playbook, you may see optio
 
 # Stacking Moves
 
+\begin{Player}
+
+This chapter is addressed to the MC, since it's their job to call out when moves trigger, to make scenes flow, and generally keep the game running. However, if you're having trouble understanding what moves are like in play, this is a particularly good chapter for you to read anyway.
+
+\end{Player}
+
+\begin{MC}
+
 Sometimes, maybe even often, and especially when you’re zoomed in on a scene, a single move isn’t enough to resolve an interaction. 7-9 results can be followed up on, or leave things dangling. Moves can trigger other moves, they can overlap, they can nest within each other, you could end up with a chain of moves that’s 5 or 6 deep fairly easily. That’s okay, just remember that if a move is triggered, it must be rolled, and the fictional results happen, and in order to roll a move, the trigger condition must first be met in the fiction.
 
 Here we provide an extended example to help you understand better.
@@ -1737,6 +1745,8 @@ Zuri’s player smirks. "You know, Eisen, magic requires sacrifice…." As Eisen
 Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to give a -1 to that roll, because I did *just* say that magic requires sacrifice." “It’s true, you did,” I say. “Alright, roll +Without minus one.” “That Zuri, so convincing,” remarks Eisen’s player, as they start to roll. “10! No, wait, minus one, it’s a 9. Curse your silver tongue.”
 
 "Alright, so Hector will need proof that they’ll get what they want, or will need it before they do anything for you, so I think Hector shakes his head. ‘Nah, you don’t understand. I really need this right now. I’m just gonna AirDrop it over to my phone..." Eisen’s player just kind of shrugs, so I say, “You realize that if Hector does that, this playlist won’t be ‘new’ anymore. It will stop feeding your inspiration. You were sure you were going to get another day or two out of this at least.” I’m **telling the possible consequences and asking**. Eisen lets out a long-suffering sigh. “OK, sure. Hang on, while my Source is still kind of present, at least for Hector, can I spend one of my Hold to bring the positive tag into play? It’s +invigorating, so maybe it breaks Hector out of their enchantment?” I nod, and now Eisen’s player gets to narrate what this means for the moment. They say, “So as the music swells, it starts to give Hector a rush of energy, and then clarity. Finally, the music hits and holds a single note, that resonates like a tuning fork and then shatters the enchantment.” “Great!” I continue. “Hector shakes his head to clear it and looks around. ‘Zuri? When did you get here? I think someone dangerous has been lurking around!’”
+
+\end{MC}
 
 \newpage
 
