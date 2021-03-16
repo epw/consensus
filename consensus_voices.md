@@ -2448,6 +2448,14 @@ Finally, characters advance within the context of the story. A character gets so
 
 # Forces
 
+\begin{Player}
+
+This is another section addressed entirely to the MC. Like elsewhere, it's perfectly acceptable for you to read this, but also wholly unnecessary.
+
+\end{Player}
+
+\begin{MC}
+
 Forces are one of the main organizational structures used in MCing Consensus. They give you a way to keep track of what powers are in the world, and how far along they are in their goals. You make Forces between sessions, collating what you know about the story and where you imagine it may go.
 
 A Force can be many things: It might be an ambitious organization, some lusus naturae from Elsewhere, or even a collection of cursed items, each with their own motivation. The point is to gather them together for your own records, and know what happens when they act. That’s where the name Force comes from: they are things which will act, and make changes in the world.
@@ -2516,7 +2524,7 @@ Note characters down here aggressively. It is very useful to have an established
 
 Part of Forces being an active part of the fiction is that if they are left unchecked, they will result in some material change to the world around them. In the simplest case, the Force represents a group or individual and the change is something they are actively working towards. However, it can also be a kind of natural outcome of each part of the Force acting, without being concerted effort.
 
-The Force’s Status Track keeps track of the progress. There is space for description at Code 40, Code 20, and Code N. At each space, write something clear and recognizable that occurs. When you mark off the Code before it, make clear how the next step is approaching. When you mark off a code with a description, make clear what has happened and how the mages know about it. Like other Status Tracks, the Force’s is both prescriptive and descriptive. As a result, if you notice that the event listed on the Status Track has occurred, mark the corresponding Code or Codes off. This may advance the Status Track to be Slipping, just like any other. If a major setback occurs, you may even erase codes from the front to represent the work being undone or plans foiled.
+The Force’s Status Track keeps track of the progress. There is space for description at Code 40, Code 20, and Code N. At each space, write something clear and recognizable that occurs. When you mark off the Code before it, make clear how the next step is approaching. When you mark off a code with a description, make clear what has happened and how the mages know about it. Like other Status Tracks, the Force’s is both prescriptive and descriptive. As a result, if you notice that the event listed on the Status Track has occurred, mark the corresponding Code or Codes off. This may advance the Status Track to be Slipping, just like any other. If a major setback occurs, you may even erase codes from the Force to represent the work being undone or plans foiled.
 
 If you advance a Force’s Status Track as part of a move, be sure to make the effect clear and visible. They are not meant to sneak up on the other players.
 
@@ -2530,7 +2538,7 @@ If Code N is reached, take some time to figure out how the world has changed, an
 
 ## The Three Questions
 
-During character creation, each player will answer 3 questions about their character, roughly corresponding to past, present, and future. These 3 questions will be the basis on which you build your Fronts, so make sure you take some time with each player to explore these questions during the first session. 
+During character creation, each player will answer 3 questions about their character, roughly corresponding to past, present, and future. These 3 questions will be the basis on which you build your Forces, so make sure you take some time with each player to explore these questions during the first session. 
 
 ### Why was your humanity trivialized?
 
@@ -2546,7 +2554,7 @@ There’s an old adage that everyone is either running to something or running f
 
 ## Stressors
 
-During the first session, as you explore the three questions, you will find a main stressor that motivates the scene, write them down. After the first session is over, you will use these stressors to create the Fronts for the game, and bring them to life. Make sure to have a conversation with players during or before the first session to make sure they can express any stressors or themes they do not want to explore for any reason. Here are the stressors that might come up.
+During the first session, as you explore the three questions, you will find a main stressor that motivates the scene, write them down. After the first session is over, you will use these stressors to create the Forces for the game, and bring them to life. Make sure to have a conversation with players during or before the first session to make sure they can express any stressors or themes they do not want to explore for any reason. Here are the stressors that might come up.
 
 ### Control
 
@@ -2845,7 +2853,7 @@ The Consensus Force sheet has space for the Force(s) currently in control, a sta
 
 Consensus’ rules give you an initial set of Forces that should be tied into the players’ characters in interesting ways. However, games shift and adapt over time. Sometimes a Force will simply seem to be less interesting than expected, and come up less and less. That’s just fine. You can let it fade from view, maybe to bring back up if it seems relevant later, or let it disappear entirely.
 
-Forces can also sometimes become resolved. Maybe their Code N Outcome was reached and there really is no direct followup. If a Force concerns an anti-magic storm coming into being over the city, then at Code N it has hit, left an anti-magic shell, and the storm itself abates. Or, maybe the players’ characters struck such a major blow against a front that they fully withdraw for a while. Keep them in mind in case it makes sense to come back, especially if members of the Cast are still around and alive, but it’s perfectly reasonable to stop choosing them as elements of scenes and sources of moves.
+Forces can also sometimes become resolved. Maybe their Code N Outcome was reached and there really is no direct followup. If a Force concerns an anti-magic storm coming into being over the city, then at Code N it has hit, left an anti-magic shell, and the storm itself abates. Or, maybe the players’ characters struck such a major blow against a Force that they fully withdraw for a while. Keep them in mind in case it makes sense to come back, especially if members of the Cast are still around and alive, but it’s perfectly reasonable to stop choosing them as elements of scenes and sources of moves.
 
 You may wish to add Forces as the game progresses. This can be because something new is recognized in the world. Maybe the players keep referencing an abandoned house that they think is haunted. Sure, if the game isn’t too busy, write it up as a Force. Choose a Stressor to base it off of that you think could use more exploring. It also can happen if you resolve one or more Forces and are starting to find that the game is getting a bit thin. In that case, you can develop a new Force to bring into play based on characters’ Stressors that aren’t getting to be seen much, and on world details that are already established. This is a great place to have a rival sect of Mages roll into town, or have a hitherto-unnoticed secret society reveal itself, or have a character wander in not knowing what they have unleashed. For any of these, build the Force similarly to how you did the initial ones, but now you will have much more familiarity with the characters and the fiction to fit them in. Don’t forget to make their goals at cross purposes with other Forces, where applicable.
 
@@ -2854,6 +2862,8 @@ Finally, it is reasonable to change details of a Force from time to time. Changi
 The Cast of a Force can constantly be in flux, as new characters who are members are established, and as old ones may leave the area, change allegiances, or even be rendered permanently ineffectual.
 
 Moves usually shouldn’t change, since they are core to the Force. You might add more from the appropriate Stressor’s list, if you have less than three written down and discover a new one that makes sense. The moves also might change during a major event, such as the Force hitting Code N. In the reconfiguring that happens as a new goal is selected, old capabilities may be abandoned or made irrelevant, and they may seek or discover new methods.
+
+\end{MC}
 
 \setlength{\parindent}{0em}
 
