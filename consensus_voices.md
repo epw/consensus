@@ -1952,6 +1952,8 @@ When you lose an anchor or gain an inspiration that would put you over this thre
 
 ## Gear
 
+\begin{Player}
+
 Gear covers notable possessions. This is the modern world, so there are lots of trivial or common items that don’t get mentioned often: You probably have a pair of shoes, could carry a pen, may have a flashlight and so on. You may be likely to have a cellphone, depending on where and when your story is set, and the characters' socioeconomic status. These aren’t called out anywhere on your character sheet. That doesn’t mean they don’t exist, of course. You might use them as part of a move, and some MC moves might mean that it turns out your wallet fell out of your pocket and you only notice at the worst possible moment. Determine together, as a table, what is normal to expect people to have (a game about working in an Antarctic base is going to have different assumptions from one about being deep in the city). You also might want to have it be noteworthy that your character lacks one or more expected modern-day items. But, in general, don’t stress about exactly how many socks your character has.
 
 However, some things are interesting by their nature, and most everyone has items that are relevant to them, and show something about their preparation, or sentimentality. This is listed under Gear on your character sheet, and you select it from lists during character creation.
@@ -1966,7 +1968,17 @@ When you make or acquire a new item of significance, either through normal play 
 
 Money is hard to deal with. In some games, it makes sense to simply keep track of gold coins as they come and go. The modern world is more complicated. In small groups, systems of favors and mutual interdependence often overshadow money. In addition, the existence of secondhand shops, eBay, and bargain hunting mean that you can often find something within your price range, as long as you aren’t too picky.
 
-To represent this, money in Consensus is handled abstractly. Prices are given as a number of Savings that have to be spent. Importantly, this number of Savings is supposed to be roughly the same for different characters, but the details and quality of the good or service will depend on the character’s in-fiction wealth. For example, "a nice meal for two" is listed as one Saving. The difference is, if those two work minimum wage jobs, it might be a meal at their favorite chain that includes dessert. If they are a movie star and an internationally-featured artist, it’s probably a custom creation by a personal chef. When buying something that doesn’t line up with what would be normal for the character, the MC will adjust Savings as is appropriate. And, something that is significantly less than the 1-Savings category probably shouldn’t cost the character anything at all. However, do remember that buying a lot of something can add up. When pricing something new, look to this table to get a general sense.
+To represent this, money in Consensus is handled abstractly. Prices are given as a number of Savings that have to be spent. Importantly, this number of Savings is supposed to be roughly the same for different characters, but the details and quality of the good or service will depend on the character’s in-fiction wealth. For example, "a nice meal for two" is listed as one Saving. The difference is, if those two work minimum wage jobs, it might be a meal at their favorite chain that includes dessert. If they are a movie star and an internationally-featured artist, it’s probably a custom creation by a personal chef.
+
+Your character has a certain number of Savings, beginning with the amount listed under their Starting Gear. Subtract from this when told to, usually spending or Anchor upkeep. The MC may also you to increase your Mage's Savings, such as when getting paid for a job, or selling something valuable. A steady job can be difficult for a Mage to keep up, however, it does somewhat guarantee a supply of Savings, which can be worth it.
+
+Of course, your Mage can shapes Reality to their whims and can decide that money is a problem for other people, and seek to circumvent it with magic. If you aren’t changing a bartender’s mind to add it to their tab just this one more time, you might have the $20 you need blow in on a dust devil, or win a small lottery, or go digging for buried treasure in your backyard and, incredibly, find a chest of pirate gold. This does have all the usual rending dangers of repeated coincidence, of course. It is much more harmonious to change things up, than to keep diggings holes in your yard until the Consensus sits up and takes notice.
+
+\end{Player}
+
+\begin{MC}
+
+When pricing something new, look to this table to get a general sense.
 
 <table>
   <tr>
@@ -1987,14 +1999,19 @@ To represent this, money in Consensus is handled abstractly. Prices are given as
   </tr>
 </table>
 
+Something that is significantly less than the 1-Savings category probably shouldn’t cost the character anything at all. However, do remember that buying a lot of something can add up.
 
-Sometimes, the MC will say that a course of action requires some Savings to be spent. This can frequently happen as part of upkeep for Anchors, particularly the shelter Anchor. Finally, remember that some things cannot be bought for any amount of money, and will have to be procured through other means.
+When a character is buying something that doesn’t line up with what would be normal for them (such as if a nurse buys a suit to blend in with a movie star), adjust Savings as appropriate.
 
-Characters have a certain number of Savings, beginning with the amount listed under their Starting Gear. Subtract from this when told to, usually spending or upkeep. The MC may also tell characters to increase their Savings, such as when getting paid for a job, or finding something valuable that is then sold. A steady job can be difficult for a Mage to keep up, however, it does somewhat guarantee a supply of Savings, which can be worth it. The MC should pay attention to the impact of staying out all night to fight the living dead on someone who needs to open the shop in the morning.
+Sometimes, you might say that a course of action requires some Savings to be spent. This frequently makes sense as part of upkeep for Anchors, particularly the Shelter Anchor. In addition, remember that some things cannot be bought for any amount of money, and will have to be procured through other means (consider the move, "Make them Conjure or Buy").
 
-Of course, a Mage who shapes Reality to their whims can decide that money is a problem for other people, and seek to circumvent it with magic. If they aren’t changing a bartender’s mind to add it to their tab just this one more time, they might have the $20 they need blow in on a dust devil, or win a small lottery, or go digging for buried treasure in their backyard and, incredibly, find a chest of pirate gold. This does have all the usual paradoxical dangers of repeated coincidence, of course. It is much more harmonious to change things up, than to keep diggings holes in your yard until the Consensus sits up and takes notice.
+Feel free to tell characters to increase their Savings if they've done something to deserve it, such as completing a job for someone or finding a valuable item and then selling it. Press hard on Mages who do attempt to keep a steady job, however. Pay attention to the impact of staying out all night to fight the living dead on someone who needs to open the shop in the morning. If they turn to magic instead of the mundane world to see to their monetary needs, then don't forget to Hit them with the Static Realities of their World if they try to use harmonious magic to pass off the same lucky coincidence, too many times. 
+
+\end{MC}
 
 ## Accoutrements
+
+\begin{Player}
 
 Some playbooks have extra sections that include how they relate to the world. Only fill in these sections if you select or start with the Move that is attached to them. For example, a Pious only fills out their Place of Power once they select the Sanctuary move, whereas a Cabalist starts with the move Gossamer Threads, and fills out the Cabal section of their playbook when making the character.
 
@@ -2075,6 +2092,8 @@ Terror - An emotion, +social, +forbidden, +dangerous
 Tags are narrative flags applied to some accoutrements. They are one or two words written with a + in front to make them stand out. When you are told to select tags, you are adding customization and making the accoutrement concrete. They can define strengths and weaknesses, and other relevant properties. Tags often come with a small description to help flesh out the meaning. The player and the MC should both note the tags, to make it easy to bring them up often. Two different characters may both have a place of power, but if one has the Strength tag +private, and the other has the Strength tag +famous, then the interactions at each should be totally different. The first is unlikely to have rituals be interrupted by passers-by, while the second might cause more helpful chance meetings.
 
 Like most things in Consensus, tags are prescriptive and descriptive. If the +private place of power becomes famous, its Strength should probably change. Likewise, if an advancement allows a new tag to be added, describe what has changed to make this true.
+
+\end{Player}
 
 \newpage
 
