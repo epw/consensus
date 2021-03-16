@@ -38,6 +38,8 @@ $endfor$
 %\usepackage{lettrine}
 \usepackage[inline]{enumitem}
 
+\input{book.tex}
+
 %\checkandfixthelayout
 
 
