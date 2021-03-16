@@ -2099,6 +2099,8 @@ Like most things in Consensus, tags are prescriptive and descriptive. If the +pr
 
 # Improvement
 
+\begin{Player}
+
 Characters grow and change through the course of a story. Mages are no different. They learn new types of magic, get stronger, and sometimes change who they are entirely. Experience is the primary method of tracking how this happens over the course of a campaign, but it is not the only thing that changes. Growth can come in quick, noteworthy jumps, or evolve slowly over time, only to be noticed after a while. Thus, these changes can be made at any time that they make sense during a session.
 
 ## Gaining Experience
@@ -2211,7 +2213,7 @@ Advanced moves for each of the playbooks can be found below. These moves often c
 
 #### Consensus Shifting
 
-If you have an Advanced Move that lets you attempt to shift the Consensus, you start a Consensus Shift Status Track. If this status track reaches Code N, you have successfully shifted the consensus. This track is racing against the Consensus Front Status Track though, as you are likely not the only one who is trying to sway the subconscious of the universe. If the Consensus Front Status Track reaches Code N, the GM will choose to either shift the consensus in favor of one of the Fronts, in which case you will reset your Consensus Shift track to Code 50, or they will choose to shift the consensus to block your shift. (This represents a faction refuting the possibility of your shift before you establish it in the Consensus.)  If the GM shifts the Consensus to block your shift, or if you successfully reach Code N, you may start a new Consensus Shift Status Track next time your Consensus Shifting move triggers.
+If you have an Advanced Move that lets you attempt to shift the Consensus, you start a Consensus Shift Status Track. If this status track reaches Code N, you have successfully shifted the consensus. This track is racing against the Consensus Force Status Track though, as you are likely not the only one who is trying to sway the subconscious of the universe. If the Consensus Force Status Track reaches Code N, the MC will choose to either shift the consensus in favor of one of the Forces, in which case you will reset your Consensus Shift track to Code 50, or they will choose to shift the consensus to block your shift. (This represents a faction refuting the possibility of your shift before you establish it in the Consensus.)  If the MC shifts the Consensus to block your shift, or if you successfully reach Code N, you may start a new Consensus Shift Status Track next time your Consensus Shifting move triggers.
 
 #### Cabalist Advanced Moves
 
@@ -2251,9 +2253,9 @@ When you take this move, you may note a small but arcane shift you are attemptin
 
 * Oops, you slipped it by the Consensus too well, don’t advance the Consensus Shift track.
 
-* Oops, the Consensus noticed, but so did… something else. The GM will advance the Consensus Front and up to one other related front.
+* Oops, the Consensus noticed, but so did… something else. The MC will advance the Consensus Force and up to one other related Force.
 
-On a 6-, that was certainly rending magic! The GM makes a hard move
+On a 6-, that was certainly rending magic! The MC makes a hard move
 
 #### Inspired Advanced Moves
 
@@ -2271,11 +2273,11 @@ At the beginning of the session, roll +Within. On a 10+ hold 3, on a 7-9 hold 2,
 
 ##### Terror and Wonder
 
-When you take this move, you may note one moderate shift (on par with a major technological breakthrough), or two tiny shifts you are attempting to make in the Consensus. Start a Consensus Shift Status Track (Only one, even if you chose two tiny shifts) When you **do rending magic (that directly relates to your intended Consensus Shift) in front of a large group of witnesses**, take 3 discord and roll +Dynamic and advance your Consensus Shift Status Track. On a 10+, advance your Consensus Shift Status Track again. On a 7-9, choose 1:
+When you take this move, you may note one moderate shift (on par with a major technological breakthrough), or two tiny shifts you are attempting to make in the Consensus. Start a Consensus Shift Status Track (Only one, even if you chose two tiny shifts) When you **do rending magic (that directly relates to your intended Consensus Shift) in front of a large group of Lookouts**, take 3 discord and roll +Dynamic and advance your Consensus Shift Status Track. On a 10+, advance your Consensus Shift Status Track again. On a 7-9, choose 1:
 
 * You are not immediately sucked into a Reality Bubble
 
-* The GM does not advance the Consensus Front
+* The MC does not advance the Consensus Force
 
 * Advance your Consensus Shift Status Track again
 
@@ -2332,11 +2334,11 @@ When you are at a place of power, you may do magic within your Paradigm but beyo
 
  When you take this move, you may note a small but substantial shift you are attempting to make in the Consensus. Start a Consensus Shift status track. At the beginning of the session, roll +Without. On a 10+, advance your Consensus Shift track. On a 7-9, advance your Consensus Shift track, but choose 1:
 
-* The GM advances the Consensus Front
+* The MC advances the Consensus Force
 
 * Add a negative "quirk" to your consensus shift. (ex. the Panacea you are working into the Consensus sometimes just up and kills the person dosed with it, instead of curing them.)
 
-On a miss, the GM will advance the Consensus Front and make a move.
+On a miss, the MC will advance the Consensus Force and make a move.
 
 ##### Reality 2.0
 
@@ -2364,11 +2366,11 @@ You are powerful, connected, or otherwise a Big Deal. You yourself count as a si
 
 ##### Storyteller
 
-When you tell a group of non-magical people a compelling story about a seemingly magical feat that someone else has performed, start a Consensus Shift Status Track about that magical feat. If a status track already exists for that Consensus Shift, roll +Without and the MC advances the Consensus Front. On a hit, they are interested and want to hear more. On a 10+, they also don’t doubt or contradict you, and word doesn’t get back to an interested party, the GM does not advance the Consensus Front. On a 12+, additionally, advance the relevant Consensus Shift Status Track.
+When you tell a group of non-magical people a compelling story about a seemingly magical feat that someone else has performed, start a Consensus Shift Status Track about that magical feat. If a status track already exists for that Consensus Shift, roll +Without and the MC advances the Consensus Force. On a hit, they are interested and want to hear more. On a 10+, they also don’t doubt or contradict you, and word doesn’t get back to an interested party, the MC does not advance the Consensus Force. On a 12+, additionally, advance the relevant Consensus Shift Status Track.
 
 ##### Heart of the Storm
 
-Choose one large-reaching effect that you specialize in. (Examples include: Conjuring storms, Creating Golems, Miraculous Healing). For this effect, only roll the Do Rending Magic move if you are directly witnessed casting this by a Witness, rather than if it affects a Witness.
+Choose one large-reaching effect that you specialize in. (Examples include: Conjuring storms, Creating Golems, Miraculous Healing). For this effect, only roll the Do Rending Magic move if you are directly witnessed casting this by a Lookout, rather than if it affects a Lookout.
 
 #### Wayfarer Advanced Moves
 
@@ -2439,6 +2441,8 @@ Don’t use this to copy other playbooks’ moves, especially moves that are alr
 ## Fictional Positioning
 
 Finally, characters advance within the context of the story. A character gets some money and buys a new car, and now has a reliable means of getting around. A character meets a long-lost cousin and now has a new connection to their family. A character finally builds the library they’ve always meant to. Often, due to the descriptive nature of the rules, it is possible to fit these things into the mechanics. New acquaintances can become Anchors or Inspirations, a library might be a place of power, but just because it doesn’t fit doesn’t mean it doesn’t matter. There are also changes that aren’t precisely mechanics but interact with them: If you quested out and gained a vial of sacred water from the lake inhabited by the last mermaid, perhaps you now have a resource that could be consumed to do magic within your Paradigm but beyond your abilities.
+
+\end{Player}
 
 \newpage
 
