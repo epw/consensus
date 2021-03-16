@@ -59,6 +59,9 @@ commonmoves.pdf: basicmoves.pdf extendedmoves.pdf consensus.md
 all_playbooks.pdf: $(ALL_PLAYBOOKS)
 	$(PDFJOIN) $(ALL_PLAYBOOKS) --outfile all_playbooks.pdf
 
+consensus_voices.pdf: consensus_voices.md
+	$(PANDOC) --pdf-engine=xelatex consensus_voices.md screen.yaml -f markdown -s -o "consensus_voices.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
+
 test:
 	$(MAKE) -C tests test
 
