@@ -1756,13 +1756,25 @@ Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to giv
 
 ## Anchors
 
+\begin{Player}
+
 When we say that Mages are the pinnacle of humanity, we mean it. But that’s not always a good thing, right? The thing about being at an edge of humanity is that it’s easy for a Mage to step over the line, and that means no longer being human. Your Anchors are the things that keep you on this side of the line. A loved one who knows nothing about magic, an estate bound up in the history of your family, the stray cat you took in off the street, or the picture of your brother who died the day you Awakened. Anchors are beings, or physical objects, that keep you grounded in the mortal world. But they also hold you back from your fullest potential. Do you want to shed the shackles of your Anchors in order to transcend, or remain among them, being a little bit better, but know you will never reach your full potential?
 
 Anchors cannot be magical in nature. Other Mages, spirits you’ve summoned, enchanted items, these things aren’t grounded enough in reality to keep you there. Your pet cat who brings you comfort, fine. Your cat familiar, not so fine.
 
+\end{Player}
+
+\begin{MC}
+
+Anchors are some of the most powerful story elements you have available. They are people or things that your players have specifically told you their characters care about, and losing them is always a dramatic moment. Indeed, simply threatening an Anchor is enough to force a Mage to make a choice, whether to react or not, which they always learn from.
+
+\end{MC}
+
 ### Starting Anchors
 
-All characters start with Anchors, which say things about who they have been so far. Each playbook suggests different Anchors in the starting categories. As you choose them, think about how they keep you grounded, and human. Also think about what you need to do to keep them in your life, be it paying rent on an apartment, or taking care of a loved one. Note that you can choose to forego any of these Anchors, but you may be starting yourself at a disadvantage.
+\begin{Player}
+
+Your character starts with Anchors, which say things about who they have been so far. Each playbook suggests different Anchors in the starting categories. As you choose them, think about how they keep you grounded, and human. Also think about what you need to do to keep them in your life, be it paying rent on an apartment, or taking care of a loved one. Note that you can choose to forego any of these Anchors, but you may be starting yourself at a disadvantage.
 
 Starting Anchors fall under three categories: Shelter Anchors, Connection Anchors, and Memories Anchors.
 
@@ -1782,9 +1794,13 @@ Memory Anchors are the objects, signs, and places that connect to memories of th
 
 Some starting Anchors are not completely filled in to start, they will have a blank space left to fill in. Choose something evocative to write there, if you pick that starting anchor, and be ready to explore what it means. Keep in mind the category of Anchor it is in, and don’t fill in the blank in a way that makes that Anchor not fill that need.
 
+\end{Player}
+
 ### Anchor Upkeep
 
-Anchors require upkeep to remain. Every Anchor has a Status Track representing its condition. At the start of each session, mark off one Code from every Anchor’s Status Track. Come up with what this means. Frequently, it will not be the first Code marked for that Anchor, and so simply represents an exacerbation. In addition, as with all Status Tracks, if something happens which seems to suggest worsening of an Anchor’s condition or connection to you, mark off a Code.
+\begin{Player}
+
+Anchors require upkeep to remain. Every Anchor has a Status Track representing its condition. At the start of each session, mark off one Code from every Anchor’s Status Track. You can suggest what this means to the MC. Frequently, it will not be the first Code marked for that Anchor, and so simply represents an exacerbation. In addition, as with all Status Tracks, if something happens which seems to suggest worsening of an Anchor’s condition or connection to you, mark off a Code.
 
 Upkeep for an Anchor involves doing whatever is needed to restore things to normal. Homes frequently cost Savings to upkeep in a literal sense (rent, bills, maintenance, and so on). Connection Anchors usually need to spend time with you, likely receiving your attention. Memories Anchors need to be kept from fading in your mind, often through routine or rote, and also may need physical maintenance. In general, performing upkeep for an Anchor takes a good amount of time, or savings, or has an opportunity cost, and clears the entire Status Track, restoring the connection. Notably, performing this upkeep should be something that grounds you in reality. If you are attempting to upkeep your Shelter Anchor by performing magic on it to tidy everything, you aren’t upkeeping the Anchor, you might in fact be slipping it. See the Transformation section later in this chapter for more examples.
 
@@ -1802,9 +1818,17 @@ Losing an Anchor is a moment of transformation for your character. It can happen
 
 Losing an Anchor makes people react unpredictably. When you lose an Anchor, a move triggers, giving you a sense of what happens. If you’re lucky, it is not truly destabilizing, even if it was a shock. If you are less lucky, you might lash out, one way or another. Or, you might find that some of your magic was based on the knowledge that you had that Anchor to fall back on, and it Backlashes on you, which may have further compounding effects. Or, you might find that your Anchors were more connected than you might have realized, and now another one is threatened, or lost outright as well. How lucky you are depends in part on how many Anchors you have, so you can quickly enter into a spiral. If your magical exploits mean you haven’t been spending enough time with your spouse and they finally take the kids and leave, you might realize that the house really isn’t yours, once the divorce takes place it will belong to them so even in the meantime it doesn’t feel grounding, and now you have lost two Anchors in as many minutes.
 
-A former Anchor likely still exists in the world, and may even continue to interact with you. Don’t forget about them just because they aren’t marked anymore. In fact, the MC should probably note them on an appropriate Front, or keep them in the Home Front if none stand out, as an element that can still be brought into play.
+\end{Player}
+
+\begin{MC}
+
+A former Anchor likely still exists in the world, and may even continue to interact with the Mage. Don’t forget about them just because they aren’t marked anymore. In fact, you should probably note them on an appropriate Force, or keep them in the Internal Forces if none stand out, as an element that can still be brought into play.
+
+\end{MC}
 
 #### Upkeep
+
+\begin{Player}
 
 If an Anchor’s Status Track hits Code N, you have lost them. Depending on the nature of the needed upkeep, this could mean many different things about their place in the world. You might get evicted from your home, or find that the house has become literally unlivable. A Connection Anchor most likely feels neglected by you and decides to go their own way. A Memories Anchor might stop reminding you of what it once did, or it might finally break, and you feel your connection to that part of your life break as well.
 
@@ -1840,11 +1864,19 @@ The Mentor’s Advanced Move Nekkhamma allows them to gain one last Anchor, "my 
 
 All playbooks also have the option to gain an anchor as one of their Tier 1 unlimited advancements. This will list a maximum number of Anchors you can have after taking this advancement however, and it is always one less than the number of Anchors your playbook can start with. This is a good way to regain some ground if you are close to the edge, but can’t bring you back to as fully grounded as you started out.
 
+\end{Player}
+
 ### Non Player Character Mages
 
-In this world, Mages have anchors. MCs should be sure to think about this and what it means for their NPC mages. Losing even a single anchor will likely hit an NPC extremely hard, much like NPCs often only take 1 or 2 harm before going down for the count. 
+\begin{MC}
+
+In this world, Mages have Anchors. You should be sure to think about this and what it means for your NPC mages. Losing even a single Anchor will likely hit an NPC extremely hard, much like how NPCs often only take 1 or 2 harm before going down for the count. 
+
+\end{MC}
 
 ## Inspirations
+
+\begin{Player}
 
 The counterpart to Anchors, Inspirations are what bring a Mage their power, or tempt them to cross the line to being something other than human. Other Mages often inspire, and particularly significant spirits, animals, or even magical objects might as well. Where Anchors keep you tied to the physical reality, Inspirations help you find ways to rise above your mundane existence. They help you strive to reach your true potential, but in that striving, is it possible you will go too far? Inspirations are always inherently magical, whether they be other awakened Mages, spirits, or magical objects, in order for them to help you transcend the constraints of your magical capabilities, they must themselves be part of the magical world. (Of course, sometimes you meet someone who would absolutely be an inspiration if only they knew like you did, that magic was real. Maybe you start searching for a way to really open their eyes, thinking about how perfect everything will be then.)
 
@@ -1858,7 +1890,7 @@ The first way of gaining (or re-gaining) an inspiration is to have a Moment of H
 
 #### Doing Magic Through Them
 
-The second way of gaining (or re-gaining) an inspiration is to actively work your magic through, or in deep collaboration with, them or it. This is more commonly a way to gain an inspiration that isn’t another person, be it a spirit, a familiar, a magical focus, or similar. When you do magic through one of these things, or even through another mage, you may add them as an inspiration. Write them down on your playbook along with maybe a note about how they inspire you to greater magical heights, like "contains the secrets of blood magic" or “tells me what’s wrong in my code.”
+The second way of gaining (or re-gaining) an inspiration is to actively work your magic through, or in deep collaboration with, them or it. This is more commonly a way to gain an inspiration that isn’t another person, be it a spirit, a familiar, a magical focus, or similar. When you do magic through one of these things, or even through another mage, you may add them as an inspiration. Write them down on your playbook along with maybe a note about how they inspire you to greater magical heights, like "contains the secrets of blood magic" or "tells me what's wrong in my code."
 
 ### Maintaining Inspirations
 
@@ -1909,6 +1941,8 @@ Certain moves care if your character is tethered, or how many Anchors or Inspira
 If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. 
 
 When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
+
+\end{Player}
 
 \newpage
 
