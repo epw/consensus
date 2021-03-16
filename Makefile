@@ -21,6 +21,9 @@ consensus_print_dyslexic.pdf: consensus.md
 consensus_screen.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex consensus.md screen.yaml -f markdown -s -o "consensus_screen.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
 
+consensus_screen.tex: consensus.md
+	$(PANDOC) --pdf-engine=xelatex consensus.md screen.yaml -f markdown -s -o "consensus_screen.tex" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
+
 consensus_screen_hc.pdf: consensus.md
 	$(PANDOC) --pdf-engine=xelatex consensus.md screen_hc.yaml -f markdown -s -o "consensus_screen_hc.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
 
