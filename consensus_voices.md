@@ -284,6 +284,8 @@ Playbooks call out a few major features of Paradigms for their characters. You c
 
 ### Title
 
+\begin{Player}
+
 The title of a Paradigm is just a label, but usually indicates something about the flavor or approach that it entails. "True Names Give Command" suggests the power of “true” names (though whether that means the first given name, a secret name known only to the arcane, or something else entirely, is up to you), while “Reality has an API” suggests a technological approach, perhaps with a magical programming language or the crafting of devices which can change the world’s properties.
 
 ### Aligned
@@ -353,13 +355,23 @@ These take a few different forms, but regardless of form, they are the Consensus
 
 From the outside, Reality Breaks are the kind of things that most people don’t see, or won’t see. Pervasive hallucinations are things that only the affected Mage can see, and many people are practiced at ignoring someone they think is seeing things. An overlayed fantasy world is similar, in that it only exists for the affected Mage (and perhaps other Mages that know how to look for it). Pocket dimensions, from the outside, may just look like the person disappearing, and any onlookers having their memory of the past few seconds wiped. For a practiced eye, a Mage may be able to find the pinprick hole in reality that caused the Break, and follow it through to attempt a rescue.
 
-When you fall into a Reality break, you choose a trait of your paradigm (either the name, the Aligned, or the Opposed) to be explored by the break. In general, the MC should shape the reality break to that part of the paradigm (either by making it more prominent, or inverting it), and to the rending magic that caused the break in the first place.
+When you fall into a Reality break, you choose a trait of your paradigm (either the name, the Aligned, or the Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
 
-The MC and player then work together to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.) The MC will also make a status track, representing the strength of the reality break. 
+\end{Player}
 
-The MC will then frame three scenes for the mage. At the beginning of each of these scenes, the strength of reality break track will advance once. During each scene, the MC may advance the strength of reality break track as a soft move in response to the mage going along with the scene or failing to learn their lesson. This means that by the end of the third scene, either the mage will have advanced their escape track to code N and broken out of the reality break, or the strength of reality break track will reach code N in which case… the mage is trapped in that reality permanently. They are no longer a playable character, though the MC may bring them back as a threat later, these mages are unbound by the laws of the Consensus and can be very dangerous for everyone.
+\begin{MC}
+
+In general, you should shape the reality break to the player's chosen part of their Mage's paradigm (either by making it more prominent, or inverting it), and to the rending magic that caused the break in the first place.
+
+Work with the player to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.) You will also make a status track, representing the strength of the reality break.
+
+You will frame three scenes for the mage. At the beginning of each of these scenes, the strength of reality break track will advance once. During each scene, you may advance the strength of reality break track as a soft move in response to the mage going along with the scene or failing to learn their lesson. This means that by the end of the third scene, either the mage will have advanced their escape track to code N and broken out of the reality break, or the strength of reality break track will reach code N in which case… the mage is trapped in that reality permanently. They are no longer a playable character, though you may bring them back as a threat later, these mages are unbound by the laws of the Consensus and can be very dangerous for everyone.
+
+\end{MC}
 
 ## Rituals
+
+\begin{Player}
 
 A ritual is any larger magical working undertaken by one or more characters. Rituals increase the power that can be brought to bear, and allow more specific expectations and results to be set out ahead of time. A ritual is often the right option when time allows.
 
@@ -382,6 +394,8 @@ As the ritual begins, each Mage’s player must explain how their Mage contribut
 A ritual does not technically have to be planned. If a group of Mages simply gather together at a place of power and start working (or even just start acting in concert), *something* is bound to happen. However, with a plan to follow, they can specify the outcome much more precisely.
 
 The Mage who is leading the ritual rolls the move. The other Mages are necessary, and can only Help or Hinder if they are doing something above and beyond their prescribed roles. The outcomes can be rather dangerous, so a ritual should never be undertaken lightly. 
+
+\end{Player}
 
 ### Place of Power
 
