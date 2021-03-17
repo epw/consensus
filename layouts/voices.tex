@@ -7,6 +7,12 @@
 \definecolor{narrator-frame}{HTML}{000000}
 \definecolor{narrator-title-bg}{HTML}{dddddd}
 
+\definecolor{voice-bg}{HTML}{ffffff}
+\definecolor{voice-frame}{HTML}{777777}
+\definecolor{voice-title-bg}{HTML}{eeeeee}
+
+\newcommand{\voiceshrink}{-5mm}
+
 \newenvironment{Narrator}
                {\begin{tcolorbox}[enhanced,
                      breakable,
@@ -23,6 +29,40 @@
                        colframe=black}]}
                {\end{tcolorbox}}
 
+\newenvironment{Player}
+               {\begin{tcolorbox}[enhanced,
+                     breakable,
+                     parbox=false,
+                     colback=voice-bg,
+                     colframe=voice-frame,
+                     add to width=\voiceshrink,
+                     attach boxed title to top left={xshift=5mm,
+                       yshift=-3mm,
+                       yshifttext=-1mm},
+                     coltitle=black,
+                     colbacktitle=voice-title-bg,
+                     title=Player,
+                     boxed title style={size=small,
+                       colframe=black}]}
+               {\end{tcolorbox}}
+
+\newenvironment{MC}
+               {\begin{tcolorbox}[enhanced,
+                     breakable,
+                     parbox=false,
+                     colback=voice-bg,
+                     colframe=voice-frame,
+                     grow to left by=\voiceshrink,
+                     attach boxed title to top right={xshift=-5mm,
+                       yshift=-3mm,
+                       yshifttext=-1mm},
+                     coltitle=black,
+                     colbacktitle=voice-title-bg,
+                     title=MC,
+                     boxed title style={size=small,
+                       colframe=black}]}
+               {\end{tcolorbox}}
+
 \begin{document}
 
 \begin{Narrator}
@@ -35,14 +75,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi 
 
 \end{Narrator}
 
+\begin{Player}
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi non eros lacinia mollis. Phasellus nec libero neque. Nam ut ante eu leo laoreet varius. Vestibulum eu sagittis felis, quis varius lorem. Vestibulum efficitur odio ac nisl venenatis lacinia. Vestibulum vestibulum felis id eros egestas pharetra. Morbi quis vestibulum quam. Cras nec mattis risus, a pellentesque metus. Donec et diam porta, vestibulum dolor sit amet, rhoncus turpis. Nunc orci libero, sagittis eget ultricies eu, finibus nec justo. Praesent fermentum ligula eget tempus elementum. Aenean congue ipsum ut lectus faucibus, eu vestibulum tellus venenatis. Nulla diam mi, rhoncus sed pretium in, eleifend eu eros. Proin eleifend arcu mi, in blandit augue viverra non. Aenean vel euismod magna. Nunc id dictum nunc, ut iaculis ligula.
 
 Suspendisse consequat commodo nisl. Ut interdum sollicitudin lacinia. Vivamus venenatis diam ut erat efficitur consequat. Phasellus ut luctus ligula. Aliquam erat volutpat. Maecenas tincidunt, ipsum nec eleifend interdum, magna diam aliquet ex, sit amet ullamcorper enim lorem id eros. Morbi sollicitudin tellus eu eros mattis, in ullamcorper libero scelerisque. Pellentesque hendrerit, ipsum vitae interdum dapibus, est neque venenatis urna, sed ultrices diam elit non dui. Ut et mollis magna. Sed risus purus, dignissim eu ipsum vitae, aliquam feugiat diam. Pellentesque pellentesque arcu id tortor laoreet luctus. Nam nec risus vehicula, feugiat libero eget, suscipit velit. Donec a magna eu nisi accumsan vulputate quis non augue. Cras convallis dui in tellus ornare, nec eleifend sapien rutrum.
 
 Sed ultrices orci risus, vitae fringilla lorem ullamcorper ut. Vivamus consequat nisi nec felis elementum, a viverra magna efficitur. In a orci ultricies, venenatis nunc at, hendrerit leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent mollis quis ligula et elementum. Nulla vulputate nec elit ut sagittis. In id mi eu ex scelerisque consequat id a turpis. Proin eu diam tempus, faucibus est ut, tincidunt velit.
 
+\end{Player}
+
+\begin{MC}
+
 Sed vitae urna non purus posuere pretium. Aenean interdum ipsum sed lectus eleifend volutpat. Sed gravida orci et dolor tristique blandit molestie ut dolor. Etiam urna mi, condimentum auctor maximus nec, venenatis quis elit. Praesent non rutrum odio, a facilisis dolor. Ut lobortis enim vel pulvinar mattis. Aliquam in vulputate orci. Duis nec ornare lectus. Suspendisse potenti. Nam nec turpis efficitur, faucibus nunc a, fermentum nisl. Mauris eget tellus ac orci laoreet consequat sodales eget purus. Fusce id ullamcorper nulla. Fusce quis mauris nisi. Suspendisse ut dui dictum, mollis elit sed, pulvinar quam. Suspendisse rhoncus leo vel est lacinia posuere. Aliquam erat volutpat.
 
 Ut sapien velit, mattis vel mattis sit amet, luctus nec nisi. Fusce in quam at nisi auctor commodo. Donec luctus nec ex sit amet feugiat. Curabitur scelerisque, mauris non fringilla egestas, nunc metus faucibus lacus, vitae tincidunt enim mauris at lorem. Quisque dictum tortor quis molestie vehicula. Sed vel suscipit justo, porta dapibus enim. Nam hendrerit lectus lacinia dui egestas, sagittis mattis purus euismod. Donec placerat at dui at rhoncus. Sed sodales lacinia sapien sit amet ultrices. Mauris gravida pretium nisi non venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis augue posuere, dapibus nisi quis, porta urna. Mauris vitae metus dui.
+
+\end{MC}
 
 \end{document}
