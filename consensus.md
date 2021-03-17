@@ -300,6 +300,8 @@ Playbooks call out a few major features of Paradigms for their characters. You c
 
 The title of a Paradigm is just a label, but usually indicates something about the flavor or approach that it entails. "True Names Give Command" suggests the power of “true” names (though whether that means the first given name, a secret name known only to the arcane, or something else entirely, is up to you), while “Reality has an API” suggests a technological approach, perhaps with a magical programming language or the crafting of devices which can change the world’s properties.
 
+\end{Player}
+
 ### Aligned
 
 Aligned aspects are parts of the Paradigm that the Mage is particularly good at. This may have to do with their beliefs (a Mage who believes in a current of life energy flowing through the Universe is likely to be good at healing), or just be a particular focus within what’s possible (a Mage who believes that Reality can be programmed might have happened to have specialized in deletion, out of a variety of possibilities.) Use the listed choices in Aligned for a sense of what the Paradigm can likely do.
