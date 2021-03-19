@@ -8,7 +8,7 @@
 \definecolor{narrator-title-bg}{HTML}{dddddd}
 
 \definecolor{voice-bg}{HTML}{ffffff}
-\definecolor{voice-frame}{HTML}{777777}
+\definecolor{voice-frame}{HTML}{aaaaaa}
 \definecolor{voice-title-bg}{HTML}{eeeeee}
 
 \newcommand{\voiceshrink}{-5mm}
@@ -26,25 +26,54 @@
                      colbacktitle=narrator-title-bg,
                      title=Narrator,
                      boxed title style={size=small,
-                       colframe=black}]}
+                       colframe=black},
+                     title after break={Title}]}
                {\end{tcolorbox}}
 
 \newenvironment{Player}
                {\begin{tcolorbox}[enhanced,
                      breakable,
-                     parbox=false,
-                     colback=voice-bg,
-                     colframe=voice-frame,
-                     add to width=\voiceshrink,
-                     attach boxed title to top left={xshift=5mm,
-                       yshift=-3mm,
-                       yshifttext=-1mm},
-                     coltitle=black,
-                     colbacktitle=voice-title-bg,
-                     title=Player,
-                     boxed title style={size=small,
-                       colframe=black}]}
-               {\end{tcolorbox}}
+                     boxsep=3pt,
+  arc=1.25ex,
+  colback=white,
+  colframe=voice-frame,
+  boxrule=3pt,
+  add to width=\voiceshrink,
+  leftrule=18pt,
+  overlay unbroken and first ={%
+    \node[rotate=90,
+          minimum width=1cm,
+          anchor=south,
+          yshift=-18pt,
+          black]
+    at (frame.west) {PlayerTitle};
+  }
+  ]}{\end{tcolorbox}}
+
+  
+%%                      breakable,
+%%                      parbox=false,
+%%                      colback=voice-bg,
+%%                      colframe=voice-frame,
+%%                      add to width=\voiceshrink,
+%% %                     attach boxed title to top left={xshift=5mm,
+%% %                       yshift=-3mm,
+%% %                       yshifttext=-1mm},
+%%                      coltitle=black,
+%%                      colbacktitle=voice-title-bg,
+%% %                     title=Player,
+%% %                     boxed title style={size=small,
+%% %                       colframe=black},
+%%                      overlay unbroken and first ={
+%%                        \node[rotate=90,
+%%                          minimum width=1cm,
+%%                          anchor=south,
+%%                          font=\Large\sffamily\bfseries,
+%%                          yshift=-18pt,
+%%                          white]
+%%                        at (frame.west) {Titlte};
+%%                      }
+%%                    ]}
 
 \newenvironment{MC}
                {\begin{tcolorbox}[enhanced,
@@ -88,6 +117,8 @@ Sed ultrices orci risus, vitae fringilla lorem ullamcorper ut. Vivamus consequat
 \begin{MC}
 
 Sed vitae urna non purus posuere pretium. Aenean interdum ipsum sed lectus eleifend volutpat. Sed gravida orci et dolor tristique blandit molestie ut dolor. Etiam urna mi, condimentum auctor maximus nec, venenatis quis elit. Praesent non rutrum odio, a facilisis dolor. Ut lobortis enim vel pulvinar mattis. Aliquam in vulputate orci. Duis nec ornare lectus. Suspendisse potenti. Nam nec turpis efficitur, faucibus nunc a, fermentum nisl. Mauris eget tellus ac orci laoreet consequat sodales eget purus. Fusce id ullamcorper nulla. Fusce quis mauris nisi. Suspendisse ut dui dictum, mollis elit sed, pulvinar quam. Suspendisse rhoncus leo vel est lacinia posuere. Aliquam erat volutpat.
+
+Ut sapien velit, mattis vel mattis sit amet, luctus nec nisi. Fusce in quam at nisi auctor commodo. Donec luctus nec ex sit amet feugiat. Curabitur scelerisque, mauris non fringilla egestas, nunc metus faucibus lacus, vitae tincidunt enim mauris at lorem. Quisque dictum tortor quis molestie vehicula. Sed vel suscipit justo, porta dapibus enim. Nam hendrerit lectus lacinia dui egestas, sagittis mattis purus euismod. Donec placerat at dui at rhoncus. Sed sodales lacinia sapien sit amet ultrices. Mauris gravida pretium nisi non venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis augue posuere, dapibus nisi quis, porta urna. Mauris vitae metus dui.
 
 Ut sapien velit, mattis vel mattis sit amet, luctus nec nisi. Fusce in quam at nisi auctor commodo. Donec luctus nec ex sit amet feugiat. Curabitur scelerisque, mauris non fringilla egestas, nunc metus faucibus lacus, vitae tincidunt enim mauris at lorem. Quisque dictum tortor quis molestie vehicula. Sed vel suscipit justo, porta dapibus enim. Nam hendrerit lectus lacinia dui egestas, sagittis mattis purus euismod. Donec placerat at dui at rhoncus. Sed sodales lacinia sapien sit amet ultrices. Mauris gravida pretium nisi non venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis augue posuere, dapibus nisi quis, porta urna. Mauris vitae metus dui.
 
