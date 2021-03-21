@@ -27,9 +27,10 @@
                      title=Narrator,
                      boxed title style={size=small,
                        colframe=black},
-                     title after break={Narrator},
-                     extras title after break={
-                       attach boxed title to top center
+                     extras middle and last={
+                       overlay={\node[above,inner sep=-4pt] (A)
+                         at (interior.north)
+                         {\tcbox[colback=narrator-title-bg,height=1.5em]{Narrator}};}
                      }
                ]}
                {\end{tcolorbox}}
