@@ -1,0 +1,1 @@
+pdfjam --fitpaper true --rotateoversize true --suffix joined $*
