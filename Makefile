@@ -1,7 +1,7 @@
 LATEX = xelatex
 PDFJOIN = pdfjoin
 PANDOC = pandoc
-PYTHON = python2
+PYTHON = python3
 
 ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
 
