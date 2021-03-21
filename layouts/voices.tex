@@ -28,15 +28,11 @@
                      title=Narrator,
                      boxed title style={size=small,
                        colframe=black},
-                     title after break={Continued},
                      extras middle and last={
-                       attach boxed title to top left={xshift=5mm,
-                         yshift=-3mm,
-                         yshifttext=-1mm},
-                       coltitle=black,
-                       colbacktitle=narrator-title-bg,
-                       boxed title style={size=small,
-                         colframe=black},
+                       overlay={\node[above,inner sep=-4pt] (A)
+                         at (interior.north)
+                         {\tcbox[colback=narrator-title-bg,width=auto,height=1.5em,top=0mm]
+                           {Narrator}};}
                      }
                ]}
                {\end{tcolorbox}}
@@ -138,9 +134,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi non eros lacinia mollis. Phasellus nec libero neque. Nam ut ante eu leo laoreet varius. Vestibulum eu sagittis felis, quis varius lorem. Vestibulum efficitur odio ac nisl venenatis lacinia. Vestibulum vestibulum felis id eros egestas pharetra. Morbi quis vestibulum quam. Cras nec mattis risus, a pellentesque metus. Donec et diam porta, vestibulum dolor sit amet, rhoncus turpis. Nunc orci libero, sagittis eget ultricies eu, finibus nec justo. Praesent fermentum ligula eget tempus elementum. Aenean congue ipsum ut lectus faucibus, eu vestibulum tellus venenatis. Nulla diam mi, rhoncus sed pretium in, eleifend eu eros. Proin eleifend arcu mi, in blandit augue viverra non. Aenean vel euismod magna. Nunc id dictum nunc, ut iaculis ligula.
 
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi non eros lacinia mollis. Phasellus nec libero neque. Nam ut ante eu leo laoreet varius. Vestibulum eu sagittis felis, quis varius lorem. Vestibulum efficitur odio ac nisl venenatis lacinia. Vestibulum vestibulum felis id eros egestas pharetra. Morbi quis vestibulum quam. Cras nec mattis risus, a pellentesque metus. Donec et diam porta, vestibulum dolor sit amet, rhoncus turpis. Nunc orci libero, sagittis eget ultricies eu, finibus nec justo. Praesent fermentum ligula eget tempus elementum. Aenean congue ipsum ut lectus faucibus, eu vestibulum tellus venenatis. Nulla diam mi, rhoncus sed pretium in, eleifend eu eros. Proin eleifend arcu mi, in blandit augue viverra non. Aenean vel euismod magna. Nunc id dictum nunc, ut iaculis ligula.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi non eros lacinia mollis. Phasellus nec libero neque. Nam ut ante eu leo laoreet varius. Vestibulum eu sagittis felis, quis varius lorem. Vestibulum efficitur odio ac nisl venenatis lacinia. Vestibulum vestibulum felis id eros egestas pharetra. Morbi quis vestibulum quam. Cras nec mattis risus, a pellentesque metus. Donec et diam porta, vestibulum dolor sit amet, rhoncus turpis. Nunc orci libero, sagittis eget ultricies eu, finibus nec justo. Praesent fermentum ligula eget tempus elementum. Aenean congue ipsum ut lectus faucibus, eu vestibulum tellus venenatis. Nulla diam mi, rhoncus sed pretium in, eleifend eu eros. Proin eleifend arcu mi, in blandit augue viverra non. Aenean vel euismod magna. Nunc id dictum nunc, ut iaculis ligula.
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque nisi non eros lacinia mollis. Phasellus nec libero neque. Nam ut ante eu leo laoreet varius. Vestibulum eu sagittis felis, quis varius lorem. Vestibulum efficitur odio ac nisl venenatis lacinia. Vestibulum vestibulum felis id eros egestas pharetra. Morbi quis vestibulum quam. Cras nec mattis risus, a pellentesque metus. Donec et diam porta, vestibulum dolor sit amet, rhoncus turpis. Nunc orci libero, sagittis eget ultricies eu, finibus nec justo. Praesent fermentum ligula eget tempus elementum. Aenean congue ipsum ut lectus faucibus, eu vestibulum tellus venenatis. Nulla diam mi, rhoncus sed pretium in, eleifend eu eros. Proin eleifend arcu mi, in blandit augue viverra non. Aenean vel euismod magna. Nunc id dictum nunc, ut iaculis ligula.
 
