@@ -20,6 +20,8 @@ latex_jinja_env = jinja2.Environment(
 movesthing = []
 
 def get_data():
+	startnum = None
+	endnum = None
 	with io.open ('consensus.md', encoding='utf-8') as f:
 		l=0
 		workingdoc = []
