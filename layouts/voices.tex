@@ -2,6 +2,7 @@
 
 \usepackage[most]{tcolorbox}
 \usepackage{xcolor}
+\usepackage{lipsum}
 
 \definecolor{narrator-bg}{HTML}{eeeeee}
 \definecolor{narrator-frame}{HTML}{000000}
@@ -30,7 +31,8 @@
                      extras middle and last={
                        overlay={\node[above,inner sep=-4pt] (A)
                          at (interior.north)
-                         {\tcbox[colback=narrator-title-bg,width=auto,height=1.5em,top=0mm]{Narrator}};}
+                         {\tcbox[colback=narrator-title-bg,width=auto,height=1.5em,top=0mm]
+                           {Narrator}};}
                      }
                ]}
                {\end{tcolorbox}}
@@ -97,6 +99,27 @@
                        colframe=black}]}
                {\end{tcolorbox}}
 
+\newenvironment{MCRight}
+               {\begin{tcolorbox}[enhanced,
+                     breakable,
+                     boxsep=3pt,
+  arc=1.25ex,
+  colback=white,
+  colframe=voice-frame,
+  boxrule=3pt,
+  grow to left by=\voiceshrink,
+%  add to width=\voiceshrink,
+  rightrule=18pt,
+  overlay ={%
+    \node[rotate=270,
+          minimum width=1cm,
+          anchor=south,
+          yshift=-18pt,
+          black]
+    at (frame.east) {MC};
+  }
+  ]}{\end{tcolorbox}}
+
 \begin{document}
 
 \begin{NarratorTopBox}
@@ -141,6 +164,16 @@ Ut sapien velit, mattis vel mattis sit amet, luctus nec nisi. Fusce in quam at n
 
 Ut sapien velit, mattis vel mattis sit amet, luctus nec nisi. Fusce in quam at nisi auctor commodo. Donec luctus nec ex sit amet feugiat. Curabitur scelerisque, mauris non fringilla egestas, nunc metus faucibus lacus, vitae tincidunt enim mauris at lorem. Quisque dictum tortor quis molestie vehicula. Sed vel suscipit justo, porta dapibus enim. Nam hendrerit lectus lacinia dui egestas, sagittis mattis purus euismod. Donec placerat at dui at rhoncus. Sed sodales lacinia sapien sit amet ultrices. Mauris gravida pretium nisi non venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis augue posuere, dapibus nisi quis, porta urna. Mauris vitae metus dui.
 
+Sed vitae urna non purus posuere pretium. Aenean interdum ipsum sed lectus eleifend volutpat. Sed gravida orci et dolor tristique blandit molestie ut dolor. Etiam urna mi, condimentum auctor maximus nec, venenatis quis elit. Praesent non rutrum odio, a facilisis dolor. Ut lobortis enim vel pulvinar mattis. Aliquam in vulputate orci. Duis nec ornare lectus. Suspendisse potenti. Nam nec turpis efficitur, faucibus nunc a, fermentum nisl. Mauris eget tellus ac orci laoreet consequat sodales eget purus. Fusce id ullamcorper nulla. Fusce quis mauris nisi. Suspendisse ut dui dictum, mollis elit sed, pulvinar quam. Suspendisse rhoncus leo vel est lacinia posuere. Aliquam erat volutpat.
+
+Ut sapien velit, mattis vel mattis sit amet, luctus nec nisi. Fusce in quam at nisi auctor commodo. Donec luctus nec ex sit amet feugiat. Curabitur scelerisque, mauris non fringilla egestas, nunc metus faucibus lacus, vitae tincidunt enim mauris at lorem. Quisque dictum tortor quis molestie vehicula. Sed vel suscipit justo, porta dapibus enim. Nam hendrerit lectus lacinia dui egestas, sagittis mattis purus euismod. Donec placerat at dui at rhoncus. Sed sodales lacinia sapien sit amet ultrices. Mauris gravida pretium nisi non venenatis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis augue posuere, dapibus nisi quis, porta urna. Mauris vitae metus dui.
+
 \end{MC}
+
+\begin{MCRight}
+
+  \lipsum
+
+\end{MCRight}
 
 \end{document}
