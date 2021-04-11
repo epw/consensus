@@ -304,11 +304,17 @@ The title of a Paradigm is just a label, but usually indicates something about t
 
 ### Aligned
 
+\begin{Player}
+
 Aligned aspects are parts of the Paradigm that the Mage is particularly good at. This may have to do with their beliefs (a Mage who believes in a current of life energy flowing through the Universe is likely to be good at healing), or just be a particular focus within what’s possible (a Mage who believes that Reality can be programmed might have happened to have specialized in deletion, out of a variety of possibilities.) Use the listed choices in Aligned for a sense of what the Paradigm can likely do.
 
-Your character’s Aligned aspect makes it easier to help related actions, and magic which is Aligned to your character’s Paradigm has a chance of being particularly, remarkably successful.
+Your character's Aligned aspect makes it easier to help related actions, and magic which is Aligned to your character's Paradigm has a chance of being particularly, remarkably successful.
+
+\end{Player}
 
 ### Opposed
+
+\begin{Player}
 
 Opposed aspects are things which your Mage believes are impossible, as firmly as you probably believe that the Sun rises each day. These will never apply to anything which a non-Mage could do, but definitely can cover things which other Mages may do. The even may apply to things your own Mage might appear to be capable of. Having them listed under Opposed means that there is a detail to the Mage’s Paradigm that completely precludes them. For example, if a Mage has "emotional manipulation" as an Opposed aspect, then that means that they do not think it fits into their worldview. If the worldview looks very broad and flexible, like “Ancient Languages Hold Secret Power,” then there is a reason it is Opposed. Perhaps the language came from before humans were evolved enough to manipulate emotions, rather than just feel and express them like animals. Perhaps it was too dangerous and was sealed away by an ancient Mage. Or perhaps it is unknown to the Mage, they just have a deep sense that it is impossible as continuing to live without breathing would be if they had no magic.
 
@@ -318,38 +324,65 @@ Pay attention when choosing Opposed magic to the Paradigms of others at the tabl
 
 A Mage may be able to break past their Opposed, and do magic that is Opposed to their own paradigm, but it will always be Rending if they do.
 
+\end{Player}
+
 ### Freedoms
+
+\begin{Player}
 
 Freedoms are one of the perks that come with working with other Mages over time. Another Mage may choose, when they take an Advancement, to grant your Mage a Freedom. This is a short phrase or sentence that describes how something which appears to fall under one of your Opposed Aspects is actually just fine. The Freedom only comes into play when you are working with the character who gave it to you. If Piper, who has an Opposed aspect of "Silent magic", is given the Freedom “There is sound among the spirits” by Marcus, then when Piper and Marcus do magic together, Piper can do magic that appears to be silent in the physical world, as long as it somehow involves “sound” in connection with spirits.
 
 Freedoms can be very useful, especially because Mages tend to become less able to directly help one another as they become more powerful (because Help or Hinder uses the number of Anchors to modify the roll). Freedoms let them stop hiding some of their magic from each other, and reward collaboration.
 
+\end{Player}
+
 ### Restrictions
+
+\begin{Player}
 
 Restrictions are new holes discovered in a Mage’s view of what is possible. They often come about as a result of significant failure: Not only are you unable to do that this time, you’re unable to do it at all. They can cover new discoveries in the fiction about the exact shape of the Paradigm, and they can cover new beliefs gained by the Mage ("I guess I actually can’t breathe underwater.") Like Freedoms, they are short phrases or sentences, but they add on to Opposed aspects, rather than providing a way to bypass them. A character with the Opposed aspect “magic that prevents movement” might gain the Restriction “Movement for spirits includes multiple dimensions,” and now anything that would trap a spirit on one plane is as unreachable as if it were Opposed. When something says it applies if a Mage is Opposed, this includes if they have a Restriction that applies.
 
 Unlike the Opposed aspects, Restrictions can be overcome. There is an Advancement a Mage can take to remove a Restriction that they have gained, representing an expansion of understanding or self-confidence by the Mage.
 
+\end{Player}
+
 ## Harmonious Magic
+
+\begin{Player}
 
 Most magic that Mages do is barely distinguishable from coincidence or extreme luck. There’s a reason for this. That kind of magic is easy, and safe. Instead of creating money out of thin air, a Mage prefers to find the exact location buried treasure is hidden, right in their backyard. Maybe it was there before they did their magic, and their magic just allowed them to find it. Or maybe their magic put it there just minutes before it was dug up. Either way, the casual onlooker (and therefore the Consensus) can’t tell the difference. This is called Harmonious magic. This kind of magic acts in harmony with reality, circumvents the rules of the universe, and nobody’s the wiser. There’s a reason you don’t see Mages throwing balls of fire down the streets of Chicago. Nobody’s Paradigm is going to be violated by a Mage happening to have exactly the small item that they need in their pocket.
 
+\end{Player}
+
 ## Rending Magic
+
+\begin{Player}
 
 But what if your character thinks they Really Need to throw a fireball down the streets of Chicago? Well first, they’re almost certainly wrong, Rending Magic causes many more problems than it fixes in 99 out of 100 cases. But if they’re dead set on doing it, they’re performing Rending Magic. To do that requires tearing a rather large hole in reality, and that’s when reality fights back. If an effect for any reason can’t be passed of as coincidence or happenstance to the casual onlooker, the effect is very likely Rending. Notably, when you do rending magic, it just works, and you roll the move if it affects a lookout. This can be very powerful, but the costs are very high.
 
+\end{Player}
+
 ### Lookouts
+
+\begin{Player}
 
 Sometimes you can tear holes in reality and get away with it because no one is around to act as eyes and ears for the Consensus. Rending Magic only triggers the Rending Magic move when it affects a lookout. A lookout is any non-mage human, and any Mage who’s paradigm is Opposed to that rending effect. However, "affects" should be taken as broadly as possible here. If a lookout sees the magic being done, if they are targeted by it, or if a ripple effect causes them to sneeze from the wind generated by your summoned Wind Golem, those are all being affected. If you summon a bar of gold in the privacy of your own warded lab, that’s fine, until the moment you hand that bar of gold to a non-mage as payment, at which point you roll the Rending magic move. You can animate a golem in your basement, and as long as no one sees it or hears a distinctive sound that no human could make, you’re all set. But when the housekeeper opens the locked basement door and sees an animated humanoid form made out of clay, no matter where your mage is, they roll the rending magic move.
 
+\end{Player}
+
 ## Discord
+
+\begin{Player}
 
 Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.
 
-
 {{anchorBacklash chapter}}
 
+\end{Player}
+
 ## Backlash
+
+\begin{Player}
 
 This is the universe’s way of fixing itself after a hole is torn in it by Rending magic. It is also the punishment for Mages who break the rules too egregiously. Sometimes a backlash is minor, the equivalent of a slap on the wrist. Sometimes you’re banished from reality itself. Depends on how much you’ve been messing with reality, and how much it feels like messing back.
 
@@ -359,7 +392,11 @@ Physical signs of discord should affect the character negatively for the rest of
 
 Enforcers for the Consensus can take many different shapes, they will likely take on a form that makes sense within the Mage’s paradigm. They may or may not be able to be seen by other mages, depending on the circumstances. One thing is constant between all physical signs of discord and Enforcers though. Using magic to try and get rid of them or mitigate their consequences will only make matters worse.
 
+\end{Player}
+
 ## Reality Breaks
+
+\begin{Player}
 
 Sometimes, when the Consensus is particularly pushed against, a Mage needs to learn a lesson, reality breaks around them. This can take a number of different forms, pervasive hallucinations that only the mage can see, an entire fantasy world overlaying the real world, making the mage think they’ve been transported elsewhere while in reality they wreak havoc on their world, or a pocket dimension, actually transporting them elsewhere for a time out from reality.
 
@@ -391,7 +428,11 @@ A ritual is any larger magical working undertaken by one or more characters. Rit
 
 A ritual has two phases: planning and performing.
 
+\end{Player}
+
 ### Planning a Ritual
+
+\begin{Player}
 
 In order to perform a ritual, you must know what you are doing, first. Planning requires "some time and relative safety." It allows you to specify the effect you are trying for, in much more detail than you would if you were simply doing magic on the fly. The MC will assign some requirements to perform the ritual.
 
@@ -399,7 +440,11 @@ Some rituals are made up to solve a particular problem, within a specific situat
 
 Once you have planned the ritual, you need to write it down. This ensures that important details aren’t lost.
 
+\end{Player}
+
 ### Performing a Ritual
+
+\begin{Player}
 
 Performing a ritual has more requirements than planning one. To start with, it must be at a place of power that is appropriate for the ritual. Time and relative safety are requirements like for planning. In addition, there will be a sense of how many Mages are needed, and they all must be present. It would likely help if they were involved in the planning phase as well, but this is not a requirement.
 
@@ -969,17 +1014,21 @@ This is a game where you have more leeway and ability to add elements to the wor
 
 \end{Player}
 
-\begin{Narrator}
-
 ##### The X Card
 
 ###### Credit for this mechanic goes to John Stavropoulos
+
+\begin{Narrator}
 
 Give every player an index card with a large, clear ‘X’ on it. Explain that at any time, any player may raise or clearly tap their X card. If this happens, we immediately edit out whatever was X-carded. No explanation of why is necessary, or should be requested. If there is an issue, anyone can call for a break to discuss it privately.
 
 This ensures that everyone at the table remains in control of what they will be exposed to, without having to figure out and list hard lines ahead of time.
 
+\end{Narrator}
+
 ##### Dial It Up/Dial it Down
+
+\begin{Narrator}
 
 *[This is a mechanic for recalibating in the middle of a scene, to help stop them from going too far, and help stop them from not going far enough.]*
 
@@ -1095,25 +1144,37 @@ As the players create their characters, notice as they progress through things a
 
 ### Introductions
 
-\begin{Narrator}
+\begin{MC}
 
-Once everyone has the basics of their characters decided, the MC should go around the table and have everyone introduce their characters. Start with name and pronouns, and move on to more specific details.
+Once everyone has the basics of their characters decided, go around the table and have everyone introduce their characters. Start with name and pronouns, and move on to more specific details.
+
+\end{MC}
 
 #### Paradigm
 
+\begin{Player}
+
 Sharing a character’s Paradigm gives the starting point of who they are as a Mage. It says something about how they look at the world and what kind of magic to expect from them, but also what they can’t work with. Characters are likely to have to work around each others’ Opposed Aspects a lot, so it’s important to have been exposed to what they are.
+
+\end{Player}
 
 #### Looks
 
+\begin{Player}
+
 Talk about what the character looks like, using the traits on the character sheet as guides. Since Mages usually have more than just the five senses, Aura is a noteworthy part of any Mage’s description.
 
+\end{Player}
+
 #### Preparations
+
+\begin{Player}
 
 This is one element that can be skipped if the themes of the game suggest it won’t be relevant any time soon. But, describing the Preparations gives a specific example of how the Mage’s Paradigm functions, as well as what they are likely to look like if they do end up in danger.
 
 As everyone introduces their characters, people will likely start to suggest ideas about how they could be connected, or involved with pieces of the world that are brought up. That’s great! Try not to get too bogged down with it, but these connections help build the world the characters will inhabit.
 
-\end{Narrator}
+\end{Player}
 
 ### The Three Questions
 
@@ -1171,11 +1232,19 @@ Once characters have been created, it’s time to play through the first scenes 
 
 These are the first scenes you will be playing, so if you see the chance to have a move trigger, make sure you take it! These can be a great introduction to the mechanics as well as to our characters and the world.
 
+\end{MC}
+
 ### Pulling in Multiple Characters
+
+\begin{MC}
 
 When the players go around introducing their characters, make a note of any answers to the 3 questions (or leading questions you pose about those questions) that seem to synchronize with each other. You’ll use this to set those characters up in the same scene and start it off in a way that lets you learn more about the characters and the world they are interacting with. If you have 4 players and are aiming for 4 scenes, you could make each scene have two characters in it, or you could pull all 4 characters into the scene about the first question, and give each character an individual scene that addresses one of the others. During each scene you should look for places where the actions they describe would trigger a move, and have them roll it.
 
+\end{MC}
+
 ### Framing a Scene
+
+\begin{MC}
 
 During the first session, your method of choosing scenes is a bit more structured and formulaic than it will be in future sessions. First, choose one of the 3 questions that you’re going to explore. These often make the most sense if they go in order, so any scenes about the first question before scenes about the second and so on, but that isn’t always the case. Next, pick any number of Mages who have answers to that question that could synergize. Put them into a situation that starts to explore their answers, and then start asking leading questions to probe deeper and deeper into their answers. Find out who trivialized their humanity, or how it lead them to a fundamentally different paradigm about the world, or what they most fear about being hunted. Find out anything you can while playing out the scene, and help the characters establish their ties and connections to each other while doing it. Also look for places where characters that are connected to one Mage might also be connected to another, and how both Mages might want different and competing things from that non-player character.
 
@@ -1185,7 +1254,11 @@ If you’ve chosen the second question, you will likely want to frame it in the 
 
 If you’ve chosen the third question, you should set it in the present, and you should make it immediate. Make soft moves that characters need to react to while also asking leading questions to make them fill in details about the world. Frame a scene that shows them being hunted or pursued, or evidence that they soon will be or recently have been.
 
+\end{MC}
+
 #### Turning the Three Questions into Scenes
+
+\begin{MC}
 
 The first question asks the player to think about why their Mage’s humanity was trivialized. This should be something before they awakened to their potential as a mage, and should provide a great place to mine for scenes that take place in the characters’ mundane pasts. If you can, tie in a character’s anchors here, especially any important people or memories from their younger days.
 
@@ -1193,7 +1266,11 @@ The second question asks the player to think about why their Mage’s humanity m
 
 The third question asks the player to think about why they might be hunted. This could take on a positive or a negative connotation, so try to get a sense of that before you frame the scene or even decide which characters are going to be in it. Generally it might be easier to group characters who feel positively about being hunted with like, and same for negative, but look for places where that isn’t true, and see if you can frame a scene around that. Make sure to ask a lot of leading questions in scenes that focus on this question, players will likely give answers that lead directly to your most interesting Forces.
 
+\end{MC}
+
 ### Ask Leading Questions
+
+\begin{MC}
 
 In addition to playing to find out what happens, during these scenes you should ask questions that get at things which interest you and seem like they might be useful to build on. Leading questions help ensure that the player will have an answer, and doesn’t just feel overwhelmed with the need to make up more details about their character than they know. Don’t just ask "What was school like?" Instead ask, “What was the name of your biggest bully in High School? What did they do to you?” Build on the answers, so if the player answers “Kevin James, he took my lunch money”, maybe ask why Kevin singled you out over the rest of your classmates.. You’re seeking answers that will not only help you characterize the Mages, but also demonstrate answers to the Mages’ three questions, and help you understand their Stressors. You even may be able to ask questions that start to develop parts of the world that may be used as Forces. Asking an Inspired who sells “Chemically Assisted Experiences” the question “Who are your most reliable customers?” might suggest a group that could easily become a Force.
 
@@ -1201,11 +1278,19 @@ You can sometimes use leading questions to push the world in a particular direct
 
 You can go deeper here than earlier in character creation, as long as the answers keep giving the table interesting stuff to work with.
 
+\end{MC}
+
 ### Identifying the Stressor
+
+\begin{MC}
 
 During the first session, after a scene or while a scene wraps up, take a look at the list of stressors, and think about which one was primary in the scene that played out. If it isn’t obvious, and it often will be, you can ask a couple more leading questions to really solidify one of the stressors. Each scene should have one stressor assigned to it after the fact, and you will use this to fill out the world before the second session.
 
+\end{MC}
+
 ### Number of Scenes
+
+\begin{MC}
 
 Depending on how much time you have, the number of scenes are variable. However, we recommend between 3 and 6 because each scene turns into a Force in the world. Having less than 3 will result in a flat world and likely players will look at the Forces as challenges to overcome. Having more than 6 becomes very hard to keep track of and keep up with from session to session. There are already so many scenes that players will want to fit into the game, extra Forces will tend to fall by the wayside.
 
@@ -1259,7 +1344,7 @@ From time to time, the MC might have a "letter" for you about your character. Th
 
 Gather your MC sheet, PC summary sheet, Forces, Flags, and Portents. Read out Flags for all the players’ characters, and note which ones can be changed. Mark one Code off every Portent, and mention them as you do so.
 
-[//]: # (If you have them, read out and resolve "love letters." [maybe we actually explain them right here?].)
+(If you have them, read out and resolve "love letters." [maybe we actually explain them right here?].)
 
 Have every player mark one Code off every Anchor. If things come to mind, note what these Codes mean, but if not, you will determine that when a character goes to reconnect with the Anchor. An Anchor beginning to Slip probably deserves a bit of prose, though.
 
@@ -1269,7 +1354,11 @@ Have players with Moves triggered at the start of the session perform them. Reme
 
 Frame a scene and make a soft move.
 
+\end{MC}
+
 ### Framing Scenes
+
+\begin{MC}
 
 Frame scenes so that everyone knows where they are starting and can use that as a jumping-off point to contribute. A scene should start when the action gets interesting, not before, so skip the preparation that can be taken for granted (if the preparation might be interesting, then make it into its own scene, don’t tack it onto the front of another.) Sometimes it will be clear how exactly to start a scene, but whenever it isn’t, try one of these techniques.
 
