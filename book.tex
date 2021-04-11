@@ -1,3 +1,77 @@
-\newenvironment{Narrator}{narrator}{}
-\newenvironment{Player}{player}{}
-\newenvironment{MC}{MC}{}
+\usepackage[most]{tcolorbox}
+\usepackage{xcolor}
+
+\definecolor{narrator-bg}{HTML}{eeeeee}
+\definecolor{narrator-frame}{HTML}{000000}
+\definecolor{narrator-title-bg}{HTML}{dddddd}
+
+\definecolor{voice-bg}{HTML}{ffffff}
+\definecolor{voice-frame}{HTML}{aaaaaa}
+\definecolor{voice-title-bg}{HTML}{eeeeee}
+
+\newcommand{\voiceshrink}{-5mm}
+
+\newenvironment{Narrator}
+               {\begin{tcolorbox}[enhanced,
+                     breakable,
+                     parbox=false,
+                     colback=narrator-bg,
+                     colframe=narrator-frame,
+                     attach boxed title to top left={xshift=5mm,
+                       yshift=-3mm,
+                       yshifttext=-1mm},
+                     coltitle=black,
+                     colbacktitle=narrator-title-bg,
+                     title=Narrator,
+                     boxed title style={size=small,
+                       colframe=black},
+                     extras middle and last={
+                       overlay={\node[above,inner sep=-4pt] (A)
+                         at (interior.north)
+                         {\tcbox[colback=narrator-title-bg,width=auto,height=1.5em,top=0mm]
+                           {Narrator}};}
+                     }
+               ]}
+               {\end{tcolorbox}}
+
+\newenvironment{Player}
+               {\begin{tcolorbox}[enhanced,
+                     breakable,
+                     boxsep=3pt,
+  arc=1.25ex,
+  colback=white,
+  colframe=voice-frame,
+  boxrule=3pt,
+  add to width=\voiceshrink,
+  leftrule=18pt,
+  overlay ={%
+    \node[rotate=90,
+          minimum width=1cm,
+          anchor=south,
+          yshift=-18pt,
+          black]
+    at (frame.west) {Player};
+  }
+  ]}{\end{tcolorbox}}
+
+\newenvironment{MC}
+               {\begin{tcolorbox}[enhanced,
+                     breakable,
+                     boxsep=3pt,
+  arc=1.25ex,
+  colback=white,
+  colframe=voice-frame,
+  boxrule=3pt,
+  grow to left by=\voiceshrink,
+%  add to width=\voiceshrink,
+  rightrule=18pt,
+  overlay ={%
+    \node[rotate=270,
+          minimum width=1cm,
+          anchor=south,
+          yshift=-18pt,
+          black]
+    at (frame.east) {MC};
+  }
+  ]}{\end{tcolorbox}}
+
