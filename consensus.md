@@ -2789,13 +2789,19 @@ Add this option to Assert your Paradigm and Impress a lusus naturae: On a 12+, y
 
 ## Custom Moves
 
+\begin{Player}
+
 Sometimes, it will become clear that something your character does is iconic or frequent enough that it’s worth codifying. The table can figure out a move, structured just like a playbook move, that reflects this action and the standard outcomes. This usually shouldn’t define something new about the way the world works, so much as simplify executing it. Now it’s not "I’m going to cast that summoning spell I worked out," then looking to the MC to see what happens, and they make a soft move reflecting the outcome, but rather, you cast the summoning spell, triggering the move “when you cast your researched summoning spell,” and follow from there. Most of the time, when you write one of these, it should consume an Advancement, coming after you have marked five experience.
 
 See the Hacking section for more details on creating moves, but in general, a move has a trigger, describing an in-game action, and an outcome. The outcome might be a simple statement, a mechanic such as providing Hold, or an instruction to make a roll and read further for success and failure. Codifying 7-9 and 6- results has a particular kind of power, by making them into known quantities.
 
 Don’t use this to copy other playbooks’ moves, especially moves that are already possessed by other characters at the table.
 
+\end{Player}
+
 ## Fictional Positioning
+
+\begin{Player}
 
 Finally, characters advance within the context of the story. A character gets some money and buys a new car, and now has a reliable means of getting around. A character meets a long-lost cousin and now has a new connection to their family. A character finally builds the library they’ve always meant to. Often, due to the descriptive nature of the rules, it is possible to fit these things into the mechanics. New acquaintances can become Anchors or Inspirations, a library might be a place of power, but just because it doesn’t fit doesn’t mean it doesn’t matter. There are also changes that aren’t precisely mechanics but interact with them: If you quested out and gained a vial of sacred water from the lake inhabited by the last mermaid, perhaps you now have a resource that could be consumed to do magic within your Paradigm but beyond your abilities.
 
@@ -2820,6 +2826,8 @@ A Force can be many things: It might be an ambitious organization, some lusus na
 Note that Forces can be allies or enemies, or neither. They may have their own agendas, but at times, some Mages may realize that they do not want to impede a Force, and indeed wish to help it along. In addition, what is a positive Force to one Mage might be a negative Force to another. Forces are complex. No Force should simply exist to be defeated.
 
 Finally, Forces should not have perfectly aligned goals. If they do, then it is really once Force being described. They do not have to be active enemies of each other, but even very positive Forces in the world can find themselves pushing in different directions.
+
+\end{MC}
 
 ## Parts of a Force
 
@@ -3219,8 +3227,6 @@ Finally, it is reasonable to change details of a Force from time to time. Changi
 The Cast of a Force can constantly be in flux, as new characters who are members are established, and as old ones may leave the area, change allegiances, or even be rendered permanently ineffectual.
 
 Moves usually shouldn’t change, since they are core to the Force. You might add more from the appropriate Stressor’s list, if you have less than three written down and discover a new one that makes sense. The moves also might change during a major event, such as the Force hitting Code N. In the reconfiguring that happens as a new goal is selected, old capabilities may be abandoned or made irrelevant, and they may seek or discover new methods.
-
-\end{MC}
 
 \setlength{\parindent}{0em}
 
