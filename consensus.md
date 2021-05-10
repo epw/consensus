@@ -1927,15 +1927,9 @@ Connection Anchors are notable for their agency, as they are people or animals. 
 
 #### Emotional
 
-\Begin{Player}
-
 Emotional Anchors are the objects, signs, and places that connect to memories of the past and ideas of the future. They can be grounding, but need to be kept in your mind, and likely regularly interacted to or kept on hand, lest they slip away.
 
-\End{Player}
-
 #### Filling in Blanks
-
-\Begin{Player}
 
 Some starting Anchors are not completely filled in to start, they will have a blank space left to fill in. Choose something evocative to write there, if you pick that starting anchor, and be ready to explore what it means. Keep in mind the category of Anchor it is in, and don’t fill in the blank in a way that makes that Anchor not fill that need.
 
