@@ -9,7 +9,7 @@ author:
 # In The Beginning
 
 ## Consensus
-\begin{Narrator}
+\Begin{Narrator}
 
 Hello Reader.
 
@@ -21,11 +21,11 @@ They are known as Mages, as Awakened. They may exist within the Consensus, play 
 
 Would you like to find out?
 
-\end{Narrator}
+\End{Narrator}
 
 ## Reading This Book
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Most of this book will be addressed to you, the player, in one of two roles. The first role is the Master of Ceremonies, or MC, who facilitates conversation and play. This is the player whose job it is to make the moves that keep the conversation flowing, in some games this role would be called the GM. The second role is the player of a Mage in the game, who embodies a particular character. They choose and portray this character's thoughts and actions, contributing to the story primarily from that character's perspective. No matter which role you plan to take, feel free to read anything and everything you see herein. This isn't the kind of game that keeps secrets from one role or the other. That said, the reason we break it out like this, is so that you don't have to read more than you want to.
 
@@ -33,39 +33,39 @@ Different people will have different entry points into understanding this game. 
 
 If you're the kind of person that wants to learn about the flavor of the game, you can continue on to chapter 2, Magic. If you're the kind of person who really needs a character to latch onto before you understand the game, take a look at the Playbooks in Appendex A. If you understand a game best through the actions that it encourages you to take, it's worth taking a look at The Moves chapter. If you want to get an idea of how the game plays out, you can skip to the First Session chapter, but be sure to read on, because it doesn't go into depth about a few important things. If you do take any of these options besides moving right on to chapter 2, there will likely be a lot of terms you don't understand, but that's okay, you can look them up in the glossary, or you can just keep reading the rest of the book where they will be defined.
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{MC}
+\Begin{MC}
 
 If you see a section that looks like this, we are talking to you in your role as the MC.
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 If you see a section that looks like this, we are talking to you in your role as a player of one of the game's Mages.
 
-\end{Player}
+\End{Player}
 
 ## Setting Up to Play
 
-\begin{MC}
+\Begin{MC}
 
 First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another, people who feel safe with each other. You're the MC, and the rest of the players will play Mages. (Unless you don't want that much responsibility, in which case, see if you can pawn this role off onto one of them.) More people than that and it will be hard to keep everyone involved and keep track of everything that’s going on.
 
 You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper, and writing utensils to go around. You won't need dice for yourself, this isn't that kind of game, but might want to have a few pairs of six-sided dice for the other players.
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 First off you'll need a group to play with, and someone to take on the role of the MC. If there isn't someone to take on that role, maybe you can consider doing it. We'll guide you the whole way, we promise.
 
 You'll need a pencil and a pair of normal, six-sided dice (d6s, if you prefer). Check with the MC if you don't have them. Other than that, bring just your creativity and willingness to collaborate. Don't have any firm ideas set in stone, but also don't be afraid to bring to the table what you would like seeing. Games of Consensus often start to bring up images and symbols that feel real within the game. If you want to bring materials to show or make them, such as colored pencils, it can go a long way.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 To get started, you’ll need a place reasonably free of distractions and interruptions, where everyone can get into character and start to imagine together. You’ll want comfortable seating and a table of some kind to spread out all the papers and roll dice on, and so everyone can see each other. Some people like to add to the ambiance, with music, candles, incense, grimoires, ravens’ skulls, or Tesla coils; be creative and take ownership of your space! Consensus tends to run about 6-12 sessions, so try to find somewhere you’ll be able to return to several times.
 
@@ -73,11 +73,11 @@ Try to have materials to help you quickly make little pieces of the world to han
 
 You'll have read through this book at least once, but when you're sitting down to your first session, go to the First Session chapter and begin to follow its rules.
 
-\end{MC}
+\End{MC}
 
 ## Roleplaying as a Conversation
 
-\begin{MC}
+\Begin{MC}
 
 This is a roleplaying game, and your role is to describe the world, most people in it (including some Mages not played by other players), and how they respond to the action of the characters played by the other players. You will get input from the other players on how the world looks and works as guided by your rules. You aren't trying to compete with, outwit, or win against the other players, but you will provide obstacles and difficulties for the characters. The objective of the game is to tell a story about wondrous things, and to have philosophical conversations about the nature of reality, and about the nature of humanity.
 
@@ -85,9 +85,9 @@ Overall, Consensus works by having all the players, including you, describe a se
 
 Then, you'll start framing scenes, describing something that encourages action from a few Mages, and ask a player, “What do you do?” At this point, a conversation has begun. They'll respond, and you'll build on what they said, and draw in others at the table. The rules of the game add depth to the conversation, bringing up pointed questions or adding new complications to the story that’s developing. Your rules, and input from the other players, will guide you as you faciliate the conversation.
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 This is a roleplaying game, and you will take on the role of a character in the story. You'll describe, with the others, what happens. One player, the MC, tends to describe the world, most people in it, and how they respond to the actions of the characters played by you and the other players, getting input from you on how the world looks and works as appropriate. None of the players are competing with each other, though characters may be at odds. The objective of the game is to tell a story about wondrous things, and to have philosophical conversations about the nature of reality, and about the nature of humanity.
 
@@ -95,11 +95,11 @@ Overall, Consensus works by having all the players describe a setting together. 
 
 Then, the MC will start framing scenes, describing something that encourages action from a few Mages, and asks someone, “What do you do?” At this point, a conversation has begun. When you're asked, you'll answer with your character's action or reaction. The MC responds, building on what you said, and drawing in others at the table. The rules of the game add depth to the conversation, bringing up pointed questions or adding new complications to the story that’s developing. The rules, and details about your character, can help prompt you where you should go next, but in the end, you’re the one who decides what your character thinks and does.
 
-\end{Player}
+\End{Player}
 
 ## Moves and Dice
 
-\begin{MC}
+\Begin{MC}
 
 The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time the other players look to you to see what happens next, or ask you a question about the world, you respond with one of your moves. When the players describe what their characters do, it will often trigger one of the Basic moves or one of the Playbook moves. If not, you respond with one of your moves. The structure of the players' moves is as follows:
 
@@ -109,9 +109,9 @@ The Roll: Most moves (but not all of them) will have a roll associated with them
 
 The Outcome: In Consensus, a result of 10 or higher (notated "10+") is a full success, and the character should succeed at what they were attempting to do. A roll of 7-9 is a mixed success. The character should still succeed, but at some cost. The move will give you guidance. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+. A roll of a six or less (notated 6-) is a failure, and means that you have to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice their horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish, though. They could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time you look to the MC to see what happens next, the MC will respond with one of their moves. When you describe what your character does, it will often trigger one of the Basic moves or one of the Playbook moves. The structure of a move is as follows: (MC moves follow a different format)
 
@@ -121,19 +121,19 @@ The Roll: Most moves (but not all of them) will have a roll associated with them
 
 The Outcome: In Consensus, a result of 10 or higher (notated "10+") is a full success. Your character succeeds at what they were attempting to do. A roll of 7-9 is a mixed success. Your character still succeeds, but at some cost. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+. The move will give guidance. A roll of a six or less (notated 6-) is a failure, and means that the MC gets to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice your horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish though, they could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Your moves have a slightly different structure. They are directives, such as "Set Up a Future Problem," "Give Them an Answer They Won't Like," or "Imprison Someone." When you use one, you'll use it as inspiration for what happens in the fiction of the game. For example, the player of an alchemist asks if their character has any eye of newt. This is a form of looking to you to see what happens, and so you make a soft move. You might pick "Set Up a Future Problem," and say "Yes, but only enough for what you want to do now, or the ritual you want to do later, but not both. What do you do?" This sets up their future problem of not having enough eye of newt for their ritual.
 
 When your rules tell you to make a Hard Move, you need to pick one that will allow you to change the fiction irrevocably. When you describe it, don't give the characters a chance to prevent it. 
 
-\end{MC}
+\End{MC}
 
 ## Stats
 
-\begin{Player}
+\Begin{Player}
 
 The Stats in Consensus describe things about your character, what they’re good at, and what patterns they might reach for first in order to solve a problem. Stats can be in the range of -1 to +3, and are added to your dice rolls for relevant moves. The specific stats used in Consensus are:
 
@@ -143,108 +143,108 @@ Entropic: as in direct, active, unstoppable, forward, and destructive.
 Within: referring to the internal self, controlled reactions, ability to introspect, and know yourself.  
 Without: referring to the external world, connections, empathy and understanding.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 The other players will keep track of their characters stats. It might be helpful for you to know what they are so that you know what moves the characters are likely to succeed or fail on, but other than that you don't need to interact with the stats much at all.
 
-\end{MC}
+\End{MC}
 
 ## The Life of a Mage
 
-\begin{Narrator}
+\Begin{Narrator}
 
 No matter what role you're taking on, this is some basic information you'll want to be thinking about.
 
 Mages in Consensus are people who have a deep belief about how the world works and how they can fit into it. This belief is strong enough to allow them to do what the game recognizes as magic, though they may deny that, because if the world really works by allowing people to speak words of power to command the elements, then speaking those words of power isn’t magic any more than using a computer is. Mages change the world just by existing, whether they like it or not, and these changes form the basis for many of the stories in Consensus.
 
-\end{Narrator}
+\End{Narrator}
 
 ### Paradigm
 
-\begin{Narrator}
+\Begin{Narrator}
 
 A Mage’s particular beliefs are summed up in their Paradigm. This describes what it is they believe that is different enough from the usual world that when acted on, the Mage produces magic. It suggests what they are generally capable of, what they are particularly good at, and what they think is impossible, whether for just themselves or for anybody. Understanding the depths of their own Paradigm is an important part of the journey for any Mage, and understanding the Paradigms of other Mages around them is key to successfully working together (as well as to not have a disastrous clash of worldviews).
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{Player}
+\Begin{Player}
 
 This may sound like a lot to figure out when you don't even know the first thing about your character. You'll have help figuring out your character's paradigm as you make your character during the first session. There are also game rules assosciated with it, and you can see the {{linkMagic Chapter}} for more about those and about paradigms in general.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Unlike the stats, you need to understand the character's paradigms deeply. You'll ask probing questions to help the players understand them, and you'll need to keep a sharp eye on Mages trying to do things that their paradigm forbids. Neither you nor the other players need to have exhaustively explored and understood a Mage's paradigm to start out; a large part of playing the game is doing that exploration and learning exactly what a Mage's paradigm means for them.
 
 See the {{linkMagic Chapter}} for more on Paradigms.
 
-\end{MC}
+\End{MC}
 
 
 ### Hardship Breeds Revelation
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Beliefs can be made stronger by being challenged, just like people. Very few people who lead an easy, charmed, unchallenged life develop the beliefs that are strong enough to transform them into a Mage. But, once they do Awaken, coming to understand their abilities, their story is just getting started. Difficulties remain, whether things they couldn’t shake from their past or new problems brought on by magic. The life of a Mage is never an easy one.
 
 To get at this, Playbooks ask three questions: Why was your humanity trivialized, why is your humanity still in question, and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. The {{linkSafety Rules}} in the First Session chapter can help make sure no-one crosses a boundary they don’t want to.
 
-\end{Narrator}
+\End{Narrator}
 
 ### Anchors and Inspirations
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Mages, just like anyone, are tied to people and things around them. Some of the most significant ties are to Anchors, the answers to the question “Why did you stay?”. These nonmagical people, places, and things hold a Mage back from their full potential, but also keep them from becoming lost. They require upkeep, since people have needs, apartments need rent, and traditions must be followed. If not seen to often enough, they will stop anchoring the Mage, leaving them that much closer to true power, and to disconnecting entirely from the world. It is also possible to lose an Anchor in one searing moment, when it becomes clear they didn’t matter to you like you thought they did (or they die, are broken, or lost).
 
 Inspirations are the people, and occasionally magical beings, who further enlighten a Mage and help them see what might be possible. They act as counterbalances to the restraint from Anchors. An Inspiration doesn’t tend to actively inspire for long, but they are easy to reconnect with, which can be very rewarding.
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{MC}
+\Begin{MC}
 
 You'll be framing a lot of scenes around these two types of characters, which means you'll be spending a lot of time portraying these characters. Make sure to ask probing and pointed questions so that you and the player who's Mage they're connected to are on the same page about who they are and what kind of relationship they have.
 
 See the {{linkAnchors and Inspirations chapter}} for more.
 
-\end{MC}
+\End{MC}
 
 ## Gear and Accoutrements
 
-\begin{Player}
+\Begin{Player}
 
 Your Mage is hopefully capable enough when armed only with their mind, but they will have a variaty of supplements to draw on. They may have a few pieces of noteworthy gear, access to a special magical place, or a band of other Mages to work with. Some Mages even have a group of students who seek to learn their wisdom. You'll learn more about which of these things your mage has access to during the first session, and you can read more about them in the {{linkGear and Accoutrements chapter}}
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 A Mage is certainly capable enough when armed only with their mind, and beyond that your fellow players' Mages will have a variaty of other tricks, tools, and resources. Make sure to make note of promenent gear, locations, and especially people that are in their rules during the first session. You can see more in the {{linkGear and Accoutrements chapter}}.
 
-\end{MC}
+\End{MC}
 
 ## Status Tracks
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Consensus measures progress over time for a number of elements of the game, from health to a sinister plot. This is usually done with a Status Track, which is based on the Code system used in some medical transports. Status Tracks start with no Codes marked off, then have Code 50 marked off, Code 40, and so on, down to Code 10 and then Code N, the “newsworthy event.” What this means will depend on what the Status Track is tied to, but Code N is always irrevocable, representing a fundamental change. When a Status Track’s Code 30 is marked off, it starts to “slip”, advancing towards Code N much more quickly. Problems that aren’t addressed early on can become much more difficult to head off.
 
 For more on Status Tracks, see the {{linkStatus Tracks chapter}}.
 
-\end{Narrator}
+\End{Narrator}
 
 ## Why to Play
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Maybe you want to feel what it would be like to be able to seize spirits by their names and command them. Maybe you like talking about whether souls exist and what it would mean if they did, and want to try out being someone who knows they do, can act on them, but still stays up late talking about what it means. Maybe you hear power corrupts, but want to play out struggling between that and using power to do good. Maybe Mages sound like the kind of people you want to associate with, and think like, and this seems like a good way to try it out.
 
 Maybe you’ve felt like you realized something true about the world, and you’ve been waiting for something that says it’s real, for a long time.
 
-\end{Narrator}
+\End{Narrator}
 
 \newpage
 
@@ -252,21 +252,21 @@ Maybe you’ve felt like you realized something true about the world, and you’
 
 # Magic
 
-\begin{Player}
+\Begin{Player}
 
 Ask three Mages what magic is, and you'll get at least six answers, and one might be that there's no such thing as magic, this is just how the world works. Your Mage will have their own way of looking at magic, called their Paradigm. It defines how they do magic, but also how they look at the world. Your Playbook will help you build a Paradigm, so don't feel like you have to figure it all out while reading this. All this is against the backdrop that is the Consensus, which is sort of like the Paradigm of the dominant society around you. Because you are a Mage, your Paradigm conflicts with the Consensus in some ways. Magic is the things you can do because they fit in your Paradigm, but are not in the Consensus. Magic that you can hide so it doesn't look impossible within the Consensus is called Harmonious, and is fairly safe. Other magic, that cannot be explained or easily rationalized, is called Rending, and is one of the most dangerous actions a Mage can take. A major concern for Mages is finding ways to solve their problems that remain Harmonious.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Magic, and doing magic, is probably why you and your players picked up this game. Despite that, this game is focused on the people themselves, their interactions, and their paradigms. Magic just happens to be one of the clearest and most straightforward expression of Paradigm available to most Mages. During this game, one of your jobs will be exploring and helping the players conceive of and define their Mage's paradigms. This exploration starts as they make their characters, but continues during play, and in fact makes up a large part of it. You'll also provide the other magic in the world. You will also be playing the part of the Consensus, helping to decide what magic is subtle enough to be Harmonious, and what is just so obvious that it smashes through the veil of reality and is Rending.
 
-\end{MC}
+\End{MC}
 
 ## Paradigm
 
-\begin{Player}
+\Begin{Player}
 
 You need light to see. You need air to breathe. Things fall when you drop them. Electricity only flows in a complete circuit. There are radioactive metals. The sun is a star, and the moon reflects its light.
 
@@ -282,9 +282,9 @@ When choosing a Paradigm for your character, look at the listed ones in the Play
 
 It is difficult to summarize all of a person’s beliefs in a small section. In Consensus, key aspects that are relevant to magic are called out.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 A Paradigm is a way of looking at the world, a structure that helps make sense of things. Mages are defined in large part by having a Paradigm that does not line up perfectly with the local dominant beliefs about how the world works, and being able to act according to their own beliefs successfully.
 
@@ -292,29 +292,29 @@ Of course, a character will have had an entire life to build up beliefs and expl
 
 Playbooks call out a few major features of Paradigms for their characters. You can also use these as inspiration for other Mages who show up in the world.
 
-\end{MC}
+\End{MC}
 
 ### Title
 
-\begin{Player}
+\Begin{Player}
 
 The title of a Paradigm is just a label, but usually indicates something about the flavor or approach that it entails. "True Names Give Command" suggests the power of “true” names (though whether that means the first given name, a secret name known only to the arcane, or something else entirely, is up to you), while “Reality has an API” suggests a technological approach, perhaps with a magical programming language or the crafting of devices which can change the world’s properties.
 
-\end{Player}
+\End{Player}
 
 ### Aligned
 
-\begin{Player}
+\Begin{Player}
 
 Aligned aspects are parts of the Paradigm that the Mage is particularly good at. This may have to do with their beliefs (a Mage who believes in a current of life energy flowing through the Universe is likely to be good at healing), or just be a particular focus within what’s possible (a Mage who believes that Reality can be programmed might have happened to have specialized in deletion, out of a variety of possibilities.) Use the listed choices in Aligned for a sense of what the Paradigm can likely do.
 
 Your character's Aligned aspect makes it easier to help related actions, and magic which is Aligned to your character's Paradigm has a chance of being particularly, remarkably successful.
 
-\end{Player}
+\End{Player}
 
 ### Opposed
 
-\begin{Player}
+\Begin{Player}
 
 Opposed aspects are things which your Mage believes are impossible, as firmly as you probably believe that the Sun rises each day. These will never apply to anything which a non-Mage could do, but definitely can cover things which other Mages may do. The even may apply to things your own Mage might appear to be capable of. Having them listed under Opposed means that there is a detail to the Mage’s Paradigm that completely precludes them. For example, if a Mage has "emotional manipulation" as an Opposed aspect, then that means that they do not think it fits into their worldview. If the worldview looks very broad and flexible, like “Ancient Languages Hold Secret Power,” then there is a reason it is Opposed. Perhaps the language came from before humans were evolved enough to manipulate emotions, rather than just feel and express them like animals. Perhaps it was too dangerous and was sealed away by an ancient Mage. Or perhaps it is unknown to the Mage, they just have a deep sense that it is impossible as continuing to live without breathing would be if they had no magic.
 
@@ -324,65 +324,65 @@ Pay attention when choosing Opposed magic to the Paradigms of others at the tabl
 
 A Mage may be able to break past their Opposed, and do magic that is Opposed to their own paradigm, but it will always be Rending if they do.
 
-\end{Player}
+\End{Player}
 
 ### Freedoms
 
-\begin{Player}
+\Begin{Player}
 
 Freedoms are one of the perks that come with working with other Mages over time. Another Mage may choose, when they take an Advancement, to grant your Mage a Freedom. This is a short phrase or sentence that describes how something which appears to fall under one of your Opposed Aspects is actually just fine. The Freedom only comes into play when you are working with the character who gave it to you. If Piper, who has an Opposed aspect of "Silent magic", is given the Freedom “There is sound among the spirits” by Marcus, then when Piper and Marcus do magic together, Piper can do magic that appears to be silent in the physical world, as long as it somehow involves “sound” in connection with spirits.
 
 Freedoms can be very useful, especially because Mages tend to become less able to directly help one another as they become more powerful (because Help or Hinder uses the number of Anchors to modify the roll). Freedoms let them stop hiding some of their magic from each other, and reward collaboration.
 
-\end{Player}
+\End{Player}
 
 ### Restrictions
 
-\begin{Player}
+\Begin{Player}
 
 Restrictions are new holes discovered in a Mage’s view of what is possible. They often come about as a result of significant failure: Not only are you unable to do that this time, you’re unable to do it at all. They can cover new discoveries in the fiction about the exact shape of the Paradigm, and they can cover new beliefs gained by the Mage ("I guess I actually can’t breathe underwater.") Like Freedoms, they are short phrases or sentences, but they add on to Opposed aspects, rather than providing a way to bypass them. A character with the Opposed aspect “magic that prevents movement” might gain the Restriction “Movement for spirits includes multiple dimensions,” and now anything that would trap a spirit on one plane is as unreachable as if it were Opposed. When something says it applies if a Mage is Opposed, this includes if they have a Restriction that applies.
 
 Unlike the Opposed aspects, Restrictions can be overcome. There is an Advancement a Mage can take to remove a Restriction that they have gained, representing an expansion of understanding or self-confidence by the Mage.
 
-\end{Player}
+\End{Player}
 
 ## Harmonious Magic
 
-\begin{Player}
+\Begin{Player}
 
 Most magic that Mages do is barely distinguishable from coincidence or extreme luck. There’s a reason for this. That kind of magic is easy, and safe. Instead of creating money out of thin air, a Mage prefers to find the exact location buried treasure is hidden, right in their backyard. Maybe it was there before they did their magic, and their magic just allowed them to find it. Or maybe their magic put it there just minutes before it was dug up. Either way, the casual onlooker (and therefore the Consensus) can’t tell the difference. This is called Harmonious magic. This kind of magic acts in harmony with reality, circumvents the rules of the universe, and nobody’s the wiser. There’s a reason you don’t see Mages throwing balls of fire down the streets of Chicago. Nobody’s Paradigm is going to be violated by a Mage happening to have exactly the small item that they need in their pocket.
 
-\end{Player}
+\End{Player}
 
 ## Rending Magic
 
-\begin{Player}
+\Begin{Player}
 
 But what if your character thinks they Really Need to throw a fireball down the streets of Chicago? Well first, they’re almost certainly wrong, Rending Magic causes many more problems than it fixes in 99 out of 100 cases. But if they’re dead set on doing it, they’re performing Rending Magic. To do that requires tearing a rather large hole in reality, and that’s when reality fights back. If an effect for any reason can’t be passed of as coincidence or happenstance to the casual onlooker, the effect is very likely Rending. Notably, when you do rending magic, it just works, and you roll the move if it affects a lookout. This can be very powerful, but the costs are very high.
 
-\end{Player}
+\End{Player}
 
 ### Lookouts
 
-\begin{Player}
+\Begin{Player}
 
 Sometimes you can tear holes in reality and get away with it because no one is around to act as eyes and ears for the Consensus. Rending Magic only triggers the Rending Magic move when it affects a lookout. A lookout is any non-mage human, and any Mage who’s paradigm is Opposed to that rending effect. However, "affects" should be taken as broadly as possible here. If a lookout sees the magic being done, if they are targeted by it, or if a ripple effect causes them to sneeze from the wind generated by your summoned Wind Golem, those are all being affected. If you summon a bar of gold in the privacy of your own warded lab, that’s fine, until the moment you hand that bar of gold to a non-mage as payment, at which point you roll the Rending magic move. You can animate a golem in your basement, and as long as no one sees it or hears a distinctive sound that no human could make, you’re all set. But when the housekeeper opens the locked basement door and sees an animated humanoid form made out of clay, no matter where your mage is, they roll the rending magic move.
 
-\end{Player}
+\End{Player}
 
 ## Discord
 
-\begin{Player}
+\Begin{Player}
 
 Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.
 
 {{anchorBacklash chapter}}
 
-\end{Player}
+\End{Player}
 
 ## Backlash
 
-\begin{Player}
+\Begin{Player}
 
 This is the universe’s way of fixing itself after a hole is torn in it by Rending magic. It is also the punishment for Mages who break the rules too egregiously. Sometimes a backlash is minor, the equivalent of a slap on the wrist. Sometimes you’re banished from reality itself. Depends on how much you’ve been messing with reality, and how much it feels like messing back.
 
@@ -392,11 +392,11 @@ Physical signs of discord should affect the character negatively for the rest of
 
 Enforcers for the Consensus can take many different shapes, they will likely take on a form that makes sense within the Mage’s paradigm. They may or may not be able to be seen by other mages, depending on the circumstances. One thing is constant between all physical signs of discord and Enforcers though. Using magic to try and get rid of them or mitigate their consequences will only make matters worse.
 
-\end{Player}
+\End{Player}
 
 ## Reality Breaks
 
-\begin{Player}
+\Begin{Player}
 
 Sometimes, when the Consensus is particularly pushed against, a Mage needs to learn a lesson, reality breaks around them. This can take a number of different forms, pervasive hallucinations that only the mage can see, an entire fantasy world overlaying the real world, making the mage think they’ve been transported elsewhere while in reality they wreak havoc on their world, or a pocket dimension, actually transporting them elsewhere for a time out from reality.
 
@@ -408,9 +408,9 @@ From the outside, Reality Breaks are the kind of things that most people don’t
 
 When you fall into a Reality break, you choose a trait of your paradigm (either the name, the Aligned, or the Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 In general, you should shape the reality break to the player's chosen part of their Mage's paradigm (either by making it more prominent, or inverting it), and to the rending magic that caused the break in the first place.
 
@@ -418,21 +418,21 @@ Work with the player to write a move that, when triggered, brings the mage back 
 
 You will frame three scenes for the mage. At the beginning of each of these scenes, the strength of reality break track will advance once. During each scene, you may advance the strength of reality break track as a soft move in response to the mage going along with the scene or failing to learn their lesson. This means that by the end of the third scene, either the mage will have advanced their escape track to code N and broken out of the reality break, or the strength of reality break track will reach code N in which case… the mage is trapped in that reality permanently. They are no longer a playable character, though you may bring them back as a threat later, these mages are unbound by the laws of the Consensus and can be very dangerous for everyone.
 
-\end{MC}
+\End{MC}
 
 ## Rituals
 
-\begin{Player}
+\Begin{Player}
 
 A ritual is any larger magical working undertaken by one or more characters. Rituals increase the power that can be brought to bear, and allow more specific expectations and results to be set out ahead of time. A ritual is often the right option when time allows.
 
 A ritual has two phases: planning and performing.
 
-\end{Player}
+\End{Player}
 
 ### Planning a Ritual
 
-\begin{Player}
+\Begin{Player}
 
 In order to perform a ritual, you must know what you are doing, first. Planning requires "some time and relative safety." It allows you to specify the effect you are trying for, in much more detail than you would if you were simply doing magic on the fly. The MC will assign some requirements to perform the ritual.
 
@@ -440,11 +440,11 @@ Some rituals are made up to solve a particular problem, within a specific situat
 
 Once you have planned the ritual, you need to write it down. This ensures that important details aren’t lost.
 
-\end{Player}
+\End{Player}
 
 ### Performing a Ritual
 
-\begin{Player}
+\Begin{Player}
 
 Performing a ritual has more requirements than planning one. To start with, it must be at a place of power that is appropriate for the ritual. Time and relative safety are requirements like for planning. In addition, there will be a sense of how many Mages are needed, and they all must be present. It would likely help if they were involved in the planning phase as well, but this is not a requirement.
 
@@ -454,29 +454,29 @@ A ritual does not technically have to be planned. If a group of Mages simply gat
 
 The Mage who is leading the ritual rolls the move. The other Mages are necessary, and can only Help or Hinder if they are doing something above and beyond their prescribed roles. The outcomes can be rather dangerous, so a ritual should never be undertaken lightly. 
 
-\end{Player}
+\End{Player}
 
 ### Place of Power
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Places of power are locations with a high concentration of magic, for one reason or another. These tend to be naturally occurring, like ley-line nodes, which are jealously guarded secrets, or else constructed with a copious amount of time and energy from many Mages. Places of magic like this are paramount when putting together rituals of great power, so they are coveted by groups of Mages wishing to work large magics, or singular Mages who need to draw on great amounts of power. 
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{MC}
+\Begin{MC}
 
 Some playbooks have access to a place of power through optional moves. Other places of power may show up during play. Be careful allowing the players to permanently gain access to a place of power if there isn’t a playbook move specifically granting it to them. There should be a real benefit for taking that move, and that’s easier access to a space in which rituals work. It may be fine to give players that work for it temporary access to a place of power, or even access to a temporary place of power.
 
 Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama.
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 Your Playbook may have an option to take a Place of Power as one of your move choices. This gives you a large benefit, since you'll always have a place to conduct a ritual, but will also be a place you have to protect and it means your Mage will be somewhat stationary. If you don't take that move, or if your playbook doesn't give access to one, that doesn't mean you'll never be able to do a ritual, but it does mean that you'll have to find a Place of Power, perhaps asking a local hermit in the woods to borrow theirs, or sneaking into a cabal's inner sanctum and doing the ritual before they get back.
 
-\end{Player}
+\End{Player}
 
 \newpage
 
@@ -484,17 +484,17 @@ Your Playbook may have an option to take a Place of Power as one of your move ch
 
 # The Master of Ceremonies
 
-\begin{Player}
+\Begin{Player}
 
 As you might have guessed, this section is addressed to the Master of Ceremonies, or MC. That being said, there's no reason you can't read it! This isn't the kind of game that has secrets which must be kept away from the other players, and it might be interesting to find out what perspective the MC will have, and help see what expectations are in the game by default. However, if you don't want to read it, this chapter is perfectly safe to skip. Pick up in {{linkThe First Session}}.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 The Master of Ceremonies, or MC, facilitates conversation and play. Your job is to make the moves that keep the conversation flowing, in some games this role would be called the GM. Because you're still going to be surprised by the story and play along with the other players, we still consider you a player, just with a special title on top. It’s hard to always have something interesting to say under any circumstances, so the rules that you must follow help make sure there is always something entertaining. The following chapter will help you figure out what to say when the whole table looks at you to see what happens next. The next sections will provide the rules and structure for you to follow. These aren’t suggestions, these are your set of rules as the MC player, and following them is necessary to keep the game working smoothly.
 
-\end{MC}
+\End{MC}
 
 ## Agenda
 
@@ -944,15 +944,15 @@ Take breaks when you feel like it. The game taking place in scenes gives you a l
 
 ## Before the First Session
 
-\begin{Player}
+\Begin{Player}
 
 If you're interested in playing Consensus, you likely have some ideas that you'd like to see in a story about Mages. This is great! Keep those in mind. But, don't come with a character concept you're married to. Let the details be worked out at the first session, when you're hearing from all the other players. Likewise, if you don't have many ideas, you can check out our own inspirations in {{linkthe Ludography}}, but don't stress about it. You'll be able to get ideas and bounce things off your fellow players, and the game will guide you through the rest.
 
 Oh, and get a couple of dice to bring to the first session. The ones with six sides and pips. Or numbers if you prefer.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Make sure you have all the materials needed for play. A printout of each of the playbooks, a few copies of the basic moves sheet, an MC sheet, a copy of the Forces sheet, as well as the Internal Forces and Consensus Forces sheet. Read through the playbooks and basic moves if you haven’t already, they form the core of the game. Maybe bring a few pairs of dice in case any players forgot them.
 
@@ -960,7 +960,7 @@ Read through this whole book. You don’t have to memorize it, but at least skim
 
 You can also start to come up with some ideas for fantastic imagery to use, settings, themes, descriptions and the like, but don’t commit yourself to any plot, storyline, or even make any characters before the game. You’ll see why as you start to play, this is a collaborative effort, and the game is so much more fun when you can take those ideas and run with them.
 
-\end{MC}
+\End{MC}
 
 ## Character Creation
 
@@ -968,83 +968,83 @@ You can also start to come up with some ideas for fantastic imagery to use, sett
 
 ### Initial Expectations and Safety Rules
 
-\begin{Narrator}
+\Begin{Narrator}
 
 This is a game centered around humans with magical abilities, called Mages. It is set in modern, or at least semi-modern, times, in a world that looks more or less like our own, at least to ordinary people. It is meant to explore questions of humanity. It will not glorify violence, having power over your fellow humans, or exclusionary rhetoric. We get enough of that in the default reality, and Mages are drawn from marginalized communities as a general rule, not from those who already have the most power.
 
 Roleplaying involves vulnerability, and any game set in familiar times and dealing with philosophical questions can easily bring up topics that may make some people uncomfortable or even unwelcome. We very much want to support the use of the game to explore personal issues, but never at the expense of the players’ wellbeing. Thus, before even looking at the characters, here are some rules to follow throughout the game to help everyone push themselves exactly as far as they want to go, but no farther.
 
-\end{Narrator}
+\End{Narrator}
 
 #### Discuss and Align Themes
 
-\begin{MC}
+\Begin{MC}
 
 The best thing you can do is talk about themes as a table. Find out what themes you all are interested in playing for. It doesn’t have to be exhaustive, but this is the time to find out whether you’re aiming for a game with a lot of romance and scheming, or a lot of hard looks at inequality, or peering into horrors beyond comprehension. Don’t hold things in reserve here. Learning what everyone expects so you can spring a surprise genre shift on them not only damages trust, it won’t work very well in a world where Mages really can shape reality. Be forthcoming with the truth. This won’t have to limit you. If you want to see Mages have to deal as they uncover one terrifying secret after another, tell the table that. If that excites them as much as it does you, it can be a great basis. Don’t forget that you shouldn’t be coming up with those secrets yet, though.
 
 Pay particular attention to anything that players say they don’t want to see. Don’t push them on it, either, just be sure that you’ll be steering away from those topics. Note that these won’t necessarily be as simple as particular topics. "I don’t want the game to be about faeries" is fine, but so is “I don’t want to play a character who is abandoned by others.”
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 Talk about themes as a table. Find out what themes the other players are interested in playing for. Bring up whether you're aiming for a game with a lot of romance and scheming, or a lot of hard looks at inequality, or peering into horrors beyond comprehension. If you want to uncover secrets, talk about that!
 
-\end{Player}
+\End{Player}
 
 #### Explicit Safety Mechanics
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Because of the vulnerability inherent in roleplaying, and roleplaying potentially difficult themes, it is important that you use some form of explicit safety mechanic at your table. There are many available, and we have included a sample of them here, ones that we've found work well for Consensus. If you have a favorite safety mechanic, we highly encourage you to bring it with you to this game.
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{MC}
+\Begin{MC}
 
 As the person expected to maintain and update the state of the world, paying attention to all the players' characters and adding new elements whenever the rest of the table looks at you to see what happens next, you do have some extra responsibility here. You should watch out for if someone is treading in a direction that has been forbidden for this game, and try to steer away from it. Call it out explicitly if it seems like it's happening anyway. Often, a simple reminder is all that's needed, if a player forgot. Do not be afraid to use the safety mechanics for your game if need be, however.
 
 Be extra sensitive to your fellow players' safety needs. Interpret anything they have said is off-limits broadly, and be scrupulous about following and respecting any safety mechanics invoked by other players. If you are thinking about adding something to the game that was not explicitly disallowed but still could be an unpleasant surprise, ask about it ahead of time (as a starting point, anything that would either bump the rating of the game up to an 'R', or anything that would add a new content descriptor to an 'R' rating, is worthy of checking).
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 This is a game where you have more leeway and ability to add elements to the world than in some others. This means it is important for you to think about the safety mechanics, especially anything that has been forbidden, in terms of what you add as well as what other people say your character interacts with.
 
-\end{Player}
+\End{Player}
 
 ##### The X Card
 
 ###### Credit for this mechanic goes to John Stavropoulos
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Give every player an index card with a large, clear ‘X’ on it. Explain that at any time, any player may raise or clearly tap their X card. If this happens, we immediately edit out whatever was X-carded. No explanation of why is necessary, or should be requested. If there is an issue, anyone can call for a break to discuss it privately.
 
 This ensures that everyone at the table remains in control of what they will be exposed to, without having to figure out and list hard lines ahead of time.
 
-\end{Narrator}
+\End{Narrator}
 
 ##### Dial It Up/Dial it Down
 
-\begin{Narrator}
+\Begin{Narrator}
 
 *[This is a mechanic for recalibating in the middle of a scene, to help stop them from going too far, and help stop them from not going far enough.]*
 
-\end{Narrator}
+\End{Narrator}
 
 ### Magic
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Consensus is fairly flexible in the type of magic it showcases, but there are some starting points to know so you’re all on the same page. Small, subtle magic is easily accessible to most Mages. Magic does not inherently carry a cost, we don’t track a mana pool that determines what spells we can cast, and so effects which are likely only noticed by the Mage in question may be produced at almost any time. Larger effects, more in line with advanced but still modern technology, are achievable with effort and help, or with practice. Technically, there is no true limit to what a determined Mage can achieve, but their achievement may be tempered by a great many caveats. Reality has ways of reigning in obvious magic, such that this is not a game where you can expect to see Mages casually flying through the air, being pointed up at by curious bystanders. But, a Mage’s life will be full of magic, both their own and other people’s, and it will be enough to help them with their problems, cause some other problems, but never truly make them all go away.
 
-\end{Narrator}
+\End{Narrator}
 
 ### Introduce Playbooks
 
-\begin{MC}
+\Begin{MC}
 
 Make the playbooks available, laying them all on the table or handing some out to each player to be passed around. In addition, read these short intros, unless everyone already seems to know what they want.
 
@@ -1080,9 +1080,9 @@ If they want to be sure they play a character who is going to be helpful to the 
 
 Once people have their playbooks, they can start going through and selecting options and filling in blanks. The MC, as likely the one who has read this book the most, can help answer questions as they get started.
 
-\end{MC}
+\End{MC}
 
-\begin{Player}
+\Begin{Player}
 
 Playbooks are the collections of stats and specific rules that make up Mages. Each Playbook defines a dramatically different type of Mage, with different attitudes, talents, biases, and ways of doing magic. At the same time, each Playbook is just an archetype, covering a wide range of possible Mages. It is possible for two Mages created using the same Playbook to be very different people. Nevertheless, each active, player-controlled Mage in a game of Consensus should have their own unique Playbook. There is too much room for overlap and stepping on each other's toes, otherwise (in the frustrating way, not the fun, conversation-provoking way).
 
@@ -1096,11 +1096,11 @@ This isn't a solitary activity; talk to the other players and see what they're t
 
 Once you have selected a Playbook, you can start filling in the blanks, Name on down. If you don't understand anything or aren't sure, feel free to ask the table, or skip it to come back later. The single column will direct you to make all the choices you need to on your own for a starting character, all the rest you have to do is start thinking about your Mage as a full person, and answering any questions the MC has! They might latch on to certain details such as who some of your Anchors are and ask you to come up with answers.
 
-\end{Player}
+\End{Player}
 
 ### Stats
 
-\begin{Narrator}
+\Begin{Narrator}
 
 The stats are:
 
@@ -1112,11 +1112,11 @@ The stats are:
 
 Stats can never be higher than +3, and most will range from -1 to +2.
 
-\end{Narrator}
+\End{Narrator}
 
 ### Setting Expectations
 
-\begin{Player}
+\Begin{Player}
 
 While you're all making your characters, you'll be defining parameters of the world your game is set in. If someone says they are a Cabalist and their Cabal is a "book club" in a fraternity, then great! They have just indicated this game will include a fraternity, which means a college they're connected to, and so on. This, plus the work you did at the beginning around aligning themes, will help make sure everyone is on the same page. However, Consensus does have a few baked-in assumptions. You don't have to memorize these, but the MC should go through them while you're still working on your character.
 
@@ -1134,117 +1134,117 @@ While you're all making your characters, you'll be defining parameters of the wo
 
 * The MC isn’t out to get you, and isn’t your adversary. If they were, they could just introduce angry spirits that rip out your characters souls so they die. The end. That’s no fun for anyone. Similarly, they aren’t there to make you guess what they’re thinking, or feel smart by presenting puzzles that prove the players can’t read their mind. The MC and the players are both there to find out what’s going to happen to the Mages.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 As the players create their characters, notice as they progress through things and ask specific questions about choices that interest you, such as how they got to know certain Anchors, what the first time using magic with their Paradigm was like, and so on. However, between asking these questions, and before the characters are complete enough to answer any, go over the expectations listed above. The game rules assume they will be true and some things won't work as well if they aren't included.
 
-\end{MC}
+\End{MC}
 
 ### Introductions
 
-\begin{MC}
+\Begin{MC}
 
 Once everyone has the basics of their characters decided, go around the table and have everyone introduce their characters. Start with name and pronouns, and move on to more specific details.
 
-\end{MC}
+\End{MC}
 
 #### Paradigm
 
-\begin{Player}
+\Begin{Player}
 
 Sharing a character’s Paradigm gives the starting point of who they are as a Mage. It says something about how they look at the world and what kind of magic to expect from them, but also what they can’t work with. Characters are likely to have to work around each others’ Opposed Aspects a lot, so it’s important to have been exposed to what they are.
 
-\end{Player}
+\End{Player}
 
 #### Looks
 
-\begin{Player}
+\Begin{Player}
 
 Talk about what the character looks like, using the traits on the character sheet as guides. Since Mages usually have more than just the five senses, Aura is a noteworthy part of any Mage’s description.
 
-\end{Player}
+\End{Player}
 
 #### Preparations
 
-\begin{Player}
+\Begin{Player}
 
 This is one element that can be skipped if the themes of the game suggest it won’t be relevant any time soon. But, describing the Preparations gives a specific example of how the Mage’s Paradigm functions, as well as what they are likely to look like if they do end up in danger.
 
 As everyone introduces their characters, people will likely start to suggest ideas about how they could be connected, or involved with pieces of the world that are brought up. That’s great! Try not to get too bogged down with it, but these connections help build the world the characters will inhabit.
 
-\end{Player}
+\End{Player}
 
 ### The Three Questions
 
-\begin{Player}
+\Begin{Player}
 
 The MC will want to know the answers to each of the three questions on your playbook, "Why was your humanity trivialized?" “Why is your humanity still in question?”, and “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Ask a few probing or leading questions about these, in order to understand them and start to connect them to the world, but don’t go too far here, leave things unexplored and open to changing, because the first scenes of the game will fill out exactly how these connect the characters to the world.
 
-\end{MC}
+\End{MC}
 
 ### Anchors
 
-\begin{Player}
+\Begin{Player}
 
 The MC will ask questions about your Anchors. They'll ask you as if you are the authority on them, because you are! It's possible that the short descriptions given in your Playbook will have made ideas leap to mind, and if so you should give those answers. Don't hold back here; it's much easier to get the reward of actually seeing ideas you like in play by bringing them up this early on. At the same time, it's just fine to say "I don't know" if you don't have ideas! If it's something necessary to understand the starting point for the world, the MC may suggest things until you find one you like, but if not, it can be left unknown to surface in play. This can be particularly interesting because it will help it slot into just the right spot in the story.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 As the characters become ready, ask them about their Anchors. This is key to understanding what motivates the characters and to revealing the world around them. Find out what the Anchors are, and note this on your summary sheet. The most important things to know are how they keep the character anchored, that is, connected to the mundane and physical world, and what common ways for that connection to degrade are. For some cases, this might be easy. A Shelter Anchor that is the Mage’s house keeps them connected by being a home, and it can degrade by the rent coming due, housework building up, pipes bursting, and so on. Other Anchors may be more difficult. Whether clear or not, ask a few detailed questions about each Anchor, to make the player make up some answers. Ask where it came from, what a relative thinks of the Anchor, why this is the only one left, and so on. Don’t get too deep, since there will be time for that later, but seek to have a clear starting point.
 
-\end{MC}
+\End{MC}
 
 ### Flags
 
-\begin{Player}
+\Begin{Player}
 
 Your character needs a Flag, which is a way that you think it would be interesting for other characters to interact with them. If your character "hits" another character's flag, then your character marks experience. This is to give you a little incentive to have that interaction. It means you have a way to tell the rest of the table "please do this with my character." For the first sessions, everyone is still getting to know each other's characters, so it's likely and OK for them to be simple, and may even be based on things that you expect to become quite common. For the first session, play to your strengths and set expectations, rather than trying to subvert expectations that the table hasn’t seen established yet. For example, if Lazarus’ player wants to establish that he’s trusting to a fault, he might say to the table "Lazarus is pretty gullible, so my first flag is ‘Tell me a lie that I believe’. It shouldn’t be hard to make him believe."
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Make a table on a piece of paper or something everyone can see, and record the flags as the players tell you theirs, so everyone can see what flags are available to them and which ones they've already hit. These Flags will help the players tell each other what kinds of early interactions they are expecting and hoping for, as well as a chance to start gaining experience right away. Because the Mages are new to the game, it’s likely they will be simple, and may even be based on things that the players expect to become quite common. Help anyone who is having trouble to come up with a fairly basic flag. A good standby would be something that causes them to trigger one of their Playbook Moves.
 
-\end{MC}
+\End{MC}
 
 ## First Scenes
 
-\begin{Player}
+\Begin{Player}
 
 Once your characters have been created and introduced, the MC will set a scene and before long should ask someone, "what do you do?" Sooner or later, maybe after a scene or two, that question will be directed to you. From this point onward, roleplay away! Think about how your character would respond, maybe inventing or discovering parts of their personality or the world you didn't know about. The first few scenes will help set up the rest of the game, possibly dipping into the past a little and exploring the three Humanity questions. Forces allayed for and against your characters will be established, Anchors and Inspirations will be met, and you'll start to see how your Mage acts in the world.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Once characters have been created, it’s time to play through the first scenes in the game. In Consensus, the first scenes you play through are related to the three questions that every character answers during character creation. Through this you’ll establish some shared history between characters, some current ties, and you’ll foreshadow future problems and complications. Depending on how much time you have available, you should aim for between 3 and 6 scenes for this part, which explore the answers to those three questions for multiple characters. Make sure each character is a part of at least one scene, preferably 2 or more that explore answers to different questions. Also make sure each question is the focus of at least one of the scenes.
 
 These are the first scenes you will be playing, so if you see the chance to have a move trigger, make sure you take it! These can be a great introduction to the mechanics as well as to our characters and the world.
 
-\end{MC}
+\End{MC}
 
 ### Pulling in Multiple Characters
 
-\begin{MC}
+\Begin{MC}
 
 When the players go around introducing their characters, make a note of any answers to the 3 questions (or leading questions you pose about those questions) that seem to synchronize with each other. You’ll use this to set those characters up in the same scene and start it off in a way that lets you learn more about the characters and the world they are interacting with. If you have 4 players and are aiming for 4 scenes, you could make each scene have two characters in it, or you could pull all 4 characters into the scene about the first question, and give each character an individual scene that addresses one of the others. During each scene you should look for places where the actions they describe would trigger a move, and have them roll it.
 
-\end{MC}
+\End{MC}
 
 ### Framing a Scene
 
-\begin{MC}
+\Begin{MC}
 
 During the first session, your method of choosing scenes is a bit more structured and formulaic than it will be in future sessions. First, choose one of the 3 questions that you’re going to explore. These often make the most sense if they go in order, so any scenes about the first question before scenes about the second and so on, but that isn’t always the case. Next, pick any number of Mages who have answers to that question that could synergize. Put them into a situation that starts to explore their answers, and then start asking leading questions to probe deeper and deeper into their answers. Find out who trivialized their humanity, or how it lead them to a fundamentally different paradigm about the world, or what they most fear about being hunted. Find out anything you can while playing out the scene, and help the characters establish their ties and connections to each other while doing it. Also look for places where characters that are connected to one Mage might also be connected to another, and how both Mages might want different and competing things from that non-player character.
 
@@ -1254,11 +1254,11 @@ If you’ve chosen the second question, you will likely want to frame it in the 
 
 If you’ve chosen the third question, you should set it in the present, and you should make it immediate. Make soft moves that characters need to react to while also asking leading questions to make them fill in details about the world. Frame a scene that shows them being hunted or pursued, or evidence that they soon will be or recently have been.
 
-\end{MC}
+\End{MC}
 
 #### Turning the Three Questions into Scenes
 
-\begin{MC}
+\Begin{MC}
 
 The first question asks the player to think about why their Mage’s humanity was trivialized. This should be something before they awakened to their potential as a mage, and should provide a great place to mine for scenes that take place in the characters’ mundane pasts. If you can, tie in a character’s anchors here, especially any important people or memories from their younger days.
 
@@ -1266,11 +1266,11 @@ The second question asks the player to think about why their Mage’s humanity m
 
 The third question asks the player to think about why they might be hunted. This could take on a positive or a negative connotation, so try to get a sense of that before you frame the scene or even decide which characters are going to be in it. Generally it might be easier to group characters who feel positively about being hunted with like, and same for negative, but look for places where that isn’t true, and see if you can frame a scene around that. Make sure to ask a lot of leading questions in scenes that focus on this question, players will likely give answers that lead directly to your most interesting Forces.
 
-\end{MC}
+\End{MC}
 
 ### Ask Leading Questions
 
-\begin{MC}
+\Begin{MC}
 
 In addition to playing to find out what happens, during these scenes you should ask questions that get at things which interest you and seem like they might be useful to build on. Leading questions help ensure that the player will have an answer, and doesn’t just feel overwhelmed with the need to make up more details about their character than they know. Don’t just ask "What was school like?" Instead ask, “What was the name of your biggest bully in High School? What did they do to you?” Build on the answers, so if the player answers “Kevin James, he took my lunch money”, maybe ask why Kevin singled you out over the rest of your classmates.. You’re seeking answers that will not only help you characterize the Mages, but also demonstrate answers to the Mages’ three questions, and help you understand their Stressors. You even may be able to ask questions that start to develop parts of the world that may be used as Forces. Asking an Inspired who sells “Chemically Assisted Experiences” the question “Who are your most reliable customers?” might suggest a group that could easily become a Force.
 
@@ -1278,47 +1278,47 @@ You can sometimes use leading questions to push the world in a particular direct
 
 You can go deeper here than earlier in character creation, as long as the answers keep giving the table interesting stuff to work with.
 
-\end{MC}
+\End{MC}
 
 ### Identifying the Stressor
 
-\begin{MC}
+\Begin{MC}
 
 During the first session, after a scene or while a scene wraps up, take a look at the list of stressors, and think about which one was primary in the scene that played out. If it isn’t obvious, and it often will be, you can ask a couple more leading questions to really solidify one of the stressors. Each scene should have one stressor assigned to it after the fact, and you will use this to fill out the world before the second session.
 
-\end{MC}
+\End{MC}
 
 ### Number of Scenes
 
-\begin{MC}
+\Begin{MC}
 
 Depending on how much time you have, the number of scenes are variable. However, we recommend between 3 and 6 because each scene turns into a Force in the world. Having less than 3 will result in a flat world and likely players will look at the Forces as challenges to overcome. Having more than 6 becomes very hard to keep track of and keep up with from session to session. There are already so many scenes that players will want to fit into the game, extra Forces will tend to fall by the wayside.
 
-\end{MC}
+\End{MC}
 
 ## Ending a Session
 
-\begin{Player}
+\Begin{Player}
 
 At the end of the session, the MC will make sure that any lingering Portents are recorded for next time. Speak up if you think anything is missing! The End of Session move will trigger, and ask some questions of everybody there. You may find it helpful to jot down a few notes about what was going on and what would interest you to pick up with your character next time (or you could just wing it. It's not like your plans are likely to go off unaltered anyway.) Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 At the end of a session, before wrapping up and putting everything away, there’s a few things that you should do with the table. First, you should note down a little bit about where you ended, whether on a cliffhanger or with some resolution, and make sure to write down any lingering Portents that have come up during play. Then, you should proceed through the end of session move, following its instructions. Feel free to draw attention to anything you particularly enjoyed from another player as the session wraps up!
 
-\end{MC}
+\End{MC}
 
 ## After the First Session
 
-\begin{Player}
+\Begin{Player}
 
 You don't have any jobs between sessions! It can be fun to think about what your character might do, but don't feel obligated to. Just don't lose your character sheet. Give it to the MC if you're afraid you might lose it.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Give it a little bit of time, don’t start this right after the first session. Let some ideas percolate through your dreams and subconscious. Give it at least a day or two.
 
@@ -1326,21 +1326,21 @@ Now, take a look at that list of Stressors you got from the scenes in the first 
 
 When thinking of Forces, because you need to have interesting things to say, choose what resonates with you. Pick things that put you in the mindset of: deep connections, magical ethics, everyday miracles, and things that lurk in shadows. Pick things that you would love to read, or binge-watch. Things that make your mind overflow with vivid imagery, things that make you yearn to explore and change the world.
 
-\end{MC}
+\End{MC}
 
 ## The Second Session and Beyond
 
-\begin{Player}
+\Begin{Player}
 
 At subsequent sessions, you have less work to do at the beginning. The MC will lead you through checking on things that carried over from last session and might need to be updated, such as Flags and "ongoing" modifiers.
 
 From time to time, the MC might have a "letter" for you about your character. This might tell you something about what happened to them since the last session ended, and could give you a choice or a roll to make.
 
-\end{Player}
+\End{Player}
 
 ### Starting a Session
 
-\begin{MC}
+\Begin{MC}
 
 Gather your MC sheet, PC summary sheet, Forces, Flags, and Portents. Read out Flags for all the players’ characters, and note which ones can be changed. Mark one Code off every Portent, and mention them as you do so.
 
@@ -1354,11 +1354,11 @@ Have players with Moves triggered at the start of the session perform them. Reme
 
 Frame a scene and make a soft move.
 
-\end{MC}
+\End{MC}
 
 ### Framing Scenes
 
-\begin{MC}
+\Begin{MC}
 
 Frame scenes so that everyone knows where they are starting and can use that as a jumping-off point to contribute. A scene should start when the action gets interesting, not before, so skip the preparation that can be taken for granted (if the preparation might be interesting, then make it into its own scene, don’t tack it onto the front of another.) Sometimes it will be clear how exactly to start a scene, but whenever it isn’t, try one of these techniques.
 
@@ -1380,7 +1380,7 @@ Frame scenes so that everyone knows where they are starting and can use that as 
 
 When framing a scene, define what is needed to get started; think about time, place, and who is around. Let other details be filled in naturally. Keep an eye on when the scene has fulfilled its purpose, so it doesn’t begin to drag on. When the major tension of a scene has resolved, whether that tension was there at the outset or arose within the scene, wrap it up and move on to the next one. Stories often leave you on a cliffhanger, and it can be fun to do that here. Sometimes the end of the scene is left up to the audience to fill in with their imagination, they know the outcome, but what exactly transpired doesn't need to happen "on screen". Followups can either be briefly mentioned, or made into new scenes of their own.
 
-\end{MC}
+\End{MC}
 
 \newpage
 
@@ -1389,17 +1389,17 @@ When framing a scene, define what is needed to get started; think about time, pl
 
 # Status Tracks
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Many things in Consensus have a sort of progression. Even if individual events aren’t precisely connected, one layers on top of another, getting more and more intense until reaching a breaking point.
 
 To represent this, Consensus uses Status Codes similar to those used in medical transport, ranging from Code 50 down to Code N. They're described here first, and other Status Tracks are shaped by these standards.
 
-\end{Narrator}
+\End{Narrator}
 
 ## Harm and Healing
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Every playbook has a section labeled "Health," which is the primary status track each Mage's player will keep track of. These are directly based off the medical transport codes listed below:
 
@@ -1419,15 +1419,15 @@ No matter how injured you are, if you physically push yourself while injured, th
 
 Code N, as noted above is a Newsworthy Event, which means something large enough to make headlines (at least for the newspaper of a character’s life) has happened, and is almost always irrevocable. In the case of the health status track, this often means death. If a player's character takes harm that would put them at Code N for their health track, the player rolls the Death Move. 
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{Player}
+\Begin{Player}
 
 Each time you mark off a Code of health, you should write an idea of what the injury is that came from the harm on the line next to that code. For code 50, this could be as simple as a sprained wrist. For code 30 we might see an injury like blood loss or a gunshot wound.  Code 10 is often reached from a number of compounding or untreated injuries, and therefore might not look on its own like the character is at death’s door, but with the other listed injuries, it should be clear that they can not easily continue.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Harm follows from the fiction. You can use the following levels of harm to reference when **dealing damage**:
 
@@ -1443,11 +1443,11 @@ Harm follows from the fiction. You can use the following levels of harm to refer
 
 Since one of the primary purposes of Harm is triggering the harm move, harm that wouldn’t necessarily leave any lasting effects on its own can be represented by 0 Harm. The move is rolled as usual, and consequences may occur. An injury that causes 0 harm does not spend Preparations.
 
-\end{MC}
+\End{MC}
 
 ### Healing
 
-\begin{Player}
+\Begin{Player}
 
 Healing, whether mundane or magical can help you recover from harm. In some cases this will cause the MC to tell you to erase codes off of your status tracks. 
 
@@ -1455,19 +1455,19 @@ Mundane healing revolves around medical treatment, up to and including hospitali
 
 Magical healing on the other hand, has its own host of problems. Sometimes in the moment it may seem necessary in order to save someone, but magical healing almost always comes at a cost. Generally speaking, actual healing is likely only possible when you have an excess of time or magical energy, in which case you might want to look at the **Ritual** moves. In crisis situations, you may find the MC offers you an opportunity, but with a heavy cost.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Healing is simply an application of your "Adjust a Status Track" move. This means you can do it at any time that it follows from the fiction. However, it is usually a good idea to make it meaningful. Harm comes from dramatic events, and healing can ratchet the tension up or down, depending on how you use it. You should usually let the Mages heal if they are trying to, but in a way that keeps things interesting, according to your Principles. If they want to spend a lot of time on mundane healing, think about what might happen while the Mage isn't out and about. If they use time or magical energy to perform serious healing, then use the Ritual move to make sure their paradigms are aligned and see what challenges they might have to overcome to pull it off.
 
 If they are trying to heal quickly, with magic, likely to save someone, it is a good idea to make it come at a cost. A very common cost might be letting them shift harm around, rather than actually healing it (meaning two uses of Adjust a Status Track, one up and one down). Almost any time a Mage wants to perform magical healing, they will be triggering a move (either a basic move or perhaps a playbook move.) You should pay attention to how the player describes their Mage attempting to heal someone, and call for the appropriate move. Keep an eye on **Sell a Lie; Enact Sudden, Violent, or Unexpected Change on the Physical World; describe a magical effect within your Paradigm but beyond your normal abilities; and Do Rending Magic** in particular, as well as any potentially relevant playbook moves.
 
-\end{MC}
+\End{MC}
 
 ## Anchor Status Tracks
 
-\begin{Player}
+\Begin{Player}
 
 Each of your Anchors has a Status Track to keep track of your relationship with that Anchor. At the beginning of each session, each one of these status tracks is advanced by 1 code, and they may be advanced more during play. Just like with Health, an Anchor's Status Track that hits Code 30 starts to slip. At this point, things have gotten bad enough that you know that you have to deal with it soon, or you will lose them. If it hits Code N, you lose that Anchor. It might not cease to exist in the world, but it no longer Anchors your Mage. The relationship has fundamentally changed or permanently deteriorated. This could be as dramatic as a divorce or a house fire, or as subtle as you no longer feeling the same way when you visit the garden that used to be yours.
 
@@ -1475,9 +1475,9 @@ You can tell the MC you would like to have your Mage spend some time tending to 
 
 In addition, if you share a Moment of Humanity with an Anchor, clear their status track.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Each Mage's Anchors has its own Status Track. They deplete of their own accord, with all having one Code marked off at the beginning of each session. You or the player can come up with what it means, either right then or when you are setting a scene based around an Anchor.
 
@@ -1487,31 +1487,31 @@ An Anchor Scene should be soley focused on the Anchor for it to count enough to 
 
 Exchanging a Moment of Humanity clears a Status Track because this can, by definition, only happen with other people. A person can forgive a lot when they are reminded of someone's humanity (the rent is less lenient).
 
-\end{MC}
+\End{MC}
 
 ## Portents
 
-\begin{Narrator}
+\Begin{Narrator}
 
 From time to time, things will happen in game that feel like they deserve to be followed up on, but aren't tied to any obvious way to track them. Maybe a friend felt snubbed about something, maybe a character made a deal and it's unclear when the debt will be called in, maybe a character or player had an idea that was too juicy to just forget about. They can be large or small. It can even just be that something feels like it Matters, like the time I saw a character reach into their sister's mind and wipe away a memory. We knew a line had been crossed, and this should come back in the story.
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{MC}
+\Begin{MC}
 
 When this happens, write down on a sheet of paper everyone can see, a short description of the thing, and a Status Track with just codes 20, 10, and N. At the start of every session, or whenever it feels appropriate (they're always slipping), mark off another Code. When you hit Code N, bring the Portent into play somehow, and cross it off the list.
 
-\end{MC}
+\End{MC}
 
 ## Reality Breaks
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Sometimes, Reality fights back. When a mage backlashes, if they are unlucky, they may find themselves in a reality break, a way the Consensus protects itself. [Reality Breaks](RealityBreaks) have two Status Tracks, which race each other.
 
-\end{Narrator}
+\End{Narrator}
 
-\begin{Player}
+\Begin{Player}
 
 One Status Track describes how close the Mage is to escaping. You keep track of it. It is advanced by a particular move defined by you and the MC when the Mage first enters the Reality Break. The move’s trigger indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It is always of the form:
 
@@ -1523,9 +1523,9 @@ If your Reality Bubble Escape status track reaches Code N, your Mage has escaped
 
 The MC will be keeping track of the Reality Bubble Strength Status Track, and keeping you aware of where it stands. If it reaches Code N, your Mage ceases to be a playable character. Depending on the details of the exact type of Reality Bubble, they may or may not still be a presence in the world at all. Either way, it is time for you to start a new character, if you don't already have another to play (see XX). It should be quite obvious that this is happening for some time, so you should have lots of chances, whether acting as your Mage or invoking safety rules, if this outcome would upset you.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 One Status Track describes how close the Mage is to escaping. The player keeps track of it. Work with them to define a move trigger that indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It should be relatively easy for the Mage's player to push for.
 
@@ -1569,17 +1569,17 @@ When a reality break is created, follow the steps of the move:
 
     * This move specifically should be something entirely under the player’s control, because they will need to push their character to do it in order to win the status track race and keep their character.
 
-\end{MC}
+\End{MC}
 
 ## Forces
 
-\begin{Player}
+\Begin{Player}
 
 Forces are an MC tool you don't need to worry about unless you want to.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Each Force has a Status Track, representing how close it is to making an irrevocable change on the game world. These Status Tracks have descriptions added at Code 40, Code 20, and Code N. They are descriptive and prescriptive labels, so that when the Code is marked off, the description should be made true, but if it happens in the fiction and the Code is not yet marked off, then you should do so.
 
@@ -1587,35 +1587,35 @@ These Status Tracks can be advanced by MC moves, and this can often start a new 
 
 Force Status Tracks can also be reset, if they are given a major setback. This may also involve changing the descriptions, as the Force may have had to restructure or change plans.
 
-\end{MC}
+\End{MC}
 
 ## Consensus Shift
 
-\begin{Player}
+\Begin{Player}
 
 With certain advanced moves, a Mage can attempt to shift the Consensus and change a fundamental truth about what the general populace believes to be possible. These status tracks are detailed in the {{linkAdvanced Moves}} section of the Improvement chapter, and they race against the Consensus Forces status track, which is controlled by one of the other major Forces in the world. Whichever one hits Code N first can set the tone for the shift in reality that is to come.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Consensus Shift Status Tracks, and the racing Consnsus Force status tracks, work exactly like all the others mentioned: They get advanced when moves dictate it, including if you choose to use Adjust a Status Track or, once they're slipping, Slip a Status Track.
 
-\end{MC}
+\End{MC}
 
 \newpage
 
 # The Moves
 
-\begin{MC}
+\Begin{MC}
 
 The move descriptions and explanations are directe to the other players, since they're the ones who will be rolling them. Howevrer, you should still be sure you know and understand them! They're the basic ways that Mages interact with the world, and so you will be calling for them as they are triggered, and interpreting the outcomes as needed. Many of these say things the MC will do, which are also your jobs.
 
-\end{MC}
+\End{MC}
 
 ## The Basic Moves
 
-\begin{Player}
+\Begin{Player}
 
 When you **assert your Paradigm** over another Mage’s, roll +Static (-1 if Tethered). On a 10+, hold 3, or on a 7-9, hold 1. You can spend your hold 1 for 1 to:
 - Have them mark experience (if an NPC, they comply with a reasonable request)
@@ -1692,11 +1692,11 @@ On a miss, you shake it off with minimal lasting effects.
 
 >This move is complex, it carries a lot of weight, and it can heavily shape the experience of play at your table. See the {{linkBacklash section}} of the Magic Chapter for details about what this means.
 
-\end{Player}
+\End{Player}
 
 ## The Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 When you fail a roll on a magical action and decide to **put willpower behind changing it**, the MC may ask you some questions. Answer them honestly. Re-roll the roll with +1 and choose 2:
 - Sever your connection to an Anchor
@@ -1777,25 +1777,25 @@ When you **describe a magical effect within your Paradigm but beyond your normal
 
 >Even Mages have their limits. Archimedes supposedly said, "Give me the place to stand, and I shall move the earth," but he would need that place, and a long enough lever. When a Mage thinks about what they could do if only they had the power, or the tools, they can usually come up with something. It might not be easily achievable and they might not want to give it up, but the possibility is there.
 
-\end{Player}
+\End{Player}
 
 ## Magic and Moves
 
-\begin{Player}
+\Begin{Player}
 
 There’s no one move in this game that you roll to just "Do Magic." Instead, magic infuses the very essence of the game. Almost any move you can roll could be triggered by you doing magic. Remember, you don’t tell the MC “I want to roll the Assert Your Paradigm move," you describe what your character does, and the MC will let you know if it triggers a move. 
 
 Playbook moves can be thought of in many ways as rote magic, spells your character is familiar enough with to get a consistent set of results when they try to cast them. If you describe doing magic, even magic that is close to but does not trigger a playbook move, it may just trigger a basic move instead, and have much more unpredictable results.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 In cases where you aren't sure what move is triggered by a mage attempting to do slightly risky harmonious magic, it could be that they just don’t roll a move, and you just make a soft move in response. Or, in most cases a mage doing magic that doesn’t cause Backlash could be described as them selling a lie to the Consensus as a whole.
 
-\end{MC}
+\End{MC}
 
-\begin{Narrator}
+\Begin{Narrator}
 
 Let’s look at some examples of moves, and how they can be both mundane and magical.
 
@@ -1803,35 +1803,35 @@ Tobias is cornered, and really needs a distraction to get out of there. Because 
 
 Dove, on the other hand, is also cornered, but doesn’t want to use magic to get out of the situation, because they’ve been too recently reminded by the Consensus that magic doesn’t fix everything. So Dove’s player describes Dove throwing a rock at a dilapidated wall nearby, to bring it down on their pursuers and distract them long enough for Dove to get away. This is also enacting sudden (violent) and unexpected change on the world, even though there was no magic involved.
 
-\end{Narrator}
+\End{Narrator}
 
 ## Changing Flags
 
-\begin{Player}
+\Begin{Player}
 
 You’ll set up your initial flags during the first session. Flags are special sorts of moves, made by you and the other players, that encourage certain types of interaction with your mages. You can think of a flag as a move in the format of "When you **interact in a certain way with my mage**, mark experience." Once your flag has been hit (ie the move above has been triggered), it may or may not still be interesting for you. Additionally, once your mage has hit someone’s flag, you can not do so again until they change it. Every time your flag is hit, and at the beginning of a session if your flag had previously been hit, you may change the flag to better reflect how you want the other players’ mages to interact with your mage.
 
-\end{Player}
+\End{Player}
 
 ## Improvement
 
-\begin{Player}
+\Begin{Player}
 
 Among the many improvement options available to your playbook, you may see options such as Gain another [playbook] move, Gain a move from another playbook, or Gain an advanced [playbook] move. Moves from your playbook are listed along with the moves you picked from when creating that character. Choose an additional one, and you now have access to it. When you gain a move from another playbook, try to choose one that someone else isn’t playing, or at least talk with the player using that playbook. The playbook moves are part of what make characters feel unique, and you don’t want to diminish that. When you gain an advanced playbook move, choose from the ones listed in this book for your playbook. These moves will radically alter the game and story, your whole table should be prepared for what that means.
 
-\end{Player}
+\End{Player}
 
 \newpage
 
 # Stacking Moves
 
-\begin{Player}
+\Begin{Player}
 
 This chapter is addressed to the MC, since it's their job to call out when moves trigger, to make scenes flow, and generally keep the game running. However, if you're having trouble understanding what moves are like in play, this is a particularly good chapter for you to read anyway.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Sometimes, maybe even often, and especially when you’re zoomed in on a scene, a single move isn’t enough to resolve an interaction. 7-9 results can be followed up on, or leave things dangling. Moves can trigger other moves, they can overlap, they can nest within each other, you could end up with a chain of moves that’s 5 or 6 deep fairly easily. That’s okay, just remember that if a move is triggered, it must be rolled, and the fictional results happen, and in order to roll a move, the trigger condition must first be met in the fiction.
 
@@ -1875,7 +1875,7 @@ Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to giv
 
 "Alright, so Hector will need proof that they’ll get what they want, or will need it before they do anything for you, so I think Hector shakes his head. ‘Nah, you don’t understand. I really need this right now. I’m just gonna AirDrop it over to my phone..." Eisen’s player just kind of shrugs, so I say, “You realize that if Hector does that, this playlist won’t be ‘new’ anymore. It will stop feeding your inspiration. You were sure you were going to get another day or two out of this at least.” I’m **telling the possible consequences and asking**. Eisen lets out a long-suffering sigh. “OK, sure. Hang on, while my Source is still kind of present, at least for Hector, can I spend one of my Hold to bring the positive tag into play? It’s +invigorating, so maybe it breaks Hector out of their enchantment?” I nod, and now Eisen’s player gets to narrate what this means for the moment. They say, “So as the music swells, it starts to give Hector a rush of energy, and then clarity. Finally, the music hits and holds a single note, that resonates like a tuning fork and then shatters the enchantment.” “Great!” I continue. “Hector shakes his head to clear it and looks around. ‘Zuri? When did you get here? I think someone dangerous has been lurking around!’”
 
-\end{MC}
+\End{MC}
 
 \newpage
 
@@ -1885,65 +1885,65 @@ Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to giv
 
 ## Anchors
 
-\begin{Player}
+\Begin{Player}
 
 When we say that Mages are the pinnacle of humanity, we mean it. But that’s not always a good thing, right? The thing about being at an edge of humanity is that it’s easy for a Mage to step over the line, and that means no longer being human. Your Anchors are the things that keep you on this side of the line. A loved one who knows nothing about magic, an estate bound up in the history of your family, the stray cat you took in off the street, or the picture of your brother who died the day you Awakened. Anchors are beings, or physical objects, that keep you grounded in the mortal world. But they also hold you back from your fullest potential. Do you want to shed the shackles of your Anchors in order to transcend, or remain among them, being a little bit better, but know you will never reach your full potential?
 
 Anchors cannot be magical in nature. Other Mages, spirits you’ve summoned, enchanted items, these things aren’t grounded enough in reality to keep you there. Your pet cat who brings you comfort, fine. Your cat familiar, not so fine.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Anchors are some of the most powerful story elements you have available. They are people or things that your players have specifically told you their characters care about, and losing them is always a dramatic moment. Indeed, simply threatening an Anchor is enough to force a Mage to make a choice, whether to react or not, which they always learn from.
 
-\end{MC}
+\End{MC}
 
 ### Starting Anchors
 
-\begin{Player}
+\Begin{Player}
 
 Your character starts with Anchors, which say things about who they have been so far. Each playbook suggests different Anchors in the starting categories. As you choose them, think about how they keep you grounded, and human. Also think about what you need to do to keep them in your life, be it paying rent on an apartment, or taking care of a loved one. Note that you can choose to forego any of these Anchors, but you may be starting yourself at a disadvantage.
 
 Starting Anchors fall under three categories: Shelter Anchors, Connection Anchors, and Emotional Anchors.
 
-\end{Player}
+\End{Player}
 
 #### Shelter
 
-\begin{Player}
+\Begin{Player}
 
 A Shelter Anchor is literally that, an Anchor that gives you shelter. It can be very powerful and grounding to have a home for an Anchor, but also means that you have not enchanted your home as much as some Mages might. If you find yourself using magic for maintenance, you quickly might find that, while still a home, it is no longer an Anchor. For some Mages, having a home to come back to which is calm and relaxing can keep them grounded. For others, the home they come back to and fight can be a different, but just as real, type of grounding. There’s something about yelling about who will do the dishes that can get your head right down out of the clouds.
 
-\end{Player}
+\End{Player}
 
 #### Connection
 
-\begin{Player}
+\Begin{Player}
 
 Connection Anchors are notable for their agency, as they are people or animals. Keep in mind that these Anchors can protect themselves from danger sometimes, but also have the choice to turn their backs on you. If they do so, it’s up to you at that point if they remain an Anchor...but if they do, they won’t make it easy on you.
 
-\end{Player}
+\End{Player}
 
 #### Emotional
 
-\begin{Player}
+\Begin{Player}
 
 Emotional Anchors are the objects, signs, and places that connect to memories of the past and ideas of the future. They can be grounding, but need to be kept in your mind, and likely regularly interacted to or kept on hand, lest they slip away.
 
-\end{Player}
+\End{Player}
 
 #### Filling in Blanks
 
-\begin{Player}
+\Begin{Player}
 
 Some starting Anchors are not completely filled in to start, they will have a blank space left to fill in. Choose something evocative to write there, if you pick that starting anchor, and be ready to explore what it means. Keep in mind the category of Anchor it is in, and don’t fill in the blank in a way that makes that Anchor not fill that need.
 
-\end{Player}
+\End{Player}
 
 ### Anchor Upkeep
 
-\begin{Player}
+\Begin{Player}
 
 Anchors require upkeep to remain. Every Anchor has a Status Track representing its condition. At the start of each session, mark off one Code from every Anchor’s Status Track. You can suggest what this means to the MC. Frequently, it will not be the first Code marked for that Anchor, and so simply represents an exacerbation. In addition, as with all Status Tracks, if something happens which seems to suggest worsening of an Anchor’s condition or connection to you, mark off a Code.
 
@@ -1951,79 +1951,79 @@ Upkeep for an Anchor involves doing whatever is needed to restore things to norm
 
 Note that an Anchor’s Status Track can being slipping, like any other.
 
-\end{Player}
+\End{Player}
 
 #### Connecting with an Anchor
 
-\begin{Player}
+\Begin{Player}
 
 When you’ve been shaken by the threat or reality of bodily harm, connecting with and Anchor is an important step for helping you get your feet under you again. This is just a little while, maybe a couple of minutes, of really reminding yourself of your Anchor’s presence in your life, or interacting with one. Some effects of combat will wear off during this time, and you can recharge your Preparations.
 
 However, if an Anchor’s Upkeep Status Track is slipping (has hit code 30 or below), then there is no calm to be had. It is actively drifting away from you, and you will not be able to connect with it until the issue(s) are resolved.
 
-\end{Player}
+\End{Player}
 
 ### Losing Anchors
 
-\begin{Player}
+\Begin{Player}
 
 Losing an Anchor is a moment of transformation for your character. It can happen in many ways, but all of them mean that the Mage is a little less grounded. They’re a little closer to leaving behind what it means to be human, and a little more powerful.
 
 Losing an Anchor makes people react unpredictably. When you lose an Anchor, a move triggers, giving you a sense of what happens. If you’re lucky, it is not truly destabilizing, even if it was a shock. If you are less lucky, you might lash out, one way or another. Or, you might find that some of your magic was based on the knowledge that you had that Anchor to fall back on, and it Backlashes on you, which may have further compounding effects. Or, you might find that your Anchors were more connected than you might have realized, and now another one is threatened, or lost outright as well. How lucky you are depends in part on how many Anchors you have, so you can quickly enter into a spiral. If your magical exploits mean you haven’t been spending enough time with your spouse and they finally take the kids and leave, you might realize that the house really isn’t yours, once the divorce takes place it will belong to them so even in the meantime it doesn’t feel grounding, and now you have lost two Anchors in as many minutes.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 A former Anchor likely still exists in the world, and may even continue to interact with the Mage. Don’t forget about them just because they aren’t marked anymore. In fact, you should probably note them on an appropriate Force, or keep them in the Internal Forces if none stand out, as an element that can still be brought into play.
 
-\end{MC}
+\End{MC}
 
 #### Upkeep
 
-\begin{Player}
+\Begin{Player}
 
 If an Anchor’s Status Track hits Code N, you have lost them. Depending on the nature of the needed upkeep, this could mean many different things about their place in the world. You might get evicted from your home, or find that the house has become literally unlivable. A Connection Anchor most likely feels neglected by you and decides to go their own way. An Emotional Anchor might stop reminding you of what it once did, or it might finally break, and you feel your connection to that part of your life break as well.
 
-\end{Player}
+\End{Player}
 
 #### Threats to Anchors
 
-\begin{Player}
+\Begin{Player}
 
 A Mage’s life is full of danger, and this can extend to those around them. During play, you are likely to discover from time to time that an Anchor is put in real danger. When this happens, you have a choice to make. You can either drop what you’re doing and go try to handle it. Or, you can accept that the Anchor doesn’t actually mean more to you than what you are doing. Of course, realizing that means that they aren’t Anchoring you anymore. Whatever you choose, you learn something from the experience.
 
 What exactly constitutes danger depends on the Anchor. A branch falling on your house probably demands upkeep (marking a Code off the Status Track), but likely isn’t an imminent danger. A foreclosure notice from the bank, however, requires the immediate choice. It might even depend on your relationship to the Anchor. If your connection anchor tells you "show up to the bar tonight or we’re not friends anymore," to one person that might be just how they talk to their buddy (mark a Code off the Status Track if you stand them up), whereas to someone else that relationship is in real danger from that kind of ultimatum, and they need to make an immediate choice.
 
-\end{Player}
+\End{Player}
 
 #### Narrative Loss
 
-\begin{Player}
+\Begin{Player}
 
 Sometimes, it is clear that you have lost an Anchor. If a Connection Anchor dies, they clearly are no longer an Anchor. You also might acknowledge that for other reasons, and Anchor no longer fulfills that role. This is exactly like losing an Anchor in any other way.
 
-\end{Player}
+\End{Player}
 
 ##### Transformation
 
-\begin{Player}
+\Begin{Player}
 
 One way to lose an Anchor is for it to become magical. Anchors, after all, cannot be magic at their hearts. It is OK to put some magic on them, though this may be risky, and likely requires upkeep later to help restore a sort of balance. But, if they reach the point where they are magical, then they cease to be an Anchor. Sometimes this can happen intentionally, like if you decide to turn your house into a fully-enchanted wizard’s tower, or you link your mind to your dog’s because you want a familiar. Other times it might be an unintended side effect, like if you save your sister by throwing her into a magical pool, and discover when she emerges that it not only healed her wounds, it transformed her into an oracle.
 
-\end{Player}
+\End{Player}
 
 ### Gaining Anchors
 
-\begin{Player}
+\Begin{Player}
 
 Your starting Anchors are not the only ones you can ever have. It is possible to gain new ones during play. These behave exactly like other Anchors, though they are likely better characterized when it happens. You can even re-gain previously lost Anchors, if you can justify it. It may be helpful to consider new Anchors as one of Shelter/Connection/Emotional, but it is not required. Add them to your sheet, and put a Status Track next to them.
 
-\end{Player}
+\End{Player}
 
 #### Through a Move
 
-\begin{Player}
+\Begin{Player}
 
 A few moves allow an Anchor to be gained. Work with the MC, and originator of the move if not you, to determine who or what the new Anchor is, and how you come to realize what they mean to you.
 
@@ -2033,75 +2033,75 @@ The Pious’ Advanced Move Humanist lets a Pious show you the value of humanity,
 
 The Mentor’s Advanced Move Nekkhamma allows them to gain one last Anchor, "my love for humanity", when they would otherwise cease to be Anchored at all. This represents a certain type of enlightenment, one that encourages them to stick around to spread their wisdom.
 
-\end{Player}
+\End{Player}
 
 #### Through an Advancement
 
-\begin{Player}
+\Begin{Player}
 
 All playbooks also have the option to gain an anchor as one of their Tier 1 unlimited advancements. This will list a maximum number of Anchors you can have after taking this advancement however, and it is always one less than the number of Anchors your playbook can start with. This is a good way to regain some ground if you are close to the edge, but can’t bring you back to as fully grounded as you started out.
 
-\end{Player}
+\End{Player}
 
 ### Non Player Character Mages
 
-\begin{MC}
+\Begin{MC}
 
 In this world, Mages have Anchors. You should be sure to think about this and what it means for your NPC mages. Losing even a single Anchor will likely hit an NPC extremely hard, much like how NPCs often only take 1 or 2 harm before going down for the count. 
 
-\end{MC}
+\End{MC}
 
 ## Inspirations
 
-\begin{Player}
+\Begin{Player}
 
 The counterpart to Anchors, Inspirations are what bring a Mage their power, or tempt them to cross the line to being something other than human. Other Mages often inspire, and particularly significant spirits, animals, or even magical objects might as well. Where Anchors keep you tied to the physical reality, Inspirations help you find ways to rise above your mundane existence. They help you strive to reach your true potential, but in that striving, is it possible you will go too far? Inspirations are always inherently magical, whether they be other awakened Mages, spirits, or magical objects, in order for them to help you transcend the constraints of your magical capabilities, they must themselves be part of the magical world. (Of course, sometimes you meet someone who would absolutely be an inspiration if only they knew like you did, that magic was real. Maybe you start searching for a way to really open their eyes, thinking about how perfect everything will be then.)
 
-\end{Player}
+\End{Player}
 
 ### Gaining Inspirations
 
-\begin{Player}
+\Begin{Player}
 
 While there are many people, spirits, animals or even items that could serve to inspire you, only some of them are actively on your mind at a given time. When you interact with someone or something that inspires your magic in certain special ways, they become an active Inspiration for you, lifting you to new heights. 
 
-\end{Player}
+\End{Player}
 
 #### Having a Moment of Humanity
 
-\begin{Player}
+\Begin{Player}
 
 The first way of gaining (or re-gaining) an inspiration is to have a Moment of Humanity with another mage. When this happens, along with rolling your move, you may add them as an Inspiration. Write their name down on your playbook along with maybe a note about how they inspire you to greater magical feats, like "reminds me to think of individuals, not just groups" or “shows me new forms of magic every time we meet.”
 
-\end{Player}
+\End{Player}
 
 #### Doing Magic Through Them
 
-\begin{Player}
+\Begin{Player}
 
 The second way of gaining (or re-gaining) an inspiration is to actively work your magic through, or in deep collaboration with, them or it. This is more commonly a way to gain an inspiration that isn’t another person, be it a spirit, a familiar, a magical focus, or similar. When you do magic through one of these things, or even through another mage, you may add them as an inspiration. Write them down on your playbook along with maybe a note about how they inspire you to greater magical heights, like "contains the secrets of blood magic" or "tells me what's wrong in my code."
 
-\end{Player}
+\End{Player}
 
 ### Maintaining Inspirations
 
-\begin{Player}
+\Begin{Player}
 
 Inspiration is sometimes said to be fleeting. In order to maintain your connection with your inspirations, simply do the same thing you might do to gain one in the first place. If you do so once per session per inspiration, they’ll continue to inspire you.
 
-\end{Player}
+\End{Player}
 
 ### Losing Inspirations (and why it’s not a big deal)
 
-\begin{Player}
+\Begin{Player}
 
 Losing an inspiration, more likely just falling out of touch and not having them at the forefront of your thoughts, isn’t a big deal. There’s no penalty, and you can always go back and rekindle that spark of inspiration. If at the end of a session you have not had a moment of humanity with or done magic through one or more of your inspirations, just erase them from your sheet and keep on keeping on.
 
-\end{Player}
+\End{Player}
 
 ### Non-Human Inspirations
 
-\begin{Player}
+\Begin{Player}
 
 Most Inspirations are other humans, especially the other Mages played at the table. But, they’re not the only possible source. Magic itself can be inspiring, and it takes many forms. Inspirations really can be any magical thing that make sense at your table, but a few are worth calling out explicitly.
 
@@ -2111,63 +2111,63 @@ Some Mages believe that they have a personal spirit who helps guide them on thei
 
 Some magical items are simply tools, but others go beyond that. Important relics a Mage has found, or artifacts they created themselves, can continue to inspire. Doing magic from an ancient spellbook just feels different from piecing the components together out of pop witchcraft, and sometimes a wand chooses a wizard.
 
-\end{Player}
+\End{Player}
 
 ## Tethered and Untethered
 
 ### Being Tethered
 
-\begin{Player}
+\Begin{Player}
 
 Being Tethered is a state that all mages find themselves in at the start of a game of Consensus. It simply means that you have at least as many Anchors as you have Inspirations, and it is a safe place to be. Safe, but potentially unfulfilling, you can’t reach your true potential while tethered, you can’t work your will on reality when you let yourself be tethered to reality.
 
-\end{Player}
+\End{Player}
 
 ### Becoming Untethered
 
-\begin{Player}
+\Begin{Player}
 
 Once you have more Inspirations than Anchors, you become Untethered, a mage truly starting to grasp just how far their power can reach. More paths will open up to you while you are Untethered, but beware, you stand on a precipice, even more than you did before.
 
 When you lose inspirations, or gain anchors so that you are no longer Untethered, you go back to being Tethered, but you keep any advancements you may have gained while Untethered.
 
-\end{Player}
+\End{Player}
 
 ### Untethered Advancements
 
-\begin{Player}
+\Begin{Player}
 
 The top tier of advancements are only available while your PC is Untethered. These advancements are often more powerful than others you have access to, so you will need to decide if the power is worth the risk. Note that when you gain an advancement, you must take it immediately, so if you are coming up on your 6th advancement and really want to access your Untethered Advancements immediately, it is time to start gaining Inspirations, or shedding Anchors.
 
-\end{Player}
+\End{Player}
 
 #### Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 Notably, the only way to access your playbook’s Advanced Moves is by being Untethered, at least for a time. 
 
-\end{Player}
+\End{Player}
 
 ### Basic Move Effects
 
-\begin{Player}
+\Begin{Player}
 
 Certain moves care if your character is tethered, or how many Anchors or Inspirations your character has. Asserting your Paradigm and impressing non-Mage magical beings are both slightly harder if you are Tethered. On the other hand, when you roll to help or hinder another PC, you roll +Anchors, even if you are helping or hindering a magical effect.
 
 {{anchorLosing a Character}}
 
-\end{Player}
+\End{Player}
 
 ### Losing a Character
 
-\begin{Player}
+\Begin{Player}
 
 If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. 
 
 When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
 
-\end{Player}
+\End{Player}
 
 \newpage
 
@@ -2177,7 +2177,7 @@ When you lose an anchor or gain an inspiration that would put you over this thre
 
 ## Gear
 
-\begin{Player}
+\Begin{Player}
 
 Gear covers notable possessions. This is the modern world, so there are lots of trivial or common items that don’t get mentioned often: You probably have a pair of shoes, could carry a pen, may have a flashlight and so on. You may be likely to have a cellphone, depending on where and when your story is set, and the characters' socioeconomic status. These aren’t called out anywhere on your character sheet. That doesn’t mean they don’t exist, of course. You might use them as part of a move, and some MC moves might mean that it turns out your wallet fell out of your pocket and you only notice at the worst possible moment. Determine together, as a table, what is normal to expect people to have (a game about working in an Antarctic base is going to have different assumptions from one about being deep in the city). You also might want to have it be noteworthy that your character lacks one or more expected modern-day items. But, in general, don’t stress about exactly how many socks your character has.
 
@@ -2189,11 +2189,11 @@ Note that starting gear also doesn’t cover some other possessions, like where 
 
 When you make or acquire a new item of significance, either through normal play or through a move such as Universal Programmer, make sure to write it on your playbook under the Gear section. Sometimes this could be as simple as telling the MC you’d like to buy something.
 
-\end{Player}
+\End{Player}
 
 ### Savings
 
-\begin{Player}
+\Begin{Player}
 
 Money is hard to deal with. In some games, it makes sense to simply keep track of gold coins as they come and go. The modern world is more complicated. In small groups, systems of favors and mutual interdependence often overshadow money. In addition, the existence of secondhand shops, eBay, and bargain hunting mean that you can often find something within your price range, as long as you aren’t too picky.
 
@@ -2203,9 +2203,9 @@ Your character has a certain number of Savings, beginning with the amount listed
 
 Of course, your Mage can shapes Reality to their whims and can decide that money is a problem for other people, and seek to circumvent it with magic. If you aren’t changing a bartender’s mind to add it to their tab just this one more time, you might have the $20 you need blow in on a dust devil, or win a small lottery, or go digging for buried treasure in your backyard and, incredibly, find a chest of pirate gold. This does have all the usual rending dangers of repeated coincidence, of course. It is much more harmonious to change things up, than to keep diggings holes in your yard until the Consensus sits up and takes notice.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 When pricing something new, look to this table to get a general sense.
 
@@ -2236,69 +2236,69 @@ Sometimes, you might say that a course of action requires some Savings to be spe
 
 Feel free to tell characters to increase their Savings if they've done something to deserve it, such as completing a job for someone or finding a valuable item and then selling it. Press hard on Mages who do attempt to keep a steady job, however. Pay attention to the impact of staying out all night to fight the living dead on someone who needs to open the shop in the morning. If they turn to magic instead of the mundane world to see to their monetary needs, then don't forget to Hit them with the Static Realities of their World if they try to use harmonious magic to pass off the same lucky coincidence, too many times. 
 
-\end{MC}
+\End{MC}
 
 ## Accoutrements
 
-\begin{Player}
+\Begin{Player}
 
 Some playbooks have extra sections that include how they relate to the world. Only fill in these sections if you select or start with the Move that is attached to them. For example, a Pious only fills out their Place of Power once they select the Sanctuary move, whereas a Cabalist starts with the move Gossamer Threads, and fills out the Cabal section of their playbook when making the character.
 
-\end{Player}
+\End{Player}
 
 ### Places of Power
 
-\begin{Player}
+\Begin{Player}
 
 Places of power are magically significant sites, and for a PC to have access to one is a Big Deal. It means that unlike Mages who have to depend on rare confluences of energy or the generosity of others in order to take part in Rituals, you can usually expect to have a place to go that is awash with energy. The details of this will be determined by the move, because it is never truly simple: maybe you don't exactly own the place as such, you just know about the magic there and take care of it. Or maybe you do own it, but the land is half an hour by car on dirt roads from anywhere, has no running water, and something of a wolf problem. Still, a standard plan to use when you need to create a much larger effect than you can accomplish unaided is incredibly valuable.
 
-\end{Player}
+\End{Player}
 
 #### Facade
 
-\begin{Player}
+\Begin{Player}
 
 This is the appearance that the place takes on, or the structure built over and around it. These are both thematic and practical, and the facade you choose will help inform many of the other choices while making the Place of Power. This is also when you will work with the MC to determine the location of your Place of Power.
 
-\end{Player}
+\End{Player}
 
 #### Strengths
 
-\begin{Player}
+\Begin{Player}
 
 These represent the upsides to the particular place you have chosen. Whichever one you choose, make sure to talk a little bit about what that means to you, so the MC doesn’t accidentally circumvent it. (They may of course purposely circumvent it when their moves allow them to.)
 
-\end{Player}
+\End{Player}
 
 #### Weaknesses
 
-\begin{Player}
+\Begin{Player}
 
 These represent the downsides to your place of power. Again, talk a little bit about which ones you choose and what they mean to you, and what they mean for the place of power. If a place of power is inaccessible, why, what makes it hard to get to? If it’s tainted, by what? How does that affect the magic that’s cast there? You don’t have to decide everything right away, but the MC will likely make probing questions at the weaknesses, to help everyone understand the potential risks of that Place of Power.
 
-\end{Player}
+\End{Player}
 
 #### Ritual Bonus
 
-\begin{Player}
+\Begin{Player}
 
 This choice is a bonus to the Ritual move when it is performed at this place of power. This really helps solidify the uniqueness of your place of power, which can be especially important if multiple playbooks are in play with a Place of Power move. This limits the potential costs, needs, or downsides of doing a ritual here.
 
-\end{Player}
+\End{Player}
 
 ### Other Accoutrements
 
 #### The Cabalist’s Cabal
 
-\begin{Player}
+\Begin{Player}
 
 The Cabalist has a group of like-minded mages that they work with regularly. Though they are represented as a group on your playbook, work with the MC to make them each individuals. The MC will likely ask probing questions about them as they appear in the story, and should tie their stories to other player characters as well. Your cabal as a whole has strengths and a vulnerability. These help add depth to the group, and also tell the MC what kinds of stories and situations you want to play out with your cabal, and what kinds you want to avoid. 
 
-\end{Player}
+\End{Player}
 
 ##### Example Cabal
 
-\begin{Player}
+\Begin{Player}
 
 The Chi Beta Chi Book Club Secret Society - 
 
@@ -2308,19 +2308,19 @@ The book club has studied magic and has passed down techniques from Senior to Fr
 
 The frat likes to throw parties and the book club doesn’t really know the meaning of subtle. Vulnerable: Target
 
-\end{Player}
+\End{Player}
 
 #### The Mentor’s Students
 
-\begin{Player}
+\Begin{Player}
 
 The Mentor has a group of mundane students that they’re teaching. Each session they progress towards their want or their surplus or both. When they reach a tipping point, the MC will have them either help out in a way related to the surplus, or cause problems by pursuing their want or wants. The students are also individuals, who can be connected to other player characters. While they often act together as a group, they also act as individuals with their own personalities. 
 
-\end{Player}
+\End{Player}
 
 ##### Example Students
 
-\begin{Player}
+\Begin{Player}
 
 Shady Grove Middle School Go Club - 
 
@@ -2330,19 +2330,19 @@ The go club is full of middle schoolers who are penned up in classrooms for far 
 
 The students are quick studies, always trying out new things and adapting strategies on the fly. (+1 learning)
 
-\end{Player}
+\End{Player}
 
 #### The Inspired’s Source
 
-\begin{Player}
+\Begin{Player}
 
 The Inspired’s source is a reliable Inspiration for them, when they can get it. It has a form that describes it, one positive tag, and two negative tags. Really flesh out what the Source is though, the tags should just describe it. The positive tag can be brought into play while interacting with your Source, and the MC can use the negative tags to affect you (or your ability to access your source.)
 
-\end{Player}
+\End{Player}
 
 ##### Example Sources
 
-\begin{Player}
+\Begin{Player}
 
 Muse - A person, +sense, +quick, +chaotic
 
@@ -2360,31 +2360,31 @@ An ornately carved statue with sharp edges - An object, +social, +dangerous, +ra
 
 Terror - An emotion, +social, +forbidden, +dangerous
 
-\end{Player}
+\End{Player}
 
 ### Tags
 
-\begin{Player}
+\Begin{Player}
 
 Tags are narrative flags applied to some accoutrements. They are one or two words written with a + in front to make them stand out. When you are told to select tags, you are adding customization and making the accoutrement concrete. They can define strengths and weaknesses, and other relevant properties. Tags often come with a small description to help flesh out the meaning. The player and the MC should both note the tags, to make it easy to bring them up often. Two different characters may both have a place of power, but if one has the Strength tag +private, and the other has the Strength tag +famous, then the interactions at each should be totally different. The first is unlikely to have rituals be interrupted by passers-by, while the second might cause more helpful chance meetings.
 
 Like most things in Consensus, tags are prescriptive and descriptive. If the +private place of power becomes famous, its Strength should probably change. Likewise, if an advancement allows a new tag to be added, describe what has changed to make this true.
 
-\end{Player}
+\End{Player}
 
 \newpage
 
 # Improvement
 
-\begin{Player}
+\Begin{Player}
 
 Characters grow and change through the course of a story. Mages are no different. They learn new types of magic, get stronger, and sometimes change who they are entirely. Experience is the primary method of tracking how this happens over the course of a campaign, but it is not the only thing that changes. Growth can come in quick, noteworthy jumps, or evolve slowly over time, only to be noticed after a while. Thus, these changes can be made at any time that they make sense during a session.
 
-\end{Player}
+\End{Player}
 
 ## Gaining Experience
 
-\begin{Player}
+\Begin{Player}
 
 Experience is a measure of how your character grows and learns over time. In Consensus, "marking experience" refers to filling in a bubble on your character sheet. When you fill in the fifth bubble, erase them all and pick an Advancement.
 
@@ -2392,141 +2392,141 @@ Several things cause you to mark experience. Generally, like the rest of Consens
 
 Here are most common ways to mark experience, which reflect how Consensus is encouraging you to play the game.
 
-\end{Player}
+\End{Player}
 
 ### Flags
 
-\begin{Player}
+\Begin{Player}
 
 Every character in play should have a Flag. When you hit a Flag for a character that you haven’t hit before, mark experience. This will give them the opportunity to change it, and you can’t mark experience for hitting that same Flag again. Even a minor change is enough to allow you to mark experience again, however. Flags are a way to tell the other players how you would like to see your character interacted with, and offer them a little experience in return if they do it.
 
-\end{Player}
+\End{Player}
 
 ### Asserting Your Paradigm
 
-\begin{Player}
+\Begin{Player}
 
 If someone Asserts their Paradigm over you, and rolls a success, one of the things they can spend their Hold to do is cause you to mark experience. The player is perfectly within their rights to use this as a bribe: "If you go along with my character’s way of looking at things, I’ll let you mark experience." In-game, this represents your character seeing something in their assertion, and maybe learning from it.
 
-\end{Player}
+\End{Player}
 
 ### An Anchor is put in Danger
 
-\begin{Player}
+\Begin{Player}
 
 When one of your Anchors is put in danger, mark experience right away. No matter what, it’s a cause of growth. Whether the danger leads you to find out how far you’re willing to go to protect what’s important to you, or makes you realize you didn’t care that much after all, or even just reminds you of the precious and fleeting nature of things, it adds to your experience.
 
-\end{Player}
+\End{Player}
 
 ### At End of Session
 
-\begin{Player}
+\Begin{Player}
 
 At the end of every session, a move triggers to resolve dangling threads, but also asks the table a set of questions. If anyone answers yes to a question, everyone marks experience (for any characters they played during the session). It is reasonable to discuss whether an event that occurred means a question is answered yes, but even if the answer was only relevant for some characters, it counts for everyone. For example, if Leslie uncovered the secret of the Untouched Words while Cory and Ash spent the whole session arguing over herb gardens, all three still mark experience. This is one of the ways to gain the most experience, and also helps you check the tone of your game after each session. If you find that for multiple sessions in a row, you don't answer yes to any of these, this game may not be working as well for you as it could. You may want to talk about the tone of game you want to play in, and change the end of session move to better fit that.
 
-\end{Player}
+\End{Player}
 
 ### Playbook Moves
 
-\begin{Player}
+\Begin{Player}
 
 Various playbook moves involve marking experience, or allowing others to mark experience. It’s a good idea to note these to the table, so they can understand what your motivations are, and know what you are offering them.
 
-\end{Player}
+\End{Player}
 
 ## Choosing Advancements
 
-\begin{Player}
+\Begin{Player}
 
 When you reach 5 experience, erase all bubbles and choose an advancement from a tier that you have access to. Each playbook has their own set of advancements, you must choose an advancement from the playbook you are playing. Advancements, unless otherwise noted, can only be chosen once. Fill in the bubble on your playbook to note that the advancement has been taken. It is worth noting that some advancements have a \* next to them, which represents that it can be taken any number of times. You don't need to try and fill that in. Advancements are both prescriptive and descriptive, like most things in this game. You may choose to take an advancement to move your character in a certain direction, or to acknowledge mechanically a direction they are already moving in. In either case, try to think about what works best for the fiction, what makes the most sense for your character, and what would be the most fun. Attempting to min-max your character advancements can be disappointing in this game.
 
-\end{Player}
+\End{Player}
 
 ### Tier 1 Advancements
 
-\begin{Player}
+\Begin{Player}
 
 Tier 1 Advancements are accessible to all characters without restriction, these are your playbook’s base level advancements. Some of the advancements listed below are Untethered advancements in certain playbooks, and can only be accessed when the criteria for choosing Untethered Advancements are met.
 
-\end{Player}
+\End{Player}
 
 #### Gain +1 in a Stat
 
-\begin{Player}
+\Begin{Player}
 
 This advancement adds +1 to one of your stats, up to a maximum listed on your playbook. If your stat is already at this maximum, taking the improvement will confer no benefit on your character.
 
-\end{Player}
+\End{Player}
 
 #### Pick a new option for a playbook specific accoutrement
 
-\begin{Player}
+\Begin{Player}
 
 This advancement will specify a new option for one of your playbook specific accoutrements. This might improve your place of power, or a group of NPCs that your character has influence over. You can choose a negative modifier unless otherwise specified.
 
-\end{Player}
+\End{Player}
 
 #### Gain a new move from your playbook
 
-\begin{Player}
+\Begin{Player}
 
 This advancement lets you pick another move from your current playbook, one of the ones you don’t already have access to. Fill out any relevant parts of your playbook, make any relevant choices at this time. Think about how your character might have gained mastery of this ability, gaining the move gives them reliable results when they try to do it, as opposed to the wide-open world of trying to do something similar without a move. Think about what it means for your character to have gained this move. Is it something they’ve been practicing (on or off screen)? Is it something they tried once and quickly found a knack for? Is it something they don’t even realize they can do, and the first time the move triggers will be a surprise to them?
 
-\end{Player}
+\End{Player}
 
 #### Gain a move from another playbook
 
-\begin{Player}
+\Begin{Player}
 
 This advancement lets you pick a new move from a different playbook than your own. This is as close to "multi-classing" as it is possible to get in Consensus. Try to pick a move from a playbook that isn’t already in play, or if you do have your eye on a move that is in a playbook some other player is playing for one of their characters, talk to them first. Playbook moves are one of the big ways that characters in Consensus are unique, so try not to pick a move that another character already has.
 
-\end{Player}
+\End{Player}
 
 #### Remove a Restriction from your Paradigm
 
-\begin{Player}
+\Begin{Player}
 
 Restrictions may be added to your character’s paradigm by the MC during play. These are limitations on what you can do within your limitations, similar to the Opposed choices you made at character creation. Choosing this advancement is the only way to remove them. This advancement, like most advancements, can only be chosen once, so choose carefully when you decide to use it. Think about how your character overcomes this restriction. It doesn’t need to be big and momentus for them, but it very well might be. 
 
-\end{Player}
+\End{Player}
 
 #### (Special) Give a Freedom to another Mage’s Paradigm
 
-\begin{Player}
+\Begin{Player}
 
 This special advancement, noted by an asterisk on your playbook, can be taken any number of times. You choose a Freedom to give to another Mage’s Paradigm, basically a loophole or exemption to one of their Opposed Aspects. They write this freedom on their character sheet, along with who gave it to them. Freedoms only work while the receiving character is working together with the character who gave it to them. These represent real opportunities for teamwork, character growth, and synergy. As characters work more together, consider giving Freedoms to make note of how they have learned from each other. Especially pay attention if  moves like We’re Not So Different, Assert Your Paradigm, If You Ask Me, Clarity of Purpose, or Strong Avatar have been recently triggered.
 
-\end{Player}
+\End{Player}
 
 #### (Special) Gain an Anchor
 
-\begin{Player}
+\Begin{Player}
 
 This special advancement, noted by an asterisk on your playbook, can be taken any number of times. You may gain a new anchor, in a category that you don’t currently have one in. You can never get back to your starting number of Anchors with this advancement however. Think about how your character has gained this anchor, sometimes it will be obvious from play, such as buying a house or gaining a new important (mundane) friend. Sometimes it will be less obvious, and you will need to come up with a little more information about the Anchor and your relationship to it for the MC. 
 
-\end{Player}
+\End{Player}
 
 ### Tier 2 Advancements
 
-\begin{Player}
+\Begin{Player}
 
 Tier 2 Advancements are unlocked only after you have taken five Tier 1 Advancements. These represent large changes to the character, and do not make sense for a brand new character to take. 
 
-\end{Player}
+\End{Player}
 
 #### Retire to safety
 
-\begin{Player}
+\Begin{Player}
 
 If you choose this, your character stops being playable. They have decided to opt for a simpler, safer life, at least for the time being. Describe where they settle, or how they head off into the sunset. Perhaps they finally do build that wizard's tower in a nearby plane, or maybe they're still your next-door neighbor, but who's no longer going out looking for where things are wrong and fixing them. Doing this binds the MC to not kill your character, toss them into a Discordant Realm, or otherwise greatly mess with them. They might show up, as a non-player character, on occasion, since they still exist in the world, but they shouldn’t be going around, having adventures anymore, and trouble won’t seek them out as it will actively played Mages.
 
 If you are still playing in the campaign when you choose this, and don’t have any other characters, make a new character to join in.
 
-\end{Player}
+\End{Player}
 
 #### Switch playbooks
 
-\begin{Player}
+\Begin{Player}
 
 This represents a more profound change to the way your character approaches the world than simply gaining a new move. Maybe your Wayfarer has found a reason to stop wandering, in a group of mages they now call family, and so changes to a Cabalist. Maybe the Hedge Mage has a brush with death that changes their outlook on life and they become a Pious. Maybe the Primordial gets convinced that the old ways are dying and they join the winning side as a Tech Adept.
 
@@ -2534,11 +2534,11 @@ In any case, the character’s core self doesn’t change, so by default they ke
 
 If you take this advancement, you'll negotiate with the table about what aspects of the old playbook transfer over to the new one. Generally we advise that you should be able to keep one move from your old playbook that was particularly iconic to the way you played them. We advise that you pick a Paradigm from the new playbook, but perhaps keep elements of your old paradigm if they make a lot of sense to stick around after such a big change. For Gear, the easiest thing to do is either keep your old playbook gear, or take the gear from the new playbook, but the table can talk about it if some things make sense to transfer over, and you also want some of the gear the new playbook offers. 
 
-\end{Player}
+\End{Player}
 
 #### Start a second character
 
-\begin{Player}
+\Begin{Player}
 
 You can also start an entirely new character, to play alongside your old one. They are wholly independent beings, who just happen to have the same player, like how all non-player characters are played by the same MC. Do this the same way a new character would be added to the campaign. Select a playbook that’s not currently in play, make all of the choices that you would at the start of a campaign, at the table where you can get input from others. Write a Flag, and figure out where they fit into the world that’s been described.
 
@@ -2546,53 +2546,53 @@ If you have two, or even three characters, it can be hard to fit everybody in. S
 
 Note that not playing a character doesn’t stop, for example, Portents related to them from advancing, so do make sure that they get their moments in the spotlight as appropriate.
 
-\end{Player}
+\End{Player}
 
 ### Untethered Advancements
 
-\begin{Player}
+\Begin{Player}
 
 Some very powerful advancements are only available to Mages who have left behind a certain amount of attachment to the mundane world, or are sufficiently inspired in the magical world. Untethered Advancements may only be accessed by characters that have unlocked Tier 2 advancements, and only if they are Untethered at the time of reaching their fifth experience. If a character becomes Tethered again, they retain any advancements gained while Untethered. Advanced Moves for each playbook are under this tier, and are some of the most powerful moves available.
 
-\end{Player}
+\End{Player}
 
 #### Becoming Untethered: Inspirations and Anchors
 
-\begin{Player}
+\Begin{Player}
 
 A character becomes Untethered when they have more Inspirations than they do Anchors. This can happen by gaining a new inspiration or by losing an Anchor. (Sometimes both may happen at once, but this is likely a rare occurrence.) They remain Untethered while this remains true. However, if a character at any point has at least twice as many Inspirations as they do Anchors, that character becomes Lost and is no longer a playable character ({{linkLosing a Character}}). This is the careful balancing act Mages must do in order to access their most powerful advancements.
 
-\end{Player}
+\End{Player}
 
 #### (Special) Remove a Restriction from your Paradigm
 
-\begin{Player}
+\Begin{Player}
 
 This is the same advancement as the one-time advancement from Tier 1, but as it is notated with an asterisk, can be taken any number of times while Untethered.
 
 {{anchorAdvanced Moves}}
 
-\end{Player}
+\End{Player}
 
 ### Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 Advanced moves for each of the playbooks can be found below. These moves often change the nature of the game or the world significantly, and with one exception, each playbook can only take one Advanced Move. This is likely the culmination of your character’s goals, abilities, or research, so consider very carefully what move fits them best.
 
-\end{Player}
+\End{Player}
 
 #### Consensus Shifting
 
-\begin{Player}
+\Begin{Player}
 
 If you have an Advanced Move that lets you attempt to shift the Consensus, you start a Consensus Shift Status Track. If this status track reaches Code N, you have successfully shifted the consensus. This track is racing against the Consensus Force Status Track though, as you are likely not the only one who is trying to sway the subconscious of the universe. If the Consensus Force Status Track reaches Code N, the MC will choose to either shift the consensus in favor of one of the Forces, in which case you will reset your Consensus Shift track to Code 50, or they will choose to shift the consensus to block your shift. (This represents a faction refuting the possibility of your shift before you establish it in the Consensus.)  If the MC shifts the Consensus to block your shift, or if you successfully reach Code N, you may start a new Consensus Shift Status Track next time your Consensus Shifting move triggers.
 
-\end{Player}
+\End{Player}
 
 #### Cabalist Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Strength of the Circle**
 
@@ -2608,11 +2608,11 @@ Your cabal follows you fanatically. Add the following option to Gossamer Threads
 
 When your cabal helps you Research, on a 12+, hold 2. Use this hold 1 for 1 to introduce a previously unknown fact or weakness about the topic of your research at any time.
 
-\end{Player}
+\End{Player}
 
 #### Hedge Mage Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Familiar**
 
@@ -2638,11 +2638,11 @@ When you take this move, you may note a small but arcane shift you are attemptin
 
 On a 6-, that was certainly rending magic! The MC makes a hard move
 
-\end{Player}
+\End{Player}
 
 #### Inspired Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **With a Little Help From My Friends**
 
@@ -2668,11 +2668,11 @@ When you take this move, you may note one moderate shift (on par with a major te
 
 On a 6-, you are sucked into a Reality Bubble, and your Grip On Reality status track starts having hit Code 30.
 
-\end{Player}
+\End{Player}
 
 #### Mentor Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Nekkhamma**
 
@@ -2686,11 +2686,11 @@ Any time you take Harm, reduce it by 1 (to a minimum of 0)
 
 All of your students are awakened, change playbooks to Cabalists.
 
-\end{Player}
+\End{Player}
 
 #### Pious Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Awakener**
 
@@ -2707,11 +2707,11 @@ When you and another character **exchange a moment of humanity** in addition to 
 * Hold 3 as per Assert Your Paradigm, Hold 3 as per Vows, Hold 3 spent 1 for 1 to have them suffer 0 harm  
 * Transfer all of their Discord to you, Transfer all of their Harm to you, Nothing
 
-\end{Player}
+\End{Player}
 
 #### Primordial Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **One With Everything**
 
@@ -2725,11 +2725,11 @@ Once per session when you Put Willpower Behind Changing It, you may choose none 
 
 When you are at a place of power, you may do magic within your Paradigm but beyond your normal abilities (without expending a magical resource). In addition, you are aware of the magic stores within the place of power.
 
-\end{Player}
+\End{Player}
 
 #### Tech Adept Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Publish Or Perish**
 
@@ -2759,11 +2759,11 @@ When you roll Things Speak, always ask 1 additional question. In addition, add t
 
 * Why was this object meant for me?
 
-\end{Player}
+\End{Player}
 
 #### Voiced Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Renown**
 
@@ -2777,11 +2777,11 @@ When you tell a group of non-magical people a compelling story about a seemingly
 
 Choose one large-reaching effect that you specialize in. (Examples include: Conjuring storms, Creating Golems, Miraculous Healing). For this effect, only roll the Do Rending Magic move if you are directly witnessed casting this by a Lookout, rather than if it affects a Lookout.
 
-\end{Player}
+\End{Player}
 
 #### Wayfarer Advanced Moves
 
-\begin{Player}
+\Begin{Player}
 
 **Demiplane**
 
@@ -2839,11 +2839,11 @@ When you seek the path to a place that you can imagine, the MC will tell you how
 
 Add this option to Assert your Paradigm and Impress a lusus naturae: On a 12+, you may instead choose to exile your target from one of: - their home - this land - this world. Name a condition that will allow them to return. This cannot target another player’s character without the player’s consent.
 
-\end{Player}
+\End{Player}
 
 ## Custom Moves
 
-\begin{Player}
+\Begin{Player}
 
 Sometimes, it will become clear that something your character does is iconic or frequent enough that it’s worth codifying. The table can figure out a move, structured just like a playbook move, that reflects this action and the standard outcomes. This usually shouldn’t define something new about the way the world works, so much as simplify executing it. Now it’s not "I’m going to cast that summoning spell I worked out," then looking to the MC to see what happens, and they make a soft move reflecting the outcome, but rather, you cast the summoning spell, triggering the move “when you cast your researched summoning spell,” and follow from there. Most of the time, when you write one of these, it should consume an Advancement, coming after you have marked five experience.
 
@@ -2851,27 +2851,27 @@ See the Hacking section for more details on creating moves, but in general, a mo
 
 Don’t use this to copy other playbooks’ moves, especially moves that are already possessed by other characters at the table.
 
-\end{Player}
+\End{Player}
 
 ## Fictional Positioning
 
-\begin{Player}
+\Begin{Player}
 
 Finally, characters advance within the context of the story. A character gets some money and buys a new car, and now has a reliable means of getting around. A character meets a long-lost cousin and now has a new connection to their family. A character finally builds the library they’ve always meant to. Often, due to the descriptive nature of the rules, it is possible to fit these things into the mechanics. New acquaintances can become Anchors or Inspirations, a library might be a place of power, but just because it doesn’t fit doesn’t mean it doesn’t matter. There are also changes that aren’t precisely mechanics but interact with them: If you quested out and gained a vial of sacred water from the lake inhabited by the last mermaid, perhaps you now have a resource that could be consumed to do magic within your Paradigm but beyond your abilities.
 
-\end{Player}
+\End{Player}
 
 \newpage
 
 # Forces
 
-\begin{Player}
+\Begin{Player}
 
 This is another section addressed entirely to the MC. Like elsewhere, it's perfectly acceptable for you to read this, but also wholly unnecessary.
 
-\end{Player}
+\End{Player}
 
-\begin{MC}
+\Begin{MC}
 
 Forces are one of the main organizational structures used in MCing Consensus. They give you a way to keep track of what powers are in the world, and how far along they are in their goals. You make Forces between sessions, collating what you know about the story and where you imagine it may go.
 
@@ -2881,7 +2881,7 @@ Note that Forces can be allies or enemies, or neither. They may have their own a
 
 Finally, Forces should not have perfectly aligned goals. If they do, then it is really once Force being described. They do not have to be active enemies of each other, but even very positive Forces in the world can find themselves pushing in different directions.
 
-\end{MC}
+\End{MC}
 
 ## Parts of a Force
 
