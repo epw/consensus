@@ -103,7 +103,7 @@ Then, the MC will start framing scenes, describing something that encourages act
 
 The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time the other players look to you to see what happens next, or ask you a question about the world, you respond with one of your moves. When the players describe what their characters do, it will often trigger one of the Basic moves or one of the Playbook moves. If not, you respond with one of your moves. The structure of the players' moves is as follows:
 
-The Trigger: This part will be bolded on the moves sheet or playbook. It takes the form of **"When you [do something]"** and may be very specific or may be more broad. In either case, when a player says that their character does something that fits one of these moves, you should call for them to roll it. If a player does not wish to roll that move, they should change their narration of what their character does so that it does not trigger the move. Likewise, a player should never just say “I want to roll [move].” If they do, have them describe their character doing something that triggers that move. If they are describing something close to one of the triggers, you can help them by suggesting how they could trigger the move. Players can not roll a move without their character taking the action that triggers it, and can not have their character take an action that triggers a move without also rolling it.
+The Trigger: This part will be bolded on the moves sheet or playbook. It takes the form of **"When you [do something]"** and may be very specific or may be more broad. In either case, when a player says that their character does something that fits one of these moves, you should call for them to roll it. If a player does not wish to roll that move, they should change their narration of what their character does so that it does not trigger the move. Likewise, a player should never just say “I want to roll [move].” If they do, have them describe their character doing something that triggers that move. If they are describing something close to one of the triggers, you cn help them by suggesting how they could trigger the move. Players can not roll a move without their character taking the action that triggers it, and can not have their character take an action that triggers a move without also rolling it.
 
 The Roll: Most moves (but not all of them) will have a roll associated with them. It will take the form of “Roll +[Something],” usually one of a character’s stats. A roll in Consensus is always two dice added together, plus whatever the move says. Regular dice with six sides and numbers or pips on them. Nothing fancy or weird. (If you want fancy or weird dice, take a look at our Hacking section for some options). 
 
@@ -1811,11 +1811,7 @@ Dove, on the other hand, is also cornered, but doesn’t want to use magic to ge
 
 You’ll set up your initial flags during the first session. Flags are special sorts of moves, made by you and the other players, that encourage certain types of interaction with your mages. You can think of a flag as a move in the format of "When you **interact in a certain way with my mage**, mark experience." Once your flag has been hit (ie the move above has been triggered), it may or may not still be interesting for you. Additionally, once your mage has hit someone’s flag, you can not do so again until they change it. Every time your flag is hit, and at the beginning of a session if your flag had previously been hit, you may change the flag to better reflect how you want the other players’ mages to interact with your mage.
 
-\End{Player}
-
 ## Improvement
-
-\Begin{Player}
 
 Among the many improvement options available to your playbook, you may see options such as Gain another [playbook] move, Gain a move from another playbook, or Gain an advanced [playbook] move. Moves from your playbook are listed along with the moves you picked from when creating that character. Choose an additional one, and you now have access to it. When you gain a move from another playbook, try to choose one that someone else isn’t playing, or at least talk with the player using that playbook. The playbook moves are part of what make characters feel unique, and you don’t want to diminish that. When you gain an advanced playbook move, choose from the ones listed in this book for your playbook. These moves will radically alter the game and story, your whole table should be prepared for what that means.
 
@@ -1945,21 +1941,13 @@ Upkeep for an Anchor involves doing whatever is needed to restore things to norm
 
 Note that an Anchor’s Status Track can being slipping, like any other.
 
-\End{Player}
-
 #### Connecting with an Anchor
-
-\Begin{Player}
 
 When you’ve been shaken by the threat or reality of bodily harm, connecting with and Anchor is an important step for helping you get your feet under you again. This is just a little while, maybe a couple of minutes, of really reminding yourself of your Anchor’s presence in your life, or interacting with one. Some effects of combat will wear off during this time, and you can recharge your Preparations.
 
 However, if an Anchor’s Upkeep Status Track is slipping (has hit code 30 or below), then there is no calm to be had. It is actively drifting away from you, and you will not be able to connect with it until the issue(s) are resolved.
 
-\End{Player}
-
 ### Losing Anchors
-
-\Begin{Player}
 
 Losing an Anchor is a moment of transformation for your character. It can happen in many ways, but all of them mean that the Mage is a little less grounded. They’re a little closer to leaving behind what it means to be human, and a little more powerful.
 
@@ -2680,11 +2668,7 @@ Any time you take Harm, reduce it by 1 (to a minimum of 0)
 
 All of your students are awakened, change playbooks to Cabalists.
 
-\End{Player}
-
 #### Pious Advanced Moves
-
-\Begin{Player}
 
 **Awakener**
 
