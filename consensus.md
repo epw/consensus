@@ -2574,41 +2574,35 @@ If you have an Advanced Move that lets you attempt to shift the Consensus, you s
 
 #### Cabalist Advanced Moves
 
-\Begin{Player}
-
-**Strength of the Circle**
+##### Strength of the Circle
 
 Once per session, when you would gain any amount of discord, your cabal intercepts the discord and spreads it among the members, effectively diluting it enough to dissipate it.
 
-**Cult**
+##### Cult
 
 Your cabal follows you fanatically. Add the following option to Gossamer Threads, and always choose +1 option when you roll that move, even on a miss.
 
 * They go above and beyond the call of duty.
 
-**Group research**
+##### Group research
 
 When your cabal helps you Research, on a 12+, hold 2. Use this hold 1 for 1 to introduce a previously unknown fact or weakness about the topic of your research at any time.
 
-\End{Player}
-
 #### Hedge Mage Advanced Moves
 
-\Begin{Player}
-
-**Familiar**
+##### Familiar
 
 You may take a magical being or object as an anchor. You may only ever have one magical anchor at a time. Your magical anchor may also be an Inspiration.
 
-**Universal Understanding**
+##### Universal Understanding
 
 Remove an Opposed Aspect from your Paradigm
 
-**True Summoning**
+##### True Summoning
 
 Call Through Shadow can now work on magical objects and beings, as well as specific objects and beings.
 
-**Push the Consensus**
+##### Push the Consensus
 
 When you take this move, you may note a small but arcane shift you are attempting to make in the Consensus. Start a Consensus Shift Status Track. When you have successfully performed Harmonious magic that stretches the limits of coincidence (in a way related to your consensus shift) in front of a would-be Lookout, roll +Anchors. On a hit, advance the Consensus Shift status track. On a 7-9, choose 1:
 
@@ -2620,25 +2614,21 @@ When you take this move, you may note a small but arcane shift you are attemptin
 
 On a 6-, that was certainly rending magic! The MC makes a hard move
 
-\End{Player}
-
 #### Inspired Advanced Moves
 
-\Begin{Player}
-
-**With a Little Help From My Friends**
+##### With a Little Help From My Friends
 
 When you roll a 10+ on the Backlash move, bring someone with you. They see and experience what you do, but retain their understanding and awareness of reality
 
-**Mind Wide Open**
+##### Mind Wide Open
 
 Add this to Open Their Mind: On a 12+, they Awaken.
 
-**Hidden in Plain Sight**
+##### Hidden in Plain Sight
 
 At the beginning of the session, roll +Within. On a 10+ hold 3, on a 7-9 hold 2, on a miss hold 1. Spend a hold to negate one of the negative tags of your Source for a scene. (This could simply mean the negative tags aren't interfering for whatever reason, or it could be because of something you did, magical or mundane. Narrate as appropriate.)
 
-**Terror and Wonder**
+##### Terror and Wonder
 
 When you take this move, you may note one moderate shift (on par with a major technological breakthrough), or two tiny shifts you are attempting to make in the Consensus. Start a Consensus Shift Status Track (Only one, even if you chose two tiny shifts) When you **do rending magic (that directly relates to your intended Consensus Shift) in front of a large group of Lookouts**, take 3 discord and roll +Dynamic and advance your Consensus Shift Status Track. On a 10+, advance your Consensus Shift Status Track again. On a 7-9, choose 1:
 
@@ -2650,66 +2640,54 @@ When you take this move, you may note one moderate shift (on par with a major te
 
 On a 6-, you are sucked into a Reality Bubble, and your Grip On Reality status track starts having hit Code 30.
 
-\End{Player}
-
 #### Mentor Advanced Moves
 
-\Begin{Player}
-
-**Nekkhamma**
+##### Nekkhamma
 
 Once per session, when you lose an anchor, treat the roll as a 10+, no matter what it is. Mark an additional XP. When you lose your last anchor, you immediately gain one final anchor of "My Love for Humanity“, continue playing as normal.
 
-**Diamond Body**
+##### Diamond Body
 
 Any time you take Harm, reduce it by 1 (to a minimum of 0)
 
-**Mass Awakening**
+##### Mass Awakening
 
 All of your students are awakened, change playbooks to Cabalists.
 
 #### Pious Advanced Moves
 
-**Awakener**
+##### Awakener
 
 When you perform rending magic in front of a non-magical witness, you may add another option to the list: They awaken. You may only choose this option if you don’t chose "You don’t cause collateral damage."
 
-**Humanist**
+##### Humanist
 
 When you show someone the value of humanity, they may immediately gain an anchor. They may go above their starting number of Anchors for this.
 
-**Secret Keeper**
+##### Secret Keeper
 
 When you and another character **exchange a moment of humanity** in addition to any other effects, you immediately learn one secret about that character. Ask their player for a deep secret about the character. When you do, choose one from each line:
 * The secret gets out, The secret is magically sealed, The secret is forgotten by everyone but me  
 * Hold 3 as per Assert Your Paradigm, Hold 3 as per Vows, Hold 3 spent 1 for 1 to have them suffer 0 harm  
 * Transfer all of their Discord to you, Transfer all of their Harm to you, Nothing
 
-\End{Player}
-
 #### Primordial Advanced Moves
 
-\Begin{Player}
-
-**One With Everything**
+##### One With Everything
 
 Remove an Opposed Aspect from your Paradigm
 
-**Iron Will**
+##### Iron Will
 
 Once per session when you Put Willpower Behind Changing It, you may choose none of the options.
 
-**Fountain of Power**
+##### Fountain of Power
 
 When you are at a place of power, you may do magic within your Paradigm but beyond your normal abilities (without expending a magical resource). In addition, you are aware of the magic stores within the place of power.
 
-\End{Player}
-
 #### Tech Adept Advanced Moves
 
-\Begin{Player}
-
-**Publish Or Perish**
+##### Publish Or Perish
 
  When you take this move, you may note a small but substantial shift you are attempting to make in the Consensus. Start a Consensus Shift status track. At the beginning of the session, roll +Without. On a 10+, advance your Consensus Shift track. On a 7-9, advance your Consensus Shift track, but choose 1:
 
@@ -2719,15 +2697,15 @@ When you are at a place of power, you may do magic within your Paradigm but beyo
 
 On a miss, the MC will advance the Consensus Force and make a move.
 
-**Reality 2.0**
+##### Reality 2.0
 
 Remove an Opposed Aspect from your Paradigm
 
-**Perfected Blueprints**
+##### Perfected Blueprints
 
 Add the following to Universal Programmer: On a 12+ you can make additional copies of it without rolling, as long as you have the time and materials.
 
-**Detailed Analysis**
+##### Detailed Analysis
 
 When you roll Things Speak, always ask 1 additional question. In addition, add these questions to the list of possible questions:
 
@@ -2737,31 +2715,23 @@ When you roll Things Speak, always ask 1 additional question. In addition, add t
 
 * Why was this object meant for me?
 
-\End{Player}
-
 #### Voiced Advanced Moves
 
-\Begin{Player}
-
-**Renown**
+##### Renown
 
 You are powerful, connected, or otherwise a Big Deal. You yourself count as a significant or powerful group for the purposes of Power Vested in Me.
 
-**Storyteller**
+##### Storyteller
 
 When you tell a group of non-magical people a compelling story about a seemingly magical feat that someone else has performed, start a Consensus Shift Status Track about that magical feat. If a status track already exists for that Consensus Shift, roll +Without and the MC advances the Consensus Force. On a hit, they are interested and want to hear more. On a 10+, they also don’t doubt or contradict you, and word doesn’t get back to an interested party, the MC does not advance the Consensus Force. On a 12+, additionally, advance the relevant Consensus Shift Status Track.
 
-**Heart of the Storm**
+##### Heart of the Storm
 
 Choose one large-reaching effect that you specialize in. (Examples include: Conjuring storms, Creating Golems, Miraculous Healing). For this effect, only roll the Do Rending Magic move if you are directly witnessed casting this by a Lookout, rather than if it affects a Lookout.
 
-\End{Player}
-
 #### Wayfarer Advanced Moves
 
-\Begin{Player}
-
-**Demiplane**
+##### Demiplane
 
 You gain a place of power that isn’t entirely of this world. It is afforded more protection and power than a standard place of power.
 
@@ -2809,15 +2779,13 @@ It will also never:
 
 * Cause Discord
 
-**Find the Path**
+##### Find the Path
 
 When you seek the path to a place that you can imagine, the MC will tell you how to get there.
 
-**Exile**
+##### Exile
 
 Add this option to Assert your Paradigm and Impress a lusus naturae: On a 12+, you may instead choose to exile your target from one of: - their home - this land - this world. Name a condition that will allow them to return. This cannot target another player’s character without the player’s consent.
-
-\End{Player}
 
 ## Custom Moves
 
