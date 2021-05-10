@@ -1967,45 +1967,25 @@ A former Anchor likely still exists in the world, and may even continue to inter
 
 If an Anchor’s Status Track hits Code N, you have lost them. Depending on the nature of the needed upkeep, this could mean many different things about their place in the world. You might get evicted from your home, or find that the house has become literally unlivable. A Connection Anchor most likely feels neglected by you and decides to go their own way. An Emotional Anchor might stop reminding you of what it once did, or it might finally break, and you feel your connection to that part of your life break as well.
 
-\End{Player}
-
 #### Threats to Anchors
-
-\Begin{Player}
 
 A Mage’s life is full of danger, and this can extend to those around them. During play, you are likely to discover from time to time that an Anchor is put in real danger. When this happens, you have a choice to make. You can either drop what you’re doing and go try to handle it. Or, you can accept that the Anchor doesn’t actually mean more to you than what you are doing. Of course, realizing that means that they aren’t Anchoring you anymore. Whatever you choose, you learn something from the experience.
 
 What exactly constitutes danger depends on the Anchor. A branch falling on your house probably demands upkeep (marking a Code off the Status Track), but likely isn’t an imminent danger. A foreclosure notice from the bank, however, requires the immediate choice. It might even depend on your relationship to the Anchor. If your connection anchor tells you "show up to the bar tonight or we’re not friends anymore," to one person that might be just how they talk to their buddy (mark a Code off the Status Track if you stand them up), whereas to someone else that relationship is in real danger from that kind of ultimatum, and they need to make an immediate choice.
 
-\End{Player}
-
 #### Narrative Loss
-
-\Begin{Player}
 
 Sometimes, it is clear that you have lost an Anchor. If a Connection Anchor dies, they clearly are no longer an Anchor. You also might acknowledge that for other reasons, and Anchor no longer fulfills that role. This is exactly like losing an Anchor in any other way.
 
-\End{Player}
-
 ##### Transformation
-
-\Begin{Player}
 
 One way to lose an Anchor is for it to become magical. Anchors, after all, cannot be magic at their hearts. It is OK to put some magic on them, though this may be risky, and likely requires upkeep later to help restore a sort of balance. But, if they reach the point where they are magical, then they cease to be an Anchor. Sometimes this can happen intentionally, like if you decide to turn your house into a fully-enchanted wizard’s tower, or you link your mind to your dog’s because you want a familiar. Other times it might be an unintended side effect, like if you save your sister by throwing her into a magical pool, and discover when she emerges that it not only healed her wounds, it transformed her into an oracle.
 
-\End{Player}
-
 ### Gaining Anchors
-
-\Begin{Player}
 
 Your starting Anchors are not the only ones you can ever have. It is possible to gain new ones during play. These behave exactly like other Anchors, though they are likely better characterized when it happens. You can even re-gain previously lost Anchors, if you can justify it. It may be helpful to consider new Anchors as one of Shelter/Connection/Emotional, but it is not required. Add them to your sheet, and put a Status Track next to them.
 
-\End{Player}
-
 #### Through a Move
-
-\Begin{Player}
 
 A few moves allow an Anchor to be gained. Work with the MC, and originator of the move if not you, to determine who or what the new Anchor is, and how you come to realize what they mean to you.
 
@@ -2015,11 +1995,7 @@ The Pious’ Advanced Move Humanist lets a Pious show you the value of humanity,
 
 The Mentor’s Advanced Move Nekkhamma allows them to gain one last Anchor, "my love for humanity", when they would otherwise cease to be Anchored at all. This represents a certain type of enlightenment, one that encourages them to stick around to spread their wisdom.
 
-\End{Player}
-
 #### Through an Advancement
-
-\Begin{Player}
 
 All playbooks also have the option to gain an anchor as one of their Tier 1 unlimited advancements. This will list a maximum number of Anchors you can have after taking this advancement however, and it is always one less than the number of Anchors your playbook can start with. This is a good way to regain some ground if you are close to the edge, but can’t bring you back to as fully grounded as you started out.
 
@@ -2039,51 +2015,27 @@ In this world, Mages have Anchors. You should be sure to think about this and wh
 
 The counterpart to Anchors, Inspirations are what bring a Mage their power, or tempt them to cross the line to being something other than human. Other Mages often inspire, and particularly significant spirits, animals, or even magical objects might as well. Where Anchors keep you tied to the physical reality, Inspirations help you find ways to rise above your mundane existence. They help you strive to reach your true potential, but in that striving, is it possible you will go too far? Inspirations are always inherently magical, whether they be other awakened Mages, spirits, or magical objects, in order for them to help you transcend the constraints of your magical capabilities, they must themselves be part of the magical world. (Of course, sometimes you meet someone who would absolutely be an inspiration if only they knew like you did, that magic was real. Maybe you start searching for a way to really open their eyes, thinking about how perfect everything will be then.)
 
-\End{Player}
-
 ### Gaining Inspirations
-
-\Begin{Player}
 
 While there are many people, spirits, animals or even items that could serve to inspire you, only some of them are actively on your mind at a given time. When you interact with someone or something that inspires your magic in certain special ways, they become an active Inspiration for you, lifting you to new heights. 
 
-\End{Player}
-
 #### Having a Moment of Humanity
-
-\Begin{Player}
 
 The first way of gaining (or re-gaining) an inspiration is to have a Moment of Humanity with another mage. When this happens, along with rolling your move, you may add them as an Inspiration. Write their name down on your playbook along with maybe a note about how they inspire you to greater magical feats, like "reminds me to think of individuals, not just groups" or “shows me new forms of magic every time we meet.”
 
-\End{Player}
-
 #### Doing Magic Through Them
-
-\Begin{Player}
 
 The second way of gaining (or re-gaining) an inspiration is to actively work your magic through, or in deep collaboration with, them or it. This is more commonly a way to gain an inspiration that isn’t another person, be it a spirit, a familiar, a magical focus, or similar. When you do magic through one of these things, or even through another mage, you may add them as an inspiration. Write them down on your playbook along with maybe a note about how they inspire you to greater magical heights, like "contains the secrets of blood magic" or "tells me what's wrong in my code."
 
-\End{Player}
-
 ### Maintaining Inspirations
-
-\Begin{Player}
 
 Inspiration is sometimes said to be fleeting. In order to maintain your connection with your inspirations, simply do the same thing you might do to gain one in the first place. If you do so once per session per inspiration, they’ll continue to inspire you.
 
-\End{Player}
-
 ### Losing Inspirations (and why it’s not a big deal)
-
-\Begin{Player}
 
 Losing an inspiration, more likely just falling out of touch and not having them at the forefront of your thoughts, isn’t a big deal. There’s no penalty, and you can always go back and rekindle that spark of inspiration. If at the end of a session you have not had a moment of humanity with or done magic through one or more of your inspirations, just erase them from your sheet and keep on keeping on.
 
-\End{Player}
-
 ### Non-Human Inspirations
-
-\Begin{Player}
 
 Most Inspirations are other humans, especially the other Mages played at the table. But, they’re not the only possible source. Magic itself can be inspiring, and it takes many forms. Inspirations really can be any magical thing that make sense at your table, but a few are worth calling out explicitly.
 
@@ -2093,57 +2045,33 @@ Some Mages believe that they have a personal spirit who helps guide them on thei
 
 Some magical items are simply tools, but others go beyond that. Important relics a Mage has found, or artifacts they created themselves, can continue to inspire. Doing magic from an ancient spellbook just feels different from piecing the components together out of pop witchcraft, and sometimes a wand chooses a wizard.
 
-\End{Player}
-
 ## Tethered and Untethered
 
 ### Being Tethered
 
-\Begin{Player}
-
 Being Tethered is a state that all mages find themselves in at the start of a game of Consensus. It simply means that you have at least as many Anchors as you have Inspirations, and it is a safe place to be. Safe, but potentially unfulfilling, you can’t reach your true potential while tethered, you can’t work your will on reality when you let yourself be tethered to reality.
 
-\End{Player}
-
 ### Becoming Untethered
-
-\Begin{Player}
 
 Once you have more Inspirations than Anchors, you become Untethered, a mage truly starting to grasp just how far their power can reach. More paths will open up to you while you are Untethered, but beware, you stand on a precipice, even more than you did before.
 
 When you lose inspirations, or gain anchors so that you are no longer Untethered, you go back to being Tethered, but you keep any advancements you may have gained while Untethered.
 
-\End{Player}
-
 ### Untethered Advancements
-
-\Begin{Player}
 
 The top tier of advancements are only available while your PC is Untethered. These advancements are often more powerful than others you have access to, so you will need to decide if the power is worth the risk. Note that when you gain an advancement, you must take it immediately, so if you are coming up on your 6th advancement and really want to access your Untethered Advancements immediately, it is time to start gaining Inspirations, or shedding Anchors.
 
-\End{Player}
-
 #### Advanced Moves
-
-\Begin{Player}
 
 Notably, the only way to access your playbook’s Advanced Moves is by being Untethered, at least for a time. 
 
-\End{Player}
-
 ### Basic Move Effects
-
-\Begin{Player}
 
 Certain moves care if your character is tethered, or how many Anchors or Inspirations your character has. Asserting your Paradigm and impressing non-Mage magical beings are both slightly harder if you are Tethered. On the other hand, when you roll to help or hinder another PC, you roll +Anchors, even if you are helping or hindering a magical effect.
 
 {{anchorLosing a Character}}
 
-\End{Player}
-
 ### Losing a Character
-
-\Begin{Player}
 
 If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. 
 
@@ -2171,11 +2099,7 @@ Note that starting gear also doesn’t cover some other possessions, like where 
 
 When you make or acquire a new item of significance, either through normal play or through a move such as Universal Programmer, make sure to write it on your playbook under the Gear section. Sometimes this could be as simple as telling the MC you’d like to buy something.
 
-\End{Player}
-
 ### Savings
-
-\Begin{Player}
 
 Money is hard to deal with. In some games, it makes sense to simply keep track of gold coins as they come and go. The modern world is more complicated. In small groups, systems of favors and mutual interdependence often overshadow money. In addition, the existence of secondhand shops, eBay, and bargain hunting mean that you can often find something within your price range, as long as you aren’t too picky.
 
@@ -2226,61 +2150,33 @@ Feel free to tell characters to increase their Savings if they've done something
 
 Some playbooks have extra sections that include how they relate to the world. Only fill in these sections if you select or start with the Move that is attached to them. For example, a Pious only fills out their Place of Power once they select the Sanctuary move, whereas a Cabalist starts with the move Gossamer Threads, and fills out the Cabal section of their playbook when making the character.
 
-\End{Player}
-
 ### Places of Power
-
-\Begin{Player}
 
 Places of power are magically significant sites, and for a PC to have access to one is a Big Deal. It means that unlike Mages who have to depend on rare confluences of energy or the generosity of others in order to take part in Rituals, you can usually expect to have a place to go that is awash with energy. The details of this will be determined by the move, because it is never truly simple: maybe you don't exactly own the place as such, you just know about the magic there and take care of it. Or maybe you do own it, but the land is half an hour by car on dirt roads from anywhere, has no running water, and something of a wolf problem. Still, a standard plan to use when you need to create a much larger effect than you can accomplish unaided is incredibly valuable.
 
-\End{Player}
-
 #### Facade
-
-\Begin{Player}
 
 This is the appearance that the place takes on, or the structure built over and around it. These are both thematic and practical, and the facade you choose will help inform many of the other choices while making the Place of Power. This is also when you will work with the MC to determine the location of your Place of Power.
 
-\End{Player}
-
 #### Strengths
-
-\Begin{Player}
 
 These represent the upsides to the particular place you have chosen. Whichever one you choose, make sure to talk a little bit about what that means to you, so the MC doesn’t accidentally circumvent it. (They may of course purposely circumvent it when their moves allow them to.)
 
-\End{Player}
-
 #### Weaknesses
-
-\Begin{Player}
 
 These represent the downsides to your place of power. Again, talk a little bit about which ones you choose and what they mean to you, and what they mean for the place of power. If a place of power is inaccessible, why, what makes it hard to get to? If it’s tainted, by what? How does that affect the magic that’s cast there? You don’t have to decide everything right away, but the MC will likely make probing questions at the weaknesses, to help everyone understand the potential risks of that Place of Power.
 
-\End{Player}
-
 #### Ritual Bonus
 
-\Begin{Player}
-
 This choice is a bonus to the Ritual move when it is performed at this place of power. This really helps solidify the uniqueness of your place of power, which can be especially important if multiple playbooks are in play with a Place of Power move. This limits the potential costs, needs, or downsides of doing a ritual here.
-
-\End{Player}
 
 ### Other Accoutrements
 
 #### The Cabalist’s Cabal
 
-\Begin{Player}
-
 The Cabalist has a group of like-minded mages that they work with regularly. Though they are represented as a group on your playbook, work with the MC to make them each individuals. The MC will likely ask probing questions about them as they appear in the story, and should tie their stories to other player characters as well. Your cabal as a whole has strengths and a vulnerability. These help add depth to the group, and also tell the MC what kinds of stories and situations you want to play out with your cabal, and what kinds you want to avoid. 
 
-\End{Player}
-
 ##### Example Cabal
-
-\Begin{Player}
 
 The Chi Beta Chi Book Club Secret Society - 
 
@@ -2290,19 +2186,11 @@ The book club has studied magic and has passed down techniques from Senior to Fr
 
 The frat likes to throw parties and the book club doesn’t really know the meaning of subtle. Vulnerable: Target
 
-\End{Player}
-
 #### The Mentor’s Students
-
-\Begin{Player}
 
 The Mentor has a group of mundane students that they’re teaching. Each session they progress towards their want or their surplus or both. When they reach a tipping point, the MC will have them either help out in a way related to the surplus, or cause problems by pursuing their want or wants. The students are also individuals, who can be connected to other player characters. While they often act together as a group, they also act as individuals with their own personalities. 
 
-\End{Player}
-
 ##### Example Students
-
-\Begin{Player}
 
 Shady Grove Middle School Go Club - 
 
@@ -2312,19 +2200,11 @@ The go club is full of middle schoolers who are penned up in classrooms for far 
 
 The students are quick studies, always trying out new things and adapting strategies on the fly. (+1 learning)
 
-\End{Player}
-
 #### The Inspired’s Source
-
-\Begin{Player}
 
 The Inspired’s source is a reliable Inspiration for them, when they can get it. It has a form that describes it, one positive tag, and two negative tags. Really flesh out what the Source is though, the tags should just describe it. The positive tag can be brought into play while interacting with your Source, and the MC can use the negative tags to affect you (or your ability to access your source.)
 
-\End{Player}
-
 ##### Example Sources
-
-\Begin{Player}
 
 Muse - A person, +sense, +quick, +chaotic
 
@@ -2342,11 +2222,7 @@ An ornately carved statue with sharp edges - An object, +social, +dangerous, +ra
 
 Terror - An emotion, +social, +forbidden, +dangerous
 
-\End{Player}
-
 ### Tags
-
-\Begin{Player}
 
 Tags are narrative flags applied to some accoutrements. They are one or two words written with a + in front to make them stand out. When you are told to select tags, you are adding customization and making the accoutrement concrete. They can define strengths and weaknesses, and other relevant properties. Tags often come with a small description to help flesh out the meaning. The player and the MC should both note the tags, to make it easy to bring them up often. Two different characters may both have a place of power, but if one has the Strength tag +private, and the other has the Strength tag +famous, then the interactions at each should be totally different. The first is unlikely to have rituals be interrupted by passers-by, while the second might cause more helpful chance meetings.
 
@@ -2362,11 +2238,7 @@ Like most things in Consensus, tags are prescriptive and descriptive. If the +pr
 
 Characters grow and change through the course of a story. Mages are no different. They learn new types of magic, get stronger, and sometimes change who they are entirely. Experience is the primary method of tracking how this happens over the course of a campaign, but it is not the only thing that changes. Growth can come in quick, noteworthy jumps, or evolve slowly over time, only to be noticed after a while. Thus, these changes can be made at any time that they make sense during a session.
 
-\End{Player}
-
 ## Gaining Experience
-
-\Begin{Player}
 
 Experience is a measure of how your character grows and learns over time. In Consensus, "marking experience" refers to filling in a bubble on your character sheet. When you fill in the fifth bubble, erase them all and pick an Advancement.
 
@@ -2374,141 +2246,73 @@ Several things cause you to mark experience. Generally, like the rest of Consens
 
 Here are most common ways to mark experience, which reflect how Consensus is encouraging you to play the game.
 
-\End{Player}
-
 ### Flags
-
-\Begin{Player}
 
 Every character in play should have a Flag. When you hit a Flag for a character that you haven’t hit before, mark experience. This will give them the opportunity to change it, and you can’t mark experience for hitting that same Flag again. Even a minor change is enough to allow you to mark experience again, however. Flags are a way to tell the other players how you would like to see your character interacted with, and offer them a little experience in return if they do it.
 
-\End{Player}
-
 ### Asserting Your Paradigm
-
-\Begin{Player}
 
 If someone Asserts their Paradigm over you, and rolls a success, one of the things they can spend their Hold to do is cause you to mark experience. The player is perfectly within their rights to use this as a bribe: "If you go along with my character’s way of looking at things, I’ll let you mark experience." In-game, this represents your character seeing something in their assertion, and maybe learning from it.
 
-\End{Player}
-
 ### An Anchor is put in Danger
-
-\Begin{Player}
 
 When one of your Anchors is put in danger, mark experience right away. No matter what, it’s a cause of growth. Whether the danger leads you to find out how far you’re willing to go to protect what’s important to you, or makes you realize you didn’t care that much after all, or even just reminds you of the precious and fleeting nature of things, it adds to your experience.
 
-\End{Player}
-
 ### At End of Session
-
-\Begin{Player}
 
 At the end of every session, a move triggers to resolve dangling threads, but also asks the table a set of questions. If anyone answers yes to a question, everyone marks experience (for any characters they played during the session). It is reasonable to discuss whether an event that occurred means a question is answered yes, but even if the answer was only relevant for some characters, it counts for everyone. For example, if Leslie uncovered the secret of the Untouched Words while Cory and Ash spent the whole session arguing over herb gardens, all three still mark experience. This is one of the ways to gain the most experience, and also helps you check the tone of your game after each session. If you find that for multiple sessions in a row, you don't answer yes to any of these, this game may not be working as well for you as it could. You may want to talk about the tone of game you want to play in, and change the end of session move to better fit that.
 
-\End{Player}
-
 ### Playbook Moves
-
-\Begin{Player}
 
 Various playbook moves involve marking experience, or allowing others to mark experience. It’s a good idea to note these to the table, so they can understand what your motivations are, and know what you are offering them.
 
-\End{Player}
-
 ## Choosing Advancements
-
-\Begin{Player}
 
 When you reach 5 experience, erase all bubbles and choose an advancement from a tier that you have access to. Each playbook has their own set of advancements, you must choose an advancement from the playbook you are playing. Advancements, unless otherwise noted, can only be chosen once. Fill in the bubble on your playbook to note that the advancement has been taken. It is worth noting that some advancements have a \* next to them, which represents that it can be taken any number of times. You don't need to try and fill that in. Advancements are both prescriptive and descriptive, like most things in this game. You may choose to take an advancement to move your character in a certain direction, or to acknowledge mechanically a direction they are already moving in. In either case, try to think about what works best for the fiction, what makes the most sense for your character, and what would be the most fun. Attempting to min-max your character advancements can be disappointing in this game.
 
-\End{Player}
-
 ### Tier 1 Advancements
-
-\Begin{Player}
 
 Tier 1 Advancements are accessible to all characters without restriction, these are your playbook’s base level advancements. Some of the advancements listed below are Untethered advancements in certain playbooks, and can only be accessed when the criteria for choosing Untethered Advancements are met.
 
-\End{Player}
-
 #### Gain +1 in a Stat
-
-\Begin{Player}
 
 This advancement adds +1 to one of your stats, up to a maximum listed on your playbook. If your stat is already at this maximum, taking the improvement will confer no benefit on your character.
 
-\End{Player}
-
 #### Pick a new option for a playbook specific accoutrement
-
-\Begin{Player}
 
 This advancement will specify a new option for one of your playbook specific accoutrements. This might improve your place of power, or a group of NPCs that your character has influence over. You can choose a negative modifier unless otherwise specified.
 
-\End{Player}
-
 #### Gain a new move from your playbook
-
-\Begin{Player}
 
 This advancement lets you pick another move from your current playbook, one of the ones you don’t already have access to. Fill out any relevant parts of your playbook, make any relevant choices at this time. Think about how your character might have gained mastery of this ability, gaining the move gives them reliable results when they try to do it, as opposed to the wide-open world of trying to do something similar without a move. Think about what it means for your character to have gained this move. Is it something they’ve been practicing (on or off screen)? Is it something they tried once and quickly found a knack for? Is it something they don’t even realize they can do, and the first time the move triggers will be a surprise to them?
 
-\End{Player}
-
 #### Gain a move from another playbook
-
-\Begin{Player}
 
 This advancement lets you pick a new move from a different playbook than your own. This is as close to "multi-classing" as it is possible to get in Consensus. Try to pick a move from a playbook that isn’t already in play, or if you do have your eye on a move that is in a playbook some other player is playing for one of their characters, talk to them first. Playbook moves are one of the big ways that characters in Consensus are unique, so try not to pick a move that another character already has.
 
-\End{Player}
-
 #### Remove a Restriction from your Paradigm
-
-\Begin{Player}
 
 Restrictions may be added to your character’s paradigm by the MC during play. These are limitations on what you can do within your limitations, similar to the Opposed choices you made at character creation. Choosing this advancement is the only way to remove them. This advancement, like most advancements, can only be chosen once, so choose carefully when you decide to use it. Think about how your character overcomes this restriction. It doesn’t need to be big and momentus for them, but it very well might be. 
 
-\End{Player}
-
 #### (Special) Give a Freedom to another Mage’s Paradigm
-
-\Begin{Player}
 
 This special advancement, noted by an asterisk on your playbook, can be taken any number of times. You choose a Freedom to give to another Mage’s Paradigm, basically a loophole or exemption to one of their Opposed Aspects. They write this freedom on their character sheet, along with who gave it to them. Freedoms only work while the receiving character is working together with the character who gave it to them. These represent real opportunities for teamwork, character growth, and synergy. As characters work more together, consider giving Freedoms to make note of how they have learned from each other. Especially pay attention if  moves like We’re Not So Different, Assert Your Paradigm, If You Ask Me, Clarity of Purpose, or Strong Avatar have been recently triggered.
 
-\End{Player}
-
 #### (Special) Gain an Anchor
-
-\Begin{Player}
 
 This special advancement, noted by an asterisk on your playbook, can be taken any number of times. You may gain a new anchor, in a category that you don’t currently have one in. You can never get back to your starting number of Anchors with this advancement however. Think about how your character has gained this anchor, sometimes it will be obvious from play, such as buying a house or gaining a new important (mundane) friend. Sometimes it will be less obvious, and you will need to come up with a little more information about the Anchor and your relationship to it for the MC. 
 
-\End{Player}
-
 ### Tier 2 Advancements
-
-\Begin{Player}
 
 Tier 2 Advancements are unlocked only after you have taken five Tier 1 Advancements. These represent large changes to the character, and do not make sense for a brand new character to take. 
 
-\End{Player}
-
 #### Retire to safety
-
-\Begin{Player}
 
 If you choose this, your character stops being playable. They have decided to opt for a simpler, safer life, at least for the time being. Describe where they settle, or how they head off into the sunset. Perhaps they finally do build that wizard's tower in a nearby plane, or maybe they're still your next-door neighbor, but who's no longer going out looking for where things are wrong and fixing them. Doing this binds the MC to not kill your character, toss them into a Discordant Realm, or otherwise greatly mess with them. They might show up, as a non-player character, on occasion, since they still exist in the world, but they shouldn’t be going around, having adventures anymore, and trouble won’t seek them out as it will actively played Mages.
 
 If you are still playing in the campaign when you choose this, and don’t have any other characters, make a new character to join in.
 
-\End{Player}
-
 #### Switch playbooks
-
-\Begin{Player}
 
 This represents a more profound change to the way your character approaches the world than simply gaining a new move. Maybe your Wayfarer has found a reason to stop wandering, in a group of mages they now call family, and so changes to a Cabalist. Maybe the Hedge Mage has a brush with death that changes their outlook on life and they become a Pious. Maybe the Primordial gets convinced that the old ways are dying and they join the winning side as a Tech Adept.
 
@@ -2516,11 +2320,7 @@ In any case, the character’s core self doesn’t change, so by default they ke
 
 If you take this advancement, you'll negotiate with the table about what aspects of the old playbook transfer over to the new one. Generally we advise that you should be able to keep one move from your old playbook that was particularly iconic to the way you played them. We advise that you pick a Paradigm from the new playbook, but perhaps keep elements of your old paradigm if they make a lot of sense to stick around after such a big change. For Gear, the easiest thing to do is either keep your old playbook gear, or take the gear from the new playbook, but the table can talk about it if some things make sense to transfer over, and you also want some of the gear the new playbook offers. 
 
-\End{Player}
-
 #### Start a second character
-
-\Begin{Player}
 
 You can also start an entirely new character, to play alongside your old one. They are wholly independent beings, who just happen to have the same player, like how all non-player characters are played by the same MC. Do this the same way a new character would be added to the campaign. Select a playbook that’s not currently in play, make all of the choices that you would at the start of a campaign, at the table where you can get input from others. Write a Flag, and figure out where they fit into the world that’s been described.
 
@@ -2528,49 +2328,27 @@ If you have two, or even three characters, it can be hard to fit everybody in. S
 
 Note that not playing a character doesn’t stop, for example, Portents related to them from advancing, so do make sure that they get their moments in the spotlight as appropriate.
 
-\End{Player}
-
 ### Untethered Advancements
-
-\Begin{Player}
 
 Some very powerful advancements are only available to Mages who have left behind a certain amount of attachment to the mundane world, or are sufficiently inspired in the magical world. Untethered Advancements may only be accessed by characters that have unlocked Tier 2 advancements, and only if they are Untethered at the time of reaching their fifth experience. If a character becomes Tethered again, they retain any advancements gained while Untethered. Advanced Moves for each playbook are under this tier, and are some of the most powerful moves available.
 
-\End{Player}
-
 #### Becoming Untethered: Inspirations and Anchors
-
-\Begin{Player}
 
 A character becomes Untethered when they have more Inspirations than they do Anchors. This can happen by gaining a new inspiration or by losing an Anchor. (Sometimes both may happen at once, but this is likely a rare occurrence.) They remain Untethered while this remains true. However, if a character at any point has at least twice as many Inspirations as they do Anchors, that character becomes Lost and is no longer a playable character ({{linkLosing a Character}}). This is the careful balancing act Mages must do in order to access their most powerful advancements.
 
-\End{Player}
-
 #### (Special) Remove a Restriction from your Paradigm
-
-\Begin{Player}
 
 This is the same advancement as the one-time advancement from Tier 1, but as it is notated with an asterisk, can be taken any number of times while Untethered.
 
 {{anchorAdvanced Moves}}
 
-\End{Player}
-
 ### Advanced Moves
-
-\Begin{Player}
 
 Advanced moves for each of the playbooks can be found below. These moves often change the nature of the game or the world significantly, and with one exception, each playbook can only take one Advanced Move. This is likely the culmination of your character’s goals, abilities, or research, so consider very carefully what move fits them best.
 
-\End{Player}
-
 #### Consensus Shifting
 
-\Begin{Player}
-
 If you have an Advanced Move that lets you attempt to shift the Consensus, you start a Consensus Shift Status Track. If this status track reaches Code N, you have successfully shifted the consensus. This track is racing against the Consensus Force Status Track though, as you are likely not the only one who is trying to sway the subconscious of the universe. If the Consensus Force Status Track reaches Code N, the MC will choose to either shift the consensus in favor of one of the Forces, in which case you will reset your Consensus Shift track to Code 50, or they will choose to shift the consensus to block your shift. (This represents a faction refuting the possibility of your shift before you establish it in the Consensus.)  If the MC shifts the Consensus to block your shift, or if you successfully reach Code N, you may start a new Consensus Shift Status Track next time your Consensus Shifting move triggers.
-
-\End{Player}
 
 #### Cabalist Advanced Moves
 
