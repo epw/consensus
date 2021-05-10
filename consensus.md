@@ -1895,31 +1895,21 @@ Anchors are some of the most powerful story elements you have available. They ar
 
 \End{MC}
 
-### Starting Anchors
-
 \Begin{Player}
+
+### Starting Anchors
 
 Your character starts with Anchors, which say things about who they have been so far. Each playbook suggests different Anchors in the starting categories. As you choose them, think about how they keep you grounded, and human. Also think about what you need to do to keep them in your life, be it paying rent on an apartment, or taking care of a loved one. Note that you can choose to forego any of these Anchors, but you may be starting yourself at a disadvantage.
 
 Starting Anchors fall under three categories: Shelter Anchors, Connection Anchors, and Emotional Anchors.
 
-\End{Player}
-
 #### Shelter
-
-\Begin{Player}
 
 A Shelter Anchor is literally that, an Anchor that gives you shelter. It can be very powerful and grounding to have a home for an Anchor, but also means that you have not enchanted your home as much as some Mages might. If you find yourself using magic for maintenance, you quickly might find that, while still a home, it is no longer an Anchor. For some Mages, having a home to come back to which is calm and relaxing can keep them grounded. For others, the home they come back to and fight can be a different, but just as real, type of grounding. There’s something about yelling about who will do the dishes that can get your head right down out of the clouds.
 
-\End{Player}
-
 #### Connection
 
-\Begin{Player}
-
 Connection Anchors are notable for their agency, as they are people or animals. Keep in mind that these Anchors can protect themselves from danger sometimes, but also have the choice to turn their backs on you. If they do so, it’s up to you at that point if they remain an Anchor...but if they do, they won’t make it easy on you.
-
-\End{Player}
 
 #### Emotional
 
@@ -1929,11 +1919,7 @@ Emotional Anchors are the objects, signs, and places that connect to memories of
 
 Some starting Anchors are not completely filled in to start, they will have a blank space left to fill in. Choose something evocative to write there, if you pick that starting anchor, and be ready to explore what it means. Keep in mind the category of Anchor it is in, and don’t fill in the blank in a way that makes that Anchor not fill that need.
 
-\End{Player}
-
 ### Anchor Upkeep
-
-\Begin{Player}
 
 Anchors require upkeep to remain. Every Anchor has a Status Track representing its condition. At the start of each session, mark off one Code from every Anchor’s Status Track. You can suggest what this means to the MC. Frequently, it will not be the first Code marked for that Anchor, and so simply represents an exacerbation. In addition, as with all Status Tracks, if something happens which seems to suggest worsening of an Anchor’s condition or connection to you, mark off a Code.
 
@@ -2998,7 +2984,7 @@ The Cast of a Force can constantly be in flux, as new characters who are members
 
 Moves usually shouldn’t change, since they are core to the Force. You might add more from the appropriate Stressor’s list, if you have less than three written down and discover a new one that makes sense. The moves also might change during a major event, such as the Force hitting Code N. In the reconfiguring that happens as a new goal is selected, old capabilities may be abandoned or made irrelevant, and they may seek or discover new methods.
 
-\end{MC}
+\End{MC}
 
 \setlength{\parindent}{0em}
 
