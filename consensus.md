@@ -15,7 +15,7 @@ Hello Reader.
 
 There are certain rules, that everyone seems to know, about how the world works. Electricity moves in circuits. There’s no way to show someone else an exact image of what you see inside your head. You can believe with all your heart that you can fly, but when you step off the cliff, that won't be enough to stop you from plummeting to the ground. This is the Consensus, the universe's general agreement about how reality works.
 
-A few people, though, seem to know differently. They might know that an antenna uses an open circuit to make invisible waves which can be translated into sound. Or that the right drumbeat can let them focus a point behind their eyes into a picture--an exact image--for another to see. Or that there is a secret, forgotten word from the dawn of history that, when spoken as a command, allows you to ignore gravity. They understand a truth that defies the Consensus.
+A few people, though, seem to know differently. They might know that an antenna uses an open circuit to make invisible waves which can be translated into sound. Or that the right drumbeat can let them focus a point behind their eyes into a picture--an exact image--for another to see. Or that there is a secret, forgotten word from the dawn of history that, when spoken as a command, allows you to ignore gravity. They \mbox{understand} a truth that defies the Consensus.
 
 They are known as Mages, as Awakened. They may exist within the Consensus, play by its rules when they must, but always they harbor the knowledge that there is more. That knowledge carries power; the power to shape the very truths of reality. Who can weild such power? What ripples radiate outward from its source?
 

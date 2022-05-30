@@ -36,6 +36,7 @@
 
 \newenvironment{Player}
                {\begin{tcolorbox}[enhanced,
+                     parbox=false,
                      breakable,
                      boxsep=3pt,
   arc=1.25ex,
@@ -56,6 +57,7 @@
 
 \newenvironment{MC}
                {\begin{tcolorbox}[enhanced,
+                     parbox=false,
                      breakable,
                      boxsep=3pt,
   arc=1.25ex,
@@ -78,3 +80,6 @@
 % Workaround described in https://github.com/jgm/pandoc/issues/3145
 \let\Begin\begin
 \let\End\end
+
+% Don't break on important words
+\hyphenation{Consensus}
