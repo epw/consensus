@@ -39,6 +39,8 @@ statementpaper,
 %\usepackage{lettrine}
 \usepackage[inline]{enumitem}
 
+\input{book.tex}
+
 %\checkandfixthelayout
 
 $if(mainfont)$

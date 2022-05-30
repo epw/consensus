@@ -2988,7 +2988,7 @@ Moves usually shouldn’t change, since they are core to the Force. You might ad
 
 \setlength{\parindent}{0em}
 
-# The Characters (Apendex A)
+# The Characters (Appendix A)
 
 ## The Cabalist
 

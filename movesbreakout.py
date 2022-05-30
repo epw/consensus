@@ -32,7 +32,7 @@ def get_data():
 			if line.startswith('# The Moves'):
 				start = workingdoc[l-1]
 				startnum = l-1
-			if line.startswith('# The Master of Ceremonies'):
+			if line.startswith('## Magic and Moves'):
 				end = workingdoc[l-1]
 				endnum = l
 				break

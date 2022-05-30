@@ -30,14 +30,11 @@ def get_data():
 		for line in f:
 			l += 1
 			workingdoc.append(line)
-			if line.startswith('# The Characters'):
+			if line.startswith('# The Characters (Appendix A)'):
 				start = workingdoc[l-1]
 				startnum = l-1
-			if line.startswith('# The Moves'):
-				end = workingdoc[l-1]
-				endnum = l
-				break
-
+		end = workingdoc[l-1]
+		endnum = l
 
 	playbookstext = workingdoc[startnum:endnum]
 	f.closed
@@ -107,17 +104,13 @@ def playbookdata(name):
 			return True
 	for line in playbookstext:
 		n+=1
-		
 		if line.startswith('## ' + name[0]):
 			startnum = n-1
 			in_description = True
 		if line.startswith('## ' + name[1]):
 			endnum = n-1
 			break
-		if line.startswith('# The Moves'):
-			endnum = n-1
-			break
-		
+	endnum = n-1
 	playbooktext = playbookstext[startnum:endnum]
 	playbookdescription = ''
 	playbook = playbooktext[0][3:][:-1]
