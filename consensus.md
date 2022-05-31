@@ -1798,7 +1798,7 @@ When you **describe a magical effect within your Paradigm but beyond your normal
 
 There’s no one move in this game that you roll to just "Do Magic." Instead, magic infuses the very essence of the game. Almost any move you can roll could be triggered by you doing magic. Remember, you don’t tell the MC “I want to roll the Assert Your Paradigm move," you describe what your character does, and the MC will let you know if it triggers a move. 
 
-Playbook moves can be thought of in many ways as rote magic, spells your character is familiar enough with to get a consistent set of results when they try to cast them. If you describe doing magic, even magic that is close to but does not trigger a playbook move, it may just trigger a basic move instead, and have much more unpredictable results.
+Playbook moves can be thought of in many ways as spells your character is familiar enough with to do consistently, sometimes called "rote magic." If you describe doing magic, even magic that is close to but does not trigger a playbook move, it may just trigger a basic move instead, and have much more unpredictable results.
 
 \End{Player}
 
