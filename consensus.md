@@ -295,11 +295,11 @@ Playbooks call out a few major features of Paradigms for their characters. You c
 
 \End{MC}
 
-## Paradigm Components
+## Paradigm Aspects
 
 \Begin{Player}
 
-Each Playbook has multiple Paradigms to choose from, and each Paradigm has choices to make within it. The written components follow.
+Each Playbook has multiple Paradigms to choose from, and each Paradigm has choices to make within it. The written components, called aspects of the Paradigm, follow.
 
 \End{Player}
 
@@ -1742,7 +1742,7 @@ When you have some time and relative safety and you **plan a ritual** of magical
 - Help from an outside source 
 Then, write down the plan and hold 1.
 
->“Ritual” here is a general term for more advanced and complicated magic than is usually done on the fly. They often involve multiple participants, prescribed steps, and are capable of more than a single individual’s unplanned efforts. A ritual might include all the classic trappings, like hooded robes, dribbly candles, magic circles, and chanting, but it might also be a rock concert with a particular sequence of songs, or an all-night coding session, or even a demonstrative march on the capitol building. If there is a lot of time, and the Mages already have everything they could need, a plan might be followed immediately by the performance of the ritual, but quite often, they will be separate events.
+>“Ritual” here is a general term for more advanced and complicated magic than is usually done on the fly. They often involve multiple participants, prescribed steps, and are capable of more than a single individual’s unplanned efforts. A ritual might include all the classic trappings, like hooded robes, dribbly candles, magic circles, and chanting, but it might also be a rock concert with a particular sequence of songs, or an all-night coding session, or even a strike. If there is a lot of time, and the Mages already have everything they could need, a plan might be followed immediately by the performance of the ritual, but quite often, they will be separate events.
 
 When you have time, relatively safety, a place of power, and enough Mages, and you **begin a ritual,** have each Mage involved describe how they will contribute to the ritual within their Paradigm. If you have met requirements set out by Plan a Ritual, you can spend a hold from it, and tell the MC the effect that will occur on a success, within the scope of the planed effect. Otherwise, the MC decides based on each Mage’s contributions. Take into consideration each participant’s Opposed, and the probability of Rending magic. Then, roll +Within. On a 10+, the ritual works as expected. On a 7-9 the MC will choose at least one.
 - The ritual takes longer than expected
