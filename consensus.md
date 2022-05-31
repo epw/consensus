@@ -679,7 +679,7 @@ Sometimes a player will ask you if their Mage has a certain item, and you’re n
 
 **Show them the Downsides of their Paradigm**
 
-This is a way to make the Mages think about their magic. Put them in a situation where their Paradigm, their way of seeing the world, is more hindrance than it is a help, as opposed to normal, where it is likely a source of freedom and agency.
+This is a way to make the Mages think about their magic. Put them in a situation where their Paradigm, their way of seeing the world, is more hindrance than it is a help, as opposed to normal, where it is likely a source of freedom and agency. Consider in particular that most Paradigms have some form of "build-up" that happens from doing the same kind of thing over and over. The generic term for this is Resonance, but for a given Mage it could be lingering manifestations, an electric charge, or simply specific vibes. Maybe doing all that fire magic becomes a problem when traveling in a forest.
 
 *"So you’ve been preparing for this meeting for a while now, and to make sure you’re suitably prepared, were going to connect with your Source. So you do a line of coke, and you know how it lets you see the true nature of things? You realize you’re starting to see everyone’s personal demons. There are so many, it’s getting hard to see, or focus. Some of them make it hard to keep it together. What do you do?"*
 
