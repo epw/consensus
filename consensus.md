@@ -3028,11 +3028,13 @@ In a world where mages are solitary islands of power, shaping reality in lonelin
 **Aligned:** (choose one) Command, Binding, Summonings  
 **Opposed:** (choose one) Inanimate mundane objects, Creation, Silent Magic  
 (choose this one) Targets whose names you do not know
+**Restrictions:** None
 
 #### Ancient Languages Hold Secret Power
 **Aligned**: (choose one) Cantrips, Enchantment, Written Magic  
 **Opposed**: (choose one) Reactive Magic, Emotional Manipulation  
 (choose this one) Magic without words
+**Restrictions:** I do not know the words for (choose one) anything living, conditional clauses, magical actions, _____.
 
 ### Moves
 
@@ -3169,11 +3171,13 @@ A Ritual performed here will never (choose 1):
 **Aligned:** (choose one) Cantrips, Ritual Maigc  
 **Opposed:** (choose one) Large-reaching effects, immediate effects  
 (choose one) Planning magic, magic from rote
+**Restrictions:** None
 
 #### Double, Double, Toil and Trouble
 **Aligned:** Any type of effect  
 **Opposed:** Magic that doesn't require preparation  
 Magic that doesn't require physical components
+**Restrictions:** (choose one) Preparation demands input from a knowledgable source, I require components of appropriate power.
 
 ### Moves
 
@@ -3279,11 +3283,13 @@ Many people wonder where inspiration comes from. That question is boring to you,
 **Aligned:** (choose one) Mental magic, Time-affecting magic  
 **Opposed:** (choose one) Magic that reenforces the status quo, magic that doesn't protect my Source  
 (choose one) Magic without my Source
+**Restrictions:** (choose one) I can only do mental magic, I can't bend my own rules, Bent rules always snap back in time.
 
 #### My Source Lets me See the True Nature of Things
 **Aligned:** (choose one) Divinations, Transmutations  
 **Opposed:** (choose one) Obscuring magic, changing things that are Static  
-(choose one) Magic without my Source, magic while Blind
+(choose one) Magic without my Source, Magic without perception
+**Restrictions:** (choose one) I can't change preexisting illusions, Self-conception is part of true nature.
 
 ### Moves
 
@@ -3893,7 +3899,7 @@ Zamira, Kousan, Prudence, Orpheus, Sophie
 - (choose at least one) ambiguous presentation, androgynous presentation, butch presentation, concealed presentation, femme presentation, fluid presentation, transgressing presentation
 - glimmering eyes, vibrant eyes, piercing eyes, innocent eyes
 - open face, laughing face, pained face, serene face, fake face
-- young body, burly body, tantalizing body, able body, flashy body
+- young body, burly body, tantalizing body, knobbly body, flashy body
 - crisp clothes, respectable clothes, stylish clothes, custom clothes, ill-fitting clothes
 - forbidden aura, enticing aura, waifish aura, vivid aura, purple aura
 
