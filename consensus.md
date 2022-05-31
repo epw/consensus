@@ -339,7 +339,7 @@ A Mage may be able to break past their Opposed, and do magic that is Opposed to 
 
 \Begin{Player}
 
-Freedoms are one of the perks that come with working with other Mages over time. Another Mage may choose, when they take an Advancement, to grant your Mage a Freedom. This is a short phrase or sentence that describes how something which appears to fall under one of your Opposed Aspects is actually just fine. The Freedom only comes into play when you are working with the character who gave it to you. If Piper, who has an Opposed aspect of "Silent magic", is given the Freedom “There is sound among the spirits” by Marcus, then when Piper and Marcus do magic together, Piper can do magic that appears to be silent in the physical world, as long as it somehow involves “sound” in connection with spirits.
+Freedoms are one of the perks that come with working with other Mages over time. Another Mage may choose, when they take an Advancement (see chapter XX, Improvement), to grant your Mage a Freedom. This is a short phrase or sentence that describes how something which appears to fall under one of your Opposed Aspects is actually just fine. The Freedom only comes into play when you are working with the character who gave it to you. If Piper, who has an Opposed aspect of "Silent magic", is given the Freedom “There is sound among the spirits” by Marcus, then when Piper and Marcus do magic together, Piper can do magic that appears to be silent in the physical world, as long as it somehow involves “sound” in connection with spirits.
 
 Freedoms can be very useful, especially because Mages tend to become less able to directly help one another as they become more powerful (because Help or Hinder uses the number of Anchors to modify the roll). Freedoms let them stop hiding some of their magic from each other, and reward collaboration.
 
@@ -465,7 +465,7 @@ As the ritual begins, each Mage’s player must explain how their Mage contribut
 
 A ritual does not technically have to be planned. If a group of Mages simply gather together at a place of power and start working (or even just start acting in concert), *something* is bound to happen. However, with a plan to follow, they can specify the outcome much more precisely.
 
-The Mage who is leading the ritual rolls the move. The other Mages are necessary, and can only Help or Hinder if they are doing something above and beyond their prescribed roles. The outcomes can be rather dangerous, so a ritual should never be undertaken lightly. 
+The Mage who is leading the ritual rolls the move. The other Mages are necessary, and can only Help or Hinder (see page XX) if they are doing something above and beyond their prescribed roles. The outcomes can be rather dangerous, so a ritual should never be undertaken lightly.
 
 \End{Player}
 
