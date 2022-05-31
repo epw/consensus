@@ -137,6 +137,7 @@ When your rules tell you to make a Hard Move, you need to pick one that will all
 
 The Stats in Consensus describe things about your character, what they’re good at, and what patterns they might reach for first in order to solve a problem. Stats can be in the range of -1 to +3, and are added to your dice rolls for relevant moves. The specific stats used in Consensus are:
 
+\noindent
 Static: as in unmovable, steady, set in your ways, and conservative.  
 Dynamic: as in creative, free-flowing, adaptable, easily moved, and inventive.  
 Entropic: as in direct, active, unstoppable, forward, and destructive.  
@@ -293,6 +294,14 @@ Of course, a character will have had an entire life to build up beliefs and expl
 Playbooks call out a few major features of Paradigms for their characters. You can also use these as inspiration for other Mages who show up in the world.
 
 \End{MC}
+
+## Paradigm Components
+
+\Begin{Player}
+
+Each Playbook has multiple Paradigms to choose from, and each Paradigm has choices to make within it. The written components follow.
+
+\End{Player}
 
 ### Title
 
