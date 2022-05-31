@@ -279,7 +279,7 @@ The key to your Mage is that their Paradigm is not just a belief system: it real
 
 Paradigms are very personal. Even when they are mostly shared, there are likely to be some details that differ. It’s an effect of being able to shape your own reality. This does mean that two Mage’s magics may not work for each other at all. In extreme cases, their beliefs may actively clash (see Opposed, page XX).
 
-When choosing a Paradigm for your character, look at the listed ones in the Playbook. The choices will cover a variety of possible belief systems tailored to that Playbook, and in fact each individual Paradigm choice is likely to encompass multiple possibilities. You will need to choose something that makes sense to you, the player, because you will need to justify your Mage’s actions in terms of this Paradigm. This also likely means there will be some interpretation, as there are multiple ways to use the aspects written out for each Paradigm to describe a view of the world.
+When choosing a Paradigm for your character, look at the listed ones in the Playbook. The choices will cover a variety of possible belief systems tailored to that Playbook, and in fact each individual Paradigm choice is likely to encompass multiple possibilities. You will need to choose something that makes sense to you, the player, because you will need to justify your Mage’s actions in terms of this Paradigm. This also likely means there will be some interpretation, as there are multiple ways to use the traits written out for each Paradigm to describe a view of the world.
 
 It is difficult to summarize all of a person’s beliefs in a small section. In Consensus, key aspects that are relevant to magic are called out.
 
@@ -295,11 +295,11 @@ Playbooks call out a few major features of Paradigms for their characters. You c
 
 \End{MC}
 
-## Paradigm Aspects
+## Paradigm Traits
 
 \Begin{Player}
 
-Each Playbook has multiple Paradigms to choose from, and each Paradigm has choices to make within it. The written components, called aspects of the Paradigm, follow.
+Each Playbook has multiple Paradigms to choose from, and each Paradigm has choices to make within it. The written components, called traits of the Paradigm, follow.
 
 \End{Player}
 
@@ -315,7 +315,7 @@ The title of a Paradigm is just a label, but usually indicates something about t
 
 \Begin{Player}
 
-Aligned aspects are parts of the Paradigm that the Mage is particularly good at. This may have to do with their beliefs (a Mage who believes in a current of life energy flowing through the Universe is likely to be good at healing), or just be a particular focus within what’s possible (a Mage who believes that Reality can be programmed might have happened to have specialized in deletion, out of a variety of possibilities.) Use the listed choices in Aligned for a sense of what the Paradigm can likely do.
+Aligned traits are parts of the Paradigm that the Mage is particularly good at. This may have to do with their beliefs (a Mage who believes in a current of life energy flowing through the Universe is likely to be good at healing), or just be a particular focus within what’s possible (a Mage who believes that Reality can be programmed might have happened to have specialized in deletion, out of a variety of possibilities.) Use the listed choices in Aligned for a sense of what the Paradigm can likely do.
 
 Your character's Aligned aspect makes it easier to help related actions, and magic which is Aligned to your character's Paradigm has a chance of being particularly, remarkably successful.
 
@@ -417,7 +417,7 @@ These take a few different forms, but regardless of form, they are the Consensus
 
 From the outside, Reality Breaks are the kind of things that most people don’t see, or won’t see. Pervasive hallucinations are things that only the affected Mage can see, and many people are practiced at ignoring someone they think is seeing things. An overlayed fantasy world is similar, in that it only exists for the affected Mage (and perhaps other Mages that know how to look for it). Pocket dimensions, from the outside, may just look like the person disappearing, and any onlookers having their memory of the past few seconds wiped. For a practiced eye, a Mage may be able to find the pinprick hole in reality that caused the Break, and follow it through to attempt a rescue.
 
-When you fall into a Reality break, you choose a trait of your paradigm (either the name, the Aligned, or the Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
+When you fall into a Reality break, you choose a trait of your paradigm (either the title, the Aligned, or an Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
 
 \End{Player}
 
