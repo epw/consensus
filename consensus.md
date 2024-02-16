@@ -261,7 +261,7 @@ Ask three Mages what magic is, and you'll get at least six answers, and one migh
 
 \Begin{MC}
 
-Magic, and doing magic, is probably why you and your players picked up this game. Despite that, this game is focused on the people themselves, their interactions, and their paradigms. Magic just happens to be one of the clearest and most straightforward expression of Paradigm available to most Mages. During this game, one of your jobs will be exploring and helping the players conceive of and define their Mage's paradigms. This exploration starts as they make their characters, but continues during play, and in fact makes up a large part of it. You'll also provide the other magic in the world. You will also be playing the part of the Consensus, helping to decide what magic is subtle enough to be Harmonious, and what is just so obvious that it smashes through the veil of reality and is Rending.
+Magic, and doing magic, is probably why you and your players picked up this game. Despite that, this game is focused on the people themselves, their interactions, and their paradigms. Magic is a clear and straightforward expression of the Paradigm that likely informs much of how a Mage conducts their life. During this game, one of your jobs will be exploring and helping the players conceive of and define their Mage's paradigms. This exploration starts as they make their characters, but continues during play, and in fact makes up a large part of it. You'll also provide the other magic in the world. You will also be playing the part of the Consensus, helping to decide what magic is subtle enough to be Harmonious, and what is just so obvious that it smashes through the veil of reality and is Rending.
 
 \End{MC}
 
@@ -277,7 +277,7 @@ Your Mage’s Paradigm is similar. It covers how the world works, on some fundam
 
 The key to your Mage is that their Paradigm is not just a belief system: it really works. No matter how strongly a person who is not a Mage believes that they can teleport, it isn’t going to work. However, a Mage can act according to their Paradigm, and what they expect will usually happen. So, if they believe that a ritual circle inscribed in the ground using an ancient language that describes a location will allow travel to that location if it is entered with a clear mind under a full moon, then that will work for them (most of the time, if they’re careful).
 
-Paradigms are very personal. Even when they are mostly shared, there are likely to be some details that differ. It’s an effect of being able to shape your own reality. This does mean that two Mage’s magics may not work for each other at all. In extreme cases, their beliefs may actively clash (see Opposed, page XX).
+Paradigms are very personal. Even when they are mostly shared, there are likely to be some details that differ. It’s an effect of being able to shape your own reality. This does mean that two Mage’s magics may not work for each other at all. In extreme cases, their beliefs may actively clash (see {{linkOpposed}}.)
 
 When choosing a Paradigm for your character, look at the listed ones in the Playbook. The choices will cover a variety of possible belief systems tailored to that Playbook, and in fact each individual Paradigm choice is likely to encompass multiple possibilities. You will need to choose something that makes sense to you, the player, because you will need to justify your Mage’s actions in terms of this Paradigm. This also likely means there will be some interpretation, as there are multiple ways to use the traits written out for each Paradigm to describe a view of the world.
 
@@ -325,7 +325,7 @@ Your character's Aligned aspect makes it easier to help related actions, and mag
 
 \Begin{Player}
 
-Opposed aspects are things which your Mage believes are impossible, as firmly as you probably believe that the Sun rises each day. These will never apply to anything which a non-Mage could do, but definitely can cover things which other Mages may do. The even may apply to things your own Mage might appear to be capable of. Having them listed under Opposed means that there is a detail to the Mage’s Paradigm that completely precludes them. For example, if a Mage has "emotional manipulation" as an Opposed aspect, then that means that they do not think it fits into their worldview. If the worldview looks very broad and flexible, like “Ancient Languages Hold Secret Power,” then there is a reason it is Opposed. Perhaps the language came from before humans were evolved enough to manipulate emotions, rather than just feel and express them like animals. Perhaps it was too dangerous and was sealed away by an ancient Mage. Or perhaps it is unknown to the Mage, they just have a deep sense that it is impossible as continuing to live without breathing would be if they had no magic.
+Opposed aspects are things which your Mage believes are impossible, as firmly as you probably believe that you can't live without Oxygen. These will never apply to anything which a non-Mage could do, but definitely can cover things which other Mages may do. The even may apply to things your own Mage might appear to be capable of. Having them listed under Opposed means that there is a detail to the Mage’s Paradigm that completely precludes them. For example, if a Mage has "emotional manipulation" as an Opposed aspect, then that means that they do not think it fits into their worldview. If the worldview looks very broad and flexible, like “Ancient Languages Hold Secret Power,” then there is a reason it is Opposed. Perhaps the language came from before humans were evolved enough to manipulate emotions, rather than just feel and express them like animals. Perhaps it was too dangerous and was sealed away by an ancient Mage. Or perhaps it is unknown to the Mage, they just have a deep sense that it is impossible as continuing to live without breathing would be if they had no magic.
 
 Note that Opposed aspects reflect strong enough beliefs that they even apply to other Mages. It’s not just that your character can’t work obscuring magic, for example, it’s that no-one can. For these purposes, a character who is Opposed to magic being done is a [Lookout](Lookouts), exactly like someone who has never Awakened at all. This means that a character with a really restrictive view of the world, like that the only magic that exists has to be done through a computer terminal (which they might not even consider magic) may be tricky to be around. Mages by their nature have to be skilled at concealing their craft, however, and nothing is insurmountable. Harmonious magic will slip by just fine, but if you’re going to do Rending magic in front of another Mage, you’ll want to make sure they aren’t Opposed to any aspect of what you’re doing. 
 
@@ -3000,6 +3000,16 @@ Moves usually shouldn’t change, since they are core to the Force. You might ad
 \End{MC}
 
 \setlength{\parindent}{0em}
+
+# Hacking
+
+\textit{This final chapter will contain information on making the game your own, from writing new moves (and how that can be a part of Advancement, if you feel like it), to new Paradigms, to new Playbooks, to bigger changes like the dice/stats system (d10s!) or running in alternate worlds. Also how and if to play if someone can't make it/drop in drop out ability of this game}
+
+\Begin{Narrator}
+
+TBD
+
+\End{Narrator}
 
 # The Characters (Appendix A)
 
