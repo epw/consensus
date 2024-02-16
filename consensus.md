@@ -3001,6 +3001,16 @@ Moves usually shouldn’t change, since they are core to the Force. You might ad
 
 \setlength{\parindent}{0em}
 
+# Hacking
+
+\textit{This final chapter will contain information on making the game your own, from writing new moves (and how that can be a part of Advancement, if you feel like it), to new Paradigms, to new Playbooks, to bigger changes like the dice/stats system (d10s!) or running in alternate worlds.}
+
+\Begin{Narrator}
+
+TBD
+
+\End{Narrator}
+
 # The Characters (Appendix A)
 
 ## The Cabalist
