@@ -119,7 +119,11 @@ The Trigger: This part will be bolded on the moves sheet or playbook. It takes t
 
 The Roll: Most moves (but not all of them) will have a roll associated with them. It will take the form of “Roll +[Something]” usually one of your character’s stats. A roll in Consensus is always two dice added together, plus whatever the move says. Regular dice with six sides and numbers or pips on them. Nothing fancy or weird.
 
+Occasionally, a roll will say "roll +nothing", that is, the usual two dice with no intrinsic benefits, or "roll just...", which means roll whatever you are told to without adding any external modifiers such as "+1 forward". If they are combined, "roll just +nothing", you are rolling two dice and taking their total, with no way to change it!
+
 The Outcome: In Consensus, a result of 10 or higher (notated "10+") is a full success. Your character succeeds at what they were attempting to do. A roll of 7-9 is a mixed success. Your character still succeeds, but at some cost. They may have to make a hard choice, or they may not succeed as well as they would have on a 10+. The move will give guidance. A roll of a six or less (notated 6-) is a failure, and means that the MC gets to make a Hard Move. (This is a move that changes the fiction irrevocably and can’t be prevented, such as breaking a piece of gear, having someone show up to notice your horrific act at just the wrong time, or even dealing damage). This doesn’t necessarily mean that the character has failed at what they were setting out to accomplish though, they could succeed and find out exactly why succeeding was the worst possible thing for them to do. Most moves will tell you exactly what happens on a 10+ or a 7-9, and some will even tell you what happens on a 6-.
+
+Some moves may tell you to take "+1 forward" or "-1 forward", which means to apply +1 or -1 to your next roll. Moves also may tell you +1 or -1 "ongoing", which means the modifier applies to all rolls until you're told otherwise, or the session ends.
 
 \End{Player}
 
