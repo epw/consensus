@@ -859,6 +859,10 @@ Your MC sheet has a list of steps to guide you through the beginning of the sess
 
 These cover all the essential information you need to make sure the table has available.
 
+#### Distribute and resolve "love letters"
+
+Some MCs like to prepare for a session by writing short, personalized notes to some or all of the players' characters, ironically called "love letters." These are particularly useful for updating what has happened if there was a time skip, or if there are specific aspects of a character's state of mind you want to explore. A love letter may include a custom move, such as a choice of options or even a roll, and may have lasting consequences for the session. The results shouldn’t move straight into the action, because there is still more session start to perform, but distribute them early so the players can start reading them, thinking about their implications, and setting up what elements will come up in their first scenes.
+
 #### Look over and read out Flags, note which ones can be changed
 
 Flags are one of the main methods that allow Mages to mark experience, so everyone should be reminded of them and be able to reference them. In addition, Flags which have been hit at least once are available to be changed if the player wishes, so remind them of that.
@@ -866,10 +870,6 @@ Flags are one of the main methods that allow Mages to mark experience, so everyo
 #### Mark one Code off every Portent Status Track
 
 Portents have a fairly short lifespan, so that they will be brought up again before they fade out of memory. If you mark off Code N of the Portent, it should come up fairly early in the session.
-
-[//]: # (**Distribute and resolve ****"love letters"**)
-[//]: # ()
-[//]: # (If you wrote "love letters", now is the time to have the players read them and trigger their moves, if any. The results shouldn’t move straight into the action, because there is still more session start to perform, but here it will start to become clear what elements will be in play.)
 
 #### Mark one Code off every Anchor Status Track
 
@@ -885,9 +885,7 @@ Some game effects last "for the rest of the session", but might come up near the
 
 #### Perform moves triggered at start of session
 
-Remind the players to perform moves on their sheets which are triggered at the start of the session. These won’t start the action exactly, even on a 6-, but they do prepare things.
-
-[//]: # (Much like with love letters, these won't....)
+Remind the players to perform moves on their sheets which are triggered at the start of the session. Much like love letters, these won’t start the action exactly, even on a 6-, but they do prepare things.
 
 #### Frame a scene and make a soft move
 
