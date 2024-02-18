@@ -1542,13 +1542,13 @@ Sometimes, Reality fights back. When a mage backlashes, if they are unlucky, the
 
 One Status Track describes how close the Mage is to escaping. You keep track of it. It is advanced by a particular move defined by you and the MC when the Mage first enters the Reality Break. The move’s trigger indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It is always of the form:
 
-"When **\[trigger\]**, advance the Reality Bubble Escape status track."
+"When **\[trigger\]**, advance the Reality Break Escape status track."
 
 The race that the two Status Tracks create will put some fairly serious pressure on your Mage, if they’re aware of it, or at leaston you. If the Mage is completely unwilling to change their ways, they could succumb in just a few scenes. However, since the trigger for the escape Status Track should be easy for you to hit, your Mage should be able to free themselves if they are willing to learn the lesson offered.
 
-If your Reality Bubble Escape status track reaches Code N, your Mage has escaped. They might be disoriented, and they might be upset or just relieved, but whatever it is, they're back in the normal, shared world with everyone else.
+If your Reality Break Escape status track reaches Code N, your Mage has escaped. They might be disoriented, and they might be upset or just relieved, but whatever it is, they're back in the normal, shared world with everyone else.
 
-The MC will be keeping track of the Reality Bubble Strength Status Track, and keeping you aware of where it stands. If it reaches Code N, your Mage ceases to be a playable character. Depending on the details of the exact type of Reality Bubble, they may or may not still be a presence in the world at all. Either way, it is time for you to start a new character, if you don't already have another to play (see XX). It should be quite obvious that this is happening for some time, so you should have lots of chances, whether acting as your Mage or invoking safety rules, if this outcome would upset you.
+The MC will be keeping track of the Reality Break Strength Status Track, and keeping you aware of where it stands. If it reaches Code N, your Mage ceases to be a playable character. Depending on the details of the exact type of Reality Break, they may or may not still be a presence in the world at all. Either way, it is time for you to start a new character, if you don't already have another to play (see XX). It should be quite obvious that this is happening for some time, so you should have lots of chances, whether acting as your Mage or invoking safety rules, if this outcome would upset you.
 
 \End{Player}
 
@@ -1556,7 +1556,7 @@ The MC will be keeping track of the Reality Bubble Strength Status Track, and ke
 
 One Status Track describes how close the Mage is to escaping. The player keeps track of it. Work with them to define a move trigger that indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It should be relatively easy for the Mage's player to push for.
 
-The second Status Track describes how close the Reality Bubble is to permanently claiming the Mage, and you keep track of it. This Status Track is advanced at the start of every scene in the Reality Bubble, and it is only a soft move to advance it in response to the mage going along with the scene, struggling against it when they shouldn’t, or failing to learn their lesson.
+The second Status Track describes how close the Reality Break is to permanently claiming the Mage, and you keep track of it. This Status Track is advanced at the start of every scene in the Reality Break, and it is only a soft move to advance it in response to the mage going along with the scene, struggling against it when they shouldn’t, or failing to learn their lesson.
 
 The race that the two Status Tracks create should put some fairly serious pressure on the Mage, if they’re aware of it, or at least the Mage’s player. If the Mage is completely unwilling to change their ways, the Status Track showing them slipping into the Reality Break should fill in at most three scenes. However, since the trigger for the escape Status Track should be easy to hit, the Mage should be able to free themselves if they are willing to learn the lesson offered.
 
@@ -2423,13 +2423,13 @@ At the beginning of the session, roll +Within. On a 10+ hold 3, on a 7-9 hold 2,
 
 When you take this move, you may note one moderate shift (on par with a major technological breakthrough), or two tiny shifts you are attempting to make in the Consensus. Start a Consensus Shift Status Track (Only one, even if you chose two tiny shifts) When you **do rending magic (that directly relates to your intended Consensus Shift) in front of a large group of Lookouts**, take 3 discord and roll +Dynamic and advance your Consensus Shift Status Track. On a 10+, advance your Consensus Shift Status Track again. On a 7-9, choose 1:
 
-* You are not immediately sucked into a Reality Bubble
+* You are not immediately sucked into a Reality Break
 
 * The MC does not advance the Consensus Force
 
 * Advance your Consensus Shift Status Track again
 
-On a 6-, you are sucked into a Reality Bubble, and your Grip On Reality status track starts having hit Code 30.
+On a 6-, you are sucked into a Reality Break, and your Reality Break Strength status track starts having hit Code 30.
 
 #### Mentor Advanced Moves
 
