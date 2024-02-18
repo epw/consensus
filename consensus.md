@@ -321,6 +321,20 @@ Your character's Aligned aspect makes it easier to help related actions, and mag
 
 \End{Player}
 
+### Capabilities
+
+\Begin{Player}
+
+By default, a Mage is capable of doing by magic anything that they think is possible (that is, anything not described by their Opposed or later-added Restrictions). This is common in Paradigms that are greatly derived from the common Consensus, in which the Mage may know one or more new physical laws that they can apply.
+
+However, some Mages have a more detailed view, in which the universe of what is possible is broader than what they can ever expect of themselves. For example, a Mage who believes that some people are attuned to certain classical elements and can manipulate them might believe that they specifically are attuned to Water. Someone manipulating Fire doesn't represent an impossibility, but this one Mage expects to be incapable of it.
+
+These Mages have Capabilities listed as part of their Paradigm. If they try to do magic outside of their Capabilities, it is the same as doing magic that they are Opposed to, but other Mages can do magic without any conflicts.
+
+Capabilities tend to narrow down the options available to a Mage significantly, and as such, choosing one replaces one of the two Opposed choices otherwise present in a Paradigm.
+
+\End{Player}
+
 ### Opposed
 
 \Begin{Player}
@@ -419,7 +433,7 @@ These take a few different forms, but regardless of form, they are the Consensus
 
 From the outside, Reality Breaks are the kind of things that most people don’t see, or won’t see. Pervasive hallucinations are things that only the affected Mage can see, and many people are practiced at ignoring someone they think is seeing things. An overlayed fantasy world is similar, in that it only exists for the affected Mage (and perhaps other Mages that know how to look for it). Pocket dimensions, from the outside, may just look like the person disappearing, and any onlookers having their memory of the past few seconds wiped. For a practiced eye, a Mage may be able to find the pinprick hole in reality that caused the Break, and follow it through to attempt a rescue.
 
-When you fall into a Reality break, you choose a trait of your paradigm (either the title, the Aligned, or an Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
+When you fall into a Reality break, you choose a trait of your paradigm (whether the title, the Aligned, your Capability, or an Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
 
 \End{Player}
 
@@ -1562,7 +1576,7 @@ When a reality break is created, follow the steps of the move:
 
 * Choose a trait of your paradigm to be explored by the break
 
-    * The traits to choose from are the name of the paradigm, the Aligned, or either of the Opposed.
+    * The traits to choose from are the name of the paradigm, the Aligned, the Capability, or either of the Opposed.
 
 * Decide what the reality break looks like
 
@@ -1576,7 +1590,7 @@ When a reality break is created, follow the steps of the move:
 
 * Write a move to advance it’s status track
 
-    * If you are exploring an Opposed, it can be good to have this move be something that reasserts the Mages paradigm (so acts against the Opposed) but doesn't push back against the world too hard.
+    * If you are exploring an Opposed or Capability, it can be good to have this move be something that reasserts the Mages paradigm (so acts against the Opposed) but doesn't push back against the world too hard.
 	
 	* If you are exploring an Aligned, consider having this status track advance when the mage accomplishes something without the use of magic, or without resorting to what they are good at.
 
@@ -1695,7 +1709,7 @@ When you **enact sudden, violent, or unexpected change on the physical world**, 
 >
 >This move does apply in particular to straight up, physical violence. Most Mages know better than to resort to violence, and know the outcome is never as certain as you would like, and the side effects are always worse. If they find it is unavoidable, or worse, let themselves be caught unprepared and be pushed to it, the consequences escalate rapidly. A smart Mage will find a way to change the situation quickly, before their or someone else’s luck runs out.
 
-When you **Backlash,** you pushed reality too far and it pushed back. Any effects besides Harm will be difficult if not impossible to fix with magic, particularly the type of magic that caused it. Roll just +Discord, then reset Discord to 0. On a 10+, reality breaks around you a little bit. Make a Status Track for this break, and the MC will make one to track if you become convinced it is real. Decide its form: pervasive hallucinations, a fantasy world overlaying the real one, or a pocket dimension you fall into. Choose a trait of your Paradigm (the name, Aligned, or an Opposed) to be explored by the break, and write a move to advance its Status Track. 
+When you **Backlash,** you pushed reality too far and it pushed back. Any effects besides Harm will be difficult if not impossible to fix with magic, particularly the type of magic that caused it. Roll just +Discord, then reset Discord to 0. On a 10+, reality breaks around you a little bit. Make a Status Track for this break, and the MC will make one to track if you become convinced it is real. Decide its form: pervasive hallucinations, a fantasy world overlaying the real one, or a pocket dimension you fall into. Choose a trait of your Paradigm (the name, Aligned, a Capability, or an Opposed) to be explored by the break, and write a move to advance its Status Track. 
 On a 7-9, choose 2:
 - You take 3 Harm
 - You don’t reset your Discord to 0
