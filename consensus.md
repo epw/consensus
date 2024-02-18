@@ -379,6 +379,18 @@ Most magic that Mages do is barely distinguishable from coincidence or extreme l
 
 \End{Player}
 
+### Commonplace magic
+
+\Begin{Player}
+
+As a result of Harmonious magic being an option, there are likely to be many small things that your Mage frequently does and even can take for granted. There's no special move or roll for "doing magic", and so doing it doesn't invite danger any more than walking down the street does. Of course, since Mage's lives are not boring, often a chance to walk down a street may involve some other tension, and possibly trigger another move, but it's not the act of walking itself, and nor should harmonious magic feel this way.
+
+This also means you can assume your Mage has a variety of small magics active all the time, in much the same way as they likely have certain common equipment on them at all times. Occasionally it may come up at a pivotal moment, but most of the time it's just part of your narration.
+
+One specific type of common magic is warding. Basic protective charms, subtle precognition, and other such effects are called Preparations, and are explained later. They summarize the ways that each Mage prepares themselves each day before going out to face the world, that always remain Harmonious, but are part of what make Mages look just a little luckier and safer than other people. Preparations usually come up when the Mage needs to use a quick burst of prepared magic to fix something, or to protect them from harm.
+
+\End{Player}
+
 ## Rending Magic
 
 \Begin{Player}
@@ -493,9 +505,9 @@ Places of power are locations with a high concentration of magic, for one reason
 
 \Begin{MC}
 
-Some playbooks have access to a place of power through optional moves. Other places of power may show up during play. Be careful allowing the players to permanently gain access to a place of power if there isn’t a playbook move specifically granting it to them. There should be a real benefit for taking that move, and that’s easier access to a space in which rituals work. It may be fine to give players that work for it temporary access to a place of power, or even access to a temporary place of power.
+Some playbooks have access to a place of power through optional moves. Other places of power may show up during play. Usually, don't allow the players to permanently gain access to a place of power if there isn’t a playbook move specifically granting it to them. There should be a real benefit for taking that move, in the form of easier access to a space in which rituals work. Instead, if no-one at the table has the move, make the players work for temporary access to a place of power, or even access to a temporary place of power. Remember your Principles such as Make Everyone Vulnerable; Sometimes, Give Them Exactly What They're Asking For; and Don't Be Afraid to be Obvious. What would it mean for there to be a place of power that the Mages can find right now? Who else knows about it now, and what are they up to? Who will find out about it if the Mages use it, and what will they do with it tomorrow?
 
-Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama.
+Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama, but most of the time, unless a character was explicitly and intentionally risking their place of power, it should be much easier to reqauire, reconsecrate, and otherwise return to.
 
 \End{MC}
 
@@ -787,11 +799,11 @@ Mages’ lives involve the fundamental freedom to do what they believe, and so i
 
 **Adjust a Status Track**
 
-Sometimes a mage’s actions (or inactions) should have a clear and obvious impact on a status track, but that status track isn’t yet slipping; or maybe increasing its status isn’t what makes sense. Adjust it as you see fit: advance an Anchor upkeep track, de-escalate a Front track, or even reduce the severity of a mage’s health status.
+Sometimes a mage’s actions (or inactions) should have a clear and obvious impact on a status track, but that status track isn’t yet slipping; or maybe increasing its status isn’t what makes sense. Adjust it as you see fit: advance an Anchor upkeep track, de-escalate a Force track, or even reduce the severity of a mage’s health status.
 
 *"As you finish your impassioned speech and look out over the crowd, you realize it’s falling flat; they aren’t buying it. And then they start jeering, and you see your credibility slipping away. Set your Consensus Shift status track back to 40."*
 
-*"It’s been a busy time for you all, hasn’t it? Police called because of the fraternity twice, position as a social hub has been falling because the coolest kids are going everywhere but to you for their parties, and now that Piper’s staying there things are getting tense. You get a letter from the administration, the fraternity is officially on probation."* While you mark off another code on the Home Front Status Track.
+*"It’s been a busy time for you all, hasn’t it? Police called because of the fraternity twice, position as a social hub has been falling because the coolest kids are going everywhere but to you for their parties, and now that Piper’s staying there things are getting tense. You get a letter from the administration, the fraternity is officially on probation."* While you mark off another code on the Internal Forces Status Track.
 
 *“Sure, your magic centers around the Breath of Life. As you speak soothing words, he breathes easier. Lazarus, heal 1 Harm.”*
 
@@ -841,7 +853,7 @@ A session of Consensus is a self-contained advance of the story. It will build o
 
 Your MC sheet has a list of steps to guide you through the beginning of the session.
 
-#### Gather The MC sheet, PC summary sheet, Fronts, Flags, and Portents
+#### Gather The MC sheet, PC summary sheet, Forces, Flags, and Portents
 
 These cover all the essential information you need to make sure the table has available.
 
@@ -1882,7 +1894,7 @@ I’m still being generous with the truth, so I’m not going to make Zuri fight
 
 Zuri’s player instantly reacts. "Oh, it must have been Hob. He seems like he would like the two of them."
 
-Oh, Hob, that’s good, I didn’t realize he’d made such an impression on them. I draw lines from him to the two librarians on the Winter Court Front sheet. This conversation can easily have taken the time it would need for Esin to arrive, so I say,
+Oh, Hob, that’s good, I didn’t realize he’d made such an impression on them. I draw lines from him to the two librarians on the Winter Court Force sheet. This conversation can easily have taken the time it would need for Esin to arrive, so I say,
 
 "So you realize they’re describing Hob, tall, thin, but not lanky, and they bring him up as someone really interesting, but then sort of trail off trying to describe him. Definitely sounds like an enchantment. Before you’re able to try and probe for more, Esin arrives, and comes to sit down with you."
 
