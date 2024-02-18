@@ -831,6 +831,8 @@ Discord is what happens when reality bends around a Mage like a spring. It hasn�
 
 The life of a mage is dangerous, and danger often involves pain. When they fall, when they’re struck, when they deign to tinker with untested equipment while not wearing PPE, deal damage and have them roll to Suffer Harm.
 
+Remember that if they have not yet expended their Preparations, now is the time, as long as there's any Harmonious way to explain how they can escape unscathed. Also remember that Preparations make Mages a lot tougher than they would otherwise be, so don't be afraid to use this move.
+
 *"Even as you tug haphazardly at the tangle of wires, you realize the moment when ‘down to the wire’ becomes ‘too late,’ and you aren’t going to defuse the bomb in time. You scramble backwards as it ticks down to zero, and are thrown back with the force of the explosion. Take four harm."*
 
 *"So there’s this big boom from out on the water, and huge droplets spill down on you - and hand-sized swordfish. One gets you right in the shoulder. Take 2 Harm."
