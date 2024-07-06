@@ -135,12 +135,15 @@ def playbookdata(name):
 					p.description = playbookdescription
 					if '_' in p.description:
 						p.description = p.description.replace('_', '')
-		if line.startswith('**Why were you overlooked, downtrodden, or trivialized?**'):
-			p.question1 = line[39:].strip(' \n')
-		if line.startswith('**Why are you ignored, oppressed, or dismissed?**'):
-			p.question2 = line[44:].strip(' \n')
-		if line.startswith('**Why are you hunted?**'):
-			p.question3 = line[24:].strip(' \n')
+		question = '**Why were you overlooked, downtrodden, or trivialized?**'
+		if line.startswith(question):
+			p.question1 = line[len(question)+1:].strip(' \n')
+		question = '**Why are you ignored, oppressed, or dismissed?**'
+		if line.startswith(question):
+			p.question2 = line[len(question)+1:].strip(' \n')
+		question = '**Why are you hunted?**'
+		if line.startswith(question):
+			p.question3 = line[len(question)+1:].strip(' \n')
 		if line.startswith('**Looks:**'):
 			in_looks = True
 		if line.startswith('### '):
