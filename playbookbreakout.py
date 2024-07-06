@@ -302,7 +302,7 @@ def playbookdata(name):
 
 	for line in gear[1:]:
 		if not line == '\n':
-			p.gear.append(line[2:])
+			p.gear.append(line.replace("- ", ""))
 			
 	in_basic = True
 	in_advanced = False
