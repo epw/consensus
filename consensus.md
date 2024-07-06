@@ -3067,12 +3067,12 @@ In a world where mages are solitary islands of power, shaping reality in lonelin
 #### True Names Give Command
 **Aligned:** (choose one) Command, Binding, Summonings  
 **Opposed:** (choose one) Inanimate mundane objects, Creation, Silent Magic  
-(choose this one) Targets whose names you do not know
+Targets who have not been given a True Name, I must know my targets' names
 
 #### Ancient Languages Hold Secret Power
 **Aligned**: (choose one) Cantrips, Enchantment, Written Magic  
-**Opposed**: (choose one) Reactive Magic, Emotional Manipulation  
-(choose this one) Magic without words
+**Opposed**: (choose one) Reactive Magic, Emotional Manipulation, Magic with concepts newer than my language
+Magic without words (spoken, written, or thought), I must speak my magic aloud
 
 ### Moves
 
@@ -3207,11 +3207,11 @@ A Ritual performed here will never (choose 1):
 
 #### A Thousand Arcane Secrets
 **Aligned:** (choose one) Cantrips, Ritual Maigc  
-**Opposed:** (choose one) Large-reaching effects, immediate effects  
+**Opposed:** (choose one) Large-reaching effects, immediate effects, I can't do the same thing twice  
 (choose one) Planning magic, magic from rote
 
 #### Double, Double, Toil and Trouble
-**Aligned:** Any type of effect  
+**Aligned:** All possible magic  
 **Opposed:** Magic that doesn't require preparation  
 Magic that doesn't require physical components
 
@@ -3317,13 +3317,13 @@ Many people wonder where inspiration comes from. That question is boring to you,
 
 #### I Bend the Rules through my Source
 **Aligned:** (choose one) Mental magic, Time-affecting magic  
-**Opposed:** (choose one) Magic that reenforces the status quo, magic that doesn't protect my Source  
-(choose one) Magic without my Source
+**Opposed:** (choose one) Magic that reenforces the status quo, magic that doesn't protect my Source, time-affecting magic  
+(choose one) Magic without my Source, I must share my Source to do magic
 
 #### My Source Lets me See the True Nature of Things
 **Aligned:** (choose one) Divinations, Transmutations  
-**Opposed:** (choose one) Obscuring magic, changing things that are Static  
-(choose one) Magic without my Source, magic while Blind
+**Opposed:** (choose one) Obscuring magic, changing things that are Static, My magic must cause a transformation  
+(choose one) Magic without my Source, Magic without understanding
 
 ### Moves
 
@@ -3445,13 +3445,13 @@ The secrets of the Universe are yours, but you don't guard them jealously. You s
 
 #### Your Focus Determines Your Reality
 **Aligned:** (choose one) Calming Magic, Projecting Power, Perfect Positioning  
-**Opposed:** (choose one) Breaking cycles, External effects  
+**Opposed:** (choose one) Breaking cycles, My magic must remain internal  
 (choose one) Technomagic, Magic while distracted
 
 #### I am the Platonic Ideal of Myself
 **Aligned:** (choose one) Static Magic, Convergence, Reflexive Magic  
-**Opposed:** (choose one) Fragmenting magic, creation  
-(choose one) Cynical magic, magic without my whole self
+**Opposed:** (choose one) Fragmenting magic, creation, my magic cannot hide me  
+(choose one) Cynical magic, magic without conviction
 
 ### Moves
 
@@ -3590,12 +3590,12 @@ You know the true meaning of sacrifice. It isn't something dramatic or grandiose
 
 #### All is One and the One is All
 **Aligned:** (choose one) Pattern magic, cooperative magic  
-**Opposed:** (choose one) Selfish magic, magic that divides  
+**Opposed:** (choose one) Selfish magic, magic that divides, my magic must be wholly of the physical world  
 (choose one) Magic without Faith, magic that doesn't involve people
 
 #### I am the New Prophet
 **Aligned:** (choose one) Visions of the Future, Forging a Destiny  
-**Opposed:** (choose one) Things at rest, Abjuration  
+**Opposed:** (choose one) Things at rest, Negating other magic  
 (choose one) Changing the Future you Know, Hiding the Truth
 
 ### Moves
@@ -3723,7 +3723,7 @@ You don't need fancy rituals, long drawn-out methods, or anything like that when
 #### Blood is the Strongest Sympathy
 **Aligned:** (choose one) Healing, Curses, Sympathy  
 **Opposed:** (choose one) Restoration, Mind-affecting magic  
-Magic that doesn't require sacrifice
+(choose one) Magic that doesn't require sacrifice, magic that doesn't require sympathy
 
 #### The World's Energy is Wrapped in Crude Matter
 **Aligned:** (choose one) Transformations and Transmutations, Energy Manipulation  
@@ -3733,7 +3733,7 @@ Magic that doesn't require sacrifice
 #### I See, Hear, and Command the Spirits
 **Aligned:** (choose one) Elemental magic, Summoning  
 **Opposed:** (choose one) Man-made things, Transmutation  
-(choose one) Magic that disrespects the spirit world, magic without spirits
+(choose one) Magic that disrespects the spirit world, my magic must incorporate spirits
 
 ### Moves
 
@@ -3832,12 +3832,12 @@ Most people think magic and technology are incompatible, but you know better. Yo
 
 #### Reality has an API
 **Aligned:** (choose one) Changing a signle variable, magic done from a terminal  
-**Opposed:** (choose this one) Living things  
-(choose one) Unplanned magic, magic not done from a terminal
+**Opposed:** (choose one) Living things, magic that affects only part of an object  
+(choose one) Unplanned magic, magic not done from a terminal, my magic must be expressed as if/then conditions
 
 #### My Own _Theory of Everything_
 **Aligned:** (choose one) The physical world, repeated magic
-**Opposed:** (choose one) Magic not of the physical world, magic that violates the Law of Entropy  
+**Opposed:** (choose one) Magic not of the physical world, magic that violates the Law of Entropy, my magic may not involve living things  
 (choose this one) Magic without technological accountrements
 
 ### Moves
@@ -3947,12 +3947,12 @@ Zamira, Kousan, Prudence, Orpheus, Sophie
 #### Spirit Whisperer
 **Aligned:** (choose one) The breath of life, soothing magic, transcending barriers  
 **Opposed:** (choose one) Loud magic, wards, entropic magic  
-(choose one) Magic without spirits, silent magic
+(choose one) Magic without spirits, silent magic, my magic must be expressed as a request, my magic depends on a willing spirit
 
 #### Music is the language of the Universe
 **Aligned:** (choose one) Regular rhythms, variations on a theme, harmonious magic, cosmic vibrations  
 **Opposed:** (choose one) Chaotic magic, countermagic, singular effects  
-(choose one) Soundless magic, emotionless magic
+(choose one) Soundless magic, emotionless magic, my magic must be a song
 
 ### Moves
 
@@ -4041,13 +4041,13 @@ There are many who travel the world in this day and age, and many fewer who trav
 
 #### All people are connected, all people affect one another
 **Aligned:** (choose one) Symparthy magic, travel magic  
-**Opposed:** (choose one) Creation, permanent effects  
+**Opposed:** (choose one) Creation, permanent effects, my magic can only affect living things  
 (choose one) Binding magic, magic that prevents movement
 
 #### I have one foot in the spirit world
 **Aligned:** (choose one) Travel between worlds, opening things, spirit magic  
 **Opposed:** (choose one) Static magic, abstract magic  
-(choose one) Magic that uses physical objects, stationary magic
+(choose one) My magic must not be wholly of the physical or spirit world, stationary magic, my magic requires a reflection
 
 ### Moves
 
