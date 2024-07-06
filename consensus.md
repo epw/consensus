@@ -195,7 +195,7 @@ See the {{linkMagic Chapter}} for more on Paradigms.
 
 Beliefs can be made stronger by being challenged, just like people. Very few people who lead an easy, charmed, unchallenged life develop the beliefs that are strong enough to transform them into a Mage. But, once they do Awaken, coming to understand their abilities, their story is just getting started. Difficulties remain, whether things they couldn’t shake from their past or new problems brought on by magic. The life of a Mage is never an easy one.
 
-To get at this, Playbooks ask three questions: Why was your humanity trivialized, why is your humanity still in question, and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. The {{linkSafety Rules}} in the First Session chapter can help make sure no-one crosses a boundary they don’t want to.
+To get at this, Playbooks ask three questions: Why were you overlooked, downtrodden, or trivialized; why are you ignored, oppressed, or dismissed; and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. The {{linkSafety Rules}} in the First Session chapter can help make sure no-one crosses a boundary they don’t want to.
 
 \End{Narrator}
 
@@ -1223,7 +1223,7 @@ As everyone introduces their characters, people will likely start to suggest ide
 
 \Begin{Player}
 
-The MC will want to know the answers to each of the three questions on your playbook, "Why was your humanity trivialized?" “Why is your humanity still in question?”, and “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean.
+The MC will want to know the answers to each of the three questions on your playbook, "Why were you overlooked, downtrodden, or trivialized?" “Why are you ignored, oppressed, or dismissed?”, and “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean.
 
 \End{Player}
 
@@ -2704,11 +2704,11 @@ If Code N is reached, take some time to figure out how the world has changed, an
 
 During character creation, each player will answer 3 questions about their character, roughly corresponding to past, present, and future. These 3 questions will be the basis on which you build your Forces, so make sure you take some time with each player to explore these questions during the first session. 
 
-### Why was your humanity trivialized?
+### Why were you overlooked, downtrodden, or trivialized?
 
 People who live perfect lives never quite find the need to reach out beyond the realm of everyday life to improve their existence, or merely to survive. Mages typically awaken due to a combination of factors, but one of the major factors is having their humanity denied or trivialized. This could be in the form of bullying, isolation, violence, or many other things. Many Mages have a particular moment they can point to that made everything so clear and awakened their new Paradigm. Seldom are these moments caused by pleasant interaction. The answer to this question will tell you about the Mage’s past circumstances.
 
-### Why is your humanity still in question?
+### Why are you ignored, oppressed, or dismissed?
 
 Despite how it may seem, expanding your consciousness to include the ability to alter reality at your whim doesn’t solve all of your problems. From juggling the balance between your mundane job, bills, and relationships with the wonder of the magical world, to much of the same bigotry and discrimination that mundane people experience, there are things that magic just can’t completely solve for you. That doesn’t mean that you won’t try.
 
@@ -3049,8 +3049,8 @@ In a world where mages are solitary islands of power, shaping reality in lonelin
 
 **Name:** Lou, Mr. Norrell, Agatha, Lady Corrington, Phan, Lisa, Gordon, Alice, Joan, Rainbow, Norrie, Ms. Siltane
 
-**Why was your humanity trivialized?** Because of my beliefs, because I was sick, because of my obsession  
-**Why is your humanity still in question?** Because of my obsessions, because I can't keep my mouth shut, because of my friends  
+**Why were you overlooked, downtrodden, or trivialized?** Because of my beliefs, because I was sick, because of my obsession  
+**Why are you ignored, oppressed, or dismissed?** Because of my obsessions, because I can't keep my mouth shut, because of my friends  
 **Why are you hunted?** For my beliefs, because I antagonize, for my family ties
 
 **Looks:**
@@ -3190,8 +3190,8 @@ A Ritual performed here will never (choose 1):
 
 **Name:** Merle, Freya, Orenna, Benjamin, Liro, Norfeld, Wood, Sherand, Lilith, Melinda, Corin, Wilhelm, Byecross
 
-**Why was your humanity trivialized?** Because of my attitude, because I was neurodivergent, because I couldn't keep up  
-**Why is your humanity still in question?** Because of my detachment, because I don't want to fit in, because I screwed up  
+**Why were you overlooked, downtrodden, or trivialized?** Because of my attitude, because I was neurodivergent, because I couldn't keep up  
+**Why are you ignored, oppressed, or dismissed?** Because of my detachment, because I don't want to fit in, because I screwed up  
 **Why are you hunted?** For fun, for my Talents, because I disturb people
 
 **Looks:**
@@ -3300,8 +3300,8 @@ Many people wonder where inspiration comes from. That question is boring to you,
 
 **Name:** Esin, Tobias, Tafari, Sameal, Mab, Fiona, Kai, Kendall, Flower, Ida
 
-**Why was your humanity trivialized?** Because they thought I was broken, because I was uneducated, because of my looks  
-**Why is your humanity still in question?** Because of my obsessions, because I'm too different, because who I am hasn't changed  
+**Why were you overlooked, downtrodden, or trivialized?** Because they thought I was broken, because I was uneducated, because of my looks  
+**Why are you ignored, oppressed, or dismissed?** Because of my obsessions, because I'm too different, because who I am hasn't changed  
 **Why are you hunted?** Because I'm misunderstood, because I break the Rules, for my insight
 
 **Looks:**
@@ -3428,8 +3428,8 @@ The secrets of the Universe are yours, but you don't guard them jealously. You s
 
 **Name:** Johan, Master Lu, Mina, Zoe, Indra, Roy, Puteri, Madame Leena, Marshki, Luce, Goswami, Sena
 
-**Why was your humanity trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
-**Why is your humanity still in question?** Because I see things as they really are, because I make my own path, because people started noticing me  
+**Why were you overlooked, downtrodden, or trivialized?** Because I was poor, because I was neurodivergent, because of my transgressions  
+**Why are you ignored, oppressed, or dismissed?** Because I see things as they really are, because I make my own path, because people started noticing me  
 **Why are you hunted?** Because I'm famous, for my forbidden knowledge, so my students are not
 
 **Looks:**
@@ -3573,8 +3573,8 @@ You know the true meaning of sacrifice. It isn't something dramatic or grandiose
 
 **Name:** Joan, Ether, Miranda, Brother Wilhelm, Francis, Emira, Marja, Ingrid, Bernard, Rishi, Sister Eliza
 
-**Why was your humanity trivialized?** Because of my beliefs, because of my family ties, because I couldn't keep up  
-**Why is your humanity still in question?** Because I keep screwing up, beccause I can't keep my mouth shut, because of my anger  
+**Why were you overlooked, downtrodden, or trivialized?** Because of my beliefs, because of my family ties, because I couldn't keep up  
+**Why are you ignored, oppressed, or dismissed?** Because I keep screwing up, beccause I can't keep my mouth shut, because of my anger  
 **Why are you hunted?** Because I break the Rules, for my beliefs, for the Truth
 
 **Looks:**
@@ -3705,8 +3705,8 @@ You don't need fancy rituals, long drawn-out methods, or anything like that when
 
 **Name:** Markus, Zakiel, Kassandra, The Hooded One, Crystal, Zuri, Malaki, Jeyde, Andrzej, Kolden, Sheth
 
-**Why was your humanity trivialized?** Because of my anger, because the world isn't accessible, because of my fear
-**Why is your humanity still in question?** Because I'm too different, because I can't stay still, because I'm afraid  
+**Why were you overlooked, downtrodden, or trivialized?** Because of my anger, because the world isn't accessible, because of my fear
+**Why are you ignored, oppressed, or dismissed?** Because I'm too different, because I can't stay still, because I'm afraid  
 **Why are you hunted?** Because I hurt people, for my wealth, because I want to be
 
 **Looks:**
@@ -3815,8 +3815,8 @@ Most people think magic and technology are incompatible, but you know better. Yo
 
 **Name:** Jeremy, Kix, Sonya, B3ll, Doran, Starter, TK, Foto, Liza, The Law, Dodge, Ophelia, Tarvek, Fr0st, Amanda
 
-**Why was your humanity trivialized?** Because of my obsession, because of my transgressions, because I was uneducated  
-**Why is your humanity still in question?** Because I'm holding back, because I don't care, because I don't know how to fit in  
+**Why were you overlooked, downtrodden, or trivialized?** Because of my obsession, because of my transgressions, because I was uneducated  
+**Why are you ignored, oppressed, or dismissed?** Because I'm holding back, because I don't care, because I don't know how to fit in  
 **Why are you hunted?** For my talents, because I get framed, because I antagonize
 
 **Looks:**
@@ -3924,8 +3924,8 @@ _I am the voice, I will remain_
 **Name:** Arin, Malak, Liron, Shir, Piper, Lark, Jaron, Calliope, Diona,
 Zamira, Kousan, Prudence, Orpheus, Sophie
 
-**Why was your humanity trivialized?** Because I spoke differently, because they thought I was broken, because of my looks  
-**Why is your humanity still in question?** Because I don't want to fit in, because I can't stay still, because of my friends
+**Why were you overlooked, downtrodden, or trivialized?** Because I spoke differently, because they thought I was broken, because of my looks  
+**Why are you ignored, oppressed, or dismissed?** Because I don't want to fit in, because I can't stay still, because of my friends
 **Why are you hunted?** For my talents, because I'm famous, because I appear broken
 
 **Looks:**
@@ -4024,8 +4024,8 @@ There are many who travel the world in this day and age, and many fewer who trav
 
 **Name:** Roland, Isobel, Amelia, Karma, Daniel, Celina, Jamie, Gabriel, Christopher, Morgan, Laurie, David, Cara, Trina, Corwin
 
-**Why was your humanity trivialized?** Because I couldn't keep up, because of my attitude, because the world isn't accessible
-**Why is your humanity still in question?** Because I don't care, because people started noticing me, Because I see things as they really are  
+**Why were you overlooked, downtrodden, or trivialized?** Because I couldn't keep up, because of my attitude, because the world isn't accessible
+**Why are you ignored, oppressed, or dismissed?** Because I don't care, because people started noticing me, Because I see things as they really are  
 **Why are you hunted?** Because I run, because I break the Rules, for what I know
 
 **Looks:**

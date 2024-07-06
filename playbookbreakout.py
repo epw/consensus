@@ -135,9 +135,9 @@ def playbookdata(name):
 					p.description = playbookdescription
 					if '_' in p.description:
 						p.description = p.description.replace('_', '')
-		if line.startswith('**Why was your humanity trivialized?**'):
+		if line.startswith('**Why were you overlooked, downtrodden, or trivialized?**'):
 			p.question1 = line[39:].strip(' \n')
-		if line.startswith('**Why is your humanity still in question?**'):
+		if line.startswith('**Why are you ignored, oppressed, or dismissed?**'):
 			p.question2 = line[44:].strip(' \n')
 		if line.startswith('**Why are you hunted?**'):
 			p.question3 = line[24:].strip(' \n')
