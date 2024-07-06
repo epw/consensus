@@ -63,6 +63,16 @@
 \SUBTITLE{Step Three}
 \center{\vspace{-1em}\scriptsize{\VAR{steps[2]}}}
 
+\BLOCK{ for item in types }
+\TYPE{\VAR{item['name']}}{
+\BLOCK{ for subtype in item['subtypes'] }
+\item \VAR{subtype}
+\BLOCK{ endfor }}
+\BLOCK{ endfor }
+ 
+\SUBTITLE{Step Four}
+\center{\vspace{-1em}\scriptsize{\VAR{steps[3]}}}
+
 \BLOCK{ for item in stressors }
 \STRESSOR{\VAR{item['name']}}{
 \begin{multicols}{2}
@@ -70,17 +80,6 @@
 \item \VAR{move}
 \BLOCK{ endfor }
 \end{multicols}}
-\BLOCK{ endfor }
-
- 
-\SUBTITLE{Step Four}
-\center{\vspace{-1em}\scriptsize{\VAR{steps[3]}}}
-
-\BLOCK{ for item in types }
-\TYPE{\VAR{item['name']}}{
-\BLOCK{ for subtype in item['subtypes'] }
-\item \VAR{subtype}
-\BLOCK{ endfor }}
 \BLOCK{ endfor }
 
 \end{multicols}
