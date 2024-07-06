@@ -1099,13 +1099,13 @@ Make the playbooks available, laying them all on the table or handing some out t
 
 **The Mentor** is a teacher for a group of non-magical students. If you want to be explicitly in charge of a group of sleepers, you want to play a mentor. Warning: This playbook is quite reactive until you get to Advanced moves. You may be bored if you don’t make your way there eventually.
 
-**The Pious **has a vision for how things should be, and goals, and are ready to see them through. A Pious is often a very driven character. Warning: It’s easy to try eschew connections and try to go it alone as a Pious, but no Mage survives without connections to the world around them. Make sure to keep connected to at least your Anchors.
+**The Pious** has a vision for how things should be, and goals, and are ready to see them through. A Pious is often a very driven character. Warning: It’s easy to try eschew connections and try to go it alone as a Pious, but no Mage survives without connections to the world around them. Make sure to keep connected to at least your Anchors.
 
 **The Primordial** cuts right through the trappings that are common in magic to deal with fundamental forces and energies. They have the capability for tremendous savagery. Warning: The Primordial has a lot of pressure to solve all their problems with magic, but doing this will eventually catch up with you, hard.
 
 **The Tech Adept** uses magic and technology fluently, whether that means making inventions that are only possible because their hands did it or enchanting common technology for their own ends. Warning: The Tech Adept’s belief in how magic fits into technology limits them. If you want to be able to do magic without technology around, don’t play a Tech Adept.
 
-**The Voiced **exemplifies everything about the power of the human voice, from convincing to leading to spreading wisdom. Some of their abilities are subtle, but that does not mean they are not incredibly powerful. Warning: The Voiced is one of the most social playbooks. They can’t do much without someone to listen to them.
+**The Voiced** exemplifies everything about the power of the human voice, from convincing to leading to spreading wisdom. Some of their abilities are subtle, but that does not mean they are not incredibly powerful. Warning: The Voiced is one of the most social playbooks. They can’t do much without someone to listen to them.
 
 **The Wayfarer** is a traveler, wanderer, even loner, and their magic reflects this unbounded nature. The nature of each Wayfarer’s travel is unique, and presents them with unique options and opportunities. Warning: The Wayfarer is at their most powerful when they are constantly on the move. Don’t play a Wayfarer if you want to settle down.
 
