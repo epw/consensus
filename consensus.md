@@ -363,6 +363,16 @@ Unlike the Opposed aspects, Restrictions can be overcome. There is an Advancemen
 
 \End{Player}
 
+## Performing Magic
+
+\Begin{Narrator}
+
+There is no "do magic" roll, or even move, in Consensus. It is too intrinsict to a Mage's nature, in the same way that there is no move for traveling somewhere. Just as "I travel somewhere" raises innumerable questions that need to be answered, some of which may lead to rolls, while others just can be accepted at face value, like "Are you walking? Biking? Flying?" and "Are you going somewhere particular? What do you want to do?" and "How will you deal with the cold and the snow?", you need to know more specifics before you know what any given act of magic means.
+
+There is a sense of "power" or "strength" within Consensus. By default, most Mages have around the same strength: what matters is how well they can apply their Paradigm, what support and preparations they have, and whether they can exploit the situation to their advantage. That exact power level is not precisely defined and may vary from game to game. Expect to come to a common understanding as you play, and that common understanding may shift over time. After ten sessions, a spell that was very difficult and taxing may have become trivial, and that's OK.
+
+\End{Narrator}
+
 ## Harmonious Magic
 
 \Begin{Player}
@@ -448,6 +458,8 @@ In general, you should shape the reality break to the player's chosen part of th
 Work with the player to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.) You will also make a status track, representing the strength of the reality break.
 
 You will frame three scenes for the mage. At the beginning of each of these scenes, the strength of reality break track will advance once. During each scene, you may advance the strength of reality break track as a soft move in response to the mage going along with the scene or failing to learn their lesson. This means that by the end of the third scene, either the mage will have advanced their escape track to code N and broken out of the reality break, or the strength of reality break track will reach code N in which case… the mage is trapped in that reality permanently. They are no longer a playable character, though you may bring them back as a threat later, these mages are unbound by the laws of the Consensus and can be very dangerous for everyone.
+
+Be especially cognizent of established safety rules like Lines and Veils when defining reality breaks. They are meant to challenge the character, and your instincts may take you to places that challenge the player as well. This is fine, so long as no-one at the table has ruled against whatever element you seek to include.
 
 \End{MC}
 
