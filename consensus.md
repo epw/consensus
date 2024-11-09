@@ -325,20 +325,6 @@ Your character's Aligned aspect makes it easier to help related actions, and mag
 
 \End{Player}
 
-### Capabilities
-
-\Begin{Player}
-
-By default, a Mage is capable of doing by magic anything that they think is possible (that is, anything not described by their Opposed or later-added Restrictions). This is common in Paradigms that are greatly derived from the common Consensus, in which the Mage may know one or more new physical laws that they can apply.
-
-However, some Mages have a more detailed view, in which the universe of what is possible is broader than what they can ever expect of themselves. For example, a Mage who believes that some people are attuned to certain classical elements and can manipulate them might believe that they specifically are attuned to Water. Someone manipulating Fire doesn't represent an impossibility, but this one Mage expects to be incapable of it.
-
-These Mages have Capabilities listed as part of their Paradigm. If they try to do magic outside of their Capabilities, it is the same as doing magic that they are Opposed to, but other Mages can do magic without any conflicts.
-
-Capabilities tend to narrow down the options available to a Mage significantly, and as such, choosing one replaces one of the two Opposed choices otherwise present in a Paradigm.
-
-\End{Player}
-
 ### Opposed
 
 \Begin{Player}
@@ -346,6 +332,8 @@ Capabilities tend to narrow down the options available to a Mage significantly, 
 Opposed aspects are things which your Mage believes are impossible, as firmly as you probably believe that you can't live without Oxygen. These will never apply to anything which a non-Mage could do, but definitely can cover things which other Mages may do. The even may apply to things your own Mage might appear to be capable of. Having them listed under Opposed means that there is a detail to the Mage’s Paradigm that completely precludes them. For example, if a Mage has "emotional manipulation" as an Opposed aspect, then that means that they do not think it fits into their worldview. If the worldview looks very broad and flexible, like “Ancient Languages Hold Secret Power,” then there is a reason it is Opposed. Perhaps the language came from before humans were evolved enough to manipulate emotions, rather than just feel and express them like animals. Perhaps it was too dangerous and was sealed away by an ancient Mage. Or perhaps it is unknown to the Mage, they just have a deep sense that it is impossible as continuing to live without breathing would be if they had no magic.
 
 Note that Opposed aspects reflect strong enough beliefs that they even apply to other Mages. It’s not just that your character can’t work obscuring magic, for example, it’s that no-one can. For these purposes, a character who is Opposed to magic being done is a [Lookout](Lookouts), exactly like someone who has never Awakened at all. This means that a character with a really restrictive view of the world, like that the only magic that exists has to be done through a computer terminal (which they might not even consider magic) may be tricky to be around. Mages by their nature have to be skilled at concealing their craft, however, and nothing is insurmountable. Harmonious magic will slip by just fine, but if you’re going to do Rending magic in front of another Mage, you’ll want to make sure they aren’t Opposed to any aspect of what you’re doing. 
+
+In addition, some Mages have Paradigms in which the universe of what is possible is broader than what they can ever expect of themselves. For example, a Mage who believes that some people are attuned to certain classical elements and can manipulate them might believe that they specifically are attuned to Water. Someone manipulating Fire doesn't represent an impossibility, but this one Mage expects to be incapable of it. These Mages' Opposed will btend to be first-person expressions, such as "My magic must cause a transformation" or "I can't do the same thing twice." No Mage will have both Opposed described this way, but for the ones who do, they are a little easier to work around, as they will only be Opposed to magic along these lines that they themselves participate in.
 
 Pay attention when choosing Opposed magic to the Paradigms of others at the table. While there is nothing wrong with playing Mages who believe that each other’s magic is impossible, it does make for a very different game than if they all more-or-less agree. That being said, since all Paradigms are different, no-one will ever fully agree on everything.
 
