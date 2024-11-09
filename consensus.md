@@ -437,7 +437,7 @@ These take a few different forms, but regardless of form, they are the Consensus
 
 From the outside, Reality Breaks are the kind of things that most people don’t see, or won’t see. Pervasive hallucinations are things that only the affected Mage can see, and many people are practiced at ignoring someone they think is seeing things. An overlayed fantasy world is similar, in that it only exists for the affected Mage (and perhaps other Mages that know how to look for it). Pocket dimensions, from the outside, may just look like the person disappearing, and any onlookers having their memory of the past few seconds wiped. For a practiced eye, a Mage may be able to find the pinprick hole in reality that caused the Break, and follow it through to attempt a rescue.
 
-When you fall into a Reality break, you choose a trait of your paradigm (whether the title, the Aligned, your Capability, or an Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
+When you fall into a Reality break, you choose a trait of your paradigm (whether the title, the Aligned, or an Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
 
 \End{Player}
 
