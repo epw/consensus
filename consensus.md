@@ -783,7 +783,7 @@ Many moves have clear ways they can go wrong. Attacks misfire, plans play into a
 
 Use this when you want to throw the Mages’ control of a situation into question. This can be like Raise the Stakes, but encompasses things that are more out of left field as well. Changing the "battlefield" (even if it’s actually just a parlour filled with relatives) can mean new Forces arrive, an environmental effect, or revealing a dramatic complication.
 
-*"So you Step Sideways, planning to phase out and phase back in, but while you’re on the Other Side you see this vast space with creepy floating creatures, and they’re fighting to get in. It looks like this battle is taking place on more planes than you knew."
+*"So you Step Sideways, planning to phase out and phase back in, but while you’re on the Other Side you see this vast space with creepy floating creatures, and they’re fighting to get in. It looks like this battle is taking place on more planes than you knew."*
 
 *“Everyone’s fighting, you feel like you have a good handle on things - and then the ghost pirate ship appears, with Gordon dangling in a cage off the bow. They’re rowdy and their cannons are armed.”*
 
@@ -791,7 +791,7 @@ Use this when you want to throw the Mages’ control of a situation into questio
 
 Most of the time, you can assume the Mages have what they need for what they want to do. A cell phone, a bottle of water, batteries. This extends to more rare items, once a Mage has acquired it and makes a point of keeping it around. When you use this move, suddenly all those assumptions go out the window. It can be direct and in the moment, like having a business card snatched away, or it could be retrospective and only now realized, like a wand not being where it was last put down.
 
-*"So you shoot the harpoon gun, but you aren’t braced and the gun flies out of your hands, backwards! Your target falls, but another guy sees that you’re unarmed and jumps at you."
+*"So you shoot the harpoon gun, but you aren’t braced and the gun flies out of your hands, backwards! Your target falls, but another guy sees that you’re unarmed and jumps at you."*
 
 *“Something has gone mysteriously missing? How about the gas for your boat. Not that you’d notice right away, of course.”*
 
@@ -799,7 +799,7 @@ Most of the time, you can assume the Mages have what they need for what they wan
 
 Mages’ lives involve the fundamental freedom to do what they believe, and so imprisonment is a particularly stark action. It doesn’t have to be to a Mage in particular, but if it involves anyone they care about, it can dramatically shape their reactions. In a world full of police, gangsters, manipulative relatives, and magical binding circles, "imprisonment" can take many forms.
 
-*"As you look around the ballroom, you notice what are clearly ensorcelled humans serving drinks, and wait, that’s the man you saved from drowning! As dead-eyed as the rest of them."
+*"As you look around the ballroom, you notice what are clearly ensorcelled humans serving drinks, and wait, that’s the man you saved from drowning! As dead-eyed as the rest of them."*
 
 *“Allison opens the door to get into the taxi, and the driver looks you in the eye, and as you recognize him, says ‘My Lady sends her regards,’ and drives off before you can react”*
 
@@ -829,7 +829,7 @@ Discord is what happens when reality bends around a Mage like a spring. It hasn�
 
 *"You’re used to having that little harmonious spell that keeps your garden pest-free going, but just as Jack, your new neighbor, comes over, and their eyes glance over the perfectly-formed leaves, you feel a sudden lurch. Take 1 Discord. ‘I’m looking forwards ***_so_*** much to getting to know you,’ says Jack, eyes gleaming unpleasantly. What do you do?"*
 
-*"You’re not working at all within the local expectations. Your camera flashlight can work to illuminate Glamour, but take 2 Discord."
+*"You’re not working at all within the local expectations. Your camera flashlight can work to illuminate Glamour, but take 2 Discord."*
 
 *“The ritual is being resisted by something with a deep hold over this place. You all take 1 Discord, and at this rate it’s going to get worse.”*
 
@@ -841,9 +841,9 @@ Remember that if they have not yet expended their Preparations, now is the time,
 
 *"Even as you tug haphazardly at the tangle of wires, you realize the moment when ‘down to the wire’ becomes ‘too late,’ and you aren’t going to defuse the bomb in time. You scramble backwards as it ticks down to zero, and are thrown back with the force of the explosion. Take four harm."*
 
-*"So there’s this big boom from out on the water, and huge droplets spill down on you - and hand-sized swordfish. One gets you right in the shoulder. Take 2 Harm."
+*"So there’s this big boom from out on the water, and huge droplets spill down on you - and hand-sized swordfish. One gets you right in the shoulder. Take 2 Harm."*
 
-“It’s trident against trident, and you stab him good, but he got you, too, with a glancing blow. 1 Harm.”*
+*“It’s trident against trident, and you stab him good, but he got you, too, with a glancing blow. 1 Harm.”*
 
 **Make them Backlash**
 
