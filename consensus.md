@@ -1893,13 +1893,35 @@ Dove, on the other hand, is also cornered, but doesn’t want to use magic to ge
 
 \End{Narrator}
 
+## Exchanging a Moment of Humanity
+
+\Begin{Player}
+
+Every Playbook has a unique move which is always present, with the trigger "When you and another character **exchange a moment of humanity**. These moves call out those times when people see each other more deeply and fully than usual. This can be intimiate and drawn out, but it can also be surprisingly fleeting, as long as it is meaningful. Pay attention to when it feels right to say this move triggered. It will usually be with another player's character, though any character in the game is possible. These moves can have complicated and surprising outcomes, representing that when a Mage connects with somebody, something special has happened, and it may not be entirely within the Mage's control.
+
+In addition to whatever else the move says, if you exchange a moment of humanity with one of your Anchors, immediately clear their status track: for now, whatever other problems they might have with your character, they are willing to look past them.
+
+\End{Player}
+
+\Begin{MC}
+
+You might be in an extra good position to notice these exchanges of humanity, if they happen between two players who are deeply engaged. Don't interrupt the scene, but point it out as it's wrapping up, and see if they agree it happened. If so, the moves trigger and tell you something about how it wrapped up.
+
+Do take "humanity" broadly. Consensus often has beings that do not fall under the conventional descriptions. If it seems appropriate, this move can trigger anyway. Think about how the being in question might take this revelation, and if it is one- or two-sided.
+
+\End{MC}
+
 ## Changing Flags
 
 \Begin{Player}
 
 You’ll set up your initial flags during the first session. Flags are special sorts of moves, made by you and the other players, that encourage certain types of interaction with your mages. You can think of a flag as a move in the format of "When you **interact in a certain way with my mage**, mark experience." Once your flag has been hit (ie the move above has been triggered), it may or may not still be interesting for you. Additionally, once your mage has hit someone’s flag, you can not do so again until they change it. Every time your flag is hit, and at the beginning of a session if your flag had previously been hit, you may change the flag to better reflect how you want the other players’ mages to interact with your mage.
 
+\End{Player}
+
 ## Improvement
+
+\Begin{Player}
 
 Among the many improvement options available to your playbook, you may see options such as Gain another [playbook] move, Gain a move from another playbook, or Gain an advanced [playbook] move. Moves from your playbook are listed along with the moves you picked from when creating that character. Choose an additional one, and you now have access to it. When you gain a move from another playbook, try to choose one that someone else isn’t playing, or at least talk with the player using that playbook. The playbook moves are part of what make characters feel unique, and you don’t want to diminish that. When you gain an advanced playbook move, choose from the ones listed in this book for your playbook. These moves will radically alter the game and story, your whole table should be prepared for what that means.
 
