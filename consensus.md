@@ -197,6 +197,8 @@ Beliefs can be made stronger by being challenged, just like people. Very few peo
 
 To get at this, Playbooks ask three questions: Why were you overlooked, downtrodden, or trivialized; why are you ignored, oppressed, or dismissed; and why are you hunted. These can be far-fetched and fantastic, but also can be tied very tightly to real-world issues. Be respectful and careful, but do delve into these if you want. The {{linkSafety Rules}} in the First Session chapter can help make sure no-one crosses a boundary they don’t want to.
 
+Everyone has trauma from times that they have gone up against reality and lost, in one aspect or another. Mages' histories often mean that this trauma is both acute, and something they have grown around. It is quite possibly what helped lead to the moment of Awakening that now enables their wondrous abilities, but it never truly goes away. Mages will feel driven to keep pushing against reality, and it will keep pushing back. They will often be hurt in the process, whether it is from Backlash or losing a Consensus Shift race. Before they were Awakened, reality might strike back in the form of physical laws, authority figures, or mob mentality. After, the Mage's ability to handle many of these problems will have increased exponentially, but so will the danger: raw forces of reality can tear a Mage asunder, knots of disbelief can be summoned to hound the Mage, and their sense of reality might become temporarily broken so they cannot tell what actually happened. Trauma is never a simple path, and Mages can gain new Restrictions and other complications when it flares back up.
+
 \End{Narrator}
 
 ### Anchors and Inspirations
