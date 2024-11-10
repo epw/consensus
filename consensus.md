@@ -967,6 +967,7 @@ Forces are your main organizational tool for notable elements in the world, and 
 
 It’s OK to write some speculation on Force sheets, but remember not to actually plan anything. As such, it should be fine for a player to see one, since you shouldn’t have any deep dark secrets you are scheming to unveil at the worst possible moment.
 
+
 ## Sundries
 
 Some things to remember.
@@ -1241,6 +1242,22 @@ Talk about what the character looks like, using the traits on the character shee
 
 \End{Player}
 
+#### Pertinent Details
+
+\Begin{Player}
+
+You have a fair amount of leeway in what you decide to be true about your character, given the structure provided by the playbook (and, of course, the playbook has a lot of blanks on it, and even things printed in ink can be changed at a willing table.) There aren't rules for having a special political position in town, or being the champion horseshoe thrower, or having a tin ear, or having a cochlear implant. You can bring up things that you already know and that matter to you. You can always add more as you figure them out in play, of course.
+
+\End{Player}
+
+\Begin{MC}
+
+You don't have to demand additional details about Mages, but anything that gives you ideas will help you engage the players more later. Make notes for what the details imply, such as a Force you might want to write, or a character to bring into play, or a unique challenge that could come up.
+
+Pay attention for what these details might imply for other characters. "Ah, if Mr. Norell has been a library trustee for ten years, then does Ingrid know him from donation drives?"
+
+\End{MC}
+
 #### Preparations
 
 \Begin{Player}
@@ -1254,6 +1271,8 @@ Describing the Preparations gives a specific example of how the Mage’s Paradig
 \Begin{Player}
 
 The MC will want to know the answers to each of the three questions on your playbook, "Why were you overlooked, downtrodden, or trivialized?" “Why are you ignored, oppressed, or dismissed?”, and “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean.
+
+Do note that these questions are about your character's general experience of the world, in broad strokes. It doesn't take many people to be hunting you to make you feel like you are hunted all the time, after all. Don't feel like the answers need to describe the other Mages' interactions with your character, and likewise, don't feel boxed into other Mages' answers when deciding how your character will interact with them. Indeed, if anyone is likely to buck the trend, it's a Mage!
 
 \End{Player}
 
