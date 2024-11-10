@@ -921,6 +921,8 @@ They are called Inspiration scenes because a Mages’ Inspirations, or potential
 
 Inspiration scenes can be tricky because they’re a less-common type of scene to see in a roleplaying game. However, players often really do enjoy them. Look out for when it seems like a Mage could have a good time teaching, learning, or just talking, and give them Inspiration scenes to play it out.
 
+Don't forget your moves at these times! There is tension even in a conversation. Use the moves to guide you and bring up complications whenever the conversation slows and everybody looks at you. Use Show Them the Downsides of their Paradigm to ask how a contradiction brought up by someone else sits with a Mage. Pit Their Desires Against Each Other by pointing out that they've just implied they both want the last enchanted feather. Set Up a Future Problem by saying "Speaking of ghosts, you realize that the spirit lamp in the corner has been blinking while you talked."
+
 #### Force Scenes
 
 A Force scene is a goal-seeking scene. Either a force is working towards their goals, and the Mages either help or hinder, or the Mages have a goal, which  various Forces will help or hinder. 
