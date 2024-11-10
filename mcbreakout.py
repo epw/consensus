@@ -19,6 +19,7 @@ latex_jinja_env = jinja2.Environment(
 )
 
 def get_data():
+	endnum = 0
 	with io.open ('consensus.md', encoding='utf-8') as f:
 		l=0
 		workingdoc = []
@@ -29,7 +30,7 @@ def get_data():
 			if line.startswith('# The Master of Ceremonies'):
 				start = workingdoc[l-1]
 				startnum = l-1
-			if line.startswith('# Stacking Moves'):
+			if line.startswith('# Ongoing Play'):
 				end = workingdoc[l-1]
 				endnum = l
 				break
