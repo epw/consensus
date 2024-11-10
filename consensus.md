@@ -1842,7 +1842,7 @@ When you **lose an Anchor**, roll +Anchors left. On a 10+, it may take some time
 - You Backlash 
 On a miss: Lose another Anchor. The MC will tell you which one and how.
 
->Losing an Anchor can hurt. Any time a connection is broken, even under amicable terms, it can be a detactching feeling, leaving you adrift. For a Mage, capable of walking into other worlds entirely, or reaching levels of enlightenment in this one nearly incomprehensible to onlookers, it can be particularly dangerous. Even if the Mage is happy to see the Anchor go, it will be destabilizing. If they’re not careful, the Mage might start to spiral.
+>Losing an Anchor can hurt. Any time a connection is broken, even under amicable terms, it can be a detactching feeling, leaving you adrift. For a Mage, capable of walking into other worlds entirely, or reaching levels of enlightenment in this one nearly incomprehensible to onlookers, it can be particularly dangerous. Even if the Mage is happy to see the Anchor go, it will be destabilizing. If they’re not careful, the Mage might start to spiral. No matter the circumstances, this roll itself is nonmagical, reflecting how the Mage deals with it internally (and as such, if the player doesn't like the outcome of the roll, they can always risk using magic to fix it...)
 
 At the **end of session**: note any effects that lasted "until end of session," but should continue into the next. Also, use this time to briefly discuss any loose threads from this session, that are still on your mind. Finally, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
 - Did you show the lengths you were willing to go to in order to protect an Anchor?  
@@ -1900,6 +1900,8 @@ Dove, on the other hand, is also cornered, but doesn’t want to use magic to ge
 Every Playbook has a unique move which is always present, with the trigger "When you and another character **exchange a moment of humanity**. These moves call out those times when people see each other more deeply and fully than usual. This can be intimiate and drawn out, but it can also be surprisingly fleeting, as long as it is meaningful. Pay attention to when it feels right to say this move triggered. It will usually be with another player's character, though any character in the game is possible. These moves can have complicated and surprising outcomes, representing that when a Mage connects with somebody, something special has happened, and it may not be entirely within the Mage's control.
 
 In addition to whatever else the move says, if you exchange a moment of humanity with one of your Anchors, immediately clear their status track: for now, whatever other problems they might have with your character, they are willing to look past them.
+
+If you exchange a moment of humanity with someone magical, they stick with you, and become an Inspiration for you. This is one way Mages can lift each other up, and others in the magical world can bring their own unique perspectives to the Mage.
 
 \End{Player}
 
@@ -2085,23 +2087,9 @@ When you’ve been shaken by the threat or reality of bodily harm, connecting wi
 
 However, if an Anchor’s Upkeep Status Track is slipping (has hit code 30 or below), then there is no calm to be had. It is actively drifting away from you, and you will not be able to connect with it until the issue(s) are resolved.
 
-### Losing Anchors
-
-Losing an Anchor is a moment of transformation for your character. It can happen in many ways, but all of them mean that the Mage is a little less grounded. They’re a little closer to leaving behind what it means to be human, and a little more powerful.
-
-Losing an Anchor makes people react unpredictably. When you lose an Anchor, a move triggers, giving you a sense of what happens. If you’re lucky, it is not truly destabilizing, even if it was a shock. If you are less lucky, you might lash out, one way or another. Or, you might find that some of your magic was based on the knowledge that you had that Anchor to fall back on, and it Backlashes on you, which may have further compounding effects. Or, you might find that your Anchors were more connected than you might have realized, and now another one is threatened, or lost outright as well. How lucky you are depends in part on how many Anchors you have, so you can quickly enter into a spiral. If your magical exploits mean you haven’t been spending enough time with your spouse and they finally take the kids and leave, you might realize that the house really isn’t yours, once the divorce takes place it will belong to them so even in the meantime it doesn’t feel grounding, and now you have lost two Anchors in as many minutes.
-
-\End{Player}
-
-\Begin{MC}
-
-A former Anchor likely still exists in the world, and may even continue to interact with the Mage. Don’t forget about them just because they aren’t marked anymore. In fact, you should probably note them on an appropriate Force, or keep them in the Internal Forces if none stand out, as an element that can still be brought into play.
-
-\End{MC}
+If you exchange a moment of humanity with an Anchor, such that you trigger the move, you immediately clear its Status Track, whatever else is going on.
 
 #### Upkeep
-
-\Begin{Player}
 
 If an Anchor’s Status Track hits Code N, you have lost them. Depending on the nature of the needed upkeep, this could mean many different things about their place in the world. You might get evicted from your home, or find that the house has become literally unlivable. A Connection Anchor most likely feels neglected by you and decides to go their own way. An Emotional Anchor might stop reminding you of what it once did, or it might finally break, and you feel your connection to that part of your life break as well.
 
@@ -2118,6 +2106,22 @@ Sometimes, it is clear that you have lost an Anchor. If a Connection Anchor dies
 ##### Transformation
 
 One way to lose an Anchor is for it to become magical. Anchors, after all, cannot be magic at their hearts. It is OK to put some magic on them, though this may be risky, and likely requires upkeep later to help restore a sort of balance. But, if they reach the point where they are magical, then they cease to be an Anchor. Sometimes this can happen intentionally, like if you decide to turn your house into a fully-enchanted wizard’s tower, or you link your mind to your dog’s because you want a familiar. Other times it might be an unintended side effect, like if you save your sister by throwing her into a magical pool, and discover when she emerges that it not only healed her wounds, it transformed her into an oracle.
+
+### Losing Anchors
+
+Losing an Anchor is a moment of transformation for your character. It can happen in many ways, but all of them mean that the Mage is a little less grounded. They’re a little closer to leaving behind what it means to be human, and a little more powerful.
+
+Losing an Anchor makes people react unpredictably. When you lose an Anchor, a move triggers, giving you a sense of what happens. If you’re lucky, it is not truly destabilizing, even if it was a shock. If you are less lucky, you might lash out, one way or another. Or, you might find that some of your magic was based on the knowledge that you had that Anchor to fall back on, and it Backlashes on you, which may have further compounding effects. Or, you might find that your Anchors were more connected than you might have realized, and now another one is threatened, or lost outright as well. How lucky you are depends in part on how many Anchors you have, so you can quickly enter into a spiral. If your magical exploits mean you haven’t been spending enough time with your spouse and they finally take the kids and leave, you might realize that the house really isn’t yours, once the divorce takes place it will belong to them so even in the meantime it doesn’t feel grounding, and now you have lost two Anchors in as many minutes.
+
+\End{Player}
+
+\Begin{MC}
+
+A former Anchor likely still exists in the world, and may even continue to interact with the Mage. Don’t forget about them just because they aren’t marked anymore. In fact, you should probably note them on an appropriate Force, or keep them in the Internal Forces if none stand out, as an element that can still be brought into play.
+
+\End{MC}
+
+\Begin{Player}
 
 ### Gaining Anchors
 
@@ -2195,6 +2199,8 @@ Once you have more Inspirations than Anchors, you become Untethered, a mage trul
 
 When you lose inspirations, or gain anchors so that you are no longer Untethered, you go back to being Tethered, but you keep any advancements you may have gained while Untethered.
 
+An Untethered character likely has visible signs to those who know how to look for them. More magic to brush their small problems aside, and anything not central to their Paradigm might matter less, from traffic lights to birthdays. And, of course, they come with a heightened sense that they might, sooner or later, disappear without a trace.
+
 ### Untethered Advancements
 
 The top tier of advancements are only available while your PC is Untethered. These advancements are often more powerful than others you have access to, so you will need to decide if the power is worth the risk. Note that when you gain an advancement, you must take it immediately, so if you are coming up on your 6th advancement and really want to access your Untethered Advancements immediately, it is time to start gaining Inspirations, or shedding Anchors.
@@ -2216,6 +2222,16 @@ If you ever find yourself with inspirations totaling more than twice the number 
 When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
 
 \End{Player}
+
+## In the World
+
+\Begin{Narrator}
+
+Mages are aware of Anchors and Inspirations, even if they should not be imagined to think in terms of such a regimented system. Any game with Mages who understand each other and how they work will recognize that having some tethers to mundane reality is powerfully grounding and allows certain kinds of magic to be recovered, but is a constant toll on the Mage's time and energy. Similarly, the phenomenon of Inspirations, in which Mages and other important magical heighten an individual Mage's sense of self and ability to practice, would be well-documented.
+
+Don't be afraid to mention these within the fiction, for example, acknowledging that a Mage need to go visit their sister because she is an Anchor, not "just" family. At the same time, don't be limited to game rules or terminology. Perhaps the Mage refers to Anchors and Sails instead of Anchors and Inspirations, or just talks about tethers above and tethers below.
+
+\End{Narrator}
 
 \newpage
 
