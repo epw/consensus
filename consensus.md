@@ -867,7 +867,7 @@ These cover all the essential information you need to make sure the table has av
 
 #### Distribute and resolve "love letters"
 
-Some MCs like to prepare for a session by writing short, personalized notes to some or all of the players' characters, ironically called "love letters." These are particularly useful for updating what has happened if there was a time skip, or if there are specific aspects of a character's state of mind you want to explore. A love letter may include a custom move, such as a choice of options or even a roll, and may have lasting consequences for the session. The results shouldn’t move straight into the action, because there is still more session start to perform, but distribute them early so the players can start reading them, thinking about their implications, and setting up what elements will come up in their first scenes.
+Mages have lots going on. As one way to reflect this, you might want to prepare for a session by writing short, personalized notes to some or all of the players' characters. These are traditionally and ironically called "love letters." These are particularly useful for updating what has happened if there was a time skip, or if there are specific aspects of a character's state of mind you want to explore. A love letter may include a custom move, such as a choice of options or even a roll, and may have lasting consequences for the session. The results shouldn’t move straight into the action, because there is still more session start to perform, but distribute them early so the players can start reading them, thinking about their implications, and setting up what elements will come up in their first scenes.
 
 #### Look over and read out Flags, note which ones can be changed
 
