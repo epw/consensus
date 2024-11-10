@@ -1079,13 +1079,35 @@ This ensures that everyone at the table remains in control of what they will be 
 
 \End{Narrator}
 
-### Magic
+### Magic Defaults
 
 \Begin{Narrator}
 
 Consensus is fairly flexible in the type of magic it showcases, but there are some starting points to know so you’re all on the same page. Small, subtle magic is easily accessible to most Mages. Magic does not inherently carry a cost, we don’t track a mana pool that determines what spells we can cast, and so effects which are likely only noticed by the Mage in question may be produced at almost any time. Larger effects, more in line with advanced but still modern technology, are achievable with effort and help, or with practice. Technically, there is no true limit to what a determined Mage can achieve, but their achievement may be tempered by a great many caveats. Reality has ways of reigning in obvious magic, such that this is not a game where you can expect to see Mages casually flying through the air, being pointed up at by curious bystanders. But, a Mage’s life will be full of magic, both their own and other people’s, and it will be enough to help them with their problems, cause some other problems, but never truly make them all go away.
 
 \End{Narrator}
+
+#### _Lusus Naturae_
+
+\Begin{Narrator}
+
+While not truly required, a great many stories with magic of the style seen in Consensus include some sorts of magical beings with intelligences that are different from Mages. Here you might find vampires, werewolves, ghosts, demons, faeries, spirits, talking mirrors, familiars, and so on. Because they are common enough, there are a few moves that tell you how Mages can interact with them.
+
+All players should feel welcome to bring up _lusus naturae_ that they do or do not want to see. Many of them can be extremely overdone, but a lot of people really enjoy taking a break from purely Mage politics to go chat with a spirit court, for example.
+
+\End{Narrator}
+
+\Begin{Player}
+
+_Lusus naturae_ interact with Paradigms unusually, because they follow their own rules. They are the most likely way for a Mage to be faced with something that they consider to be totally impossible, and not just have it Backlash away instantly. If it seems like they will be a part of your game, you might want to think about whether your Mage has had any dealings with any in the past, and what they thought of it.
+
+\End{Player}
+
+\Begin{MC}
+
+If any _lusus naturae_ appeal to anyone at the table, including yourself, think about them like any other characters in the story. What role could they play in your game? Forces will usually be a good way to manage things. _Lusus naturae_ such as familiar spirits, guardian angels, and local friendly ghosts might get spots in the Internal Force, while external groups such as a faerie court or a bound demon with a corrupting influence can easily be written up as whole Forces of their own, with a cast of involved characters and a set of moves.
+
+\End{MC}
 
 ### Introduce Playbooks
 
