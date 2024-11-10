@@ -1326,37 +1326,23 @@ These are the first scenes you will be playing, so if you see the chance to have
 
 \End{MC}
 
-### Pulling in Multiple Characters
-
-\Begin{MC}
-
-When the players go around introducing their characters, make a note of any answers to the 3 questions (or leading questions you pose about those questions) that seem to synchronize with each other. You’ll use this to set those characters up in the same scene and start it off in a way that lets you learn more about the characters and the world they are interacting with. If you have 4 players and are aiming for 4 scenes, you could make each scene have two characters in it, or you could pull all 4 characters into the scene about the first question, and give each character an individual scene that addresses one of the others. During each scene you should look for places where the actions they describe would trigger a move, and have them roll it.
-
-\End{MC}
-
 ### Framing a Scene
 
 \Begin{MC}
 
 During the first session, your method of choosing scenes is a bit more structured and formulaic than it will be in future sessions. First, choose one of the 3 questions that you’re going to explore. These often make the most sense if they go in order, so any scenes about the first question before scenes about the second and so on, but that isn’t always the case. Next, pick any number of Mages who have answers to that question that could synergize. Put them into a situation that starts to explore their answers, and then start asking leading questions to probe deeper and deeper into their answers. Find out who trivialized their humanity, or how it lead them to a fundamentally different paradigm about the world, or what they most fear about being hunted. Find out anything you can while playing out the scene, and help the characters establish their ties and connections to each other while doing it. Also look for places where characters that are connected to one Mage might also be connected to another, and how both Mages might want different and competing things from that non-player character.
 
-If you’ve chosen the first question, it’s likely you’ll want to frame it as a flashback. Feel free to describe special effects and camera shots, fog clouding people’s memories and cheesy flashback chimes. Frame a scene that explores the characters’ humanity being trivialized.
-
-If you’ve chosen the second question, you will likely want to frame it in the recent past or in the present. Again, make good use of visual storytelling tropes like camera angles to establish the scene or tone. Frame a scene that questions the characters’ humanity, from an external source or even an internal one.
-
-If you’ve chosen the third question, you should set it in the present, and you should make it immediate. Make soft moves that characters need to react to while also asking leading questions to make them fill in details about the world. Frame a scene that shows them being hunted or pursued, or evidence that they soon will be or recently have been.
-
 \End{MC}
 
-#### Turning the Three Questions into Scenes
+### Turning the Three Questions into Scenes
 
 \Begin{MC}
 
-The first question asks the player to think about why their Mage’s humanity was trivialized. This should be something before they awakened to their potential as a mage, and should provide a great place to mine for scenes that take place in the characters’ mundane pasts. If you can, tie in a character’s anchors here, especially any important people or memories from their younger days.
+The first question asks the player to think about why their Mage’s humanity was trivialized. This should be something before they awakened to their potential as a mage, and should provide a great place to mine for scenes that take place in the characters’ mundane pasts. If you can, tie in a character’s anchors here, especially any important people or memories from their younger days. To keep it situated in time, it’s likely you’ll want to frame it as a flashback. Feel free to describe special effects and camera shots, fog clouding people’s memories and cheesy flashback chimes. Frame a scene that explores the characters’ humanity being trivialized.
 
-The second question asks the player to think about why their Mage’s humanity might still be in question. Awakening hasn’t solved all of their problems, and this is a fertile ground to look for scenes that include the character’s current friends, ties, relations, and troubles. If you can, tie in any relevant anchors (like Shelter), gear, what they do during an average day, and their paradigm/magic.
+The second question asks the player to think about why their Mage’s humanity might still be in question. Awakening hasn’t solved all of their problems, and this is a fertile ground to look for scenes that include the character’s current friends, ties, relations, and troubles. If you can, tie in any relevant anchors (like Shelter), gear, what they do during an average day, and their paradigm/magic. You will likely want to frame it in the recent past or in the present. Again, make good use of visual storytelling tropes like camera angles to establish the scene or tone. Frame a scene that questions the characters’ humanity, from an external source or even an internal one.
 
-The third question asks the player to think about why they might be hunted. This could take on a positive or a negative connotation, so try to get a sense of that before you frame the scene or even decide which characters are going to be in it. Generally it might be easier to group characters who feel positively about being hunted with like, and same for negative, but look for places where that isn’t true, and see if you can frame a scene around that. Make sure to ask a lot of leading questions in scenes that focus on this question, players will likely give answers that lead directly to your most interesting Forces.
+The third question asks the player to think about why they might be hunted. This could take on a positive or a negative connotation, so try to get a sense of that before you frame the scene or even decide which characters are going to be in it. Generally it might be easier to group characters who feel positively about being hunted with like, and same for negative, but look for places where that isn’t true, and see if you can frame a scene around that. Make sure to ask a lot of leading questions in scenes that focus on this question, players will likely give answers that lead directly to your most interesting Forces. You should set it in the present, and you should make it immediate. Make soft moves that characters need to react to while also asking leading questions to make them fill in details about the world. Frame a scene that shows them being hunted or pursued, or evidence that they soon will be or recently have been.
 
 \End{MC}
 
@@ -1364,11 +1350,21 @@ The third question asks the player to think about why they might be hunted. This
 
 \Begin{MC}
 
-In addition to playing to find out what happens, during these scenes you should ask questions that get at things which interest you and seem like they might be useful to build on. Leading questions help ensure that the player will have an answer, and doesn’t just feel overwhelmed with the need to make up more details about their character than they know. Don’t just ask "What was school like?" Instead ask, “What was the name of your biggest bully in High School? What did they do to you?” Build on the answers, so if the player answers “Kevin James, he took my lunch money”, maybe ask why Kevin singled you out over the rest of your classmates.. You’re seeking answers that will not only help you characterize the Mages, but also demonstrate answers to the Mages’ three questions, and help you understand their Stressors. You even may be able to ask questions that start to develop parts of the world that may be used as Forces. Asking an Inspired who sells “Chemically Assisted Experiences” the question “Who are your most reliable customers?” might suggest a group that could easily become a Force.
+In addition to playing to find out what happens, during these scenes you should ask questions that get at things which interest you and seem like they might be useful to build on. Leading questions help ensure that the player will have an answer, and doesn’t just feel overwhelmed with the need to make up more details about their character than they know. Don’t just ask "What was school like?" Instead ask, “What was the name of your biggest bully in High School? What did they do to you?” Build on the answers, so if the player answers “Kevin James, he took my lunch money”, maybe ask why Kevin singled you out over the rest of your classmates.. You’re seeking answers that will not only help you characterize the Mages, but also demonstrate answers to the Mages’ three questions, and help you understand their Stressors. 
+
+Whenever you can, ask questions that start to develop parts of the world that may create tension or even be used as Forces. If the Pious needs a steady supply of blessed incense and the Primordial makes it as a side hustle, then draw attention to that, and take it one step further, asking "who else wants the incense? Have they ever bought up your entire stock?" Imagine networks of desire and map them out, mentally or on your Forces sheets. Similarly, asking an Inspired who sells “Chemically Assisted Experiences” the question “Who are your most reliable customers?” might suggest a group that could easily become a Force.
 
 You can sometimes use leading questions to push the world in a particular direction. If you ask the Hedge Mage, "What did you offer to the Star Cult in order to ensure your herb chest is always full?" you’re establishing that there’s a Star Cult, and giving the option for the Hedge Mage to be making dubious deals. If you add “that you didn’t want to?” to the end, it becomes even more pointed.
 
 You can go deeper here than earlier in character creation, as long as the answers keep giving the table interesting stuff to work with.
+
+\End{MC}
+
+### Pulling in Multiple Characters
+
+\Begin{MC}
+
+When the players go around introducing their characters, make a note of any answers to the 3 questions (or leading questions you pose about those questions) that seem to synchronize with each other. You’ll use this to set those characters up in the same scene and start it off in a way that lets you learn more about the characters and the world they are interacting with. If you have 4 players and are aiming for 4 scenes, you could make each scene have two characters in it, or you could pull all 4 characters into the scene about the first question, and give each character an individual scene that addresses one of the others. During each scene you should look for places where the actions they describe would trigger a move, and have them roll it.
 
 \End{MC}
 
