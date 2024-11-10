@@ -977,7 +977,7 @@ Your Forces will also inform what you say. Not only from their Force moves, but 
 
 Like we mentioned above, sometimes you’ll want to turn questions back on the person who asked them, or turn them over to the group at large. *"That’s a good question, who are the Frat House’s biggest rivals?"*
 
-Sometimes you’ll want to let your narration wander a little bit. Imagine looking idly at the scene, like you’ve paused a movie, and notice some detail, something not at all relevant or material to the scene, and describe it. For example, *"here’s no heater in this basement, but there is an intricate symbol etched into the wall. It looks faded now, but you can just catch a sense of heat, and looking deeper into it the lines curve in on themselves like licking tongues of flame…"*
+Sometimes you’ll want to let your narration wander a little bit. Imagine looking idly at the scene, like you’ve paused a movie, and notice some detail, something not at all relevant or material to the scene, and describe it. For example, *"There’s no heater in this basement, but there is an intricate symbol etched into the wall. It looks faded now, but you can just catch a sense of heat, and looking deeper into it the lines curve in on themselves like licking tongues of flame…"*
 
 Zoom in and out of scenes sometimes. Sometimes you’ll want to plan out a ritual in exacting detail, and describe everyone’s every motion as they contribute to it, but then partway through the ritual, say "And the rest of it goes off without a hitch." Same goes for between sessions. Sometimes you’ll want to pick up moments after the last session finished, other times you can make it days or weeks later. Use your judgement, and do what’s fun for you and the rest of the table.
 
@@ -1019,7 +1019,7 @@ You can also start to come up with some ideas for fantastic imagery to use, sett
 
 This is a game centered around humans with magical abilities, called Mages. It is set in modern, or at least semi-modern, times, in a world that looks more or less like our own, at least to ordinary people. It is meant to explore questions of humanity. It will not glorify violence, having power over your fellow humans, or exclusionary rhetoric. We get enough of that in the default reality, and Mages are drawn from marginalized communities as a general rule, not from those who already have the most power.
 
-Roleplaying involves vulnerability, and any game set in familiar times and dealing with philosophical questions can easily bring up topics that may make some people uncomfortable or even unwelcome. We very much want to support the use of the game to explore personal issues, but never at the expense of the players’ wellbeing. Thus, before even looking at the characters, here are some rules to follow throughout the game to help everyone push themselves exactly as far as they want to go, but no farther.
+Roleplaying involves vulnerability, and any game set in familiar times and dealing with philosophical questions can easily bring up topics that may make some people uncomfortable or even unwelcome. We very much want to support the use of the game to explore personal issues and growth, but never at the expense of the players’ wellbeing. Thus, before even looking at the characters, here are some rules to follow throughout the game to help everyone push themselves exactly as far as they want to go, but no farther.
 
 \End{Narrator}
 
@@ -1219,6 +1219,12 @@ Once everyone has the basics of their characters decided, go around the table an
 
 \End{MC}
 
+\Begin{Narrator}
+
+As everyone introduces their characters, people will likely start to suggest ideas about how they could be connected, or involved with pieces of the world that are brought up. That’s great! Try not to get too bogged down with it, but these connections help build the world the characters will inhabit.
+
+\End{Narrator}
+
 #### Paradigm
 
 \Begin{Player}
@@ -1239,9 +1245,7 @@ Talk about what the character looks like, using the traits on the character shee
 
 \Begin{Player}
 
-This is one element that can be skipped if the themes of the game suggest it won’t be relevant any time soon. But, describing the Preparations gives a specific example of how the Mage’s Paradigm functions, as well as what they are likely to look like if they do end up in danger.
-
-As everyone introduces their characters, people will likely start to suggest ideas about how they could be connected, or involved with pieces of the world that are brought up. That’s great! Try not to get too bogged down with it, but these connections help build the world the characters will inhabit.
+Describing the Preparations gives a specific example of how the Mage’s Paradigm functions, as well as what they are likely to look like if they do end up in danger, or when things aren't going their way.
 
 \End{Player}
 
@@ -1283,7 +1287,7 @@ Your character needs a Flag, which is a way that you think it would be interesti
 
 \Begin{MC}
 
-Make a table on a piece of paper or something everyone can see, and record the flags as the players tell you theirs, so everyone can see what flags are available to them and which ones they've already hit. These Flags will help the players tell each other what kinds of early interactions they are expecting and hoping for, as well as a chance to start gaining experience right away. Because the Mages are new to the game, it’s likely they will be simple, and may even be based on things that the players expect to become quite common. Help anyone who is having trouble to come up with a fairly basic flag. A good standby would be something that causes them to trigger one of their Playbook Moves.
+Make a table on a piece of paper or something everyone can see (or print the blank one provided), and record the flags as the players tell you theirs, so everyone can see what flags are available to them and which ones they've already hit. These Flags will help the players tell each other what kinds of early interactions they are expecting and hoping for, as well as a chance to start gaining experience right away. Because the Mages are new to the game, it’s likely they will be simple, and may even be based on things that the players expect to become quite common. Help anyone who is having trouble to come up with a fairly basic flag. A good standby would be something that causes them to trigger one of their Playbook Moves.
 
 \End{MC}
 
