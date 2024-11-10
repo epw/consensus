@@ -1595,7 +1595,7 @@ When this happens, write down on a sheet of paper everyone can see, a short desc
 
 \Begin{Narrator}
 
-Sometimes, Reality fights back. When a mage backlashes, if they are unlucky, they may find themselves in a reality break, a way the Consensus protects itself. [Reality Breaks](RealityBreaks) have two Status Tracks, which race each other.
+Sometimes, Reality fights back. When a Mage Backlashes, if they are unlucky, they may find themselves in a reality break, a way the Consensus protects itself. [Reality Breaks](RealityBreaks) have two Status Tracks, which race each other.
 
 \End{Narrator}
 
@@ -1605,7 +1605,7 @@ One Status Track describes how close the Mage is to escaping. You keep track of 
 
 "When **\[trigger\]**, advance the Reality Break Escape status track."
 
-The race that the two Status Tracks create will put some fairly serious pressure on your Mage, if they’re aware of it, or at leaston you. If the Mage is completely unwilling to change their ways, they could succumb in just a few scenes. However, since the trigger for the escape Status Track should be easy for you to hit, your Mage should be able to free themselves if they are willing to learn the lesson offered.
+The race that the two Status Tracks create will put some fairly serious pressure on your Mage, if they’re aware of it, or at least on you. If the Mage is completely unwilling to change their ways, they could succumb in just a few scenes. However, since the trigger for the escape Status Track should be easy for you to hit, your Mage should be able to free themselves if they are willing to learn the lesson offered.
 
 If your Reality Break Escape status track reaches Code N, your Mage has escaped. They might be disoriented, and they might be upset or just relieved, but whatever it is, they're back in the normal, shared world with everyone else.
 
@@ -1623,7 +1623,7 @@ The race that the two Status Tracks create should put some fairly serious pressu
 
 If the escape Status Track reaches Code N, the Mage returns to their normal reality in an appropriate way. For Reality Breaks that were all in the Mage’s head, they stop experiencing the hallucinations or visions, which might be jarring, but is fairly simple. For a pocket dimension, its expulsion of the Mage might be more dramatic. It shouldn’t be Rending, but the Mage might suddenly turn up near where they disappeared, potentially disoriented or otherwise in bad shape. The pocket dimension normally ceases to exist at this moment.
 
-If the strength of the Reality Break reaches Code N, then the Mage is trapped in that reality permanently. They are no longer a playable character. If the Mage was in a pocket dimension, then it likely disconnects from reality entirely and floats away. For other Reality Breaks, the Mage might leave reality of their own accord, or may keep seeing the world in their own unique way, now too far out of touch with reality to affect it normally. The MC may bring them back as a threat later, and as these mages are unbound by the laws of the Consensus they can be very dangerous for everyone.
+If the strength of the Reality Break reaches Code N, then the Mage is trapped in that reality permanently. They are no longer a playable character. If the Mage was in a pocket dimension, then it likely disconnects from reality entirely and floats away. For other Reality Breaks, the Mage might leave reality of their own accord, or may keep seeing the world in their own unique way, now too far out of touch with reality to affect it normally. You may bring them back as a threat later, and as these mages are unbound by the laws of the Consensus they can be very dangerous for everyone (Outsider and Aspirant Force Types are particularly relevant here.)
 
 When a reality break is created, follow the steps of the move: 
 
@@ -1637,7 +1637,7 @@ When a reality break is created, follow the steps of the move:
 
 * Choose a trait of your paradigm to be explored by the break
 
-    * The traits to choose from are the name of the paradigm, the Aligned, the Capability, or either of the Opposed.
+    * The traits to choose from are the name of the paradigm, the Aligned, either of the Opposed, or, if present, a Restriction.
 
 * Decide what the reality break looks like
 
@@ -1649,7 +1649,7 @@ When a reality break is created, follow the steps of the move:
 
     * Expand a bit on what this world you are creating, and what it means for the character stuck in it. If the fantasy overlay is that nothing has names, think about how there will be no street signs and the character is fundamentally lost, and how they will not be able to talk about many specific things with proper nouns.
 
-* Write a move to advance it’s status track
+* Work with the player to write a move that advances the Reality Break Escape
 
     * If you are exploring an Opposed or Capability, it can be good to have this move be something that reasserts the Mages paradigm (so acts against the Opposed) but doesn't push back against the world too hard.
 	
