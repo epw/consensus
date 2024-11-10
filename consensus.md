@@ -2757,21 +2757,27 @@ This is another section addressed entirely to the MC. Like elsewhere, it's perfe
 
 \End{Player}
 
-\Begin{MC}
-
 Forces are one of the main organizational structures used in MCing Consensus. They give you a way to keep track of what powers are in the world, and how far along they are in their goals. You make Forces between sessions, collating what you know about the story and where you imagine it may go.
 
 A Force can be many things: It might be an ambitious organization, some lusus naturae from Elsewhere, or even a collection of cursed items, each with their own motivation. The point is to gather them together for your own records, and know what happens when they act. That’s where the name Force comes from: they are things which will act, and make changes in the world.
 
-Note that Forces can be allies or enemies, or neither. They may have their own agendas, but at times, some Mages may realize that they do not want to impede a Force, and indeed wish to help it along. In addition, what is a positive Force to one Mage might be a negative Force to another. Forces are complex. No Force should simply exist to be defeated.
+Note that Forces can be allies or enemies to the Mages, or neither. They may have their own agendas, but at times, some Mages may realize that they do not want to impede a Force, and indeed wish to help it along. In addition, what is a positive Force to one Mage might be a negative Force to another. Forces are complex. No Force should simply exist to be defeated.
 
-Finally, Forces should not have perfectly aligned goals. If they do, then it is really once Force being described. They do not have to be active enemies of each other, but even very positive Forces in the world can find themselves pushing in different directions.
+Finally, Forces should not have perfectly aligned goals. If they do, then it is really one Force being described. They do not have to be active enemies of each other, but even very positive Forces in the world can find themselves pushing in different directions.
 
 ## Parts of a Force
 
 Forces are tracked on the Force Sheets, so that you can easily reference them while playing. They should put the information you need front and center so you can quickly make decisions, reference established facts, and record important changes.
 
 Forces have a name and a brief description, so that you can keep reminding yourself of what they are. A Force that hasn’t been seen in a little while might have slipped your mind, especially if it’s a long time between games, so err on the side of being descriptive. "Ghost Pirates!" is a lot better than “What Comes from the Mists”, even if it’s more trite.
+
+### Sidebar: Uncertainty and Prescription
+
+Don't actually feel locked into what you write down. In fact, in several places where you would put something concrete, you will have space to write down two possibilities. Take advatage of that! Write details with question marks where you aren't sure.
+
+This is mostly to remind you that you should always follow your Agenda and Principles, and if you find out something isn't working, or realize something that could work better, you can change it!
+
+This is also why, even though it may be against your instincts, you don't need to treat your Forces sheets as top secret documents that must be hidden from the other players. Let them see you take notes on them, get ideas, add possiblities. Ask them for a detail and then note it on the appropriate Forces sheet! Sometimes you may be more certain, but secrets tend to come out quickly around Mages, so be ready for that happening anyway. It's better to write down the possilibities, but leave it clear that they are just possibilities, and let a player see them and say "Oh, I was thinking the artifact would actually be like this..." than to spend many sessions building up a grand reveal that falls flat.
 
 ### Stressor
 
@@ -2807,7 +2813,7 @@ The available types are:
 
 * Outsider
 
-* Asparant
+* Aspirant
 
 * Place of Power
 
@@ -2935,7 +2941,7 @@ Write down anything you already know about this Force. For example, you might kn
 
 Step three:
 
-Choose a Type for this Force, and then choose one of the subtypes from the list below.
+Choose one of the subtypes from the list below for the force type you selected.
 
 Organization
 
@@ -3140,6 +3146,76 @@ Step eight:
 
 If you have used up each Stressor from your initial list, you’re done! Otherwise, return to step 1
 
+### Example Forces
+
+#### Society of the Dragon
+
+**Step 1**: This Force will be based off of Envy, which came up in three scenes in the first session. I choose Organization, and I'm thinking about a secret society that is sure they have the one right way to be a Mage.
+
+**Step 2**: I'm not sure what to call this yet, but in one of the scenes about a Mage being hunted, we saw someone named Nimoy, who I will add to the Cast as one if the society's contrators, if not a member. I think they might want to collect magical items and places of power, because riches can show, to their minds, proof of their own correctness.
+
+**Step 3**: They will be an Acquisitive Organization, with the impulse "gain resources or knowledge." They aren't looking to rule per se, they don't want many more members, and it seems interesting to leave open the possibility of turning some of them against their fellows, so none of the others fit as well.
+
+**Step 4**: Given the stressor "Envy", and the impulse "gain resources or knowledge", the interesting moves seem like:
+
+-  Conceal Weakness (because it's easier to cause envy if you have hidden your imperfections)
+-  Use Their Tricks Against Them (because these are other Mages, capable of a lot)
+-  Sabotage Their Strengths (this will reflect the Society's collected powers already, good at undermining Mages)
+
+**Step 5**: I make up the name "Society of the Dragon," because it makes the fact this is an Organization clear to me, and dragons are associated with magic, and, to a lesser extent, with colonization.
+
+I add some relevant members to the cast:
+
+-  The current leader who can be referenced as a shadowy figure: Magus Helena, who is probably something like a Cabalist.
+-  The kind of low-level lieutenant likely to be the first "face" of the group the Mages interact with: Mx. Vassen, about on the same level as starting Mages but with a history in the group.
+-  And I already have Nimoy, the hunter, who is sent out on special missions.
+
+This Force will likely work best with other Forces that they can attempt to capture or otherwise gain power over, so I will keep that in mind as I write the others.
+
+**Step 6**: This group could go in a lot of directions, so I'm going to write a few possibilities as a starting point. For Code N I put "Steals something too big for them to control? / Achieves control over what gets into and leaves the city?"
+
+I'll narrow it down once I've seen some scenes with this group.
+
+**Step 7**: I think Code 20 and Code 40 are simpler, as they are just making progress.
+
+-  Code 40: The Society steals a magic item
+-  Code 20: The Society gains another place of power
+
+This indicates magic items are rare enough that it matters when they steal one, and that with another place of power they will really begin to start enacting larger plans.
+
+#### Fated to Die
+
+**Step 1**: One of the players told me they wanted a character who had a destiny to die, soon (as opposed to peacefully at the end of a long life.) Sure, I can write that up. Their character didn't exhibit the Stressor Control, but several others did, and it seems like a good one here. Fate or destiny or whatever falls under the type "Outsider".
+
+**Step 2**: What I know is from the first session is that fate exists enough for it to be relevant that a Mage has a destiny prophecizing their death. Mages have a lot of agency, and Consensus isn't really structured to support inevitable outcomes. So, fate should be something that can be struggled against. It probably should be difficult to beat, and take advanced fate-changing magic, but be possible.
+
+If the one character is fated, what are the fates of the other characters?
+
+Will it make sense to have "agents of fate" as characters to struggle against? That could fit, depending on how the Mages deal with fate.
+
+**Step 3**: One of the Outsider subtypes has the impulse "to become more real", which sounds exactly right for a fate that has not come to pass yet. That one is "Ephemeral" so that's what I'll go with.
+
+**Step 4**: Control has several moves which seem extremely relevant for fate:
+
+-  Enforce Dominant Paradigm (death being one of the constants in life makes it pretty dominant)
+-  Spring an elaborate trap (this is what it can feel like when fate closes in on you)
+-  Demonstrate Power (this will come into play when the Mages try to change fate)
+
+And potentially, I will also add "Introduce a new enemy agent" if "agents of fate" becomes a part of this.
+
+**Step 5**: I'll just call this "Fated to Die." No cast is likely to come up for now, and the point is that one of the Mages is going to die in some hopefully-heroic situation. This means proper buildup would involve the risk increasing, signs on the horizon of sacrifices being necessary, and maybe some near misses. These are all pretty standard tropes for Consensus anyway, but it's good to keep in mind.
+
+This Force can also justify anything getting worse caused by any other Forces in the game, since it's not like Fate should manifest itself to act in the world.
+
+**Step 6**: Code N is obvious: the character dies.
+
+**Step 7**: The other Codes are a little harder, but, thinking thematically, a reasonable pair of guesses are:
+
+-  Code 40: A vision of the character's death?
+-  Code 20: A difference Force hits Code 10
+
+This accounts for some more foreshadowing and the idea of the character's death gaining strength in the consensual reality of the game, and things with another Force heating up such that things are desperate.
+
 ## Special Forces
 
 There are two other types of Forces for the MC to keep track of, and they represent other crucial parts of the world. They also have fewer parts to them than the other Forces and should be easier to keep track of. The Internal Forces contains any relationships that don’t belong in other forces, like many Anchors, members of a Cabal, or Students. This isn’t to say that those characters might not find a home with another Force though, which could lead to interesting choices for any mages that they’re close to. The Consensus Force represents force being exerted on the local Consensus, and is almost always in control of one of the other Forces.
@@ -3166,7 +3242,11 @@ The Cast of a Force can constantly be in flux, as new characters who are members
 
 Moves usually shouldn’t change, since they are core to the Force. You might add more from the appropriate Stressor’s list, if you have less than three written down and discover a new one that makes sense. The moves also might change during a major event, such as the Force hitting Code N. In the reconfiguring that happens as a new goal is selected, old capabilities may be abandoned or made irrelevant, and they may seek or discover new methods.
 
-\End{MC}
+### Changing Sides
+
+One of the most meaningful reasons you might change a Force is because the other players took it in a wildly different direction than you expected. Maybe something you thought would be a small side story actually becomes much more significant than you imagined, and the players keep building it up and making it scarier than you expected. Go ahead and run with this! They will feel good that they predicted something, and will have told you exactly what would hit hardest.
+
+Mages might try to get along with a Force that you expected to be an enemy. Maybe they try to talk to the cast of that Force instead of fighting them, or maybe they decide they overall agree with the Force's direction. Be open to this, and think carefully about what changes this might mean the Status Track needs. In some cases, it won't change: the faerie court is going to enchant people to believe in magic whether the Mages are opposing them, or helping, and the Code N outcome in which the town becomes a new haven for monsters is just more likely now. The next step may change, however, whether the Mages are now fighting against the new force of monsters, or are on the side of the monsters, defending them from incoming national guard. In other cases, you might want to change or completely rewrite the status track. Maybe the Force itself had a change of heart and now wants something new. Keep it dramatic and liable to change the world, whether it's supported by the Mages or not.
 
 \setlength{\parindent}{0em}
 
