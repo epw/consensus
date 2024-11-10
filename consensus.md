@@ -2259,7 +2259,7 @@ Money is hard to deal with. In some games, it makes sense to simply keep track o
 
 To represent this, money in Consensus is handled abstractly. Prices are given as a number of Savings that have to be spent. Importantly, this number of Savings is supposed to be roughly the same for different characters, but the details and quality of the good or service will depend on the character’s in-fiction wealth. For example, "a nice meal for two" is listed as one Saving. The difference is, if those two work minimum wage jobs, it might be a meal at their favorite chain that includes dessert. If they are a movie star and an internationally-featured artist, it’s probably a custom creation by a personal chef.
 
-Your character has a certain number of Savings, beginning with the amount listed under their Starting Gear. Subtract from this when told to, usually spending or Anchor upkeep. The MC may also you to increase your Mage's Savings, such as when getting paid for a job, or selling something valuable. A steady job can be difficult for a Mage to keep up, however, it does somewhat guarantee a supply of Savings, which can be worth it.
+Your character has a certain number of Savings, beginning with the amount listed under their Starting Gear. Subtract from this when told to, usually spending or Anchor upkeep. The MC may also tell you to increase your Mage's Savings, such as when getting paid for a job, or selling something valuable. A steady job can be difficult for a Mage to keep up, however, it does somewhat guarantee a supply of Savings, which can be worth it.
 
 Of course, your Mage can shapes Reality to their whims and can decide that money is a problem for other people, and seek to circumvent it with magic. If you aren’t changing a bartender’s mind to add it to their tab just this one more time, you might have the $20 you need blow in on a dust devil, or win a small lottery, or go digging for buried treasure in your backyard and, incredibly, find a chest of pirate gold. This does have all the usual rending dangers of repeated coincidence, of course. It is much more harmonious to change things up, than to keep diggings holes in your yard until the Consensus sits up and takes notice.
 
@@ -2473,6 +2473,8 @@ This represents a more profound change to the way your character approaches the 
 In any case, the character’s core self doesn’t change, so by default they keep their name, looks, Anchors, stats, and any moves that seem particularly iconic. That being said, this is a great time to shake anything up if it seems like it might make sense. Perhaps the character switches one of their anchors, and explains how that happens in the world, or changes the general look of their eyes or aura.
 
 If you take this advancement, you'll negotiate with the table about what aspects of the old playbook transfer over to the new one. Generally we advise that you should be able to keep one move from your old playbook that was particularly iconic to the way you played them. We advise that you pick a Paradigm from the new playbook, but perhaps keep elements of your old paradigm if they make a lot of sense to stick around after such a big change. For Gear, the easiest thing to do is either keep your old playbook gear, or take the gear from the new playbook, but the table can talk about it if some things make sense to transfer over, and you also want some of the gear the new playbook offers. 
+
+Note that this is the main way to change your Opposed aspects! It can represent your character synthesizing their lessons and experiences and being able to do things that were completely impossible for them to conceive of before. The new Opposed should be kept in mind to reflect what limitations do still exist.
 
 #### Start a second character
 
@@ -2732,6 +2734,18 @@ Don’t use this to copy other playbooks’ moves, especially moves that are alr
 Finally, characters advance within the context of the story. A character gets some money and buys a new car, and now has a reliable means of getting around. A character meets a long-lost cousin and now has a new connection to their family. A character finally builds the library they’ve always meant to. Often, due to the descriptive nature of the rules, it is possible to fit these things into the mechanics. New acquaintances can become Anchors or Inspirations, a library might be a place of power, but just because it doesn’t fit doesn’t mean it doesn’t matter. There are also changes that aren’t precisely mechanics but interact with them: If you quested out and gained a vial of sacred water from the lake inhabited by the last mermaid, perhaps you now have a resource that could be consumed to do magic within your Paradigm but beyond your abilities.
 
 \End{Player}
+
+## Endgame
+
+\Begin{Narrator}
+
+Consensus is structured around 6-12 sessions for a "complete" game, most of the time. By the end, a character can certainly amass a large amount of mechanical power: Get a couple Advanced Moves, change playbooks and keep some of the old one, and a character can easily become far more powerful than they started, and possibly more powerful than others at the table who didn't try to exploit the system in this way. We believe that in the limited number of sessions, no character will be able to become so powerful that they can simply solve all of the problems in front of everybody. After all, they still have to balance their Anchors and Inspirations, still have to exist in a community, and as they attract more attention, new Forces can come their way. The MC and other players should always think about what it means when someone tries to solve everything with magic, and keep focusing on unstable points, as always.
+
+If the game turns into a story in which everything is finally fixed for real, and everyone can live happily ever after, it is probably time to wrap up. Hopefully it was inspiring. Maybe some of the lessons can be brought out into the rest of your lives. And if they don't work as well there, maybe there was more that could have been brought in to challenge the Mages after all.
+
+There is also always the option to continuing the game by customizing it ever farther. We will not be able to predict what your table needs, but see the {{linkHacking Chapter}} for some of the tools you can use.
+
+\End{Narrator}
 
 \newpage
 
