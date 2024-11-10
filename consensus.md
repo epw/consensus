@@ -1925,15 +1925,19 @@ You’ll set up your initial flags during the first session. Flags are special s
 
 Among the many improvement options available to your playbook, you may see options such as Gain another [playbook] move, Gain a move from another playbook, or Gain an advanced [playbook] move. Moves from your playbook are listed along with the moves you picked from when creating that character. Choose an additional one, and you now have access to it. When you gain a move from another playbook, try to choose one that someone else isn’t playing, or at least talk with the player using that playbook. The playbook moves are part of what make characters feel unique, and you don’t want to diminish that. When you gain an advanced playbook move, choose from the ones listed in this book for your playbook. These moves will radically alter the game and story, your whole table should be prepared for what that means.
 
+Also see the {{linkImprovement Chapter}} for more on ways moves can be involved in Mages becoming more accomplished.
+
 \End{Player}
 
 \newpage
 
-# Stacking Moves
+# Ongoing Play
+
+## Stacking Moves
 
 \Begin{Player}
 
-This chapter is addressed to the MC, since it's their job to call out when moves trigger, to make scenes flow, and generally keep the game running. However, if you're having trouble understanding what moves are like in play, this is a particularly good chapter for you to read anyway.
+This section is addressed to the MC, since it's their job to call out when moves trigger, to make scenes flow, understand the rules for tricky character situations, and generally keep the game running. However, if you're having trouble understanding what moves are like in play, this is a particularly good section for you to read anyway.
 
 \End{Player}
 
@@ -1980,6 +1984,44 @@ Zuri’s player smirks. "You know, Eisen, magic requires sacrifice…." As Eisen
 Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to give a -1 to that roll, because I did *just* say that magic requires sacrifice." “It’s true, you did,” I say. “Alright, roll +Without minus one.” “That Zuri, so convincing,” remarks Eisen’s player, as they start to roll. “10! No, wait, minus one, it’s a 9. Curse your silver tongue.”
 
 "Alright, so Hector will need proof that they’ll get what they want, or will need it before they do anything for you, so I think Hector shakes his head. ‘Nah, you don’t understand. I really need this right now. I’m just gonna AirDrop it over to my phone..." Eisen’s player just kind of shrugs, so I say, “You realize that if Hector does that, this playlist won’t be ‘new’ anymore. It will stop feeding your inspiration. You were sure you were going to get another day or two out of this at least.” I’m **telling the possible consequences and asking**. Eisen lets out a long-suffering sigh. “OK, sure. Hang on, while my Source is still kind of present, at least for Hector, can I spend one of my Hold to bring the positive tag into play? It’s +invigorating, so maybe it breaks Hector out of their enchantment?” I nod, and now Eisen’s player gets to narrate what this means for the moment. They say, “So as the music swells, it starts to give Hector a rush of energy, and then clarity. Finally, the music hits and holds a single note, that resonates like a tuning fork and then shatters the enchantment.” “Great!” I continue. “Hector shakes his head to clear it and looks around. ‘Zuri? When did you get here? I think someone dangerous has been lurking around!’”
+
+\End{MC}
+
+## Losing Characters
+
+\Begin{Player}
+
+Mages in Consensus lead dangerous lives. Not only does this imply certain hazards, if they stop leading dangerous lives, that also means they stop being full Mages (at least, the kinds of mages run by players who aren't the MC).
+
+The Death move, "when your **Harm reaches Code N**", can result in a Mage dying from their injuries (whether immediately, or slowly, due to their Harm track slipping.) There are many ways out of this, from rolling well (possibly assisted by those in the position to do so), to using magic to fix a bad roll, to losing Anchors. But, if none are available, the Mage is dead. The MC should give the moment weight and extend the scene as needed as the Mage shares final wisdom or leaves a lasting curse, or some other appropriate end. But also remember that a lot can happen beyond death. Has the game established ghosts? Do Mages reincarnate? Is resurrection a possibility? Death should never be trivial, but neither is it simple.
+
+For a much more peaceful option, the "Retire to Safety" advancement is how to ensure that a Mage finally escapes most of the risk they have been enmeshed in. It does not mean they get everything they want, but you can work with the MC to describe what situation your Mage enters to put them as far out of harm's reach as anyone can be. In some games this might mean going into a witness protection program with a changed name and only the most secret, furtive magic. In another, it simply might mean moving several hundred miles away. In any case, it does mean the Mage is no longer played actively. They still could come up as an MC character, if appropriate, but they will not be getting into any adventures. They gave up that life.
+
+One more defined "end" for a Mage's story as controlled by a player is a reality break. If a Mage fails to escape the reality break before its status track reaches Code N, then they have become Lost in Discord. In the case of a full pocket dimension, they likely float off within this dimension, no longer a part of this reality. Any attempt to find them would not only be immensely difficult, it would also be dangerous, as rescuers would have to enter a reality essentially controlled by their subconscious mind. Other reality breaks might leave the Mage within this reality, but perceiving it in a fundamentally different way, one not as amenable to collaboration as player Mages. They, too, could become an MC character, but one that is a threat, and possibly a Force, in its own right.
+
+Other, weirder things may happen as well. A Mage might become lost while walking between spirit realms. Or they might fall so deeply under a curse that nobody knows how to fix them. Really, there is no end to the possible trouble a Mage might get into. And finally, a Mage who reaches true Enlightenment has probably passed beyond the bounds of being a player character. Normally, you will probably want to stick with them and play through what happens! But sometimes it might feel right to say that this is where the Mage's story ends: with mystery.
+
+In any of these cases, you have a few options. Pick what appeals to you, what works for the table, and what makes sense in the story so far.
+
+If you have already started playing one or more additional Mages by using the "start a second character" rules, simply refocus on them.
+
+With permission, take over another player's secondary character, or an MC character. This lets you take advantage of existing connections and relationships.
+
+You could start a new character entirely: Pick an unused playbook (and probably not the one for the character you just lost, either), fill it out, and talk with the MC and other players about how this new Mage enters the picture, and how everybody reacts to them.
+
+Or, you could use this moment to change up the game at a deeper level. Maybe you'd be interested in trying your hand as MC, and the MC could grab a playbook and start a Mage of their own. Maybe you'd like to spend a few sessions just observing and considering your next move. Don't feel boxed in!
+
+Finally, note that custom moves for the game can change the rules around death and other character loss as easily as any other. If the table has decided on a Line "no involuntary character loss," then perhaps the MC will write moves to account for what happens when a Mage would die or become lost in Discord. Some games work best with different kinds of ultimate threats.
+
+\End{Player}
+
+\Begin{MC}
+
+You should never make a player lose a character due to a misunderstanding, or without warning. It can happen quickly: if you've made it clear to a player that their character is attempting something etxremely dangerous and the outcome will be up to the dice, and they roll poorly and are out of tricks, then it just might happen. But the player being informed is key. This is a game that encourages being very invested in the characters, and that shouldn't all be wiped away for nothing.
+
+Pay attention to what the other players seem to want when you decide what to do next. Is this the kind of game where resurrection magic seems like it should be difficult, but doable? An area for cutting-edge magical research? Possible, but always terribly Rending? Can a character actually be brought back from being lost in Discord? You have a lot of options, and should look to your Agenda and Principles to help guide you.
+
+Do respect a player's choices. If their character retired to safety, no fair killing them off off-screen to raise the stakes. If their character fell into persistent Discordant visions, remember what they were like and have the character come back as an enhanced embodiment of what those visions mean. Let a character's mark on the story remain.
 
 \End{MC}
 
