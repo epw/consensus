@@ -53,7 +53,7 @@ If you see a section that looks like this, we are talking to you in your role as
 
 First off, you’ll need around 3-6 people, and not just any people, you’ll need the type of people that are into this sort of thing. People who enjoy pretending, imagining, and playing together, and people that can trust one another, people who feel safe with each other. You're the MC, and the rest of the players will play Mages. (Unless you don't want that much responsibility, in which case, see if you can pawn this role off onto one of them.) More people than that and it will be hard to keep everyone involved and keep track of everything that’s going on.
 
-You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Advanced moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper, and writing utensils to go around. You won't need dice for yourself, this isn't that kind of game, but might want to have a few pairs of six-sided dice for the other players.
+You’ll need to have printed one copy of each of the Playbooks, several copies of the Basic and Extended moves, the MC sheet, and the character summary sheet. You’ll also need a few more pieces of blank paper, and writing utensils to go around. You won't need dice for yourself, this isn't that kind of game, but might want to have a few pairs of six-sided dice for the other players.
 
 \End{MC}
 
@@ -101,7 +101,7 @@ Then, the MC will start framing scenes, describing something that encourages act
 
 \Begin{MC}
 
-The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time the other players look to you to see what happens next, or ask you a question about the world, you respond with one of your moves. When the players describe what their characters do, it will often trigger one of the Basic moves or one of the Playbook moves. If not, you respond with one of your moves. The structure of the players' moves is as follows:
+The basic building block of a conversation in a classroom might be question and answer. In Consensus, the basic building blocks of our conversations are the Moves. Any time the other players look to you to see what happens next, or ask you a question about the world, you respond with one of your moves. When the players describe what their characters do, it will often trigger one of the common moves or one of the Playbook moves. If not, you respond with one of your moves. The structure of the players' moves is as follows:
 
 The Trigger: This part will be bolded on the moves sheet or playbook. It takes the form of **"When you [do something]"** and may be very specific or may be more broad. In either case, when a player says that their character does something that fits one of these moves, you should call for them to roll it. If a player does not wish to roll that move, they should change their narration of what their character does so that it does not trigger the move. Likewise, a player should never just say “I want to roll [move].” If they do, have them describe their character doing something that triggers that move. If they are describing something close to one of the triggers, you can help them by suggesting how they could trigger the move. Players can not roll a move without their character taking the action that triggers it, and can not have their character take an action that triggers a move without also rolling it. When in doubt, ask "OK, how do you assert your Paradigm," or whatever.
 
@@ -587,7 +587,7 @@ Save up those images that speak to you from your favorite media about magic. Don
 
 **Create Ephemera**
 
-During the game things will come up that need a visual, tactile, or written aid. Draw maps of the cities, write the Mages letters from their mentors on aging parchment, write down the steps of a ritual to be included in a grimoire many years down the road. Play music or ambient sound if it fits the mood. Sketch characters, make props, bring the magic to our world just a little bit. [Add something about the image of the MC handing materials to a Mage's player and saying "draw this", as an offer]
+During the game things will come up that need a visual, tactile, or written aid. Draw maps of the cities, write the Mages letters from their mentors on aging parchment, write down the steps of a ritual to be included in a grimoire many years down the road. Play music or ambient sound if it fits the mood. Sketch characters, make props, bring the magic to our world just a little bit. Sometimes, when you would demand an evocative answer, offer materials to them instead. "Can you draw the park's layout, if you have an idea?" or "Give us a sense of your lab, and use that paper if you feel like it."
 
 **Use Character Names**
 
@@ -1737,7 +1737,7 @@ On a miss, you shake it off with minimal lasting effects.
 
 \End{Player}
 
-## The Advanced Moves
+## The Extended Moves
 
 \Begin{Player}
 
@@ -3831,8 +3831,8 @@ Most people think magic and technology are incompatible, but you know better. Yo
 ### Paradigms
 
 #### Reality has an API
-**Aligned:** (choose one) Changing a signle variable, magic done from a terminal  
-**Opposed:** (choose one) Living things, magic that affects only part of an object  
+**Aligned:** (choose one) Changing a single variable, magic done from a terminal  
+**Opposed:** (choose one) Living things, magic that affects only part of an object, I can only change a single variable at a time  
 (choose one) Unplanned magic, magic not done from a terminal, my magic must be expressed as if/then conditions
 
 #### My Own _Theory of Everything_
