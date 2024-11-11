@@ -29,10 +29,10 @@ consensus_screen_hc.pdf: consensus.md
 	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md screen_hc.yaml -o "consensus_screen_hc.pdf"
 
 consensus_screen_dyslexic.pdf: consensus.md
-	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md screen_d.yaml -o "consensus_screen_dsylexic.pdf"
+	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md screen_d.yaml -o "consensus_screen_dyslexic.pdf"
 
 consensus_screen_dyslexic_hc.pdf: consensus.md
-	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md screen_d_hc.yaml -o "consensus_screen_dsylexic_hc.pdf"
+	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md screen_d_hc.yaml -o "consensus_screen_dyslexic_hc.pdf"
 
 consensus.html: consensus.md
 	$(PANDOC) $(PANDOC_OPTS) "consensus.md" -t html -o "consensus.html" --css=book.css --lua-filter="./voices.lua" 
