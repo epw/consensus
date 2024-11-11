@@ -8,6 +8,7 @@
 \definecolor{voice-bg}{HTML}{ffffff}
 \definecolor{voice-frame}{HTML}{aaaaaa}
 \definecolor{voice-title-bg}{HTML}{eeeeee}
+\definecolor{voice-title-color}{HTML}{000000}
 
 \newcommand{\voiceshrink}{-5mm}
 
@@ -40,7 +41,7 @@
                      breakable,
                      boxsep=3pt,
   arc=1.25ex,
-  colback=white,
+  colback=voice-bg,
   colframe=voice-frame,
   boxrule=3pt,
   add to width=\voiceshrink,
@@ -50,8 +51,8 @@
           minimum width=1cm,
           anchor=south,
           yshift=-18pt,
-          black]
-    at (frame.west) {Player};
+          voice-title-bg]
+    at (frame.west) {\color{voice-title-color} Player};
   }
   ]}{\end{tcolorbox}}
 
@@ -61,7 +62,7 @@
                      breakable,
                      boxsep=3pt,
   arc=1.25ex,
-  colback=white,
+  colback=voice-bg,
   colframe=voice-frame,
   boxrule=3pt,
   grow to left by=\voiceshrink,
@@ -72,8 +73,8 @@
           minimum width=1cm,
           anchor=south,
           yshift=-18pt,
-          black]
-    at (frame.east) {MC};
+          voice-title-bg]
+    at (frame.east) {\color{voice-title-color} MC};
   }
   ]}{\end{tcolorbox}}
 

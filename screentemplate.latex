@@ -68,6 +68,16 @@ $endif$
 
 $if(highcontrast)$
 \pagecolor{darkgray}
+
+\definecolor{narrator-bg}{HTML}{111111}
+\definecolor{narrator-frame}{HTML}{ffffff}
+\definecolor{narrator-title-bg}{HTML}{222222}
+
+\definecolor{voice-bg}{HTML}{000000}
+\definecolor{voice-frame}{HTML}{ffffff}
+\definecolor{voice-title-bg}{HTML}{222222}
+\definecolor{voice-title-color}{HTML}{000000}
+
 $endif$
 
 \title{$title$}
