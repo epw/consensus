@@ -42,7 +42,7 @@
     have this move by default)} #2}
 \newcommand{\TRIGGER}[1]{\textbf{#1}}
 
-\newcommand{\PARADIGM}[4]{\bigskip{\large\textbf{Paradigm:} #1}
+\newcommand{\PARADIGM}[4]{\smallskip{\large\textbf{Paradigm:} #1}
 
   \textbf{Aligned(choose one):} #2
 
@@ -174,10 +174,12 @@
     ONE: SAIDIN, SAIDAR}{CHOOSE ONE: POWER WITH EMOTION, POWER WITHOUT
     EMOTION}
 }
-
+\newcommand{\ParadigmBlanks}{\PARADIGM{\BLANK}{\BLANK}{\BLANK}{\BLANK}}
 \newcommand{\PaneFive}{\SECTION{Paradigm List:}
 
   \Paradigms
+
+  \ParadigmBlanks
 }
 \newcommand{\PaneSix}{\Description}
 

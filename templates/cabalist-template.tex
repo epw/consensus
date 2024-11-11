@@ -87,7 +87,9 @@
 		   
            {\VAR{paradigm['opp2']}}
 		   
-\BLOCK{ endfor }
+           \BLOCK{ endfor }
+
+           \ParadigmBlanks
 }
 \renewcommand{\PaneFive}{\SECTION{\VAR{special['name']}}
 
@@ -117,7 +119,8 @@
   
   First, pick a facade:	
   \begin{itemize}
-  \BLOCK{ for item in place_of_power['First, pick a facade:'] }
+    \setlength\itemsep{-.5em}
+    \BLOCK{ for item in place_of_power['First, pick a facade:'] }
   \item \VAR{item}
   \BLOCK{ endfor }
   \end{itemize}
@@ -134,6 +137,7 @@
 
   A Ritual performed here will never (choose 1):
   \begin{itemize}
+    \setlength\itemsep{-.5em}
 \BLOCK{ for item in place_of_power['A Ritual performed here will never (choose 1):'] }
   \item \VAR{item}
 \BLOCK{ endfor }
