@@ -35,7 +35,7 @@ consensus_screen_dyslexic_hc.pdf: consensus.md
 	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md screen_d_hc.yaml -o "consensus_screen_dsylexic_hc.pdf"
 
 consensus.html: consensus.md
-	$(PANDOC) $(PANDOC_OPTS) "consensus.md" -t html -o "consensus.html"
+	$(PANDOC) $(PANDOC_OPTS) "consensus.md" -t html -o "consensus.html" --css=book.css --lua-filter="./voices.lua" 
 
 %.pdf: %.tex playbook.tex consensus.md templates/%-template.tex
 	$(PYTHON) playbookbreakout.py $<

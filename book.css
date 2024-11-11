@@ -1,0 +1,22 @@
+.voice {
+    border: thin solid black;
+}
+
+.voice-Narrator {
+    background: #ddd;
+}
+.voice-Narrator::before {
+    content: "(Narrator)"
+}
+
+.voice-Player {
+}
+.voice-Player::before {
+    content: "(Player)"
+}
+
+.voice-MC {
+}
+.voice-MC::before {
+    content: "(MC)"
+}
