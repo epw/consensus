@@ -6,6 +6,11 @@ author:
 - Jacob Bouvier-Wood
 ---
 
+<div>
+<!-- Only visible in HTML, not LaTeX -->
+Version 0.2
+</div>
+
 # In The Beginning
 
 ## Consensus
