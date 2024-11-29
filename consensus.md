@@ -34,23 +34,29 @@ Would you like to find out?
 
 Most of this book will be addressed to you, the player, in one of two roles. The first role is the Master of Ceremonies, or MC, who facilitates conversation and play. This is the player whose job it is to make the moves that keep the conversation flowing, in some games this role would be called the GM. The second role is the player of a Mage in the game, who embodies a particular character. They choose and portray this character's thoughts and actions, contributing to the story primarily from that character's perspective. No matter which role you plan to take, feel free to read anything and everything you see herein. This isn't the kind of game that keeps secrets from one role or the other. That said, the reason we break it out like this, is so that you don't have to read more than you want to.
 
-Different people will have different entry points into understanding this game. After you finish chapter 1, here are some places you might skip to:
-
-If you're the kind of person that wants to learn about the flavor of the game, you can continue on to chapter 2, Magic. If you're the kind of person who really needs a character to latch onto before you understand the game, take a look at the Playbooks in Appendex A. If you understand a game best through the actions that it encourages you to take, it's worth taking a look at The Moves chapter. If you want to get an idea of how the game plays out, you can skip to the First Session chapter, but be sure to read on, because it doesn't go into depth about a few important things. If you do take any of these options besides moving right on to chapter 2, there will likely be a lot of terms you don't understand, but that's okay, you can look them up in the glossary, or you can just keep reading the rest of the book where they will be defined.
-
 \End{Narrator}
 
 \Begin{MC}
 
-If you see a section that looks like this, we are talking to you in your role as the MC.
+If you see a section that looks like this, we are talking to you in your role as the MC. You should read these as well as the Player and Narrator sections, to get a complete picture of the game.
 
 \End{MC}
 
 \Begin{Player}
 
-If you see a section that looks like this, we are talking to you in your role as a player of one of the game's Mages.
+If you see a section that looks like this, we are talking to you in your role as a player of one of the game's Mages. The Narrator sections will also be important, but you can skip the MC section and chapter if you want.
 
 \End{Player}
+
+\Begin{Narrator}
+
+And sections like this are meant for all roles, for needed framing and context.
+
+Different people will have different entry points into understanding this game. After you finish chapter 1, here are some places you might skip to:
+
+If you're the kind of person that wants to learn about the flavor of the game, you can continue on to chapter 2, Magic. If you're the kind of person who really needs a character to latch onto before you understand the game, take a look at the Playbooks in Appendex A. If you understand a game best through the actions that it encourages you to take, it's worth taking a look at The Moves chapter. If you want to get an idea of how the game plays out, you can skip to the First Session chapter, but be sure to read on, because it doesn't go into depth about a few important things. If you do take any of these options besides moving right on to chapter 2 (and likely even then), there will be a lot of terms you don't understand, but that's okay, you can look them up in the glossary, or you can just keep reading the rest of the book where they will be defined.
+
+\End{Narrator}
 
 ## Setting Up to Play
 
@@ -340,7 +346,7 @@ Opposed aspects are things which your Mage believes are impossible, as firmly as
 
 Note that Opposed aspects reflect strong enough beliefs that they even apply to other Mages. It’s not just that your character can’t work obscuring magic, for example, it’s that no-one can. For these purposes, a character who is Opposed to magic being done is a [Lookout](Lookouts), exactly like someone who has never Awakened at all. This means that a character with a really restrictive view of the world, like that the only magic that exists has to be done through a computer terminal (which they might not even consider magic) may be tricky to be around. Mages by their nature have to be skilled at concealing their craft, however, and nothing is insurmountable. Harmonious magic will slip by just fine, but if you’re going to do Rending magic in front of another Mage, you’ll want to make sure they aren’t Opposed to any aspect of what you’re doing. 
 
-In addition, some Mages have Paradigms in which the universe of what is possible is broader than what they can ever expect of themselves. For example, a Mage who believes that some people are attuned to certain classical elements and can manipulate them might believe that they specifically are attuned to Water. Someone manipulating Fire doesn't represent an impossibility, but this one Mage expects to be incapable of it. These Mages' Opposed will btend to be first-person expressions, such as "My magic must cause a transformation" or "I can't do the same thing twice." No Mage will have both Opposed described this way, but for the ones who do, they are a little easier to work around, as they will only be Opposed to magic along these lines that they themselves participate in.
+In addition, some Mages have Paradigms in which the universe of what is possible is broader than what they can ever expect of themselves. For example, a Mage who believes that some people are attuned to certain classical elements and can manipulate them might believe that they specifically are attuned to Water. Someone manipulating Fire doesn't represent an impossibility, but this one Mage expects to be incapable of it. These Mages' Opposed will tend to be first-person expressions, such as "My magic must cause a transformation" or "I can't do the same thing twice." No Mage will have both Opposed described this way, but for the ones who do, they are a little easier to work around, as they will only be Opposed to magic along these lines that they themselves participate in.
 
 Pay attention when choosing Opposed magic to the Paradigms of others at the table. While there is nothing wrong with playing Mages who believe that each other’s magic is impossible, it does make for a very different game than if they all more-or-less agree. That being said, since all Paradigms are different, no-one will ever fully agree on everything.
 
@@ -362,11 +368,11 @@ Freedoms can be very useful, especially because Mages tend to become less able t
 
 \Begin{Player}
 
-Restrictions are holes discovered in a Mage’s view of what is possible. Many Mages start with them, as the Consensus includes many examples of things which are technically possible for someone, but not for just anyone. New ones often come about as a result of significant failure: Not only are you unable to do that this time, you’re unable to do it at all. They can cover new discoveries in the fiction about the exact shape of the Paradigm, and they can cover new beliefs gained by the Mage ("I guess I actually can’t breathe underwater.") Like Freedoms, they are short phrases or sentences, but they add on to Opposed aspects, rather than providing a way to bypass them. A character with the Opposed aspect “magic that prevents movement” might gain the Restriction “Movement for spirits includes multiple dimensions,” and now anything that would trap a spirit on one plane is as unreachable as if it were Opposed. When something says it applies if a Mage is Opposed, this includes if they have a Restriction that applies.
+Restrictions are holes discovered in a Mage’s view of what is possible. They often come about as a result of significant failure: Not only are you unable to do that this time, you’re unable to do it at all. They can cover new discoveries in the fiction about the exact shape of the Paradigm, and they can cover new beliefs gained by the Mage ("I guess I actually can’t breathe underwater.") Like Freedoms, they are short phrases or sentences, but they add on to Opposed aspects, rather than providing a way to bypass them. A character with the Opposed aspect “magic that prevents movement” might gain the Restriction “Movement for spirits includes multiple dimensions,” and now anything that would trap a spirit on one plane is as unreachable as if it were Opposed. When something says it applies if a Mage is Opposed, this includes if they have a Restriction that applies.
 
 Much like Opposed, some Restrictions start with "I." For example, "I can't enchant living things," or "I can only work with water, out of the four elements." Because these are about individual capabilities, they usually will not lead to the Mage with the Restriction being a Lookout ("I can't work with elemental fire, but that doesn't mean you can't.")
 
-Unlike the Opposed aspects, Restrictions can be overcome. This can represent the Mage learning something new, and it can represent them healing: for a while, the pain caused by the last attempt made it too much to try again, or they repressed that it was possible, but not anymore. There is an Advancement a Mage can take to remove a Restriction that they started with or have gained, representing an expansion of understanding or self-confidence by the Mage. See {{linkImprovement Chapter}}.
+Unlike the Opposed aspects, Restrictions can be overcome. This can represent the Mage learning something new, and it can represent them healing: for a while, the pain caused by the last attempt made it too much to try again, or they repressed that it was possible, but not anymore. There is an Advancement a Mage can take to remove a Restriction, representing an expansion of understanding or self-confidence by the Mage. See {{linkImprovement Chapter}}.
 
 \End{Player}
 
@@ -374,7 +380,7 @@ Unlike the Opposed aspects, Restrictions can be overcome. This can represent the
 
 \Begin{Narrator}
 
-There is no "do magic" roll, or even move, in Consensus. It is too intrinsict to a Mage's nature, in the same way that there is no move for traveling somewhere. Just as "I travel somewhere" raises innumerable questions that need to be answered, some of which may lead to rolls, while others just can be accepted at face value, like "Are you walking? Biking? Flying?" and "Are you going somewhere particular? What do you want to do?" and "How will you deal with the cold and the snow?", you need to know more specifics before you know what any given act of magic means.
+There is no "do magic" roll, or even move, in Consensus. It is too intrinsic to a Mage's nature, in the same way that there is no move for traveling somewhere. Just as "I travel somewhere" raises innumerable questions that need to be answered, some of which may lead to rolls, while others just can be accepted at face value, like "Are you walking? Biking? Flying?" and "Are you going somewhere particular? What do you want to do?" and "How will you deal with the cold and the snow?", you need to know more specifics before you know what any given act of magic means.
 
 There is a sense of "power" or "strength" within Consensus. By default, most Mages have around the same strength: what matters is how well they can apply their Paradigm, what support and preparations they have, and whether they can exploit the situation to their advantage. That exact power level is not precisely defined and may vary from game to game. Expect to come to a common understanding as you play, and that common understanding may shift over time. After ten sessions, a spell that was very difficult and taxing may have become trivial, and that's OK.
 
@@ -422,7 +428,7 @@ One wrinkle to the name "Lookouts" is that, although they bring the weight of th
 
 \Begin{Player}
 
-Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your discord on your playbook, and it’s best not to let it build up too much.
+Discord is a buildup of some sort, reality leaving its mark on mages who dare to tear holes in it left and right. The more the Discord builds up, the more the Consensus is going to kick you in the butt when it finally comes time to pay the piper. Track your Discord on your playbook, and it’s best not to let it build up too much.
 
 {{anchorBacklash chapter}}
 
@@ -434,11 +440,11 @@ Discord is a buildup of some sort, reality leaving its mark on mages who dare to
 
 This is the universe’s way of fixing itself after a hole is torn in it by Rending magic. It is also the punishment for Mages who break the rules too egregiously. Sometimes a backlash is minor, the equivalent of a slap on the wrist. Sometimes you’re banished from reality itself. Depends on how much you’ve been messing with reality, and how much it feels like messing back.
 
-When you trigger the Backlash move, this is one of the few times that rolling lower is better, and you roll adding your current discord. Roll high enough and you cause a localized break in reality. More often though, what will manifest is either some physical sign of your Discord, making your life difficult, or a being of some sort, sent by the Consensus to Enforce its will on you. 
+When you trigger the Backlash move, this is one of the few times that rolling lower is better, and you roll adding your current Discord. Roll high enough and you cause a localized break in reality. More often though, what will manifest is either some physical sign of your Discord, making your life difficult, or a being of some sort, sent by the Consensus to Enforce its will on you. 
 
-Physical signs of discord should affect the character negatively for the rest of the session. Things like milk spoiling around you, electronics refusing to work in your presence, or extreme sensitivity to light and aversion to the sun. 
+Physical signs of Discord should affect the character negatively for the rest of the session. Things like milk spoiling around you, electronics refusing to work in your presence, or extreme sensitivity to light and aversion to the sun. 
 
-Enforcers for the Consensus can take many different shapes, they will likely take on a form that makes sense within the Mage’s paradigm. They may or may not be able to be seen by other mages, depending on the circumstances. One thing is constant between all physical signs of discord and Enforcers though. Using magic to try and get rid of them or mitigate their consequences will only make matters worse.
+Enforcers for the Consensus can take many different shapes, they will likely take on a form that makes sense within the Mage’s paradigm. They may or may not be able to be seen by other mages, depending on the circumstances. One thing is constant between all physical signs of Discord and Enforcers though. Using magic to try and get rid of them or mitigate their consequences will only make matters worse.
 
 \End{Player}
 
@@ -446,13 +452,17 @@ Enforcers for the Consensus can take many different shapes, they will likely tak
 
 \Begin{Player}
 
-Sometimes, when the Consensus is particularly pushed against, a Mage needs to learn a lesson, reality breaks around them. This can take a number of different forms, pervasive hallucinations that only the mage can see, an entire fantasy world overlaying the real world, making the mage think they’ve been transported elsewhere while in reality they wreak havoc on their world, or a pocket dimension, actually transporting them elsewhere for a time out from reality.
+Sometimes, when the Consensus is particularly pushed against, a Mage needs to learn a lesson, reality breaks around them. This can take a number of different forms. 
+
+-  Pervasive hallucinations that only the mage can see
+-  An entire fantasy world overlaying the real world, making the mage think they’ve been transported elsewhere while in reality they wreak havoc on their world
+-  Or a pocket dimension, actually transporting them out from reality for a time.
 
 You may have read the section on Rending Magic and wondered how the world survives with that much power in someone’s hand. Why hasn’t a Mage blotted out the sun, or cracked the tectonic plates of the Earth? Well, when they try, Reality tends to Break around them. They may very well go on living in a pocket dimension where they did blot out the sun. Or a fantasy world with a tectonic rift across the city may overlay the actual world for them.
 
 These take a few different forms, but regardless of form, they are the Consensus’ way of protecting itself. This is why, even though Rending Magic can theoretically do anything, you don’t hear about mages blotting out the sun (for more than a short eclipse). If a mage is lucky enough to get out of one, they are usually humbled and have learned to be more in tune with the Consensus, or at least have learned to be more careful with the magic they do.
 
-From the outside, Reality Breaks are the kind of things that most people don’t see, or won’t see. Pervasive hallucinations are things that only the affected Mage can see, and many people are practiced at ignoring someone they think is seeing things. An overlayed fantasy world is similar, in that it only exists for the affected Mage (and perhaps other Mages that know how to look for it). Pocket dimensions, from the outside, may just look like the person disappearing, and any onlookers having their memory of the past few seconds wiped. For a practiced eye, a Mage may be able to find the pinprick hole in reality that caused the Break, and follow it through to attempt a rescue.
+From the outside, Reality Breaks are the kind of things that most people can't see, don't see, or won't see. Pervasive hallucinations are things that only the affected Mage can see, and many people are practiced at ignoring someone they think is seeing things. An overlayed fantasy world is similar, in that it only exists for the affected Mage (and perhaps other Mages that know how to look for it). Pocket dimensions, from the outside, may just look like the person disappearing, and any onlookers having their memory of the past few seconds wiped. For a practiced eye, a Mage may be able to find the pinprick hole in reality that caused the Break, and follow it through to attempt a rescue.
 
 When you fall into a Reality break, you choose a trait of your paradigm (whether the title, the Aligned, or an Opposed) to be explored by the break, and the MC describes it as they would other new scenes. You also work with the MC to write a move that, when triggered, brings your mage back closer to reality.
 
@@ -460,11 +470,7 @@ When you fall into a Reality break, you choose a trait of your paradigm (whether
 
 \Begin{MC}
 
-In general, you should shape the reality break to the player's chosen part of their Mage's paradigm (either by making it more prominent, or inverting it), and to the rending magic that caused the break in the first place.
-
-Work with the player to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.) You will also make a status track, representing the strength of the reality break.
-
-You will frame three scenes for the mage. At the beginning of each of these scenes, the strength of reality break track will advance once. During each scene, you may advance the strength of reality break track as a soft move in response to the mage going along with the scene or failing to learn their lesson. This means that by the end of the third scene, either the mage will have advanced their escape track to code N and broken out of the reality break, or the strength of reality break track will reach code N in which case… the mage is trapped in that reality permanently. They are no longer a playable character, though you may bring them back as a threat later, these mages are unbound by the laws of the Consensus and can be very dangerous for everyone.
+In general, you should shape the reality break to the player's chosen part of their Mage's paradigm (either by making it more prominent, or inverting it), and to the rending magic that caused the break in the first place. You'll find rules for this in the Status Tracks chapter, including their construction and how play determines what happens to a Mage caught in one.
 
 Be especially cognizent of established safety rules like Lines and Veils when defining reality breaks. They are meant to challenge the character, and your instincts may take you to places that challenge the player as well. This is fine, so long as no-one at the table has ruled against whatever element you seek to include.
 
@@ -516,7 +522,7 @@ Places of power are locations with a high concentration of magic, for one reason
 
 \Begin{MC}
 
-Some playbooks have access to a place of power through optional moves. Other places of power may show up during play. Usually, don't allow the players to permanently gain access to a place of power if there isn’t a playbook move specifically granting it to them. There should be a real benefit for taking that move, in the form of easier access to a space in which rituals work. Instead, if no-one at the table has the move, make the players work for temporary access to a place of power, or even access to a temporary place of power. Remember your Principles such as Make Everyone Vulnerable; Sometimes, Give Them Exactly What They're Asking For; and Don't Be Afraid to be Obvious. What would it mean for there to be a place of power that the Mages can find right now? Who else knows about it now, and what are they up to? Who will find out about it if the Mages use it, and what will they do with it tomorrow?
+Some playbooks have access to a place of power through optional moves. Other places of power may show up during play. Usually, don't allow the players to permanently gain access to a place of power if there isn’t a playbook move specifically granting it to them. There should be a real benefit for taking that move, in the form of easier access to a space in which rituals work. Instead, if no-one at the table has the move, make the players work for temporary access to a place of power, or even access to a temporary place of power. Later in this book we'll explain Principles to help guide choices like these. Consider, among others, Make Everyone Vulnerable; Sometimes, Give Them Exactly What They're Asking For; and Don't Be Afraid to be Obvious. What would it mean for there to be a place of power that the Mages can find right now? Who else knows about it now, and what are they up to? Who will find out about it if the Mages use it, and what will they do with it tomorrow?
 
 Similarly, be careful of restricting access to or taking away places of power gained through Playbook moves, at least permanently. You can certainly take them away temporarily though through MC moves like "take away their stuff", which can be good motivation and drama, but most of the time, unless a character was explicitly and intentionally risking their place of power, it should be much easier to reqauire, reconsecrate, and otherwise return to.
 
@@ -560,7 +566,7 @@ This means that you don’t have a story planned out that you’re running the p
 
 **Ask what it means to be human.**
 
-Consensus is a game about people who are everything humans can be, want to be, strive to be. But it’s also about how these people still can fail, whether by not being true enough to themselves or by going too far. As you ask leading questions, make moves, and write Forces, focus on making yourself and the other players think about the nature of humanity, theirselves’ and others’. In this game, a scene about a character drowning their sorrows in a bar can be just as important, if not moreso, as a knock-down drag-out fight. Sorrows make us human, while any beast can do battle.
+Consensus is a game about people who are everything humans can be, want to be, strive to be. But it’s also about how these people still can fail, whether by not being true enough to themselves or by going too far. As you ask leading questions, make moves, and write Forces, focus on making yourself and the other players think about the nature of humanity, theirselves’ and others’. In this game, a scene about a character drowning their sorrows in a bar can be just as important, if not moreso, as a knock-down drag-out fight.
 
 **Make the Consensus come to life.**
 
@@ -1165,7 +1171,7 @@ Physically, Playbooks are double-sided tri-folded sheets of paper. There will be
 
 The first thing you need to do after discussing safety mechanics and basic assumptions about the world is picking out a Playbook. Because each Mage will have a unique Playbook, you can take it and write your choices and other character details directly on it. In this way, your Playbook becomes your character sheet, in addition to your Mage's archetype.
 
-There are a lot of Playbooks, and choosing among them might be overwhelming. Plus, what you want to play could depend on the other people at the table. Maybe you come assuming you'll play a potion-brewing witch straight out of the Scottish play, but when you hear someone else discussing their Mentor with an anarchist streak, you decide you'd rather play a Voiced who learned from the Mentor and now spreads word of their ideas. To help you decide, the MC will make all the Playbooks available, and read out short descriptions of each of them. Listens, then grab one and look over it. If it seems uninteresting, or whenever you are done with it, toss it back into the pile and pick out another. If you're having trouble drawing meaning out of a Playbook, ask the MC what parts you should look at. They can help direct you, depending on what will help you decide (some players think about what a Playbook will let them do, others think about what relationships their Playbook means they'll have, and still others just care about approaches to magic. All are fine!)
+There are a lot of Playbooks, and choosing among them might be overwhelming. Plus, what you want to play could depend on the other people at the table. Maybe you come assuming you'll play a potion-brewing witch straight out of the Scottish play, but when you hear someone else discussing their Mentor with an anarchist streak, you decide you'd rather play a Voiced who learned from the Mentor and now spreads word of their ideas. To help you decide, the MC will make all the Playbooks available, and read out short descriptions of each of them. Listen, then grab one and look over it. If it seems uninteresting, or whenever you are done with it, toss it back into the pile and pick out another. If you're having trouble drawing meaning out of a Playbook, ask the MC what parts you should look at. They can help direct you, depending on what will help you decide (some players think about what a Playbook will let them do, others think about what relationships their Playbook means they'll have, and still others just care about approaches to magic. All are fine!)
 
 This isn't a solitary activity; talk to the other players and see what they're thinking! Bounce ideas around. If you and someone else both want the same Playbook, you both should try to come up with a notably different idea you'd like based on a different Playbook, and then see if the new idea pulls either or both of you to those other Playbooks instead. If you are truly stuck, you could come up with something random but fair like rolling one of the dice you have available.
 
@@ -1277,7 +1283,7 @@ Describing the Preparations gives a specific example of how the Mage’s Paradig
 
 The MC will want to know the answers to each of the three questions on your playbook, "Why were you overlooked, downtrodden, or trivialized?" “Why are you ignored, oppressed, or dismissed?”, and “Why are you hunted?” This might require a little bit of negotiation to make sure everyone is on the same page about what these questions mean and what the answers mean.
 
-Do note that these questions are about your character's general experience of the world, in broad strokes. It doesn't take many people to be hunting you to make you feel like you are hunted all the time, after all. Don't feel like the answers need to describe the other Mages' interactions with your character, and likewise, don't feel boxed into other Mages' answers when deciding how your character will interact with them. Indeed, if anyone is likely to buck the trend, it's a Mage!
+Do note that these questions are about your character's general experience of the world, in broad strokes. It doesn't take many people to be hunting you to make you feel like you are hunted all the time, after all. The answers don't describe the other Mages' interactions with your character, and likewise, other Mages' answers do not dictate how your character will interact with them. Indeed, if anyone is likely to buck the trends, it's a Mage!
 
 \End{Player}
 
@@ -1619,6 +1625,8 @@ The MC will be keeping track of the Reality Break Strength Status Track, and kee
 \End{Player}
 
 \Begin{MC}
+
+Work with the player to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.)reality break.
 
 One Status Track describes how close the Mage is to escaping. The player keeps track of it. Work with them to define a move trigger that indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It should be relatively easy for the Mage's player to push for.
 
@@ -3259,9 +3267,23 @@ Mages might try to get along with a Force that you expected to be an enemy. Mayb
 
 \textit{This final chapter will contain information on making the game your own, from writing new moves (and how that can be a part of Advancement, if you feel like it), to new Paradigms, to new Playbooks, to bigger changes like the dice/stats system (d10s!) or running in alternate worlds. Also how and if to play if someone can't make it/drop in drop out ability of this game}
 
-\Begin{Narrator}
+Potential subsections:
 
-TBD
+-  How to make new moves
+-  New Paradigms
+-  New Playbooks
+-  New Stressors?
+-  Using d10s (and maybe other dice)
+-  Adding more rules to how magic works, like "you lose power if you lie"
+-  (Maybe not in the actual book) how to play Mage: the Ascension
+-  Maybe how to add your own complexity into a Paradigm? (to make it feel like Rosetta's -  Runes, the Spheres, and otherwise)
+-  MCless?
+-  Running a "massively multiplayer" game, like Eric did that one time with Mage?
+   I mean sure that probably will break lots of things and so shouldn't be recommended but on the other hand, we have an author who is one of the few people with that experience
+-  What to do when you find yourself running a really long game? Should we talk about that or just let it happen?
+-  How to play a whole game around a particular magic system
+
+\Begin{Narrator}
 
 \End{Narrator}
 
@@ -3291,12 +3313,12 @@ In a world where mages are solitary islands of power, shaping reality in lonelin
 #### True Names Give Command
 **Aligned:** (choose one) Command, Binding, Summonings  
 **Opposed:** (choose one) Inanimate mundane objects, Creation, Silent Magic  
-Targets who have not been given a True Name, I must know my targets' names
+(choose one) Targets who have not been given a True Name, I must know my targets' names
 
 #### Ancient Languages Hold Secret Power
 **Aligned**: (choose one) Cantrips, Enchantment, Written Magic  
 **Opposed**: (choose one) Reactive Magic, Emotional Manipulation, Magic with concepts newer than my language
-Magic without words (spoken, written, or thought), I must speak my magic aloud
+(choose one) Magic without words (spoken, written, or thought), I must speak my magic aloud
 
 ### Moves
 
@@ -4356,4 +4378,16 @@ Humans need emotion, memories that tie to the past and dreams of the future. My 
 \newpage
 
 \setlength{\parindent}{1em}
+
+# Common Moves (Appendix B)
+
+(Copy common moves here)
+
+# Names (Appendix C)
+
+(A bunch of people names, place names, artifact names, organization names, etc.)
+
+# Ludology and Influences (Appendix D)
+
+(Credit _Mage: the Ascension_, _Apocalypse World_, _Dungeon World_, and all the other stuff.)
 
