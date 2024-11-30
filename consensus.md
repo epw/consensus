@@ -2426,6 +2426,10 @@ Like most things in Consensus, tags are prescriptive and descriptive. If the +pr
 
 Characters grow and change through the course of a story. Mages are no different. They learn new types of magic, get stronger, and sometimes change who they are entirely. Experience is the primary method of tracking how this happens over the course of a campaign, but it is not the only thing that changes. Growth can come in quick, noteworthy jumps, or evolve slowly over time, only to be noticed after a while. Thus, these changes can be made at any time that they make sense during a session.
 
+\End{Player}
+
+\Begin{Player}
+
 ## Gaining Experience
 
 Experience is a measure of how your character grows and learns over time. In Consensus, "marking experience" refers to filling in a bubble on your character sheet. When you fill in the fifth bubble, erase them all and pick an Advancement.
@@ -2453,6 +2457,10 @@ At the end of every session, a move triggers to resolve dangling threads, but al
 ### Playbook Moves
 
 Various playbook moves involve marking experience, or allowing others to mark experience. It’s a good idea to note these to the table, so they can understand what your motivations are, and know what you are offering them.
+
+\End{Player}
+
+\Begin{Player}
 
 ## Choosing Advancements
 
@@ -2534,7 +2542,7 @@ This is the same advancement as the one-time advancement from Tier 1, but as it 
 
 ### Advanced Moves
 
-Advanced moves for each of the playbooks can be found below. These moves often change the nature of the game or the world significantly, and with one exception, each playbook can only take one Advanced Move. This is likely the culmination of your character’s goals, abilities, or research, so consider very carefully what move fits them best.
+Advanced moves for each of the playbooks can be found below. These moves often change the nature of the game or the world significantly, and with one exception, each playbook can only take one Advanced Move. This is likely the culmination of your character’s goals, abilities, or research, so consider very carefully what move fits them best. Make sure you negotiate and get buy-in from the rest of the table for these big, game-changing moves (referring to the Safety Mechanics as needed.)
 
 #### Consensus Shifting
 
@@ -2544,7 +2552,7 @@ If you have an Advanced Move that lets you attempt to shift the Consensus, you s
 
 ##### Strength of the Circle
 
-Once per session, when you would gain any amount of discord, your cabal intercepts the discord and spreads it among the members, effectively diluting it enough to dissipate it.
+Once per session, when you would gain any amount of Discord, your cabal intercepts the Discord and spreads it among the members, effectively diluting it enough to dissipate it.
 
 ##### Cult
 
@@ -2755,6 +2763,10 @@ When you seek the path to a place that you can imagine, the MC will tell you how
 
 Add this option to Assert your Paradigm and Impress a lusus naturae: On a 12+, you may instead choose to exile your target from one of: - their home - this land - this world. Name a condition that will allow them to return. This cannot target another player’s character without the player’s consent.
 
+\End{Player}
+
+\Begin{Player}
+
 ## Custom Moves
 
 Sometimes, it will become clear that something your character does is iconic or frequent enough that it’s worth codifying. The table can figure out a move, structured just like a playbook move, that reflects this action and the standard outcomes. This usually shouldn’t define something new about the way the world works, so much as simplify executing it. Now it’s not "I’m going to cast that summoning spell I worked out," then looking to the MC to see what happens, and they make a soft move reflecting the outcome, but rather, you cast the summoning spell, triggering the move “when you cast your researched summoning spell,” and follow from there. Most of the time, when you write one of these, it should consume an Advancement, coming after you have marked five experience.
@@ -2762,6 +2774,10 @@ Sometimes, it will become clear that something your character does is iconic or 
 See the Hacking section for more details on creating moves, but in general, a move has a trigger, describing an in-game action, and an outcome. The outcome might be a simple statement, a mechanic such as providing Hold, or an instruction to make a roll and read further for success and failure. Codifying 7-9 and 6- results has a particular kind of power, by making them into known quantities.
 
 Don’t use this to copy other playbooks’ moves, especially moves that are already possessed by other characters at the table.
+
+\End{Player}
+
+\Begin{Player}
 
 ## Fictional Positioning
 
@@ -2877,7 +2893,7 @@ When a Force reaches Code N, it means a material, irrevocable chance has occurre
 
 The Code N outcome starts based on the impulse of the Type. These are broad categories, that can help give a sense of direction to the entire Force.
 
-If Code N is reached, take some time to figure out how the world has changed, and be sure to feature those elements in following scenes. In addition, update the Force. Some Cast members may have changed, some Moves may change, and the Status Track and Code N Outcome should get a whole new set. After all, the Force has gotten one of their desires, and so why would they stop now? In some cases the Force might have come to its natural conclusion when Code N is reached, and you find there’s nothing more to be done with it. See the section below on removing a Force.
+If Code N is reached, take some time to figure out how the world has changed, and be sure to feature those elements in following scenes. In addition, update the Force. Some Cast members may have changed, some Moves may change, and the Status Track and Code N Outcome should get a whole new set. After all, the Force has gotten one of their desires, and so why would they stop now? In some cases the Force might have come to its natural conclusion when Code N is reached, and you find there’s nothing more to be done with it. See the {{linkChanging Forces section}} on removing a Force.
 
 ## The Three Questions
 
@@ -3252,7 +3268,7 @@ This accounts for some more foreshadowing and the idea of the character's death 
 
 ## Special Forces
 
-There are two other types of Forces for the MC to keep track of, and they represent other crucial parts of the world. They also have fewer parts to them than the other Forces and should be easier to keep track of. The Internal Forces contains any relationships that don’t belong in other forces, like many Anchors, members of a Cabal, or Students. This isn’t to say that those characters might not find a home with another Force though, which could lead to interesting choices for any mages that they’re close to. The Consensus Force represents force being exerted on the local Consensus, and is almost always in control of one of the other Forces.
+There are two other types of Forces for the MC to keep track of, and they represent other crucial parts of the world. They also have fewer parts to them than the other Forces and should be easier to keep track of. The Internal Forces contains any relationships that don’t belong in other forces, like many Anchors, members of a Cabal, or Students. This isn’t to say that those characters might not find a home with another Force though, which could lead to interesting choices for any mages that they’re close to. The Consensus Force represents force being exerted on the local Consensus, and is almost always controlled by one of the other Forces.
 
 ### The Internal Forces
 
@@ -3261,6 +3277,8 @@ The Internal Forces sheet has space for cast and a status track with no labels. 
 ### The Consensus Force
 
 The Consensus Force sheet has space for the Force(s) currently in control, a status track, and a space for listing the Consensus Shift that the Force in control will make if the status track reaches Code N. This can be a small change such as believing that snow in late Spring is entirely seasonal. It could also be a larger change, such as believing that long pointy ears are entirely normal for humans.
+
+{{anchorChanging Forces section}}
 
 ## Revealing, Retiring, and Adapting Forces
 
@@ -4408,7 +4426,7 @@ Humans need emotion, memories that tie to the past and dreams of the future. My 
 
 (A bunch of people names, place names, artifact names, organization names, etc.)
 
-# Ludology and Influences (Appendix D)
+# Ludography and Influences (Appendix D)
 
 (Credit _Mage: the Ascension_, _Apocalypse World_, _Dungeon World_, and all the other stuff.)
 
