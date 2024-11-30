@@ -2114,7 +2114,7 @@ Some starting Anchors are not completely filled in to start, they will have a bl
 
 Anchors require upkeep to remain. Every Anchor has a Status Track representing its condition. At the start of each session, mark off one Code from every Anchor’s Status Track. You can suggest what this means to the MC. Frequently, it will not be the first Code marked for that Anchor, and so simply represents an exacerbation. In addition, as with all Status Tracks, if something happens which seems to suggest worsening of an Anchor’s condition or connection to you, mark off a Code.
 
-Upkeep for an Anchor involves doing whatever is needed to restore things to normal. Homes frequently cost Savings to upkeep in a literal sense (rent, bills, maintenance, and so on). Connection Anchors usually need to spend time with you, likely receiving your attention. Emotional Anchors need to be kept from fading in your mind, often through routine or rote, and also may need physical maintenance. In general, performing upkeep for an Anchor takes a good amount of time, or savings, or has an opportunity cost, and clears the entire Status Track, restoring the connection. Notably, performing this upkeep should be something that grounds you in reality. If you are attempting to upkeep your Shelter Anchor by performing magic on it to tidy everything, you aren’t upkeeping the Anchor, you might in fact be slipping it. See the Transformation section later in this chapter for more examples.
+Upkeep for an Anchor involves doing whatever is needed to restore things to normal. Homes frequently cost Savings (see Chapter ??, Gear and Accoutrements) to upkeep in a literal sense (rent, bills, maintenance, and so on). Connection Anchors usually need to spend time with you, likely receiving your attention. Emotional Anchors need to be kept from fading in your mind, often through routine or rote, and also may need physical maintenance. In general, performing upkeep for an Anchor takes a good amount of time, or savings, or has an opportunity cost, and clears the entire Status Track, restoring the connection. Notably, performing this upkeep should be something that grounds you in reality. If you are attempting to upkeep your Shelter Anchor by performing magic on it to tidy everything, you aren’t upkeeping the Anchor, you might in fact be slipping it. See the Transformation section later in this chapter for more examples.
 
 Note that an Anchor’s Status Track can being slipping, like any other.
 
@@ -2196,7 +2196,9 @@ The counterpart to Anchors, Inspirations are what bring a Mage their power, or t
 
 ### Gaining Inspirations
 
-While there are many people, spirits, animals or even items that could serve to inspire you, only some of them are actively on your mind at a given time. When you interact with someone or something that inspires your magic in certain special ways, they become an active Inspiration for you, lifting you to new heights. 
+While there are many people, spirits, animals or even items that could serve to inspire you, only some of them are actively on your mind at a given time. When you interact with someone or something that inspires your magic in certain special ways, they become an active Inspiration for you, lifting you to new heights.
+
+When you gain an Inspiration, fill in one of the bubbles next to your Anchors. See {{linkLosing a Character}} for why there are only 6 (and add more in the rare case you need them.)
 
 #### Having a Moment of Humanity
 
@@ -2222,7 +2224,11 @@ Familiar spirits are a classic part of magical lore. Wizards construct homoculi 
 
 Some Mages believe that they have a personal spirit who helps guide them on their journey towards enlightenment. This spirit may appear in dreams and visions, and likely offers tantalizing, incomplete clues about magic. On lucky occasions, the Mage might get a chance to actually talk directly to the spirit, and may get a sense of a favorite manifestation, such as a mythological figure, force of nature, or even a past life. These spirits are often called Avatars, or Genius, and they can be a powerful source of inspiration if interacted with regularly.
 
-Some magical items are simply tools, but others go beyond that. Important relics a Mage has found, or artifacts they created themselves, can continue to inspire. Doing magic from an ancient spellbook just feels different from piecing the components together out of pop witchcraft, and sometimes a wand chooses a wizard.
+Some magical items are simply tools, but others go beyond that. Important relics a Mage has found, or artifacts they created themselves, can continue to inspire. Doing magic from an ancient spellbook just feels different from piecing the components together out of pop witchcraft, and those times that a program is written in concert with the spirit that lives in the computer transcend any amount of hacking on a magical terminal.
+
+\End{Player}
+
+\Begin{Player}
 
 ## Tethered and Untethered
 
@@ -2306,24 +2312,15 @@ Of course, your Mage can shapes Reality to their whims and can decide that money
 
 When pricing something new, look to this table to get a general sense.
 
-<table>
-  <tr>
-    <td>1 Saving</td>
-    <td>A nice meal for two. A suit. A thoughtful gift. An interstate train ticket. A good psychic reading.</td>
-  </tr>
-  <tr>
-    <td>2 Savings</td>
-    <td>An ostentatious meal for two. A domestic plane ticket. A handgun. A computer. A night’s stay at a hotel. A rare book. Walk-in medical treatment.</td>
-  </tr>
-  <tr>
-    <td>3 Savings</td>
-    <td>A short hospital stay. A college course. A short vacation. A custom-crafted sword, made by a skilled Craftsperson.</td>
-  </tr>
-  <tr>
-    <td>4 Savings</td>
-    <td>A car, a motorcycle, a boat</td>
-  </tr>
-</table>
+-----------   -----------------------------------------------
+1 Saving      A nice meal for two. A suit. A thoughtful gift. An interstate train ticket. A good psychic reading.
+
+2 Savings     An ostentatious meal for two. A domestic plane ticket. A handgun. A computer. A night’s stay at a hotel. A rare book. Walk-in medical treatment.
+
+3 Savings     A short hospital stay. A college course. A short vacation. A custom-crafted sword, made by a skilled Craftsperson.
+
+4 Savings     A car, a motorcycle, a boat.
+-----------   -----------------------------------------------
 
 Something that is significantly less than the 1-Savings category probably shouldn’t cost the character anything at all. However, do remember that buying a lot of something can add up.
 
@@ -3599,7 +3596,7 @@ Many people wonder where inspiration comes from. That question is boring to you,
 
 The Inspired gets the **Source** move, and 2 other moves of your choice.
 
-**Source:** (You have this move by default) You've identified the source of your inspiration. When **your Source first becomes present in a scene**, hold 3. At any time that your source is present for the rest of the scene, spend your Hold 1-for-1 to:
+**Source:** (You have this move by default) You've identified the source of your inspiration. When **your Source first becomes present in a scene**, hold 3 and gain it as an Inspiration. At any time that your source is present for the rest of the scene, spend your Hold 1-for-1 to:
 
 - Draw attention to your Source
 - Give someone (including yourself) +1 to a roll they just made if it would change the result, describing how your Source helps them do it
