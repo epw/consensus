@@ -1,4 +1,4 @@
-\documentclass[letterpaper,10pt]{article}
+\documentclass[letterpaper,9pt]{extarticle}
 \setlength{\topmargin}{-1in}
 \setlength{\textheight}{10in}
 \setlength{\oddsidemargin}{-.25in}
@@ -59,9 +59,10 @@
 \vspace{-.5em}\SUBTITLE{Step Two}
 \vspace{-.75em}\footnotesize{\VAR{steps[1]}}
 
-\begin{multicols}{2}
 \SUBTITLE{Step Three}
 \center{\vspace{-1em}\scriptsize{\VAR{steps[2]}}}
+
+\begin{multicols}{2}
 
 \BLOCK{ for item in types }
 \TYPE{\VAR{item['name']}}{
@@ -69,9 +70,13 @@
 \item \VAR{subtype}
 \BLOCK{ endfor }}
 \BLOCK{ endfor }
- 
-\SUBTITLE{Step Four}
+
+\end{multicols}
+
+\vspace{-2em}\SUBTITLE{Step Four}
 \center{\vspace{-1em}\scriptsize{\VAR{steps[3]}}}
+
+\begin{multicols}{2}
 
 \BLOCK{ for item in stressors }
 \STRESSOR{\VAR{item['name']}}{
@@ -80,6 +85,7 @@
 \item \VAR{move}
 \BLOCK{ endfor }
 \end{multicols}}
+\vspace{-1em}
 \BLOCK{ endfor }
 
 \end{multicols}
@@ -87,13 +93,13 @@
 \vspace{-1em}\SUBTITLE{Step Five}
 \vspace{-1em}\footnotesize{\VAR{steps[4]}}
 
-\vspace{-.5em}\SUBTITLE{Step Six}
+\vspace{-1em}\SUBTITLE{Step Six}
 \vspace{-.75em}\footnotesize{\VAR{steps[5]}}
 
-\vspace{-.5em}\SUBTITLE{Step Seven}
+\vspace{-1em}\SUBTITLE{Step Seven}
 \vspace{-.75em}\footnotesize{\VAR{steps[6]}}
 
-\vspace{-.5em}\SUBTITLE{Step Eight}
+\vspace{-1em}\SUBTITLE{Step Eight}
 \vspace{-.75em}\footnotesize{\VAR{steps[7]}}
 
 \end{document}
