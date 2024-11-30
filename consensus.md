@@ -550,6 +550,8 @@ As you might have guessed, this section is addressed to the Master of Ceremonies
 
 The Master of Ceremonies, or MC, facilitates conversation and play. Your job is to make the moves that keep the conversation flowing, in some games this role would be called the GM. Because you're still going to be surprised by the story and play along with the other players, we still consider you a player, just with a special title on top. It’s hard to always have something interesting to say under any circumstances, so the rules that you must follow help make sure there is always something entertaining. The following chapter will help you figure out what to say when the whole table looks at you to see what happens next. The next sections will provide the rules and structure for you to follow. These aren’t suggestions, these are your set of rules as the MC player, and following them is necessary to keep the game working smoothly.
 
+Your rules tie into many of the game's systems, so some terms will be referenced that aren't explained until later in the book.
+
 \End{MC}
 
 ## Agenda
@@ -1333,6 +1335,8 @@ Once your characters have been created and introduced, the MC will set a scene a
 
 Once characters have been created, it’s time to play through the first scenes in the game. In Consensus, the first scenes you play through are related to the three questions that every character answers during character creation. Through this you’ll establish some shared history between characters, some current ties, and you’ll foreshadow future problems and complications. Depending on how much time you have available, you should aim for between 3 and 6 scenes for this part, which explore the answers to those three questions for multiple characters. Make sure each character is a part of at least one scene, preferably 2 or more that explore answers to different questions. Also make sure each question is the focus of at least one of the scenes.
 
+In Chapter ?? you'll read about Forces, the organizational tool for tracking parts of the world that the Mages will have to deal with. Forces are informed by their part of the world (organizations, sentient artifacts, powerful individuals, etc), as well as by "Stressors", the types of tension that tend to come up in Mages' lives. Keep track of the possibilities that come up in play, so that after the session, you'll be able to apply them to help build the world.
+
 These are the first scenes you will be playing, so if you see the chance to have a move trigger, make sure you take it! These can be a great introduction to the mechanics as well as to our characters and the world.
 
 \End{MC}
@@ -1375,7 +1379,7 @@ You can go deeper here than earlier in character creation, as long as the answer
 
 \Begin{MC}
 
-When the players go around introducing their characters, make a note of any answers to the 3 questions (or leading questions you pose about those questions) that seem to synchronize with each other. You’ll use this to set those characters up in the same scene and start it off in a way that lets you learn more about the characters and the world they are interacting with. If you have 4 players and are aiming for 4 scenes, you could make each scene have two characters in it, or you could pull all 4 characters into the scene about the first question, and give each character an individual scene that addresses one of the others. During each scene you should look for places where the actions they describe would trigger a move, and have them roll it.
+When the players go around introducing their characters, make a note of any answers to the 3 questions (or leading questions you pose about those questions) that seem to synchronize with each other. You’ll use this to set those characters up in the same scene and start it off in a way that lets you learn more about the characters and the world they are interacting with. If you have 4 players and are aiming for 4-5 scenes, you could make each scene have two characters in it, or you could pull all 4 characters into the scene about the first question, and give each character an individual scene that addresses one of the others. During each scene you should look for places where the actions they describe would trigger a move, and have them roll it.
 
 \End{MC}
 
@@ -1383,7 +1387,27 @@ When the players go around introducing their characters, make a note of any answ
 
 \Begin{MC}
 
-During the first session, after a scene or while a scene wraps up, take a look at the list of stressors, and think about which one was primary in the scene that played out. If it isn’t obvious, and it often will be, you can ask a couple more leading questions to really solidify one of the stressors. Each scene should have one stressor assigned to it after the fact, and you will use this to fill out the world before the second session.
+During the first session, after a scene or while a scene wraps up, take a look at the following list of stressors, and think about which one was primary in the scene that played out. If it isn’t obvious, and it often will be, you can ask a couple more leading questions to really solidify one of the stressors. Each scene should have one stressor assigned to it after the fact, and you will use this to fill out the world before the second session.
+
+-  Control
+   -  Is someone trying to manipulate, gain power over, or otherwise control someone else?
+-  Fear
+   -  Is someone afraid of a threat, real or imagined, or is someone acting out of fear?
+-  Guilt
+   -  Is someone primarily motivated by an internal guilt, either for something they did or something they are or were?
+-  Anger
+   -  Is someone angry, either the hot rage that threatens to boil over, or the cold anger that motivates them to seek vengeance?
+-  Distrust
+   -  Is someone mistrustful of others, maybe strangers or even friends? This can be justified or imagined, distrust breeds distrust.
+-  Extremism
+[//]: # (FIXME: Make sure to come back and write this as anti-facist as possible. No safe places for Nazis and no Nazis living out their fantasies in this game.)
+   -   Has someone taken a nominally acceptable opinion and gone so far with it that they are causing harm to others?
+-  Isolation
+   -  Is someone or is a group isolating themselves or being forcibly isolated?
+-  Envy
+   -  Is someone feeling a deep desire for something that someone else has, like an object, relationship, or knowledge?
+-  Obsession
+   -  Is someone preoccupied or engrossed with a person, object, action or etc to the degree that it is intrusive?
 
 \End{MC}
 
@@ -1399,7 +1423,7 @@ Depending on how much time you have, the number of scenes are variable. However,
 
 \Begin{Player}
 
-At the end of the session, the MC will make sure that any lingering Portents are recorded for next time. Speak up if you think anything is missing! The End of Session move will trigger, and ask some questions of everybody there. You may find it helpful to jot down a few notes about what was going on and what would interest you to pick up with your character next time (or you could just wing it. It's not like your plans are likely to go off unaltered anyway.) Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
+At the end of the session, the MC will make sure that any lingering Portents (see Portents in the Status Tracks chapter) are recorded for next time. Speak up if you think anything is missing! The End of Session move will trigger, and ask some questions of everybody there. You may find it helpful to jot down a few notes about what was going on and what would interest you to pick up with your character next time (or you could just wing it. It's not like your plans are likely to go off unaltered anyway.) Finally, it is often good form to mention anything you particularly enjoyed from another player during this time.
 
 \End{Player}
 
@@ -1443,7 +1467,7 @@ From time to time, the MC might have a "letter" for you about your character. Th
 
 Gather your MC sheet, PC summary sheet, Forces, Flags, and Portents. Read out Flags for all the players’ characters, and note which ones can be changed. Mark one Code off every Portent, and mention them as you do so.
 
-(If you have them, read out and resolve "love letters." [maybe we actually explain them right here?].)
+If you have them, read out and resolve "love letters."
 
 Have every player mark one Code off every Anchor. If things come to mind, note what these Codes mean, but if not, you will determine that when a character goes to reconnect with the Anchor. An Anchor beginning to Slip probably deserves a bit of prose, though.
 
@@ -1467,7 +1491,7 @@ Frame scenes so that everyone knows where they are starting and can use that as 
 
 * Pick a plan a character has been working on, and play to find out how the next step is prepared or executed, or goes wrong.
 
-* Pick a Force that just had a Status Track advance, or advance a Stack Track and then pick that Force. Make the outcome affect one or more of the Mages, and show them first encountering it.
+* Pick a Force that just had a Status Track advance, or advance a Status Track and then pick that Force. Make the outcome affect one or more of the Mages, and show them first encountering it.
 
 * Ask how a character connects with an Anchor or Inspiration.
 
@@ -1592,7 +1616,7 @@ Exchanging a Moment of Humanity clears a Status Track because this can, by defin
 
 \Begin{Narrator}
 
-From time to time, things will happen in game that feel like they deserve to be followed up on, but aren't tied to any obvious way to track them. Maybe a friend felt snubbed about something, maybe a character made a deal and it's unclear when the debt will be called in, maybe a character or player had an idea that was too juicy to just forget about. They can be large or small. It can even just be that something feels like it Matters, like the time I saw a character reach into their sister's mind and wipe away a memory. We knew a line had been crossed, and this should come back in the story.
+From time to time, things will happen in game that feel like they deserve to be followed up on, but aren't tied to any obvious way to track them. Maybe a friend felt snubbed about something, maybe a character made a deal and it's unclear when the debt will be called in, maybe a character or player had an idea that was too juicy to just forget about. They can be large or small. It can even just be that something feels like it Matters, like seeing a character reach into their sister's mind and wipe away a memory. It might be clear that a line has been crossed, and this should come back in the story.
 
 \End{Narrator}
 
@@ -1626,7 +1650,7 @@ The MC will be keeping track of the Reality Break Strength Status Track, and kee
 
 \Begin{MC}
 
-Work with the player to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.)reality break.
+Work with the player to write a move that, when triggered, brings the mage back closer to reality. This should be a relatively easy trigger for the mage’s player to push for, because they’ll need to do it 6 times in order to escape the reality break (once for each section of a full status track.)
 
 One Status Track describes how close the Mage is to escaping. The player keeps track of it. Work with them to define a move trigger that indicates the Mage learning their lesson, or at least going along with what is needed from them to exist in consensual reality. It should be relatively easy for the Mage's player to push for.
 
