@@ -6,7 +6,7 @@ PYTHON = python3
 PANDOC_OPTS = -f markdown -s --lua-filter="./pagebreak.lua" --lua-filter="./pageref.lua" --from=markdown-markdown_in_html_blocks-native_divs
 PANDOC_LATEX = --pdf-engine=xelatex --toc --template=screentemplate --top-level-division=chapter
 
-ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf
+ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf cabalist_people.pdf
 
 all: commonmoves.pdf $(ALL_PLAYBOOKS) mcsheet.pdf pcsummaries.pdf makingforces.pdf all_playbooks.pdf consensus.html books
 
