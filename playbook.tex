@@ -1,38 +1,11 @@
-\input common.tex
 \documentclass[legalpaper,10pt,notumble]{leaflet}
-\setlength{\topmargin}{-0.75in}
-\setlength{\textheight}{8in}
-
-\usepackage{xltxtra}
-\usepackage{color}
-\usepackage{fontspec}
-\usepackage[compact]{titlesec}
-\usepackage{setspace}
-\usepackage{tikz}
-\usepackage{graphicx}
-\usepackage{textpos}
-\usepackage{lipsum}
-
-\setmainfont [Path = fonts/,
-  UprightFont = FiraSans-Regular.otf,
-  BoldFont = FiraSans-Bold.otf,
-  ItalicFont = FiraSans-Italic.otf
-]{'Fira Sans'}
-\newfontfamily\titlefont [Path = fonts/,
-  UprightFont = Kingthings_Printingkit.ttf,
-]{Kingthings}
-
-\titlespacing{\section}{0pt}{*0}{*0}
-\titlespacing{\subsection}{0pt}{*0}{*0}
-
-\setcounter{secnumdepth}{-1}
+\input all_playbooks_lib.tex
 
 \newenvironment{runlist}[1][,]
  {\par\renewcommand\item{\unskip\ifvmode\else#1 \fi}}
  {\par}
  
 \newcommand{\PLAYBOOKNAME}[1]{\begin{center}{\titlefont\Huge\textbf{#1}}\end{center}}
-\newcommand{\SECTION}[1]{\vspace{.25em}{\titlefont\large\textbf{#1}}}
 \newcommand{\BOX}[1]{\tikz{\path[draw=black] (0,0) rectangle(#1cm,#1cm);}}
 \newcommand{\FILLED}[1]{\tikz{\path[fill=black] (0,0) rectangle(#1cm,#1cm);}}
 \newcommand{\STAT}[1]{\BOX{1} \hspace{1ex} #1}

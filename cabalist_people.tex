@@ -1,0 +1,74 @@
+\documentclass[legalpaper,10pt,landscape]{article}
+\usepackage{layout}
+\usepackage{calc}
+\usepackage{geometry}
+\setlength{\textwidth}{12in}
+\setlength{\textheight}{6in}
+\setlength{\oddsidemargin}{0in}
+\input all_playbooks_lib.tex
+\pagenumbering{gobble}
+
+\usepackage{multicol}
+\setlength{\columnsep}{3in}
+
+\newlength\NAMELENGTH
+\setlength\NAMELENGTH{2in}
+\newcommand{\CABALBLANK}{\underline{\hspace{\NAMELENGTH}} \underline{\hspace{\NAMELENGTH + 2in}}
+  \vspace{1em}
+}
+\newcommand{\INSPBLANK}{\underline{\hspace{4in}}
+  \vspace{2em}
+}
+\newcommand{\LABEL}[1]{\vspace{.25em}{\titlefont\textcolor{gray}{#1}}}
+
+\begin{document}
+
+%\layout
+
+\begin{multicols}{2}
+
+    \SECTION{Your Cabal:}
+
+    \bigskip
+    
+    \LABEL{Name}\hspace{\NAMELENGTH}\LABEL{Description}
+
+    \vspace{2em}
+
+  \CABALBLANK
+
+  \CABALBLANK
+
+  \CABALBLANK
+
+  \CABALBLANK
+
+  \CABALBLANK
+
+  \CABALBLANK
+
+  \columnbreak
+
+    \SECTION{Inspirations:}
+
+  \bigskip
+
+  \INSPBLANK
+
+  \INSPBLANK
+
+  \INSPBLANK
+
+  \INSPBLANK
+
+  \INSPBLANK
+
+  \INSPBLANK
+
+\end{multicols}
+
+\vspace{3.5in}
+
+\SECTION{Cabalist: Cabal Members and Inspirations}
+
+\end{document}

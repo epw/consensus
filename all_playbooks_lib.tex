@@ -1,0 +1,29 @@
+\input common.tex
+\setlength{\topmargin}{-0.75in}
+\setlength{\textheight}{8in}
+
+\usepackage{xltxtra}
+\usepackage{color}
+\usepackage{fontspec}
+\usepackage[compact]{titlesec}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{textpos}
+\usepackage{lipsum}
+
+\setmainfont [Path = fonts/,
+  UprightFont = FiraSans-Regular.otf,
+  BoldFont = FiraSans-Bold.otf,
+  ItalicFont = FiraSans-Italic.otf
+]{'Fira Sans'}
+\newfontfamily\titlefont [Path = fonts/,
+  UprightFont = Kingthings_Printingkit.ttf,
+]{Kingthings}
+
+\titlespacing{\section}{0pt}{*0}{*0}
+\titlespacing{\subsection}{0pt}{*0}{*0}
+
+\setcounter{secnumdepth}{-1}
+
+\newcommand{\SECTION}[1]{\vspace{.25em}{\titlefont\large\textbf{#1}}}
