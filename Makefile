@@ -1,10 +1,11 @@
-LATEX = xelatex
+LATEX = lualatex
+PDF_ENGINE = $(LATEX)
 PDFJOIN = pdfjoin
 PANDOC = pandoc
 PYTHON = python3
 
 PANDOC_OPTS = -f markdown -s --lua-filter="./pagebreak.lua" --lua-filter="./pageref.lua" --from=markdown-markdown_in_html_blocks-native_divs
-PANDOC_LATEX = --pdf-engine=xelatex --toc --template=screentemplate --top-level-division=chapter
+PANDOC_LATEX = --pdf-engine=$(PDF_ENGINE) --toc --template=screentemplate --top-level-division=chapter
 
 ALL_PLAYBOOKS = cabalist.pdf hedge_mage.pdf inspired.pdf mentor.pdf pious.pdf primordial.pdf tech_adept.pdf voiced.pdf wayfarer.pdf cabalist_people.pdf
 
@@ -17,7 +18,7 @@ python: consensus.md
 	$(PYTHON) movesbreakout.py
 
 consensus_print.pdf: consensus.md
-	$(PANDOC) --pdf-engine=xelatex consensus.md print.yaml -f markdown -s -o "consensus_print.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter
+	$(PANDOC) --pdf-engine=$(PDF_ENGINE) consensus.md print.yaml -f markdown -s -o "consensus_print.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=printtemplate --top-level-division=chapter
 
 consensus_print_dyslexic.pdf: consensus.md
 	$(PANDOC) $(PANDOC_OPTS) $(PANDOC_LATEX) consensus.md print_d.yaml -o "consensus_print_dyslexic.pdf"
@@ -40,7 +41,7 @@ consensus.html: consensus.md
 cabalist_people.pdf: cabalist_people.tex common.tex all_playbooks_lib.tex
 	$(LATEX) cabalist_people.tex
 
-%.pdf: %.tex common.tex all_playbooks.tex playbook.tex consensus.md templates/%-template.tex
+%.pdf: %.tex common.tex all_playbooks_lib.tex playbook.tex consensus.md templates/%-template.tex
 	$(PYTHON) playbookbreakout.py $<
 	$(LATEX) $<
 
@@ -67,7 +68,7 @@ all_playbooks.pdf: $(ALL_PLAYBOOKS)
 	$(PDFJOIN) $(ALL_PLAYBOOKS) --outfile all_playbooks.pdf
 
 consensus_voices.pdf: consensus_voices.md
-	$(PANDOC) --pdf-engine=xelatex consensus_voices.md screen.yaml -f markdown -s -o "consensus_voices.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
+	$(PANDOC) --pdf-engine=$(PDF_ENGINE) consensus_voices.md screen.yaml -f markdown -s -o "consensus_voices.pdf" --lua-filter "./pagebreak.lua" --lua-filter "./pageref.lua" --toc --template=screentemplate --top-level-division=chapter
 
 test:
 	$(MAKE) -C tests test
