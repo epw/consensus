@@ -38,6 +38,9 @@ consensus_screen_dyslexic_hc.pdf: consensus.md
 consensus.html: consensus.md
 	$(PANDOC) $(PANDOC_OPTS) "consensus.md" -t html -o "consensus.html" --css=book.css --lua-filter="./voices.lua" 
 
+consensus.epub: consensus.md
+	$(PANDOC) $(PANDOC_OPTS) "consensus.md" -t epub -o "consensus.epub" --css=book.css --lua-filter="./voices.lua" 
+
 cabalist_people.pdf: cabalist_people.tex common.tex all_playbooks_lib.tex
 	$(LATEX) cabalist_people.tex
 
