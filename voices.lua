@@ -18,16 +18,16 @@ end
 -- Filter function called on each RawBlock element.
 function RawBlock (el)
   -- Only output specially for HTML
-  if not FORMAT:match 'html.*' then
+   if not FORMAT:match 'html.*' and not FORMAT:match 'epub' then
     return nil
   end
-  if is_voice_begin(el.text) then
-     return voiced_open(FORMAT, el)
+   if is_voice_begin(el.text) then
+     return voiced_open('html5', el)
   end
-  if is_voice_end(el.text) then
-     return voiced_close(FORMAT, el)
+   if is_voice_end(el.text) then
+     return voiced_close('html5', el)
   end
-  -- otherwise, leave the block unchanged
+   -- otherwise, leave the block unchanged
   return nil
 end
 

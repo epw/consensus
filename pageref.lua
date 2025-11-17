@@ -1,9 +1,7 @@
-FORMAT_REGEX = '(html|epub).*'
-
 local function pagereflink(format, link, before, after)
   if format:match 'latex' then
     return pandoc.RawInline('latex', before .. link .. ' (page \\pageref{' .. link .. '})' .. after)
-  elseif format:match(FORMAT_REGEX) then
+  elseif format:match 'html.*' or format:match 'epub' then
     link_href = string.lower(link)
     link_href = string.gsub(link_href, "%s+", "_")
     return pandoc.RawInline('html',before .. '<a href="#' .. link_href .. '">' .. link .. '</a>' .. after)
@@ -15,7 +13,7 @@ end
 local function pagerefanchor(format, anchor, before, after)
   if format:match 'latex' then
     return pandoc.RawInline('latex', before ..'\\label{' .. anchor .. '}' .. after)
-  elseif format:match(FORMAT_REGEX) then
+  elseif format:match 'html.*' or format:match 'epub' then
     anchor_id = string.lower(anchor)
     anchor_id = string.gsub(anchor_id, "%s+", "_")
     return pandoc.RawInline('html', before .. '<a id="' .. anchor_id .. '"></a>' .. after)

@@ -1,10 +1,8 @@
-FORMAT_REGEX = '(html|epub).*'
-
 local function itemreplace(format)
    if format:match 'latex' then
      return '\\item'
-   elseif format:match FORMAT_REGEX then
-      return pandoc.RawBlock(FORMAT_REGEX, '<li>')
+   elseif format:match 'html.*' or format:match 'epub' then
+      return pandoc.RawBlock('html5', '<li>')
    else
      return "Whoops"
    end
@@ -13,8 +11,8 @@ end
 local function beginreplace(format)
    if format:match 'latex' then
      return '\\begin{itemize*}'
-   elseif format:match FORMAT_REGEX then
-     return pandoc.RawBlock(FORMAT_REGEX, '<ul>')
+   elseif format:match 'html.*' or format:match 'epub' then
+     return pandoc.RawBlock('html5', '<ul>')
    else
      return "Whoops"
    end
@@ -23,8 +21,8 @@ end
 local function endreplace(format)
    if format:match 'latex' then
      return '\\end{itemize*}'
-   elseif format:match FORMAT_REGEX then
-     return pandoc.RawBlock(FORMAT_REGEX, '</ul>')
+   elseif format:match 'html.*' or format:match 'epub' then
+     return pandoc.RawBlock('html5', '</ul>')
    else
      return "Whoops"
    end
