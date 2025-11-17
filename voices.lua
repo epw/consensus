@@ -1,6 +1,18 @@
+local function marker(voice)
+   if voice == 'Narrator' then
+      return '(Narrator)'
+   elseif voice == 'Player' then
+      return '(Player)'
+   elseif voice == 'MC' then
+      return '(MC)'
+   else
+      return '(Voice marker error)'
+   end
+end
+
 local function voiced_open(format, el)
    voice = el.text:match("{(%a+)}")
-   return pandoc.RawBlock(format, "<div class='voice voice-" .. voice .. "'>")
+   return pandoc.RawBlock(format, "<div class='voice voice-" .. voice .. "'>" .. marker(voice))
 end
 
 local function voiced_close(format)
