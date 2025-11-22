@@ -44,7 +44,7 @@ If you see a section that looks like this, we are talking to you in your role as
 
 \Begin{Player}
 
-If you see a section that looks like this, we are talking to you in your role as a player of one of the game's Mages. The Narrator sections will also be important, but you can skip the MC section and chapter if you want.
+If you see a section that looks like this, we are talking to you in your role as a player of one of the game's Mages. The Narrator sections will also be important, but you can skip the MC sections and chapter if you want.
 
 \End{Player}
 
