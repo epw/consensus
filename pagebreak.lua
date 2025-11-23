@@ -80,11 +80,20 @@ function RawBlock (el)
   return nil
 end
 
+-- We'd like to just pass FORMAT along as the output, but "epub" only exists as
+-- a format to match on, not a valid output format.
+local function output_format(format)
+   if format:match 'epub' then
+      return 'html5'
+   end
+   return format
+end
+
 -- Turning paragraphs which contain nothing but a form feed
 -- characters into line breaks.
 function Para (el)
   if #el.content == 1 and el.content[1].text == '\f' then
-    return newpage(FORMAT)
+     return newpage(output_format(FORMAT))
   end
 end
 
