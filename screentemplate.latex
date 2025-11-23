@@ -24,7 +24,7 @@ $endfor$
 
 %\usepackage{createspace}
 %\usepackage[size=pocket,noicc]{createspace}
-\usepackage[paperwidth=5.5in, paperheight=8.5in]{geometry}
+\usepackage[paperwidth=5.5in, paperheight=8.5in,text={5in,7.5in},centering]{geometry}
 \usepackage{fontspec}
 \usepackage[english]{babel}
 \usepackage{tgtermes}
