@@ -201,15 +201,16 @@
 \newcommand{\MovesSpace}{0em}
 \newcommand{\PaneFiveSpace}{50em}
 \newcommand{\Pullback}{}
+\newcommand{\PictureGraphics}{\begin{picture}(0, 390){
+      \hbox{
+        \includegraphics[width=4.5in, keepaspectratio]{images/\Picture}
+    }}
+\end{picture}}
 
 \newcommand{\PLAYBOOK}{
   \raggedright
 
-  \begin{picture}(0, 390){
-      \hbox{
-        \includegraphics[width=4.5in]{images/\Picture}
-    }}
-  \end{picture}
+  \PictureGraphics
 
   \vspace{\PictureSpace}
 
