@@ -1887,15 +1887,6 @@ On a miss: Lose another Anchor. The MC will tell you which one and how.
 
 >Losing an Anchor can hurt. Any time a connection is broken, even under amicable terms, it can be a detactching feeling, leaving you adrift. For a Mage, capable of walking into other worlds entirely, or reaching levels of enlightenment in this one nearly incomprehensible to onlookers, it can be particularly dangerous. Even if the Mage is happy to see the Anchor go, it will be destabilizing. If they’re not careful, the Mage might start to spiral. No matter the circumstances, this roll itself is nonmagical, reflecting how the Mage deals with it internally (and as such, if the player doesn't like the outcome of the roll, they can always risk using magic to fix it...)
 
-At the **end of session**: note any effects that lasted "until end of session," but should continue into the next. Also, use this time to briefly discuss any loose threads from this session, that are still on your mind. Finally, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
-- Did you show the lengths you were willing to go to in order to protect an Anchor?  
-- Did you uncover a secret?  
-- Did you learn something that puts your paradigms in perspective, or caused you to question them?  
-- Did you expose the depths of your humanity, to yourself or to someone else?  
-- Did you witness loss, selfishness, or pain born of magic?
-
->This move wraps up the session, and rewards you for delving into certain parts of the game. After finishing it, pack up your character sheets. Go ahead and keep thinking about what might come next, and some of you might have Advancements to pick, but the game is done, for now.
-
 When your **Harm reaches Code N**, roll +Within. On a 10+ you stabilize, and will need medical care, but you should live. On a 7-9, some serious magic is going to be needed to help you survive, plus the medical care. On a 6-, you’re about to bite the dust. Make peace with your Paradigm. If you have two or less Anchors, you have the option of removing an Anchor in order to stabilize. Describe how you spiritually cut yourself off from the Anchor, infusing yourself with magic in order to heal, but taking a huge step away from reality in doing so.
 
 >Everything dies eventually. That includes Mages. When you die, you get one final scene to impart wisdom on your friends, or just unleash an unholy blast of Rending magic at the one who killed you. Death is not always the end, especially for Mages. But it is the end for now.
@@ -1907,6 +1898,15 @@ When **one of your Anchors is put in danger**, mark experience and either go and
 When you **describe a magical effect within your Paradigm but beyond your normal abilities**, the MC may tell you a resource you could consume to achieve the effect.
 
 >Even Mages have their limits. Archimedes supposedly said, "Give me the place to stand, and I shall move the earth," but he would need that place, and a long enough lever. When a Mage thinks about what they could do if only they had the power, or the tools, they can usually come up with something. It might not be easily achievable and they might not want to give it up, but the possibility is there.
+
+At the **end of session**: note any effects that lasted "until end of session," but should continue into the next. Also, use this time to briefly discuss any loose threads from this session, that are still on your mind. Finally, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
+- Did you show the lengths you were willing to go to in order to protect an Anchor?  
+- Did you uncover a secret?  
+- Did you learn something that puts your paradigms in perspective, or caused you to question them?  
+- Did you expose the depths of your humanity, to yourself or to someone else?  
+- Did you witness loss, selfishness, or pain born of magic?
+
+>This move wraps up the session, and rewards you for delving into certain parts of the game. After finishing it, pack up your character sheets. Go ahead and keep thinking about what might come next, and some of you might have Advancements to pick, but the game is done, for now.
 
 \End{Player}
 
