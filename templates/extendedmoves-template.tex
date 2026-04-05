@@ -76,22 +76,22 @@
   \SEPARATOR
 
   \begin{move}
-    \VAR{anchor['before']}\TRIGGER{\VAR{anchor['trigger']}}\VAR{anchor['after']}
-    \begin{itemize}
-      \setlength\itemsep{0em}
-	  \BLOCK{ for item in anchor['list'] }
-    \item \VAR{item}
-	\BLOCK{ endfor }
-    \end{itemize}
-\VAR{anchor['afterlist']}
+    \VAR{coden['before']}\TRIGGER{\VAR{coden['trigger']}}\VAR{coden['after']}
   \end{move}
 
   \columnbreak
 
   \begin{move}
-    \VAR{coden['before']}\TRIGGER{\VAR{coden['trigger']}}\VAR{coden['after']}
+    \VAR{anchor['before']}\TRIGGER{\VAR{anchor['trigger']}}\VAR{anchor['after']}
+    \begin{itemize}
+      \setlength\itemsep{0em}
+      \BLOCK{ for item in anchor['list'] }
+    \item \VAR{item}
+      \BLOCK{ endfor }
+    \end{itemize}
+    \VAR{anchor['afterlist']}
   \end{move}
-
+  
   \SEPARATOR
 
   \begin{move}
