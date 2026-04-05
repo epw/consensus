@@ -105,7 +105,6 @@ def movesdata():
 			movedict['before'] = move[0].split('**')[0]
 			movedict['after'] = move[0].split('**')[2]
 			rest = move[1:]
-#			print(rest)
 			in_list = False
 			listnum = 0
 			for line in rest:
@@ -173,7 +172,7 @@ def movesdata():
 			list = move[0].split('**')
 			movedict['movestring'] = movedict['before'] + movedict['trigger'] + movedict['after'] + str(movedict['list']) + movedict['afterlist']
 	output = {'assert':{}, 'impress':{}, 'sleeper':{}, 'help':{}, 'sell':{}, 'outfox':{}, 'head down':{}, 'rending':{}, 'aligned':{}, 'change':{}, 'humanity': {}, 'backlash':{},
-		        'willpower':{}, 'fix':{}, 'suffer harm':{}, 'plan':{}, 'begin':{}, 'lose':{}, 'end of session':{}, 'code n':{}, 'danger':{}, 'beyond':{}, 'upkeep':{}, 'connectanchor':{}}
+		        'willpower':{}, 'fix':{}, 'suffer harm':{}, 'plan':{}, 'begin':{}, 'lose':{}, 'end of session':{}, 'code n':{}, 'danger':{}, 'beyond':{}, 'upkeep':{}, 'connect with an anchor':{}}
 	for key in output.keys():
 		
 		for x in movesthing:
@@ -192,7 +191,7 @@ if __name__ == "__main__":
 			f.write(output)	
 	if sys.argv[1] == 'extended':
 		template = latex_jinja_env.get_template('extendedmoves-template.tex')
-		output = template.render(willpower = dict['willpower'], coden = dict['code n'], fix = dict['fix'], sufferharm = dict['suffer harm'], plan = dict['plan'], begin = dict['begin'], anchor = dict['lose'], eos = dict['end of session'], danger = dict['danger'], quint = dict['beyond'], upkeep = dict['upkeep'], connectanchor = dict['connectanchor'])
+		output = template.render(willpower = dict['willpower'], coden = dict['code n'], fix = dict['fix'], sufferharm = dict['suffer harm'], plan = dict['plan'], begin = dict['begin'], anchor = dict['lose'], eos = dict['end of session'], danger = dict['danger'], quint = dict['beyond'], upkeep = dict['upkeep'], connectanchor = dict['connect with an anchor'])
 		with io.open('extendedmoves.tex', 'w+', encoding='utf-8') as f:
 			f.write(output)	
 		
