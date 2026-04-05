@@ -1908,9 +1908,13 @@ At the **end of session**: note any effects that lasted "until end of session," 
 
 >This move wraps up the session, and rewards you for delving into certain parts of the game. After finishing it, pack up your character sheets. Go ahead and keep thinking about what might come next, and some of you might have Advancements to pick, but the game is done, for now.
 
-When you **connect with an Anchor**, if its Status Track is above Code 30, restore your Preparations, if expended.
+When you **upkeep an Anchor**, clear its Status Track.
 
->If all is well with your Anchor, it only takes a little while with one of them to center yourself and be prepared to face the world once more. See Connecting with an Anchor in chapter ?? for more details.
+>Anchors require work, be that time and nonmagical effort for things, or time and attention to the relationship for people. See Anchor Upkeep in chapter ?? for more details.
+
+When you **upkeep an Anchor**, clear its Status Track.
+
+>Anchors require work, be that time and nonmagical effort for things, or time and attention to the relationship for people. See Anchor Upkeep in chapter ?? for more details.
 
 \End{Player}
 
