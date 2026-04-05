@@ -1910,6 +1910,14 @@ At the **end of session**: note any effects that lasted "until end of session," 
 
 \End{Player}
 
+When you **upkeep an Anchor**, clear its Status Track.
+
+>Anchors require work, be that time and nonmagical effort for things, or time and attention to the relationship for people. See Anchor Upkeep in chapter ?? for more details.
+
+When you **connect with an Anchor**, if its Status Track is above Code 30, restore your Preparations, if expended.
+
+>If all is well with your Anchor, it only takes a little while with one of them to center yourself and be prepared to face the world once more. See Connecting with an Anchor in chapter ?? for more details.
+
 ## Magic and Moves
 
 \Begin{Player}
