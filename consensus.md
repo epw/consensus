@@ -212,21 +212,19 @@ Everyone has trauma from times that they have gone up against reality and lost, 
 
 \End{Narrator}
 
-### Anchors and Inspirations
+### Anchors
 
 \Begin{Narrator}
 
 Mages, just like anyone, are tied to people and things around them. Some of the most significant ties are to Anchors, the answers to the question “Why did you stay?”. These nonmagical people, places, and things hold a Mage back from their full potential, but also keep them from becoming lost. They require upkeep, since people have needs, apartments need rent, and traditions must be followed. If not seen to often enough, they will stop anchoring the Mage, leaving them that much closer to true power, and to disconnecting entirely from the world. It is also possible to lose an Anchor in one searing moment, when it becomes clear they didn’t matter to you like you thought they did (or they die, are broken, or lost).
 
-Inspirations are the people, and occasionally magical beings, who further enlighten a Mage and help them see what might be possible. They act as counterbalances to the restraint from Anchors. An Inspiration doesn’t tend to actively inspire for long, but they are easy to reconnect with, which can be very rewarding.
-
 \End{Narrator}
 
 \Begin{MC}
 
-You'll be framing a lot of scenes around these two types of characters, which means you'll be spending a lot of time portraying these characters. Make sure to ask probing and pointed questions so that you and the player who's Mage they're connected to are on the same page about who they are and what kind of relationship they have.
+You'll include Anchors in a lot of scenes, even framing whole scenes around them, which means you'll be spending a lot of time portraying them. Make sure to ask probing and pointed questions so that you and the player who's Mage they're connected to are on the same page about what they are like and what kind of relationship they have.
 
-See the {{linkAnchors and Inspirations chapter}} for more.
+See the {{linkAnchors chapter}} for more.
 
 \End{MC}
 
@@ -916,7 +914,7 @@ Consensus is played out in scenes. Each one should go as long as it needs to but
 
 A scene involves one or more of the Mages. One of your jobs is to manage the "spotlight", making sure that everyone gets some time with scenes focused on them and doesn’t go too long away from the action. Some sessions may have most or all of the Mages together in the same scenes, but often the Mages will want to go their own separate ways. Look out for opportunities to show them together in twos or threes, but don’t neglect individual scenes when they fit. When you are deciding on a new scene, think about who hasn’t been central recently, and see if you can frame one around them.
 
-All scenes should fall into at least one of three categories: "Anchor scenes", “Inspiration scenes”, and “Force scenes”. The categories serve different purposes, for the Mages’ goals and the advancement of the story. If you know which Mages are going to be in a new scene, their last known positions or their goals may dictate or inspire what category the scene should be. Or, you may know what category of scene comes next, and then figure out what would be going on and so what Mages would be involved. If you only know what's going on, not who is involved or which category it should be, think about the category first, and then set the scene with mages who inspire that kind of scene. We find the game feels best when you keep a balance between the types of scenes, roughly 1/3 of each in a given session. Of course some sessions will involve a lot more paradigm discussion than anything else, and that's okay, but when you're guiding the scenes, keep the 1/3 rule in the back of your mind.
+All scenes should fall into at least one of three categories: "Anchor scenes", “Paradigm scenes”, and “Force scenes”. The categories serve different purposes, for the Mages’ goals and the advancement of the story. If you know which Mages are going to be in a new scene, their last known positions or their goals may dictate or inspire what category the scene should be. Or, you may know what category of scene comes next, and then figure out what would be going on and so what Mages would be involved. If you only know what's going on, not who is involved or which category it should be, think about the category first, and then set the scene with mages who inspire that kind of scene. We find the game feels best when you keep a balance between the types of scenes, roughly 1/3 of each in a given session. Of course some sessions will involve a lot more paradigm discussion than anything else, and that's okay, but when you're guiding the scenes, keep the 1/3 rule in the back of your mind.
 
 #### Anchor Scenes
 
@@ -926,13 +924,13 @@ Anchor scenes are about what keeps our Mages human, and tethered to the human wo
 
 If the Anchor **is** slipping, then there will be something key going on that, if not addressed, will cause the Mage to lose the Anchor. This might have been understood before the scene, if events have made it clear, or it might need to be determined as the scene begins. Whatever it is, this makes the scene more urgent, even if the Mage is trying to stay cool. In this case, focus on the real importance of the Mage’s choices, and how they still can keep the Anchor, if they’re willing to work at it. If the Mage is successful at reconnecting with their Anchor, clear the Status Track. They have a reprieve, for now. If they aren’t… refer to slipping status tracks and the move **Lose an Anchor**.
 
-#### Inspiration Scenes
+#### Paradigm Scenes
 
-Many Mages have big, sweeping ideas about the world, the Universe, and their place in it. Mages who don’t still tend to find themselves brushing up against questions about these things, whether they like it or not. Inspiration scenes focus in on this aspect of their lives, seeing what happens when Mages get talking.
+Many Mages have big, sweeping ideas about the world, the Universe, and their place in it. Mages who don’t still tend to find themselves brushing up against questions about these things, whether they like it or not. Paradigm scenes focus in on this aspect of their lives, seeing what happens when Mages get talking.
 
-They are called Inspiration scenes because a Mages’ Inspirations, or potential Inspirations, are very common sources of these events. Two Mages having a long discussion about not only their Paradigms but what the differences mean to how they accomplish things in the world and how they feel about the people around them will probably become Inspirations for each other. This also covers more esoteric scenes like a Mage deciding to really get to know the spirit that lives in their wand.
+They are called Paradigm scenes because a Mage’s Paradigm necessarily informs how they go, and may provide the motivation for the scene in the first place. Two Mages having a long discussion about not only their Paradigms but what the differences mean to how they accomplish things in the world and how they feel about the people around them will probably unlock new insights, perhaps even granting each other Inspirations for a time. This also covers more esoteric scenes like a Mage deciding to really get to know the spirit that lives in their wand.
 
-Inspiration scenes can be tricky because they’re a less-common type of scene to see in a roleplaying game. However, players often really do enjoy them. Look out for when it seems like a Mage could have a good time teaching, learning, or just talking, and give them Inspiration scenes to play it out.
+Paradigm scenes can be tricky because they’re a less-common type of scene to see in a roleplaying game. However, players often really do enjoy them. Look out for when it seems like a Mage could have a good time teaching, learning, or just talking, and give them Paradigm scenes to play it out.
 
 Don't forget your moves at these times! There is tension even in a conversation. Use the moves to guide you and bring up complications whenever the conversation slows and everybody looks at you. Use Show Them the Downsides of their Paradigm to ask how a contradiction brought up by someone else sits with a Mage. Pit Their Desires Against Each Other by pointing out that they've just implied they both want the last enchanted feather. Set Up a Future Problem by saying "Speaking of ghosts, you realize that the spirit lamp in the corner has been blinking while you talked."
 
@@ -1327,7 +1325,7 @@ Make a table on a piece of paper or something everyone can see (or print the bla
 
 \Begin{Player}
 
-Once your characters have been created and introduced, the MC will set a scene and before long should ask someone, "what do you do?" Sooner or later, maybe after a scene or two, that question will be directed to you. From this point onward, roleplay away! Think about how your character would respond, maybe inventing or discovering parts of their personality or the world you didn't know about. The first few scenes will help set up the rest of the game, possibly dipping into the past a little and exploring the three Humanity questions. Forces allayed for and against your characters will be established, Anchors and Inspirations will be met, and you'll start to see how your Mage acts in the world.
+Once your characters have been created and introduced, the MC will set a scene and before long should ask someone, "what do you do?" Sooner or later, maybe after a scene or two, that question will be directed to you. From this point onward, roleplay away! Think about how your character would respond, maybe inventing or discovering parts of their personality or the world you didn't know about. The first few scenes will help set up the rest of the game, possibly dipping into the past a little and exploring the three Humanity questions. Forces allayed for and against your characters will be established, Anchors will be met, and you'll start to see how your Mage acts in the world.
 
 \End{Player}
 
@@ -1493,7 +1491,7 @@ Frame scenes so that everyone knows where they are starting and can use that as 
 
 * Pick a Force that just had a Status Track advance, or advance a Status Track and then pick that Force. Make the outcome affect one or more of the Mages, and show them first encountering it.
 
-* Ask how a character connects with an Anchor or Inspiration.
+* Ask how a character connects with an Anchor.
 
 * Look at a slipping status track, especially a character’s anchor or their health, mark off a code, and frame a scene around it slipping even further.
 
@@ -1746,15 +1744,17 @@ When you **assert your Paradigm** over another Mage’s, roll +Static (-1 if Tet
 - Have them mark experience (if an NPC, they comply with a reasonable request)
 - Give them a +1 or -1 on their next roll (if an NPC, enhance or counter their next use of magic)
 - Cause their current Discord to backlash. 
-- Offer yourself as an Inspiration to their character (they do not need to accept)
+- Write an Inspiration for them
 On a miss, they hold 1 against you, on the same terms.
 
->This move is one that serves multiple purposes. Sometimes a mage is explicitly trying to convince another mage about how the world works, animatedly or even violently. They are asserting that their paradigm is correct. However, this move comes up even more during deep philosophical conversations between mages, where they compare views on the world, morality, and magic. The hold from this move can flow freely, and you can use it to help, hinder, bribe, or threaten another mage.
+>This move is one that serves multiple purposes. Sometimes a mage is explicitly trying to convince another mage about how the world works, animatedly or even violently. They are asserting that their paradigm is correct. However, this move comes up even more during deep philosophical conversations between mages, where they compare views on the world, morality, and magic. The hold from this move can flow freely, and you can use it to help, hinder, bribe, or threaten another mage. TODO: THERE'S MORE TO SAY ABOUT WHAT GIVING AN INSPIRATION MEANS HERE.
 
-When you **impress a lusus naturae with a feat of magic in order to sway them,** they will expect something in return. Roll +Without (-1 if Tethered). On a 10+, they will do what you want if you promise to do it. On a 7-9 they may choose to instead:
+When you **impress or dismay a lusus naturae with a feat of magic,** roll +Without (-1 if Tethered). On any hit, they may:
 - Give you something else they think you want or need
 - Make themselves scarce
-- Require you to fulfill the promise before they help.
+- Help with a request if you do something for them first.
+
+On a 10+, you can make a request and offer a payment, and you can settle up with them later.
 
 >There might be other beings in the world besides simple humans (some of whom are Mages). Ghosts, demons, perhaps even more esoteric creatures like vampires and faeries, and the artifacts of creation like golems and artificial intelligences. Some Mages lump them all into a category of lusus naturae. They exist hidden in forgotten corners of the Consensus, not able to step outside it like Mages, but denied by the common Lookout. They have at least a dim understanding of a Mage’s raw power, and a display of it is the quickest and easiest way to convince them of something. They can be inscrutable, however, and have their own agendas. They also may find Mages to be inscrutable, and sometimes will try to help in their own way, or simply get out of the Mage’s path, rather than face potential wrath.
 
