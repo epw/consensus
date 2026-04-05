@@ -108,11 +108,12 @@
   \SEPARATOR
 
   \begin{move}
-    When you and another character \TRIGGER{exchange a moment of humanity}, you both:
+     \VAR{humanity['before']}\TRIGGER{\VAR{humanity['trigger']}}\VAR{humanity['after']}
     \begin{itemize}
       \setlength\itemsep{0em}
-    \item If Mages, write an Inspiration about the moment with each other
-    \item Follow the ``moment of humanity'' move on your Playbooks
+	  \BLOCK{ for item in humanity['list'] }
+    \item \VAR{item}
+	\BLOCK{ endfor }
     \end{itemize}
   \end{move}
 

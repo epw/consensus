@@ -1807,6 +1807,12 @@ When you **enact sudden, violent, or unexpected change on the physical world**, 
 >
 >This move does apply in particular to straight up, physical violence. Most Mages know better than to resort to violence, and know the outcome is never as certain as you would like, and the side effects are always worse. If they find it is unavoidable, or worse, let themselves be caught unprepared and be pushed to it, the consequences escalate rapidly. A smart Mage will find a way to change the situation quickly, before their or someone else’s luck runs out.
 
+When you and another character **exchange a moment of humanity**, you both:
+- If Mages, write an Inspiration about the moment with each other
+- Follow the "moment of humanity" move on your Playbooks
+
+>Moments that transcend basic smalltalk or goal-seeking planning can happen unexpectedly. For Mages, they're particularly important, and lead to a broadened view of your place in the universe, in addition to other, sometimes lasting, impacts.
+
 When you **Backlash,** you pushed reality too far and it pushed back. Any effects besides Harm will be difficult if not impossible to fix with magic, particularly the type of magic that caused it. Roll just +Discord, then reset Discord to 0. On a 10+, reality breaks around you a little bit. Make a Status Track for this break, and the MC will make one to track if you become convinced it is real. Decide its form: pervasive hallucinations, a fantasy world overlaying the real one, or a pocket dimension you fall into. Choose a trait of your Paradigm (the name, Aligned, a Capability, or an Opposed) to be explored by the break, and write a move to advance its Status Track. 
 On a 7-9, choose 2:
 - You take 3 Harm

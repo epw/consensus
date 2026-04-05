@@ -172,7 +172,7 @@ def movesdata():
 			movedict['list'] = [line[2:-1] for line in movedict['list']]
 			list = move[0].split('**')
 			movedict['movestring'] = movedict['before'] + movedict['trigger'] + movedict['after'] + str(movedict['list']) + movedict['afterlist']
-	output = {'assert':{}, 'impress':{}, 'sleeper':{}, 'help':{}, 'sell':{}, 'outfox':{}, 'head down':{}, 'rending':{}, 'aligned':{}, 'change':{}, 'backlash':{},
+	output = {'assert':{}, 'impress':{}, 'sleeper':{}, 'help':{}, 'sell':{}, 'outfox':{}, 'head down':{}, 'rending':{}, 'aligned':{}, 'change':{}, 'humanity': {}, 'backlash':{},
 		'willpower':{}, 'fix':{}, 'suffer harm':{}, 'plan':{}, 'begin':{}, 'lose':{}, 'end of session':{}, 'code n':{}, 'danger':{}, 'beyond':{}}
 	for key in output.keys():
 		
@@ -187,7 +187,7 @@ if __name__ == "__main__":
 	dict = movesdata()
 	if sys.argv[1] == 'basic':
 		template = latex_jinja_env.get_template('basicmoves-template.tex')
-		output = template.render(Assert = dict['assert'], impress = dict['impress'], sleeper = dict['sleeper'], help = dict['help'], sell = dict['sell'], outfox = dict['outfox'], headdown = dict['head down'], rending = dict['rending'], aligned = dict['aligned'], suddenchange = dict['change'], backlash = dict['backlash'])
+		output = template.render(Assert = dict['assert'], impress = dict['impress'], sleeper = dict['sleeper'], help = dict['help'], sell = dict['sell'], outfox = dict['outfox'], headdown = dict['head down'], rending = dict['rending'], aligned = dict['aligned'], suddenchange = dict['change'], humanity = dict['humanity'], backlash = dict['backlash'])
 		with io.open('basicmoves.tex', 'w+', encoding='utf-8') as f:
 			f.write(output)	
 	if sys.argv[1] == 'extended':
