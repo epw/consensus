@@ -1952,7 +1952,7 @@ Every Playbook has a unique move which is always present, with the trigger "When
 
 In addition to whatever else the move says, if you exchange a moment of humanity with one of your Anchors, immediately clear their status track: for now, whatever other problems they might have with your character, they are willing to look past them.
 
-If you exchange a moment of humanity with someone magical, they stick with you, and become an Inspiration for you. This is one way Mages can lift each other up, and others in the magical world can bring their own unique perspectives to the Mage.
+If you exchange a moment of humanity with someone magical, it widens your perspective, and you write an Inspiration about it. This is one way Mages can benefit from working together, and others in the magical world can bring their own unique perspectives to the Mage.
 
 \End{Player}
 
@@ -2026,17 +2026,17 @@ Oh, Hob, that’s good, I didn’t realize he’d made such an impression on the
 
 "So you realize they’re describing Hob, tall, thin, but not lanky, and they bring him up as someone really interesting, but then sort of trail off trying to describe him. Definitely sounds like an enchantment. Before you’re able to try and probe for more, Esin arrives, and comes to sit down with you."
 
-Eisen’s player looks thoughtful. "When I get there, is my Source there?" I look down at my PC summary sheet and see that Eisen’s source is new music, so I **Offer opportunity, with or without a cost**, saying “Well, it’s a library, so there’s no music playing there unless you bring it. Did you come with your headphones on, and a few new songs loaded up?” Eisen’s player answers in the affirmative, telling me that they’re listening to one of the songs as they walk in, so their **Source** move is triggered, and they hold 3. 
+Esin’s player looks thoughtful. "When I get there, is my Source there?" I look down at my PC summary sheet and see that Esin’s source is new music, so I **Offer opportunity, with or without a cost**, saying “Well, it’s a library, so there’s no music playing there unless you bring it. Did you come with your headphones on, and a few new songs loaded up?” Esin’s player answers in the affirmative, telling me that they’re listening to one of the songs as they walk in, so their **Source** move is triggered, and they hold 3. 
 
-Eisen’s player continues, "I want to offer my headphones to Hector, and I say, ‘You’ve gotta hear this, it’s blowing my mind man.’"
+Esin’s player continues, "I want to offer my headphones to Hector, and I say, ‘You’ve gotta hear this, it’s blowing my mind man.’"
 
-I think about whether the player might need to roll **Use a Sleeper**, but ultimately decide that it’s pretty normal and Hector would just take them. So I describe Hector putting on a headphone, and kind of nodding their head along to the beat, then taking the other to hear better. "It seems like you’ve **Opened Their Mind** to your Source, Eisen," I say, and Eisen rolls +Dynamic. 8, so they are drawn to Eisen’s Source. “‘Wow, this is great. Who’s it by?’ asks Hector, reaching for your phone.” Eisen lets them have it, and I say, “They look at the screen for a moment, then close their eyes, really getting into the music. Absent-mindedly, they go to put the phone into their pocket.” I’m **Setting up a Future Problem**, which will turn into **Take Away Something They Expect to Have** if it isn’t handled. “What do you do, Zuri?”
+I think about whether the player might need to roll **Use a Sleeper**, but ultimately decide that it’s pretty normal and Hector would just take them. So I describe Hector putting on a headphone, and kind of nodding their head along to the beat, then taking the other to hear better. "It seems like you’ve **Opened Their Mind** to your Source, Esin," I say, and Esin rolls +Dynamic. 8, so they are drawn to Esin’s Source. “‘Wow, this is great. Who’s it by?’ asks Hector, reaching for your phone.” Esin lets them have it, and I say, “They look at the screen for a moment, then close their eyes, really getting into the music. Absent-mindedly, they go to put the phone into their pocket.” I’m **Setting up a Future Problem**, which will turn into **Take Away Something They Expect to Have** if it isn’t handled. “What do you do, Zuri?”
 
-Zuri’s player smirks. "You know, Eisen, magic requires sacrifice…." As Eisen sputters, I notice that this, too, triggered a move, and say “It sounds like you’re **Asserting your Paradigm over another Mage**.” Zuri and Eisen’s players both go wide-eyed, but agree. Zuri’s player rolls +Static, and gets a 7, so holds 1. Eisen’s player says, “I don’t think I’m convinced. I hold out my hand and ask for my phone back.” I look over the moves, and this is an attempt to get a sleeper to do what they want, so it would trigger the **Use a Sleeper** move. “In order to Use a Sleeper, you’ll need to have something they want. What are you offering, Eisen?” “Hmm. OK, I say, ‘Hey, Hector, I need that back now, but I’ll send you the playlist later, OK?’ Is this where I roll?”
+Zuri’s player smirks. "You know, Esin, magic requires sacrifice…." As Esin sputters, I notice that this, too, triggered a move, and say “It sounds like you’re **Asserting your Paradigm over another Mage**.” Zuri and Esin’s players both go wide-eyed, but agree. Zuri’s player rolls +Static, and gets a 7, so holds 1. Esin’s player says, “I don’t think I’m convinced. I hold out my hand and ask for my phone back.” I look over the moves, and this is an attempt to get a sleeper to do what they want, so it would trigger the **Use a Sleeper** move. “In order to Use a Sleeper, you’ll need to have something they want. What are you offering, Esin?” “Hmm. OK, I say, ‘Hey, Hector, I need that back now, but I’ll send you the playlist later, OK?’ Is this where I roll?”
 
-Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to give a -1 to that roll, because I did *just* say that magic requires sacrifice." “It’s true, you did,” I say. “Alright, roll +Without minus one.” “That Zuri, so convincing,” remarks Eisen’s player, as they start to roll. “10! No, wait, minus one, it’s a 9. Curse your silver tongue.”
+Zuri’s player jumps in. "Actually, I think I’m going to spend my Hold to give a -1 to that roll, because I did *just* say that magic requires sacrifice." “It’s true, you did,” I say. “Alright, roll +Without minus one.” “That Zuri, so convincing,” remarks Esin’s player, as they start to roll. “10! No, wait, minus one, it’s a 9. Curse your silver tongue.”
 
-"Alright, so Hector will need proof that they’ll get what they want, or will need it before they do anything for you, so I think Hector shakes his head. ‘Nah, you don’t understand. I really need this right now. I’m just gonna AirDrop it over to my phone..." Eisen’s player just kind of shrugs, so I say, “You realize that if Hector does that, this playlist won’t be ‘new’ anymore. It will stop feeding your inspiration. You were sure you were going to get another day or two out of this at least.” I’m **telling the possible consequences and asking**. Eisen lets out a long-suffering sigh. “OK, sure. Hang on, while my Source is still kind of present, at least for Hector, can I spend one of my Hold to bring the positive tag into play? It’s +invigorating, so maybe it breaks Hector out of their enchantment?” I nod, and now Eisen’s player gets to narrate what this means for the moment. They say, “So as the music swells, it starts to give Hector a rush of energy, and then clarity. Finally, the music hits and holds a single note, that resonates like a tuning fork and then shatters the enchantment.” “Great!” I continue. “Hector shakes his head to clear it and looks around. ‘Zuri? When did you get here? I think someone dangerous has been lurking around!’”
+"Alright, so Hector will need proof that they’ll get what they want, or will need it before they do anything for you, so I think Hector shakes his head. ‘Nah, you don’t understand. I really need this right now. I’m just gonna AirDrop it over to my phone..." Esin’s player just kind of shrugs, so I say, “You realize that if Hector does that, this playlist won’t be ‘new’ anymore. It will stop feeding your inspiration. You were sure you were going to get another day or two out of this at least.” I’m **telling the possible consequences and asking**. Esin lets out a long-suffering sigh. “OK, sure. Hang on, while my Source is still kind of present, at least for Hector, can I spend one of my Hold to bring the positive tag into play? It’s +invigorating, so maybe it breaks Hector out of their enchantment?” I nod, and now Esin’s player gets to narrate what this means for the moment. They say, “So as the music swells, it starts to give Hector a rush of energy, and then clarity. Finally, the music hits and holds a single note, that resonates like a tuning fork and then shatters the enchantment.” “Great!” I continue. “Hector shakes his head to clear it and looks around. ‘Zuri? When did you get here? I think someone dangerous has been lurking around!’”
 
 \End{MC}
 
@@ -2080,9 +2080,9 @@ Do respect a player's choices. If their character retired to safety, no fair kil
 
 \newpage
 
-{{anchorAnchors and Inspirations chapter}}
+{{anchorAnchors chapter}}
 
-# Anchors and Inspirations
+# Anchors
 
 ## Anchors
 
@@ -2202,44 +2202,6 @@ In this world, Mages have Anchors. You should be sure to think about this and wh
 
 \End{MC}
 
-## Inspirations
-
-\Begin{Player}
-
-The counterpart to Anchors, Inspirations are what bring a Mage their power, or tempt them to cross the line to being something other than human. Other Mages often inspire, and particularly significant spirits, animals, or even magical objects might as well. Where Anchors keep you tied to the physical reality, Inspirations help you find ways to rise above your mundane existence. They help you strive to reach your true potential, but in that striving, is it possible you will go too far? Inspirations are always inherently magical, whether they be other awakened Mages, spirits, or magical objects, in order for them to help you transcend the constraints of your magical capabilities, they must themselves be part of the magical world. (Of course, sometimes you meet someone who would absolutely be an inspiration if only they knew like you did, that magic was real. Maybe you start searching for a way to really open their eyes, thinking about how perfect everything will be then.)
-
-### Gaining Inspirations
-
-While there are many people, spirits, animals or even items that could serve to inspire you, only some of them are actively on your mind at a given time. When you interact with someone or something that inspires your magic in certain special ways, they become an active Inspiration for you, lifting you to new heights.
-
-When you gain an Inspiration, fill in one of the bubbles next to your Anchors. See {{linkLosing a Character}} for why there are only 6 (and add more in the rare case you need them.)
-
-#### Having a Moment of Humanity
-
-The first way of gaining (or re-gaining) an inspiration is to have a Moment of Humanity with another mage. When this happens, along with rolling your move, you may add them as an Inspiration. Write their name down on your playbook along with maybe a note about how they inspire you to greater magical feats, like "reminds me to think of individuals, not just groups" or “shows me new forms of magic every time we meet.”
-
-#### Doing Magic Through Them
-
-The second way of gaining (or re-gaining) an inspiration is to actively work your magic through, or in deep collaboration with, them or it. This is more commonly a way to gain an inspiration that isn’t another person, be it a spirit, a familiar, a magical focus, or similar. When you do magic through one of these things, or even through another mage, you may add them as an inspiration. Write them down on your playbook along with maybe a note about how they inspire you to greater magical heights, like "contains the secrets of blood magic" or "tells me what's wrong in my code."
-
-### Maintaining Inspirations
-
-Inspiration is sometimes said to be fleeting. In order to maintain your connection with your inspirations, simply do the same thing you might do to gain one in the first place. If you do so once per session per inspiration, they’ll continue to inspire you.
-
-### Losing Inspirations (and why it’s not a big deal)
-
-Losing an inspiration, more likely just falling out of touch and not having them at the forefront of your thoughts, isn’t a big deal. There’s no penalty, and you can always go back and rekindle that spark of inspiration. If at the end of a session you have not had a moment of humanity with or done magic through one or more of your inspirations, just erase them from your sheet and keep on keeping on.
-
-### Non-Human Inspirations
-
-Most Inspirations are other humans, especially the other Mages played at the table. But, they’re not the only possible source. Magic itself can be inspiring, and it takes many forms. Inspirations really can be any magical thing that make sense at your table, but a few are worth calling out explicitly.
-
-Familiar spirits are a classic part of magical lore. Wizards construct homoculi to help them around the laboratory. Witches bond with magical cats. In these cases, the magical being itself usually elevates the Mage, possibly even speaking directly to them on issues of magic. Whether a familiar is a spirit taking an understandable form or is a formerly mundane animal which has been transformed into something more is academic.
-
-Some Mages believe that they have a personal spirit who helps guide them on their journey towards enlightenment. This spirit may appear in dreams and visions, and likely offers tantalizing, incomplete clues about magic. On lucky occasions, the Mage might get a chance to actually talk directly to the spirit, and may get a sense of a favorite manifestation, such as a mythological figure, force of nature, or even a past life. These spirits are often called Avatars, or Genius, and they can be a powerful source of inspiration if interacted with regularly.
-
-Some magical items are simply tools, but others go beyond that. Important relics a Mage has found, or artifacts they created themselves, can continue to inspire. Doing magic from an ancient spellbook just feels different from piecing the components together out of pop witchcraft, and those times that a program is written in concert with the spirit that lives in the computer transcend any amount of hacking on a magical terminal.
-
 \End{Player}
 
 \Begin{Player}
@@ -2248,19 +2210,19 @@ Some magical items are simply tools, but others go beyond that. Important relics
 
 ### Being Tethered
 
-Being Tethered is a state that all mages find themselves in at the start of a game of Consensus. It simply means that you have at least as many Anchors as you have Inspirations, and it is a safe place to be. Safe, but potentially unfulfilling, you can’t reach your true potential while tethered, you can’t work your will on reality when you let yourself be tethered to reality.
+Being Tethered is a state that all mages find themselves in at the start of a game of Consensus. It simply means that you have two or more Anchors, and it is a safe place to be. Safe, but potentially unfulfilling, you can’t reach your true potential while tethered, you can’t work your will on reality when you let yourself be tethered to reality.
 
 ### Becoming Untethered
 
-Once you have more Inspirations than Anchors, you become Untethered, a mage truly starting to grasp just how far their power can reach. More paths will open up to you while you are Untethered, but beware, you stand on a precipice, even more than you did before.
+Once you have only one Anchor, you become Untethered, a mage truly starting to grasp just how far their power can reach. More paths will open up to you while you are Untethered, but beware, you stand on a precipice, even more than you did before.
 
-When you lose inspirations, or gain anchors so that you are no longer Untethered, you go back to being Tethered, but you keep any advancements you may have gained while Untethered.
+When you gain an Anchor so that you are no longer Untethered, you go back to being Tethered, but you keep any advancements you may have gained while Untethered.
 
 An Untethered character likely has visible signs to those who know how to look for them. More magic to brush their small problems aside, and anything not central to their Paradigm might matter less, from traffic lights to birthdays. And, of course, they come with a heightened sense that they might, sooner or later, disappear without a trace.
 
 ### Untethered Advancements
 
-The top tier of advancements are only available while your PC is Untethered. These advancements are often more powerful than others you have access to, so you will need to decide if the power is worth the risk. Note that when you gain an advancement, you must take it immediately, so if you are coming up on your 6th advancement and really want to access your Untethered Advancements immediately, it is time to start gaining Inspirations, or shedding Anchors.
+The top tier of advancements are only available while your PC is Untethered. These advancements are often more powerful than others you have access to, so you will need to decide if the power is worth the risk. Note that when you gain an advancement, you must take it immediately, so if you are coming up on your 6th advancement and really want to access your Untethered Advancements immediately, it is time to start shedding Anchors.
 
 #### Advanced Moves
 
@@ -2268,15 +2230,13 @@ Notably, the only way to access your playbook’s Advanced Moves is by being Unt
 
 ### Basic Move Effects
 
-Certain moves care if your character is tethered, or how many Anchors or Inspirations your character has. Asserting your Paradigm and impressing non-Mage magical beings are both slightly harder if you are Tethered. On the other hand, when you roll to help or hinder another PC, you roll +Anchors, even if you are helping or hindering a magical effect.
+Certain moves care if your character is tethered, or how many Anchors your character has. Asserting your Paradigm and impressing non-Mage magical beings are both slightly harder if you are Tethered. On the other hand, when you roll to help or hinder another PC, you roll +Anchors, even if you are helping or hindering a magical effect.
 
 {{anchorLosing a Character}}
 
 ### Losing a Character
 
-If you ever find yourself with inspirations totaling more than twice the number of anchors you have remaining, that’s the moment you’ve taken a look to see where the line is, the one that mages can’t step over and maintain their humanity, and you notice that it’s a few steps behind you. This character will be wrapping up, one way or another. 
-
-When you lose an anchor or gain an inspiration that would put you over this threshold, you lose the character. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
+When you lose your last Anchor, you lose the character, one way or another. They become something other than human. Depending on what the circumstances were, a character might descend into a magic-fueled rage for the rest of eternity, or they might throw off the shackles of their earthly form and ascend to a higher consciousness, just for a couple examples. Work with the MC to determine what happens to the character, and then if you don’t have any other characters to play, grab a playbook and make a new one. The MC will almost certainly bring your "lost" character back in some way through the story, so everyone can interact with… whatever they have become.
 
 \End{Player}
 
@@ -2284,9 +2244,9 @@ When you lose an anchor or gain an inspiration that would put you over this thre
 
 \Begin{Narrator}
 
-Mages are aware of Anchors and Inspirations, even if they should not be imagined to think in terms of such a regimented system. Any game with Mages who understand each other and how they work will recognize that having some tethers to mundane reality is powerfully grounding and allows certain kinds of magic to be recovered, but is a constant toll on the Mage's time and energy. Similarly, the phenomenon of Inspirations, in which Mages and other important magical heighten an individual Mage's sense of self and ability to practice, would be well-documented.
+Mages are aware of Anchors, even if they should not be imagined to think in terms of such a regimented system. Any game with Mages who understand each other and how they work will recognize that having some tethers to mundane reality is powerfully grounding and allows certain kinds of magic to be recovered, but is a constant toll on the Mage's time and energy. 
 
-Don't be afraid to mention these within the fiction, for example, acknowledging that a Mage need to go visit their sister because she is an Anchor, not "just" family. At the same time, don't be limited to game rules or terminology. Perhaps the Mage refers to Anchors and Sails instead of Anchors and Inspirations, or just talks about tethers above and tethers below.
+Don't be afraid to mention these within the fiction, for example, acknowledging that a Mage need to go visit their sister because she is an Anchor, not "just" family. At the same time, don't be limited to game rules or terminology. Perhaps the Mage talks about "tethers" rather than "Anchors", or references their "unreality quotient."
 
 \End{Narrator}
 
@@ -2404,7 +2364,7 @@ The students are quick studies, always trying out new things and adapting strate
 
 #### The Inspired’s Source
 
-The Inspired’s source is a reliable Inspiration for them, when they can get it. It has a form that describes it, one positive tag, and two negative tags. Really flesh out what the Source is though, the tags should just describe it. The positive tag can be brought into play while interacting with your Source, and the MC can use the negative tags to affect you (or your ability to access your source.)
+The Inspired’s source is the way they do their magic, when they can get it. It has a form that describes it, one positive tag, and two negative tags. Really flesh out what the Source is though, the tags should just describe it. The positive tag can be brought into play while interacting with your Source, and the MC can use the negative tags to affect you (or your ability to access your source.)
 
 ##### Example Sources
 
