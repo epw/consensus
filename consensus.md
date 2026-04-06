@@ -1131,6 +1131,8 @@ _Lusus naturae_ interact with Paradigms unusually, because they follow their own
 
 If any _lusus naturae_ appeal to anyone at the table, including yourself, think about them like any other characters in the story. What role could they play in your game? Forces will usually be a good way to manage things. _Lusus naturae_ such as familiar spirits, guardian angels, and local friendly ghosts might get spots in the Internal Force, while external groups such as a faerie court or a bound demon with a corrupting influence can easily be written up as whole Forces of their own, with a cast of involved characters and a set of moves.
 
+_Lusus naturae_ have unique views on the Consensus, and as such can sometimes encourage Mages to see things in a new way. One thing they have to offer a Mage who is impressing or dismaying them with a feat of magic is an Inspiration. These Inspirations should relate to how the individual in question works outside the normal Consensus without being impacted by Discord. You write the Inspiration being offered, rather than the player of the Mage receiving it, and you can keep it as narrow as warranted.
+
 \End{MC}
 
 ### Introduce Playbooks
@@ -1759,14 +1761,14 @@ On a miss, they hold 1 against you, on the same terms.
 
 >This move is one that serves multiple purposes. Sometimes a mage is explicitly trying to convince another mage about how the world works, animatedly or even violently. They are asserting that their paradigm is correct. However, this move comes up even more during deep philosophical conversations between mages, where they compare views on the world, morality, and magic. The hold from this move can flow freely, and you can use it to help, hinder, bribe, or threaten another mage. TODO: THERE'S MORE TO SAY ABOUT WHAT GIVING AN INSPIRATION MEANS HERE.
 
-When you **impress or dismay a lusus naturae with a feat of magic,** roll +Without (-1 if Tethered). On any hit, they may:
-- Give you something else they think you want or need
+When you **impress or dismay a _lusus naturae_ with a feat of magic,** roll +Without (-1 if Tethered). On any hit, they may:
+- Give you something else they think you want or need, including an Inspiration
 - Make themselves scarce
 - Help with a request if you do something for them first.
 
 On a 10+, you can make a request and offer a payment, and you can settle up with them later.
 
->There might be other beings in the world besides simple humans (some of whom are Mages). Ghosts, demons, perhaps even more esoteric creatures like vampires and faeries, and the artifacts of creation like golems and artificial intelligences. Some Mages lump them all into a category of lusus naturae. They exist hidden in forgotten corners of the Consensus, not able to step outside it like Mages, but denied by the common Lookout. They have at least a dim understanding of a Mage’s raw power, and a display of it is the quickest and easiest way to convince them of something. They can be inscrutable, however, and have their own agendas. They also may find Mages to be inscrutable, and sometimes will try to help in their own way, or simply get out of the Mage’s path, rather than face potential wrath.
+>There might be other beings in the world besides simple humans (some of whom are Mages). Ghosts, demons, perhaps even more esoteric creatures like vampires and faeries, and the artifacts of creation like golems and artificial intelligences. Some Mages lump them all into a category of _lusus naturae_. They exist hidden in forgotten corners of the Consensus, not able to step outside it like Mages, but denied by the common Lookout. They have at least a dim understanding of a Mage’s raw power, and a display of it is the quickest and easiest way to convince them of something. They can be inscrutable, however, and have their own agendas. They also may find Mages to be inscrutable, and sometimes will try to help in their own way, or simply get out of the Mage’s path, rather than face potential wrath.
 
 When you **use a sleeper** for your own ends, you must first present something they want. Roll +Without. On a 10+, they will do what you want to the best of their abilities, but on a 7-9, they’ll need proof that they’ll get what they want, or they’ll need it before they do anything for you.
 
@@ -2791,7 +2793,7 @@ This is another section addressed entirely to the MC. Like elsewhere, it's perfe
 
 Forces are one of the main organizational structures used in MCing Consensus. They give you a way to keep track of what powers are in the world, and how far along they are in their goals. You make Forces between sessions, collating what you know about the story and where you imagine it may go.
 
-A Force can be many things: It might be an ambitious organization, some lusus naturae from Elsewhere, or even a collection of cursed items, each with their own motivation. The point is to gather them together for your own records, and know what happens when they act. That’s where the name Force comes from: they are things which will act, and make changes in the world.
+A Force can be many things: It might be an ambitious organization, some _lusus naturae_ from Elsewhere, or even a collection of cursed items, each with their own motivation. The point is to gather them together for your own records, and know what happens when they act. That’s where the name Force comes from: they are things which will act, and make changes in the world.
 
 Note that Forces can be allies or enemies to the Mages, or neither. They may have their own agendas, but at times, some Mages may realize that they do not want to impede a Force, and indeed wish to help it along. In addition, what is a positive Force to one Mage might be a negative Force to another. Forces are complex. No Force should simply exist to be defeated.
 
@@ -2943,7 +2945,7 @@ A group with some amount of power, tradition, and goals.
 
 ### Outsider
 
-An entity or group of entities that aren’t part of the normal mundane/human world, or are otherwise outside of the norms of the setting. Usually, this means they are lusus naturae.
+An entity or group of entities that aren’t part of the normal mundane/human world, or are otherwise outside of the norms of the setting. Usually, this means they are _lusus naturae_.
 
 ### Aspirant
 
@@ -3734,7 +3736,7 @@ You take +1 forward when acting on this information.
 
 **Academe:** You have a Place of Power where you train your students. While you are within your Place of Power, take +1 forward to any Static rolls you make.
 
-**Matter over Mind:** You may roll +Static instead of +Without when impressing a lusus naturae in order to sway them.
+**Matter over Mind:** You may roll +Static instead of +Without when impressing a _lusus naturae_ in order to sway them.
 
 **What you Need, not what you Want:** When another character comes to you for advice and you tell them honestly what you think the best course of action is, they take +1 ongoing while following your advice, and you mark experience.
 
