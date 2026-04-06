@@ -8,7 +8,7 @@ author:
 
 <div>
 <!-- Only visible in HTML, not LaTeX -->
-Version 0.2
+Version 0.25
 </div>
 
 # In The Beginning
