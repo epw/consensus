@@ -2202,8 +2202,6 @@ In this world, Mages have Anchors. You should be sure to think about this and wh
 
 \End{MC}
 
-\End{Player}
-
 \Begin{Player}
 
 ## Tethered and Untethered
