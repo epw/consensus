@@ -3740,7 +3740,7 @@ You take +1 forward when acting on this information.
 
 **Academe:** You have a Place of Power where you train your students. While you are within your Place of Power, take +1 forward to any Static rolls you make.
 
-**Matter over Mind:** You may roll +Static instead of +Without when impressing a _lusus naturae_ in order to sway them.
+**Matter over Mind:** You may roll +Static instead of +Without when impressing a lusus naturae in order to sway them.
 
 **What you Need, not what you Want:** When another character comes to you for advice and you tell them honestly what you think the best course of action is, they take +1 ongoing while following your advice, and you mark experience.
 
