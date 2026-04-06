@@ -2504,9 +2504,9 @@ Note that not playing a character doesn’t stop, for example, Portents related 
 
 Some very powerful advancements are only available to Mages who have left behind a certain amount of attachment to the mundane world, or are sufficiently inspired in the magical world. Untethered Advancements may only be accessed by characters that have unlocked Tier 2 advancements, and only if they are Untethered at the time of reaching their fifth experience. If a character becomes Tethered again, they retain any advancements gained while Untethered. Advanced Moves for each playbook are under this tier, and are some of the most powerful moves available.
 
-#### Becoming Untethered: Inspirations and Anchors
+#### Becoming Untethered
 
-A character becomes Untethered when they have more Inspirations than they do Anchors. This can happen by gaining a new inspiration or by losing an Anchor. (Sometimes both may happen at once, but this is likely a rare occurrence.) They remain Untethered while this remains true. However, if a character at any point has at least twice as many Inspirations as they do Anchors, that character becomes Lost and is no longer a playable character ({{linkLosing a Character}}). This is the careful balancing act Mages must do in order to access their most powerful advancements.
+A character becomes Untethered when they have only one Anchor. They remain Untethered while this remains true. However, if a character at any point loses their final Anchor, that character becomes Lost and is no longer a playable character ({{linkLosing a Character}}). This is the careful balancing act Mages must do in order to access their most powerful advancements.
 
 #### (Special) Remove a Restriction from your Paradigm
 
@@ -2542,7 +2542,7 @@ When your cabal helps you Research, on a 12+, hold 2. Use this hold 1 for 1 to i
 
 ##### Familiar
 
-You may take a magical being or object as an anchor. You may only ever have one magical anchor at a time. Your magical anchor may also be an Inspiration.
+You may take a magical being or object as an Anchor. You may only ever have one magical Anchor at a time.
 
 ##### Universal Understanding
 
@@ -2755,7 +2755,7 @@ Don’t use this to copy other playbooks’ moves, especially moves that are alr
 
 ## Fictional Positioning
 
-Finally, characters advance within the context of the story. A character gets some money and buys a new car, and now has a reliable means of getting around. A character meets a long-lost cousin and now has a new connection to their family. A character finally builds the library they’ve always meant to. Often, due to the descriptive nature of the rules, it is possible to fit these things into the mechanics. New acquaintances can become Anchors or Inspirations, a library might be a place of power, but just because it doesn’t fit doesn’t mean it doesn’t matter. There are also changes that aren’t precisely mechanics but interact with them: If you quested out and gained a vial of sacred water from the lake inhabited by the last mermaid, perhaps you now have a resource that could be consumed to do magic within your Paradigm but beyond your abilities.
+Finally, characters advance within the context of the story. A character gets some money and buys a new car, and now has a reliable means of getting around. A character meets a long-lost cousin and now has a new connection to their family. A character finally builds the library they’ve always meant to. Often, due to the descriptive nature of the rules, it is possible to fit these things into the mechanics. New acquaintances can become Anchors, a library might be a place of power, but just because it doesn’t fit doesn’t mean it doesn’t matter. There are also changes that aren’t precisely mechanics but interact with them: If you quested out and gained a vial of sacred water from the lake inhabited by the last mermaid, perhaps you now have a resource that could be consumed to do magic within your Paradigm but beyond your abilities.
 
 \End{Player}
 
@@ -2763,7 +2763,7 @@ Finally, characters advance within the context of the story. A character gets so
 
 \Begin{Narrator}
 
-Consensus is structured around 6-12 sessions for a "complete" game, most of the time. By the end, a character can certainly amass a large amount of mechanical power: Get a couple Advanced Moves, change playbooks and keep some of the old one, and a character can easily become far more powerful than they started, and possibly more powerful than others at the table who didn't try to exploit the system in this way. We believe that in the limited number of sessions, no character will be able to become so powerful that they can simply solve all of the problems in front of everybody. After all, they still have to balance their Anchors and Inspirations, still have to exist in a community, and as they attract more attention, new Forces can come their way. The MC and other players should always think about what it means when someone tries to solve everything with magic, and keep focusing on unstable points, as always.
+Consensus is structured around 6-12 sessions for a "complete" game, most of the time. By the end, a character can certainly amass a large amount of mechanical power: Get a couple Advanced Moves, change playbooks and keep some of the old one, and a character can easily become far more powerful than they started, and possibly more powerful than others at the table who didn't try to exploit the system in this way. We believe that in the limited number of sessions, no character will be able to become so powerful that they can simply solve all of the problems in front of everybody. After all, they still have to balance their Anchors, still have to exist in a community, and as they attract more attention, new Forces can come their way. The MC and other players should always think about what it means when someone tries to solve everything with magic, and keep focusing on unstable points, as always.
 
 If the game turns into a story in which everything is finally fixed for real, and everyone can live happily ever after, it is probably time to wrap up. Hopefully it was inspiring. Maybe some of the lessons can be brought out into the rest of your lives. And if they don't work as well there, maybe there was more that could have been brought in to challenge the Mages after all.
 
@@ -3588,13 +3588,11 @@ Many people wonder where inspiration comes from. That question is boring to you,
 
 The Inspired gets the **Source** move, and 2 other moves of your choice.
 
-**Source:** (You have this move by default) You've identified the source of your inspiration. When **your Source first becomes present in a scene**, hold 3 and gain it as an Inspiration. At any time that your source is present for the rest of the scene, spend your Hold 1-for-1 to:
+**Source:** (You have this move by default) You've identified the source of your inspiration. When **your Source first becomes present in a scene**, hold 3. At any time that your source is present for the rest of the scene, spend your Hold 1-for-1 to:
 
 - Draw attention to your Source
 - Give someone (including yourself) +1 to a roll they just made if it would change the result, describing how your Source helps them do it
 - Bring your positive tag into play, narrating what it means for the moment
-
-Whether it is present in a scene or not, your Source always counts as an active Inspiration for you.
 
 **Just When I Think You're Gone:** When you **pass up an opportunity to interact with your Source**, or remove it from a scene, roll +Within. On a hit, hold 1. On a 10+ you may spend your hold 1-for-1 to have your source appear in the scene with no explanation needed. On a 7-9 you may spend your hold for the same, but your Source is threatened, captured, or in peril.
 
