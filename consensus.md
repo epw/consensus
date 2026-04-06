@@ -1761,7 +1761,7 @@ On a miss, they hold 1 against you, on the same terms.
 
 >This move is one that serves multiple purposes. Sometimes a mage is explicitly trying to convince another mage about how the world works, animatedly or even violently. They are asserting that their paradigm is correct. However, this move comes up even more during deep philosophical conversations between mages, where they compare views on the world, morality, and magic. The hold from this move can flow freely, and you can use it to help, hinder, bribe, or threaten another mage. TODO: THERE'S MORE TO SAY ABOUT WHAT GIVING AN INSPIRATION MEANS HERE.
 
-When you **impress or dismay a _lusus naturae_ with a feat of magic,** roll +Without (-1 if Tethered). On any hit, they may:
+When you **impress or dismay a lusus naturae with a feat of magic,** roll +Without (-1 if Tethered). On any hit, they may:
 - Give you something else they think you want or need, including an Inspiration
 - Make themselves scarce
 - Help with a request if you do something for them first.
@@ -1910,6 +1910,10 @@ When **one of your Anchors is put in danger**, mark experience and either go and
 When you **describe a magical effect within your Paradigm but beyond your normal abilities**, the MC may tell you a resource you could consume to achieve the effect.
 
 >Even Mages have their limits. Archimedes supposedly said, "Give me the place to stand, and I shall move the earth," but he would need that place, and a long enough lever. When a Mage thinks about what they could do if only they had the power, or the tools, they can usually come up with something. It might not be easily achievable and they might not want to give it up, but the possibility is there.
+
+When you **attune to a magical tool, foci, or item** in order to stretch your Paradigm, roll +Within. On a 10+ the MC will give you an Inspiration related to that object. On a 7-9, take +1 forward on your next roll when you used magic involving the item. On a 6-, the MC tells you what goes wrong: the object breaks, loses its charge, or otherwise becomes unusable without some unknown future effort.
+
+>Study can provide many benefits, but in particular, when encountering a physical item imbued with magic, a Mage may consider new ways it lets them interact with the world. In general, this will take a good amount of time, or Savings, or have an opportunity cost, so it is usually only worth it for special objects or to prepare for key events.
 
 At the **end of session**: note any effects that lasted "until end of session," but should continue into the next. Also, use this time to briefly discuss any loose threads from this session, that are still on your mind. Finally, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
 - Did you show the lengths you were willing to go to in order to protect an Anchor?  
