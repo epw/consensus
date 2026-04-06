@@ -362,6 +362,16 @@ Freedoms can be very useful, especially because Mages tend to become less able t
 
 \End{Player}
 
+#### Inspirations
+
+\Begin{Player}
+
+Inspirations behave the same as Freedoms, but are fleeting instead of enduring. An Inspiration represents a short-term widening of understanding, the kind that can come from, for example, an enlightening conversation, a moment of empathy, or a lesson that you partially grasp. Inspiration can be extremely valuable, but benefitting permanently from it requires real work (and someone else's Advancement spent on granting you a Freedom.)
+
+As with a Freedom, an Inspiration prevents some narrow type of magic from being Opposed. You do not have to be doing anything in particular to benefit from the Inspiration. However, you can only gain Inspiration in specific ways, and those ways specify exactly how much say you have in what is available to you.
+
+\End{Player}
+
 ### Restrictions
 
 \Begin{Player}
@@ -3350,7 +3360,7 @@ The Cabalist gets the Gossamer Threads move, and 2 other moves of your choice.
 
 You also have this move:
 
-When you and another character **exchange a moment of humanity**, roll +Without. On a 10+ you may each immediately give a freedom to each other. On a 7-9, each hold 1. They may spend their hold 1 for 1 to attempt to Sway Your Cabal (as per your move Gossamer Threads). You may spend your hold 1 for 1 to attempt to Sway them as if they were part of your cabal. On a 6-, they hold 2, you hold 0.
+When you and another character **exchange a moment of humanity**, roll +Without. On a 10+ you may each immediately give a Freedom to each other, instead of an Inspiration. On a 7-9, each hold 1. They may spend their hold 1 for 1 to attempt to Sway Your Cabal (as per your move Gossamer Threads). You may spend your hold 1 for 1 to attempt to Sway them as if they were part of your cabal. On a 6-, they hold 2, you hold 0.
 
 
 ### Stats
