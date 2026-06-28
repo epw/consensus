@@ -137,7 +137,7 @@ def mc_data():
 		agenda[agendanum] = item + ' \TEXTBULLET'
 	
 	always_say_num = -1
-	for items in always_say[:-1]:
+	for item in always_say[:-1]:
 		always_say_num+=1
 		always_say[always_say_num] = item + ' \TEXTBULLET'
 	
