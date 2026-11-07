@@ -157,17 +157,13 @@
   \ParadigmBlanks
 }
 \newcommand{\ParadigmModifiers}{
-  \SECTION{Restrictions:}
+  \foreach \name in {Restrictions,Inspirations,Freedoms}{
+  \SECTION{\name:}
 
-  \foreach \n in {1,...,3}{\medskip\BLANK\BLANK}
+  \foreach \n in {1,...,3}{\smallskip\BLANK\BLANK
 
-  \SECTION{Inspirations:}
-
-  \foreach \n in {1,...,3}{\medskip\BLANK\BLANK}
-
-  \SECTION{Freedoms:}
-
-  \foreach \n in {1,...,3}{\medskip\BLANK\BLANK}
+  }
+  }
 }
 \newcommand{\PaneFive}{
   \ParadigmSection
