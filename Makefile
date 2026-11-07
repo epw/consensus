@@ -1,6 +1,6 @@
 LATEX = lualatex
 PDF_ENGINE = $(LATEX)
-PDFJOIN = pdfjoin
+PDFJOIN = ./pdfjoin
 PANDOC = pandoc
 PYTHON = python3
 

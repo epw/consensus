@@ -17,7 +17,7 @@
   \end{move}
 
   \SEPARATOR
-  
+
   \begin{move}
     \VAR{fix['before']}\TRIGGER{\VAR{fix['trigger']}}\VAR{fix['after']}
     \begin{itemize}
@@ -87,11 +87,15 @@
 
   \SEPARATOR
 
+  \vspace{-.1in}
+  
   \begin{move}
     \VAR{connectanchor['before']}\TRIGGER{\VAR{connectanchor['trigger']}}\VAR{connectanchor['after']}
   \end{move}
 
   \SEPARATOR
+
+  \vspace{-.1in}
 
   \begin{move}
     \VAR{danger['before']}\TRIGGER{\VAR{danger['trigger']}}\VAR{danger['after']}
@@ -99,18 +103,25 @@
 
   \SEPARATOR
 
+  \vspace{-.1in}
+
   \begin{move}
     \VAR{anchor['before']}\TRIGGER{\VAR{anchor['trigger']}}\VAR{anchor['after']}
+    \vspace{-.1in}
     \begin{itemize}
-      \setlength\itemsep{0em}
+      \small
+      \setlength\itemsep{-0.4em}
       \BLOCK{ for item in anchor['list'] }
     \item \VAR{item}
       \BLOCK{ endfor }
     \end{itemize}
+    \vspace{-.1in}
     \VAR{anchor['afterlist']}
   \end{move}
   
   \SEPARATOR
+
+  \vspace{-.1in}
 
   \begin{move}
     \VAR{attune['before']}\TRIGGER{\VAR{attune['trigger']}}\VAR{attune['after']}
@@ -118,14 +129,30 @@
 
   \SEPARATOR
 
+  \vspace{-.1in}
+
   \begin{move}
     \VAR{quint['before']}\TRIGGER{\VAR{quint['trigger']}}\VAR{quint['after']}
   \end{move}
 
   \SEPARATOR
 
+  \vspace{-.1in}
+
   \begin{move}
-    \TRIGGER{At the end of the session}, follow the MC's lead to wrap up and prepare for the next one, if any.
+    \TRIGGER{At the end of the session}: note any effects that lasted "until end of session," but should continue into the next. Then, ask yourselves these questions as a group. For every one you answer “yes” to, everyone marks experience.
+
+    \vspace{-.1in}
+    
+    \begin{itemize}
+      \small
+      \setlength\itemsep{-0.25em}
+    \item Did you show the lengths you were willing to go to in order to maintain an Anchor?
+    \item Did you uncover a secret?
+    \item Did you learn something that puts your paradigms in perspective, or caused you to question them?
+    \item Did you expose the depths of your humanity, to yourself or to someone else?
+    \item Did you witness loss, selfishness, or pain born of magic?
+    \end{itemize}
   \end{move}
   
 \end{multicols}
