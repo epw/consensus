@@ -3605,9 +3605,7 @@ The Inspired gets the **Source** move, and 2 other moves of your choice.
 **Source:** (You have this move by default) You've identified the source of your inspiration. When **your Source first becomes present in a scene**, hold 3. At any time that your source is present for the rest of the scene, spend your Hold 1-for-1 to:
 
 - Draw attention to your Source
-- Give someone (including yourself) +1/-2 to a roll they just made if
-  it would change the result, describing how your Source helps or
-  hinders them.
+- Give someone (including yourself) +1/-2 to a roll they just made if it would change the result, describing how your Source helps or hinders them.
 - Bring your positive tag into play, narrating what it means for the moment
 
 **Just When I Think You're Gone:** When you **pass up an opportunity to interact with your Source**, or remove it from a scene, roll +Within. On a hit, hold 1. On a 10+ you may spend your hold 1-for-1 to have your source appear in the scene with no explanation needed. On a 7-9 you may spend your hold for the same, but your Source is threatened, captured, or in peril.
