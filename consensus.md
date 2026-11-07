@@ -1698,7 +1698,7 @@ When a reality break is created, follow the steps of the move:
 
 * Work with the player to write a move that advances the Reality Break Escape
 
-    * If you are exploring an Opposed or Capability, it can be good to have this move be something that reasserts the Mages paradigm (so acts against the Opposed) but doesn't push back against the world too hard.
+    * If you are exploring an Opposed, it can be good to have this move be something that reasserts the Mages paradigm (so acts against the Opposed) but doesn't push back against the world too hard.
 	
 	* If you are exploring an Aligned, consider having this status track advance when the mage accomplishes something without the use of magic, or without resorting to what they are good at.
 
@@ -1825,7 +1825,7 @@ When you and another character **exchange a moment of humanity**, you both:
 
 >Moments that transcend basic smalltalk or goal-seeking planning can happen unexpectedly. For Mages, they're particularly important, and lead to a broadened view of your place in the universe, in addition to other, sometimes lasting, impacts.
 
-When you **Backlash,** you pushed reality too far and it pushed back. Any effects besides Harm will be difficult if not impossible to fix with magic, particularly the type of magic that caused it. Roll just +Discord, then reset Discord to 0. On a 10+, reality breaks around you a little bit. Make a Status Track for this break, and the MC will make one to track if you become convinced it is real. Decide its form: pervasive hallucinations, a fantasy world overlaying the real one, or a pocket dimension you fall into. Choose a trait of your Paradigm (the name, Aligned, a Capability, or an Opposed) to be explored by the break, and write a move to advance its Status Track. 
+When you **Backlash,** you pushed reality too far and it pushed back. Any effects besides Harm will be difficult if not impossible to fix with magic, particularly the type of magic that caused it. Roll just +Discord, then reset Discord to 0. On a 10+, reality breaks around you a little bit. Make a Status Track for this break, and the MC will make one to track if you become convinced it is real. Decide its form: pervasive hallucinations, a fantasy world overlaying the real one, or a pocket dimension you fall into. Choose a trait of your Paradigm (the name, Aligned, or an Opposed) to be explored by the break, and write a move to advance its Status Track. 
 On a 7-9, choose 2:
 - You take 3 Harm
 - You don’t reset your Discord to 0
