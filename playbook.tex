@@ -1,4 +1,5 @@
 \documentclass[legalpaper,10pt,notumble]{leaflet}
+\usepackage{pgffor}
 \input all_playbooks_lib.tex
 
 \newenvironment{runlist}[1][,]
@@ -155,41 +156,25 @@
 
   \ParadigmBlanks
 }
-\newcommand{\InspirationsSection}{
+\newcommand{\ParadigmModifiers}{
+  \SECTION{Restrictions:}
+
+  \foreach \n in {1,...,3}{\medskip\BLANK\BLANK}
+
   \SECTION{Inspirations:}
 
-  \bigskip
+  \foreach \n in {1,...,3}{\medskip\BLANK\BLANK}
 
-  \BLANK\BLANK
+  \SECTION{Freedoms:}
 
-  \bigskip
-
-  \BLANK\BLANK
-
-  \bigskip
-
-  \BLANK\BLANK
-
-  \bigskip
-
-  \BLANK\BLANK
-
-  \bigskip
-
-  \BLANK\BLANK
-
-  \bigskip
-
-  \BLANK\BLANK
-
-  \bigskip
+  \foreach \n in {1,...,3}{\medskip\BLANK\BLANK}
 }
 \newcommand{\PaneFive}{
   \ParadigmSection
 
   \vfill
 
-  \InspirationsSection
+  \ParadigmModifiers
 }
 
 \newcommand{\PaneSix}{\Description}
