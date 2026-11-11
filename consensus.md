@@ -3154,6 +3154,7 @@ Obsession:
 \item Seduce someone 
 \item Stalk 
 \item Lock something or someone away
+\item Expand their influence
 
 \end{itemize*}
 
