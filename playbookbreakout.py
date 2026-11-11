@@ -379,7 +379,7 @@ def playbookdata(name):
 
 			
 		if in_block:
-			blocklist[other_number] = blocklist[other_number] + line
+			blocklist[other_number] = blocklist[other_number] + line.lstrip('- ')
 	
 
 		

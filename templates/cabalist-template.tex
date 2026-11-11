@@ -36,6 +36,7 @@
 \BLOCK{ endfor }
 }
 \renewcommand{\Gear}{
+  \small
 \BLOCK{ for item in gear }
 \item \VAR{item}
 \BLOCK{ endfor }
@@ -98,10 +99,13 @@
 }
 \renewcommand{\PaneFive}{\SECTION{\VAR{special['name']}}
 
-\VAR{special['blocks'][1]}
+\small{\VAR{special['blocks'][1]}}
 
 \VAR{special['blocks'][2]}
-  \begin{itemize}
+\vspace{-0.5em}
+\begin{itemize}
+  \footnotesize
+  \setlength\itemsep{-.5em}
   \item \VAR{special['blocks'][3]}
   \item \VAR{special['blocks'][4]}
   \item \VAR{special['blocks'][5]}
@@ -110,13 +114,18 @@
   \end{itemize}
 
 \VAR{special['blocks'][8]}
+\vspace{-0.5em}
   \begin{itemize}
+  \footnotesize
+  \setlength\itemsep{-.5em}
   \item \VAR{special['blocks'][9]}
   \item \VAR{special['blocks'][10]}
   \item \VAR{special['blocks'][11]}
   \end{itemize}
   
-\GearSection
+  \GearSection
+
+  \ParadigmModifiers
 }
 \renewcommand{\PaneSix}{\Description
 
